@@ -1,0 +1,123 @@
+name: PyFunceble CI tests of EasyList
+on:
+  schedule:
+    - cron: '15 */2 * * *'
+  push:
+    branches:
+      - 'master'
+
+env:
+  PYFUNCEBLE_AUTO_CONFIGURATION: 'YES'
+  GIT_NAME: '${{ secrets.GIT_BOT_NAME }}'
+  GIT_EMAIL: '${{ secrets.GIT_BOT_EMAIL }}'
+  GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}'
+  BUILD_NUMBER: '${{ github.run_number }}'
+  PYFUNCEBLE_CONFIG_DIR: '${{ github.workspace }}/.pyfunceble'
+  PYFUNCEBLE_OUTPUT_LOCATION: '${{ github.workspace }}/'
+  PYFUNCEBLE_DB_CHARSET: '${{ secrets.MYPDNS_DB_CHAR }}'
+  PYFUNCEBLE_DB_HOST: '${{ secrets.MYPDNS_DB_HOST }}'
+  PYFUNCEBLE_DB_NAME: '${{ secrets.MYPDNS_DB_NAME }}'
+  PYFUNCEBLE_DB_PASSWORD: '${{ secrets.MYPDNS_DB_PASS }}'
+  PYFUNCEBLE_DB_PORT: '${{ secrets.MYPDNS_DB_PORT }}'
+  PYFUNCEBLE_DB_USERNAME: '${{ secrets.MYPDNS_DB_USER }}'
+
+jobs:
+  test_and_push:
+    name: Run PyFunceble against the files and push result to repository
+    runs-on: '${{ matrix.os }}'
+
+    strategy:
+      fail-fast: false
+      matrix:
+        python_version:
+          - '3.9.1'
+        os:
+          - ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+        name: Clone repository
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python ${{ matrix.python_version }}
+        uses: actions/setup-python@v2
+        with:
+          python-version: ${{ matrix.python_version }}
+
+      - name: Install PyFunceble
+        run: |
+          python -m pip install --upgrade pip
+          pip install --no-cache-dir --pre PyFunceble-dev
+
+      - name: Get PyFunceble version
+        run: |
+          PyFunceble --version
+
+      - name: Tests EasyList
+        run: |
+          pyfunceble -f 'https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt' \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers_popup.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_allowlist.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_allowlist_dimensions.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_allowlist_general_hide.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_allowlist_popup.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_general_block.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_general_block_dimensions.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_general_block_popup.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_general_hide.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_specific_block.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_specific_block_popup.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_specific_hide.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty_popup.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_adservers.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_adservers_popup.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_allowlist.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_allowlist_popup.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_specific_block.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_specific_block_popup.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_specific_hide.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_thirdparty.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_thirdparty_popup.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_allowlist.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_allowlist_general_hide.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_general_block.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_general_hide.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_international_specific_block.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_international_specific_hide.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_specific_block.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_specific_hide.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_thirdparty.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_allowlist.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_allowlist_international.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_general.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific_international.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty_international.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers_international.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_annoyance_allowlist.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_annoyance_allowlist_general_hide.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_annoyance_general_block.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_annoyance_general_hide.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_annoyance_international.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_annoyance_specific_block.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_annoyance_specific_hide.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_annoyance_thirdparty.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_notifications_allowlist.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_notifications_allowlist_general_hide.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_notifications_general_block.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_notifications_general_hide.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_notifications_specific_block.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_notifications_specific_hide.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_notifications_thirdparty.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_allowlist.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_allowlist_general_hide.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_general_block.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_general_hide.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_international.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_specific_block.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_specific_hide.txt \
+          -f https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_thirdparty.txt
