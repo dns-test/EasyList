@@ -1,0 +1,62 @@
+dist: bionic
+
+language: generic
+
+cache:
+  pip: false
+  directories:
+  - "$HOME/db/"
+env:
+  global:
+  - GIT_NAME: Spirillen
+  - GIT_EMAIL: 44526987+spirillen@users.noreply.github.com
+  - TRAVIS_REPO_SLUG: "${TRAVIS_REPO_SLUG}"
+  - GIT_BRANCH: "${TRAVIS_BRANCH}"
+  - TZ: UTC
+  - PYTHON_VERSION: 3.8.5
+  - SCRIPT_SOURCE_URI: https://raw.githubusercontent.com/dns-test/script-hub/master
+  - Pyfunceble_version: 'PyFunceble@dev'
+  - PYFUNCEBLE_CONFIG_DIR: "${TRAVIS_BUILD_DIR}/.pyfunceble/"
+  - PYFUNCEBLE_OUTPUT_LOCATION: "${TRAVIS_BUILD_DIR}/.pyfunceble/"
+  - PYFUNCEBLE_AUTO_CONFIGURATION: true
+  - PYFUNCEBLE_DB_CHARSET="${DB_CHARSET}"
+  - PYFUNCEBLE_DB_HOST="${DB_HOST}"
+  - PYFUNCEBLE_DB_NAME="${DB_NAME}"
+  - PYFUNCEBLE_DB_USERNAME="${DB_USERNAME}"
+  - PYFUNCEBLE_DB_PASSWORD="${DB_PASSWORD}"
+  - PYFUNCEBLE_DB_PORT="${DB_PORT}"
+
+# We needs the mariadb client...
+#addons:
+#  mariadb: '10.5'
+
+install:
+  - export PATH="${HOME}/miniconda/bin:${PATH}"
+  - if [[ "${TRAVIS_OS_NAME}" == "osx" ]]; then wget https://repo.continuum.io/miniconda/Miniconda3-latest-MacOSX-x86_64.sh
+    -O miniconda.sh; else wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh
+    -O miniconda.sh; fi
+  - bash miniconda.sh -b -p ${HOME}/miniconda
+  - hash -r
+  - conda config --set always_yes yes --set changeps1 no
+  - conda config --add channels conda-forge
+  - conda update -q conda
+  - conda create -q -n test-environment python="${PYTHON_VERSION}"
+  - source activate test-environment
+  - python --version --version
+  - pip --version
+  - conda --version
+  #- pip install --no-cache-dir -U "git+https://github.com/funilrys/${Pyfunceble_version}"
+  - pip install --no-cache-dir -U pyfunceble-dev dnspython[dnssec,idna]
+  - pyfunceble --version
+  - wget -O "${TRAVIS_BUILD_DIR}/setup_travis.sh" "${SCRIPT_SOURCE_URI}/travis/setup_travis.sh"
+    && sudo chmod +x "${TRAVIS_BUILD_DIR}/setup_travis.sh"
+  - sudo bash "${TRAVIS_BUILD_DIR}/setup_travis.sh"
+
+git:
+  depth: 2
+
+script:
+- truncate -s 0 "${TRAVIS_BUILD_DIR}/run_id"
+- echo "${TRAVIS_JOB_ID}" > "${TRAVIS_BUILD_DIR}/run_id"
+- cat "${TRAVIS_BUILD_DIR}/run_id"
+- bash "${TRAVIS_BUILD_DIR}/dns-test.sh"

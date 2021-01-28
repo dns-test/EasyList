@@ -1,0 +1,8 @@
+pyfunceble-dev
+wheel
+script-hub
+matrix
+pornhosts
+https://www.mypdns.org/project/view/15/
+https://www.mypdns.org/source/sh/repository/master/
+https://github.com/mypdns/matrix
