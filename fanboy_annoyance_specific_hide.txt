@@ -2288,6 +2288,8 @@ treehugger.com##.jquery-modal
 ecosia.org##.js-activate-install-box
 wired.com##.js-annotation
 dn.se##.js-article-preview
+duckduckgo.com##.js-atb-banner
+duckduckgo.com##.js-atb-banner-mainmsg
 twitch.tv##.js-bits-tooltip-wrapper
 pri.org##.js-cta_prompt
 askubuntu.com,mathoverflow.net,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##.js-dismissable-hero
@@ -3319,6 +3321,7 @@ wired.com##.cm-footer-container
 foxnews.com##.commenting-nation-promo
 wired.com##.consumer-marketing-unit--article-mid-content
 vox.com##.contribute-banner
+themoscowtimes.com##.contribute-bar
 rawstory.com##.cp-info-bar
 alternet.org##.cp-info-bar-container
 peoplesworld.org##.donate_strip
@@ -3333,6 +3336,7 @@ wired.com##.journey-unit
 propublica.org##.module-donate
 newsweek.com##.msub
 propublica.org##.promo-bar__link-wrapper
+apkmirror.com##.promotedApp
 goodmorningamerica.com##.sticky-footer
 newsweek.com##.subscribe-block-wrapper
 stuff.co.nz##.support-brief-container
@@ -3535,7 +3539,7 @@ conversationalist.org,martechadvisor.com,worldcrunch.com###myModal
 insideclimatenews.org###news-signup
 epicurious.com###newsLetter
 irishtimes.com###newsdigest-widget
-6wunderkinder.com,7digital.com,aawsat.com,about.com,bloomberg.com,boldsky.com,buzznet.com,celebuzz.com,cjr.org,dailymaverick.co.za,digitaltrends.com,disclose.tv,drivespark.com,etonline.com,filmibeat.com,fyiliving.com,gardeningaustralia.com.au,gizbot.com,healthguru.com,infoworld.com,javaworld.com,langenscheidt.com,lessthan3.com,malwarebytes.org,mayoclinic.com,mcvuk.com,mediaite.com,movies.com,nativeplanet.com,nme.com,ohmyrockness.com,oneindia.com,opendemocracy.net,paleohacks.com,penny-arcade.com,pewforum.org,pewresearch.org,pinknews.co.uk,publicradio.org,quantamagazine.org,runningtimes.com,salemnews.net,si.com,styleite.com,techvert.com,theamericanscholar.org,thecommentator.com,themarysue.com,thetruthaboutcars.com,thewalrus.ca,tomshardware.com,usatoday.com,vetstreet.com,wdcb.org,wimp.com,youbeauty.com###newsletter
+6wunderkinder.com,7digital.com,aawsat.com,about.com,bloomberg.com,boldsky.com,buzznet.com,celebuzz.com,cjr.org,dailymaverick.co.za,digitaltrends.com,disclose.tv,download3k.com,drivespark.com,etonline.com,filmibeat.com,fyiliving.com,gardeningaustralia.com.au,gizbot.com,healthguru.com,infoworld.com,javaworld.com,langenscheidt.com,lessthan3.com,malwarebytes.org,mayoclinic.com,mcvuk.com,mediaite.com,movies.com,nativeplanet.com,nme.com,ohmyrockness.com,oneindia.com,opendemocracy.net,paleohacks.com,penny-arcade.com,pewforum.org,pewresearch.org,pinknews.co.uk,publicradio.org,quantamagazine.org,runningtimes.com,salemnews.net,si.com,styleite.com,techvert.com,theamericanscholar.org,thecommentator.com,themarysue.com,thetruthaboutcars.com,thewalrus.ca,tomshardware.com,usatoday.com,vetstreet.com,wdcb.org,wimp.com,youbeauty.com###newsletter
 details.com,gossipcop.com,gq.com,salon.com,self.com,soft112.com###newsletter-form
 wbur.org###newsletter-signup-1
 hardware.info###newsletterForm
@@ -4398,6 +4402,7 @@ sciencetimes.com##.wh_transf
 daltondailycitizen.com##.what-counts
 madison.com##.whatcounts-form-container
 mybroadband.co.za##.whatsapp-button
+news18.com##.whatsappbutton
 xda-developers.com##.widget-2
 styleblazer.com##.widget_fashionblog_newsletter
 lamag.com##.widget_innoscale_hubspotwidget_id

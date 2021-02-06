@@ -985,7 +985,6 @@
 ||gear5.me^$third-party
 ||geistm.com^$third-party
 ||gemius.pl^$third-party
-||geni.us^$third-party
 ||genieesspv.jp^$third-party
 ||geo-targetly.com^$third-party
 ||geobytes.com^$third-party
@@ -1451,8 +1450,6 @@
 ||marinsm.com^$third-party
 ||market2lead.com^$third-party
 ||marketizator.com^$third-party
-||marketo.com^$third-party
-||marketo.net^$third-party
 ||marketperf.com^$third-party
 ||marketshot.com^$third-party
 ||marketshot.fr^$third-party
@@ -1921,6 +1918,7 @@
 ||rapidstats.net^$third-party
 ||rapidtrk.net^$third-party
 ||rating.in^$third-party
+||ravelin.click^$third-party
 ||rdcdn.com^$third-party
 ||reachforce.com^$third-party
 ||reachlocalservices.com^$third-party
@@ -2528,7 +2526,6 @@
 ||urlself.com^$third-party
 ||usabilitytools.com^$third-party
 ||usabilla.com^$third-party
-||usefathom.com^$third-party
 ||useinsider.com^$third-party
 ||useitbetter.com^$third-party
 ||useproof.com^$third-party

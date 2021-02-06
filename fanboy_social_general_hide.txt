@@ -8223,6 +8223,7 @@
 ##.post-share-widget
 ##.post-sharebox
 ##.post-sharebtns
+##.post-sharebuttons
 ##.post-sharing
 ##.post-sharing-bd
 ##.post-sharrre
@@ -10407,6 +10408,7 @@
 ##.social-media-page
 ##.social-media-page-wrap
 ##.social-media-pages
+##.social-media-panel
 ##.social-media-profiles
 ##.social-media-service-module
 ##.social-media-share

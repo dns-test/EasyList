@@ -619,6 +619,7 @@
 ###alertNewsletter
 ###aol-newsletter
 ###appeal-newsletter
+###archive-item-top-newsletter
 ###art-subscribe-unit-outer
 ###article-im-prompt
 ###article-newsletter-engage-content
@@ -1448,6 +1449,7 @@
 ##.c25__newsletter
 ##.c37__newsletter
 ##.cS-newsletter
+##.callout--subscribe
 ##.calls-to-action__newsletter
 ##.cambeywest-subscribe
 ##.captation-email-bottom

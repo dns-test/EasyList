@@ -266,6 +266,7 @@ rocketleague.com###privmessage
 scalemates.com###prv
 elanco.com###ribbon
 ricochet.com###ricochet-cookie-bar
+honeygain.com###root > div + div + div:last-child
 cote.co.uk###root > div > .fixed
 mywot.com###root > div > div[direction="up"][style*="transform"]
 honeygain.com###root > footer ~ div
@@ -381,6 +382,7 @@ civilsociety.co.uk##.announcement-banner
 soundcloud.com##.announcements
 leo.org##.app-footer-content
 start.me##.app__message
+mubi.com##.appear-enter-done
 annualreviews.org##.ar-news-footer
 argaam.com##.argaam-policy
 linkedin.com##.artdeco-global-alert
@@ -468,6 +470,7 @@ designmodo.com##.dialogContainer
 countwordsfree.com,earthcp.com,foxsports.com.au,lexus.com.cy,lexus.ie,news.com.au##.disclaimer
 taste.com.au##.disclaimer-note
 news.com.au##.disclaimer-text
+virustotal.com##.disclaimers-container
 refinitiv.com##.dismissible-banner
 bbc.com##.domestic-header-wrapper
 mla.org##.donate-banner
@@ -735,6 +738,7 @@ httpstatus.io##.snackbar
 hotukdeals.com##.softMessages-item
 trunews.com##.sp-overlay
 thermofisher.com##.specialMsg
+spreadshirt.com##.sprd-consent
 adventure-team.eu,certum.eu,opentuition.com##.spu-bg
 adventure-team.eu,certum.eu##.spu-box
 spox.com##.spxcib
@@ -808,7 +812,6 @@ trustnet.com##USER-TYPE-POPUP
 vivid.money##[class^="cookieNotification_"]
 shutterstock.com##[data-automation="Eu_banner_container"]
 mobile.twitter.com##[data-reactroot] > [class] + [class]:last-child
-facebook.com##[data-testid="cookie-policy-banner"]
 iubenda.com##a[style="padding-top: 10px; display: block;"]
 shab.ch##agb-bar
 orcid.org##app-banners
@@ -850,6 +853,7 @@ mashable.com##div[style*="background: rgb(255, 255, 255)"]
 plarium.com##div[style*="position: fixed;"]
 cplusplus.com##div[style="background:#eed;padding:10px;margin:0;text-align:center;border-bottom:1px solid #446"]
 flazio.com##div[style="z-index:9998; position: fixed;bottom: 0;left: 0;width: 100%;background: #208ac8;color: #f1f3f5;font-size: 12px;padding: 12px 0px;text-align: center;"]
+g4tv.com##div[style^="align-items: baseline; background: rgb(53, 53, 53)"]
 cieem.net##div[style^="background-color: #000; padding: 10px"]
 bundlestars.com##div[style^="background: #424242; "]
 qrzcq.com##div[style^="border: 2px solid blue;"]

@@ -119,6 +119,7 @@
 ||adx-t.com^$popup,third-party
 ||adxite.com^$popup
 ||adxpansion.com^$popup
+||adxpartner.com^$popup
 ||adxprtz.com^$popup,third-party
 ||afclickoffers.com^$popup
 ||afcpatrk.com^$popup
@@ -253,6 +254,7 @@
 ||checkabil.com^$popup
 ||cjl58f3agc.com^$popup
 ||cl96rwprue.com^$popup
+||cldrck.com^$popup
 ||clickbank.net/*offer_id=$popup,third-party
 ||clickfuse.com^$popup
 ||clickmngr.com^$popup
@@ -371,6 +373,7 @@
 ||fabriefly.mobi^$popup
 ||facilitategovernor.com^$popup
 ||fairieflame.com^$popup
+||familyborn.com^$popup
 ||fapmeth.com^$popup
 ||fapping.club^$popup
 ||fast-redirecting.com^$popup
@@ -417,6 +420,7 @@
 ||giveaways.club^$popup
 ||glareart.com^$popup
 ||glauvoob.com^$popup
+||glegatemi.pro^$popup
 ||glookroz.net^$popup
 ||go2linkfast.com^$popup
 ||gomo.cc^$popup
@@ -446,6 +450,7 @@
 ||hicpm10.com^$popup
 ||hicpm5.com^$popup
 ||hiena.cyou^$popup
+||hiend.xyz^$popup
 ||highcpms.com^$popup
 ||higheurest.com^$popup
 ||hikyceti.pro^$popup
@@ -548,11 +553,13 @@
 ||livechatflirt.com^$popup
 ||livepromotools.com^$popup
 ||liversely.net^$popup
+||livezombymil.com^$popup
 ||lltrsknoob.click^$popup
 ||lmn-pou-win.com^$popup
 ||lnkgt.com^$popup,third-party
 ||lokvel.ru^$popup,third-party
 ||looksmart.com^$popup,third-party
+||losingoldfry.com^$popup
 ||lowtyroguer.com^$popup
 ||lucretius-ada.com^$popup
 ||lustigbanner.com^$popup
@@ -752,6 +759,7 @@
 ||prowlerz.com^$popup
 ||psma02.com^$popup
 ||psoomeeg.com^$popup
+||ptongouh.net^$popup
 ||pubads.g.doubleclick.net^$popup
 ||pubdirecte.com^$popup
 ||publited.com^$popup
@@ -780,6 +788,7 @@
 ||randalieren6.live^$popup
 ||rapidyl.net^$popup
 ||rbxtrk.com^$popup
+||rdsb21.club^$popup
 ||rdsrv.com^$popup
 ||rdtk.io^$popup
 ||reacheffectsp.work^$popup
@@ -787,6 +796,7 @@
 ||realtime-bid.com^$popup
 ||recheriend.top^$popup
 ||red-direct-n.com^$popup
+||redirect-ads.com^$popup
 ||redirect18systemsg.com^$popup
 ||redirect2719.ws^$popup
 ||redirections.site^$popup
@@ -882,6 +892,7 @@
 ||srvbytrking.com^$popup
 ||srvpub.com^$popup
 ||ssl2anyone3.com^$popup
+||start3dd0wnload.com^$popup
 ||statsmobi.com^$popup
 ||stoagergu.com^$popup
 ||stoshoos.com^$popup
@@ -936,6 +947,7 @@
 ||toroadvertisingmedia.com^$popup
 ||torpsol.com^$popup
 ||totaladperformance.com^$popup
+||tozoruaon.com^$popup
 ||track-safe.com^$popup
 ||trackerislive.com^$popup
 ||tracki112.com^$popup
@@ -972,6 +984,7 @@
 ||ufpcdn.com^$popup
 ||uhpdsplo.com^$popup
 ||uitopadxdy.com^$popup
+||ukoffzeh.com^$popup
 ||unqpun.pro^$popup
 ||unseen2020.com^$popup
 ||uptopopunder.com^$popup
@@ -1016,6 +1029,7 @@
 ||webtrackerplus.com^$popup
 ||weliketofuckstrangers.com^$popup
 ||wellhello.com^$popup,third-party
+||wellnesszap.com^$popup
 ||wgpartner.com^$popup
 ||wigetmedia.com^$popup
 ||winfreeprize.online^$popup

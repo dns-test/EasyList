@@ -629,6 +629,7 @@
 ###TPVideoPlayerAd300x250
 ###Tadspacecbar
 ###Tadspacefoot
+###Tadspacefootlb
 ###Tadspacehead
 ###Tadspacemrec
 ###TextLinkAds
@@ -1424,6 +1425,7 @@
 ###adBTF300x250
 ###adBTF300x250IC
 ###adBadges
+###adBanner
 ###adBanner1
 ###adBanner10
 ###adBanner120x600
@@ -5751,6 +5753,7 @@
 ###googtxtad
 ###gpt-ad-1
 ###gpt-ad-halfpage
+###gpt-ad-outofpage-wp
 ###gpt-ad-rectangle1
 ###gpt-ad-rectangle2
 ###gpt-ad-skyscraper
@@ -9696,7 +9699,9 @@
 ##.ad-header-below
 ##.ad-header-container
 ##.ad-header-creative
+##.ad-header-inner-wrap
 ##.ad-header-pencil
+##.ad-header-placeholder
 ##.ad-header-sidebar
 ##.ad-heading
 ##.ad-headliner-container
@@ -11490,6 +11495,7 @@
 ##.ad_v300
 ##.ad_vertisement
 ##.ad_viewtop
+##.ad_w300h450
 ##.ad_w300i
 ##.ad_w_us_a300
 ##.ad_warn
@@ -12799,6 +12805,7 @@
 ##.adspace-336x280
 ##.adspace-728x90
 ##.adspace-MR
+##.adspace-lb
 ##.adspace-leaderboard
 ##.adspace-mpu
 ##.adspace-widget
@@ -12886,6 +12893,8 @@
 ##.adtextleft
 ##.adtextright
 ##.adtexts
+##.adthrive-ad
+##.adthrive-header
 ##.adthx
 ##.adtile
 ##.adtips
@@ -13124,6 +13133,8 @@
 ##.adv_message
 ##.adv_page_blocker_overlay
 ##.adv_panel
+##.adv_placeholder_300_250
+##.adv_placeholder_300_300
 ##.adv_pointer_home
 ##.adv_pointer_section
 ##.adv_right
@@ -15311,6 +15322,7 @@
 ##.desktop-aside-ad-hide
 ##.desktop-in-content-native-ad
 ##.desktop-postcontentad-wrapper
+##.desktop-top-ad-wrapper
 ##.desktop_ad
 ##.desktop_only_ad
 ##.desktopads
@@ -15735,6 +15747,7 @@
 ##.floatads
 ##.floated-ad
 ##.floated_right_ad
+##.floating-ads
 ##.floating-advert
 ##.floatingAds
 ##.flurryAdsType1
@@ -16525,6 +16538,7 @@
 ##.home_mrec_ad
 ##.home_offer_adv
 ##.home_sidebar_ads
+##.home_strip_ad
 ##.home_sway_adv
 ##.home_top_ad_slider
 ##.home_top_ad_slides
@@ -16636,6 +16650,7 @@
 ##.html-block-ads
 ##.html-component-ad-filler
 ##.html5-ad-progress-list
+##.hw-ad--frTop
 ##.hwg-row-ad
 ##.hyad
 ##.hype_adrotate_widget
@@ -17870,6 +17885,8 @@
 ##.nivo-ad-container
 ##.nl2ads
 ##.nm-ad
+##.nmAd_BB-wr
+##.nmAd_FB
 ##.nn-mpu
 ##.no1postadvert
 ##.noAdForLead
@@ -18592,6 +18609,7 @@
 ##.responsive-ads
 ##.responsiveAdHiding
 ##.responsiveAdsense
+##.responsive_ad_top
 ##.result-ad
 ##.result-sponsored
 ##.resultAd
@@ -19604,6 +19622,7 @@
 ##.sponsored_result
 ##.sponsored_results
 ##.sponsored_results-container
+##.sponsored_sidepanel
 ##.sponsored_ss
 ##.sponsored_text
 ##.sponsored_well
@@ -20689,6 +20708,7 @@
 ##.widget_sdac_skyscraper_ad_widget
 ##.widget_sdac_top_ad_widget
 ##.widget_sej_sidebar_ad
+##.widget_sidebar_adrotate_tedo_single_widget
 ##.widget_sidebarad_300x250
 ##.widget_sidebarad_300x600
 ##.widget_sidebaradwidget
