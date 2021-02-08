@@ -508,7 +508,7 @@
 .adnetwork.$domain=~adnetwork.ie|~adnetwork.sk
 .adnigma.
 .adnwif.
-.adpartner.$domain=~adpartner.cz
+.adpartner.$domain=~adpartner.cz|~adpartner.de
 .adpIds=
 .adplacement=
 .adproviders.
@@ -3206,7 +3206,7 @@
 /adstube/*
 /adstubs/*
 /adstx.
-/adstyle.$~stylesheet
+/adstyle.$~stylesheet,domain=~adstyle.com
 /adsummos.
 /adsummos2.
 /adsunauth?
