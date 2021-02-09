@@ -23,7 +23,7 @@ airam.fi,biotechusa.hu,hscollective.org,litebit.eu#@##cookie-consent
 analog.com#@##cookie-consent-container
 lauritz.com,qxl.de,qxl.dk,qxl.fi,qxl.no,qxl.se#@##cookie-container
 skuola.net#@##cookie-dialog
-calciomercato.napoli.it,clever-zoeger.de,ddz24.eu,theorie-musik.de,wiadomosci-lodz.pl#@##cookie-law-info-bar
+calciomercato.napoli.it,clever-zoeger.de,ddz24.eu,lewento.de,theorie-musik.de,wiadomosci-lodz.pl#@##cookie-law-info-bar
 penny.hu,pennymarket.it#@##cookie-message
 bokadirekt.se,zlm.nl#@##cookie-modal
 makelaarsland.nl#@##cookie-notice
@@ -80,7 +80,7 @@ api.newsguardtech.com,rockpapershotgun.com#@##optanon
 theverge.com#@##privacy-consent
 readthedocs.io,sportdiver.com#@##privacy-policy
 account.sonymobile.com#@##privacy-statement
-totalwar.com#@##privacy_policy
+dcinside.com,totalwar.com#@##privacy_policy
 varusteleka.com,varusteleka.fi#@##privacypolicy
 repostuj.pl#@##rodo-modal
 forgeandfortune.com#@##toasts > #toastsWrapper
