@@ -12,6 +12,7 @@
 @@||alicdn.com/js/*/ws-cookie.js$script
 @@||aliunicorn.com^*/cookie-info.js
 @@||autohdforyoutube.com^*/uk-cookie-consent-js$script,~third-party
+@@||banking.fyrst.de/translations/*-cookiedisclaimer$~third-party,xmlhttprequest
 @@||barclays.co.uk/js/cookiepolicy.js
 @@||bbci.co.uk^*/cookie-library.min.js
 @@||betterworldbooks.com/app/components/cookienotice.js$script,~third-party
@@ -21,7 +22,8 @@
 @@||brandexperience-group.com/assets/js/cookie.notice.min.js$script,~third-party
 @@||businessinsider.in/gdpr_js/version-12,minify-1.cms$script,~third-party
 @@||c.evidon.com/sitenotice/evidon-sitenotice-tag.js$script,domain=southpark.de|southparkstudios.nu
-@@||cdn.cookielaw.org^$script,stylesheet,xmlhttprequest,domain=cnn.com|crfashionbook.com|doctoroz.com|eurogamer.net|gmx.com|mail.com|reuters.com|rockpapershotgun.com|rte.ie|trustpilot.com|tvn24.pl
+@@||carport-diagnose.de/script/cookieconsent.min.js$script,~third-party
+@@||cdn.cookielaw.org^$script,stylesheet,xmlhttprequest,domain=cnn.com|crfashionbook.com|doctoroz.com|eurogamer.net|gmx.com|mail.com|reuters.com|rockpapershotgun.com|rte.ie|trustpilot.com|tvn24.pl|wargaming.net
 @@||chasecdn.com^*/cookie.js$script,domain=chase.com
 @@||civiccomputing.com^*/cookieControl-$script,domain=amplitude.com|msi.com
 @@||cloudflare.com^*/cookieconsent.min.js$domain=ehftv.com|pixieset.com|sammobile.com|xnview.com
@@ -36,7 +38,7 @@
 @@||cookie-cdn.cookiepro.com^$script,stylesheet,xmlhttprequest,domain=api.newsguardtech.com|giochi.it
 @@||cookielaw.org/consent/$other,xmlhttprequest
 @@||cookielaw.org/consent/cmp.stub.js$domain=reuters.com
-@@||cookielaw.org/scripttemplates/$script,xmlhttprequest,domain=cbslocal.com|cbsnews.com|cnet.com|epicgames.com|eurogamer.net|gmx.com|reuters.com|rte.ie|trustpilot.com|tvn24.pl|zdnet.com
+@@||cookielaw.org/scripttemplates/$script,xmlhttprequest,domain=cbslocal.com|cbsnews.com|cnet.com|epicgames.com|eurogamer.net|gmx.com|reuters.com|rte.ie|trustpilot.com|tvn24.pl|wargaming.net|zdnet.com
 @@||cookielawinfo.com^$~third-party
 @@||cookist.com^*/remote-gdpr.min.js
 @@||costa.co.uk/js/libs/cookieconsent.min.js
@@ -83,7 +85,7 @@
 @@||onetrust.com/request/$xmlhttprequest
 @@||ozmotorbike.com/templates/motorbike/js/vendor/cookies-enabler.js
 @@||ozracing.com/templates/oz/js/vendor/cookies-enabler.min.js
-@@||parastorage.com/services/wix-thunderbolt/dist/cookiesManager.$script,domain=artisansakemaker.com|cosmos-standard.org|etherfields-secrets.com
+@@||parastorage.com/services/wix-thunderbolt/dist/cookiesManager.
 @@||policy.app.cookieinformation.com^$script,domain=eniro.se
 @@||porno720.pl/core/js/cookieinfo.js
 @@||portal.aae.at/changeportal/js/lib/cookieconsent.js$script,~third-party
