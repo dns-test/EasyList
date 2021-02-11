@@ -1,7 +1,7 @@
 name: PyFunceble CI tests of EasyList
 on:
   schedule:
-    - cron: '15 */2 * * *'
+    - cron: '15 * * * *'
   push:
     branches:
       - 'master'
@@ -120,4 +120,5 @@ jobs:
           https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_international.txt \
           https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_specific_block.txt \
           https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_specific_hide.txt \
-          https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_thirdparty.txt
+          https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_thirdparty.txt \
+          --preload
