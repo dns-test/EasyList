@@ -998,6 +998,7 @@ smallseotools.com##.after_navbar
 surfwap.com##.ahblock2
 techporn.ph##.ai-track
 bizpacreview.com##.ai_widget
+livejournal.com##.allbanners
 music-news.com,nintendolife.com##.amazon
 orschlurch.net##.amazon-wrapper
 androidauthority.com##.andro-in-article-sidebar-desktop-placement
@@ -1800,6 +1801,7 @@ oversixty.co.nz##.page-heading-wrap
 krcrtv.com,ktxs.com,wcti12.com,wcyb.com##.pageHeaderRow1
 military.com##.page__top
 nzcity.co.nz##.page_skyscraper
+livejournal.com##.pagewide-wrapper
 optimum.net##.paidResult
 axn-asia.com,onetvasia.com##.pane-dart-dart-tag-300x250-rectangle
 ncronline.org##.pane-ncr-blocks-home-first-ads
@@ -2234,6 +2236,7 @@ paultan.org##.wrapper-footer
 twentytwowords.com##.wrapper-min-height-standard
 webtoolhub.com##.wth_zad_text
 mcpmag.com##.xContent
+livejournal.com##.xhtml_banner
 bit-tech.net##.xtag_container
 pravda.ru##.yaRtbBlock
 imdb.com##.yesScript
@@ -2247,6 +2250,8 @@ naturalnewsblogs.com##[href*="/WBA/"]
 gamecopyworld.com,gamecopyworld.eu##[href*="@"]
 9jaflaver.com,alaskapublic.org,allkeyshop.com,ancient-origins.net,animeidhentai.com,arabtimesonline.com,carmag.co.za,cnx-software.com,coingolive.com,dailypost.ng,digitallydownloaded.net,downturk.net,elitepvpers.com,fresherslive.com,gizmochina.com,guidedhacking.com,hackernoon.com,hlstester.com,indishare.org,mbauniverse.com,motachashma.com,mydramalist.com,myreadingmanga.info,owaahh.com,parkablogs.com,premiumtimesng.com,resultuniraj.co.in,retail.org.nz,rtvonline.com,techspot.com,tetris.com,trancentral.tv,ultshare.com,vumafm.co.za,yeyeboyz.net,zmescience.com##[href*="bit.ly/"]
 whatleaks.com##[href*="doublevpn.com"]
+elitepvpers.com##[href*="https://bitly.com/"]
+elitepvpers.com##[href*="https://oddeven.net"]
 steroid.com##[href*="https://www.anabolics.com"]
 bittools.net##[href="//www.bittools.net/binance"]
 audiobookbay.net##[href="/dl-14-days-trial"]
@@ -2255,7 +2260,6 @@ audiobookbay.net##[href="/dl-14-days-trial"]
 toumpano.net##[href="http://roz-tilefona.xbomb.net/"]
 daijiworld.com##[href="http://www.expertclasses.org/"]
 sqlfiddle.com##[href="https://entityframework-extensions.net/"]
-elitepvpers.com##[href="https://oddeven.net"]
 davidwalsh.name##[href="https://requestmetrics.com/"]
 mhktricks.org##[href="https://www.deepbrid.com/"]
 deshdoaba.com##[href="https://www.nsbinsures.com/"]
@@ -2379,6 +2383,7 @@ amazon.com##div[data-ad-id]
 reddit.com##div[data-before-content="advertisement"]
 engadget.com##div[data-component="GeminiAdItem"]
 pushsquare.com##div[data-dfp-id]
+livejournal.com##div[data-google-query-id]
 monova.org##div[data-id]
 windowsreport.com##div[data-insertion]
 engadget.com##div[data-nav-drawer-slide-panel] > aside[role="banner"]
