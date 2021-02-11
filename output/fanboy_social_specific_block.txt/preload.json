@@ -1,0 +1,15 @@
+{
+    "abs_source": "/home/runner/work/EasyList/EasyList/fanboy_social_specific_block.txt",
+    "checker_type": "AVAILABILITY",
+    "destination": "fanboy_social_specific_block.txt",
+    "hash": "3643da03e7484ffc918941f9778df2ecb2d6cfb6ac862e67fdf02685",
+    "line_number": 116,
+    "output_dir": "/home/runner/work/EasyList/EasyList/output/fanboy_social_specific_block.txt",
+    "previous_hash": "3643da03e7484ffc918941f9778df2ecb2d6cfb6ac862e67fdf02685",
+    "rel_source": "fanboy_social_specific_block.txt",
+    "session_id": "d26f8f7b8d9a0673203a870f",
+    "source": "/home/runner/work/EasyList/EasyList/fanboy_social_specific_block.txt",
+    "subject": "/home/runner/work/EasyList/EasyList/fanboy_social_specific_block.txt",
+    "subject_type": "domain",
+    "type": "file"
+}

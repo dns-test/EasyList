@@ -1,0 +1,15 @@
+{
+    "abs_source": "/home/runner/work/EasyList/EasyList/adult_thirdparty_popup.txt",
+    "checker_type": "AVAILABILITY",
+    "destination": "adult_thirdparty_popup.txt",
+    "hash": "e8052a60993f826f4a49083cf8c43f9050025bbdb1baee8e109eae27",
+    "line_number": 90,
+    "output_dir": "/home/runner/work/EasyList/EasyList/output/adult_thirdparty_popup.txt",
+    "previous_hash": "e8052a60993f826f4a49083cf8c43f9050025bbdb1baee8e109eae27",
+    "rel_source": "adult_thirdparty_popup.txt",
+    "session_id": "4311d2d8a742a7989dc7670c",
+    "source": "/home/runner/work/EasyList/EasyList/adult_thirdparty_popup.txt",
+    "subject": "/home/runner/work/EasyList/EasyList/adult_thirdparty_popup.txt",
+    "subject_type": "domain",
+    "type": "file"
+}

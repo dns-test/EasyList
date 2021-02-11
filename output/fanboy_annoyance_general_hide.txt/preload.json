@@ -1,0 +1,15 @@
+{
+    "abs_source": "/home/runner/work/EasyList/EasyList/fanboy_annoyance_general_hide.txt",
+    "checker_type": "AVAILABILITY",
+    "destination": "fanboy_annoyance_general_hide.txt",
+    "hash": "5f645bce46125eb4a459ae55a0f6686b1c1b8560f3f4b6f69a10f7ad",
+    "line_number": 3624,
+    "output_dir": "/home/runner/work/EasyList/EasyList/output/fanboy_annoyance_general_hide.txt",
+    "previous_hash": "5f645bce46125eb4a459ae55a0f6686b1c1b8560f3f4b6f69a10f7ad",
+    "rel_source": "fanboy_annoyance_general_hide.txt",
+    "session_id": "58dea1040175ebbbf326b631",
+    "source": "/home/runner/work/EasyList/EasyList/fanboy_annoyance_general_hide.txt",
+    "subject": "/home/runner/work/EasyList/EasyList/fanboy_annoyance_general_hide.txt",
+    "subject_type": "domain",
+    "type": "file"
+}

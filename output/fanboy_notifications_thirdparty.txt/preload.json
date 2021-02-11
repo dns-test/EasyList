@@ -1,0 +1,15 @@
+{
+    "abs_source": "/home/runner/work/EasyList/EasyList/fanboy_notifications_thirdparty.txt",
+    "checker_type": "AVAILABILITY",
+    "destination": "fanboy_notifications_thirdparty.txt",
+    "hash": "d7e2a97528f1fb5e84b4ce6c58af44365d2c1abd4451cf165693075c",
+    "line_number": 162,
+    "output_dir": "/home/runner/work/EasyList/EasyList/output/fanboy_notifications_thirdparty.txt",
+    "previous_hash": "d7e2a97528f1fb5e84b4ce6c58af44365d2c1abd4451cf165693075c",
+    "rel_source": "fanboy_notifications_thirdparty.txt",
+    "session_id": "8562f55d9a538581af7f797e",
+    "source": "/home/runner/work/EasyList/EasyList/fanboy_notifications_thirdparty.txt",
+    "subject": "/home/runner/work/EasyList/EasyList/fanboy_notifications_thirdparty.txt",
+    "subject_type": "domain",
+    "type": "file"
+}

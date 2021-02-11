@@ -1,0 +1,15 @@
+{
+    "abs_source": "/home/runner/work/EasyList/EasyList/fanboy_annoyance_allowlist.txt",
+    "checker_type": "AVAILABILITY",
+    "destination": "fanboy_annoyance_allowlist.txt",
+    "hash": "ae56fef746031db9988685bedce313bf0739bd881f7fc9809b68116e",
+    "line_number": 89,
+    "output_dir": "/home/runner/work/EasyList/EasyList/output/fanboy_annoyance_allowlist.txt",
+    "previous_hash": "ae56fef746031db9988685bedce313bf0739bd881f7fc9809b68116e",
+    "rel_source": "fanboy_annoyance_allowlist.txt",
+    "session_id": "ec7df8596e2973028537c88c",
+    "source": "/home/runner/work/EasyList/EasyList/fanboy_annoyance_allowlist.txt",
+    "subject": "/home/runner/work/EasyList/EasyList/fanboy_annoyance_allowlist.txt",
+    "subject_type": "domain",
+    "type": "file"
+}

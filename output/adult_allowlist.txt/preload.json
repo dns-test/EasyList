@@ -1,0 +1,15 @@
+{
+    "abs_source": "/home/runner/work/EasyList/EasyList/adult_allowlist.txt",
+    "checker_type": "AVAILABILITY",
+    "destination": "adult_allowlist.txt",
+    "hash": "0cf12711b48e7a11297df98331d4003a7cbeeaf020834a26afc653fe",
+    "line_number": 615,
+    "output_dir": "/home/runner/work/EasyList/EasyList/output/adult_allowlist.txt",
+    "previous_hash": "0cf12711b48e7a11297df98331d4003a7cbeeaf020834a26afc653fe",
+    "rel_source": "adult_allowlist.txt",
+    "session_id": "6ae061b81a1aa56487704365",
+    "source": "/home/runner/work/EasyList/EasyList/adult_allowlist.txt",
+    "subject": "/home/runner/work/EasyList/EasyList/adult_allowlist.txt",
+    "subject_type": "domain",
+    "type": "file"
+}

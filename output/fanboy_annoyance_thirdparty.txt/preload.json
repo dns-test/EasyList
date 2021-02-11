@@ -1,0 +1,15 @@
+{
+    "abs_source": "/home/runner/work/EasyList/EasyList/fanboy_annoyance_thirdparty.txt",
+    "checker_type": "AVAILABILITY",
+    "destination": "fanboy_annoyance_thirdparty.txt",
+    "hash": "1d2f933fdfaa76a5c9f10ab3cc106a3dddecc13043f56560211fbfa4",
+    "line_number": 416,
+    "output_dir": "/home/runner/work/EasyList/EasyList/output/fanboy_annoyance_thirdparty.txt",
+    "previous_hash": "1d2f933fdfaa76a5c9f10ab3cc106a3dddecc13043f56560211fbfa4",
+    "rel_source": "fanboy_annoyance_thirdparty.txt",
+    "session_id": "5593b894da6f238b5dfd549c",
+    "source": "/home/runner/work/EasyList/EasyList/fanboy_annoyance_thirdparty.txt",
+    "subject": "/home/runner/work/EasyList/EasyList/fanboy_annoyance_thirdparty.txt",
+    "subject_type": "domain",
+    "type": "file"
+}

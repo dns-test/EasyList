@@ -1,0 +1,15 @@
+{
+    "abs_source": "/home/runner/work/EasyList/EasyList/easylist_thirdparty.txt",
+    "checker_type": "AVAILABILITY",
+    "destination": "easylist_thirdparty.txt",
+    "hash": "4ac1d5ff2f4af5de97ca9c6e3d02706cd2f0fa18250dbc17d1d65b10",
+    "line_number": 1848,
+    "output_dir": "/home/runner/work/EasyList/EasyList/output/easylist_thirdparty.txt",
+    "previous_hash": "4ac1d5ff2f4af5de97ca9c6e3d02706cd2f0fa18250dbc17d1d65b10",
+    "rel_source": "easylist_thirdparty.txt",
+    "session_id": "682da7693f2179573c079611",
+    "source": "/home/runner/work/EasyList/EasyList/easylist_thirdparty.txt",
+    "subject": "/home/runner/work/EasyList/EasyList/easylist_thirdparty.txt",
+    "subject_type": "domain",
+    "type": "file"
+}

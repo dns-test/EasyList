@@ -1,0 +1,15 @@
+{
+    "abs_source": "/home/runner/work/EasyList/EasyList/easyprivacy_allowlist.txt",
+    "checker_type": "AVAILABILITY",
+    "destination": "easyprivacy_allowlist.txt",
+    "hash": "b89a0ddbf374ad4afcb47bc7575339adbd379073a593665732f0700a",
+    "line_number": 528,
+    "output_dir": "/home/runner/work/EasyList/EasyList/output/easyprivacy_allowlist.txt",
+    "previous_hash": "b89a0ddbf374ad4afcb47bc7575339adbd379073a593665732f0700a",
+    "rel_source": "easyprivacy_allowlist.txt",
+    "session_id": "ee8ef77e3a5787c1c7a83993",
+    "source": "/home/runner/work/EasyList/EasyList/easyprivacy_allowlist.txt",
+    "subject": "/home/runner/work/EasyList/EasyList/easyprivacy_allowlist.txt",
+    "subject_type": "domain",
+    "type": "file"
+}

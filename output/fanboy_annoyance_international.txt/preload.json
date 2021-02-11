@@ -1,0 +1,15 @@
+{
+    "abs_source": "/home/runner/work/EasyList/EasyList/fanboy_annoyance_international.txt",
+    "checker_type": "AVAILABILITY",
+    "destination": "fanboy_annoyance_international.txt",
+    "hash": "b4ab864891833a915f4a062c9967cdd005e60aa7a45d3229d30289c1",
+    "line_number": 1157,
+    "output_dir": "/home/runner/work/EasyList/EasyList/output/fanboy_annoyance_international.txt",
+    "previous_hash": "b4ab864891833a915f4a062c9967cdd005e60aa7a45d3229d30289c1",
+    "rel_source": "fanboy_annoyance_international.txt",
+    "session_id": "d4ea50558cc3782c775b7b30",
+    "source": "/home/runner/work/EasyList/EasyList/fanboy_annoyance_international.txt",
+    "subject": "/home/runner/work/EasyList/EasyList/fanboy_annoyance_international.txt",
+    "subject_type": "domain",
+    "type": "file"
+}

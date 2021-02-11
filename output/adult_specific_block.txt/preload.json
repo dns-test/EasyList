@@ -1,0 +1,15 @@
+{
+    "abs_source": "/home/runner/work/EasyList/EasyList/adult_specific_block.txt",
+    "checker_type": "AVAILABILITY",
+    "destination": "adult_specific_block.txt",
+    "hash": "be01be52c18db7cc0b91132596543f951520f4a9c2c6149429a90018",
+    "line_number": 264,
+    "output_dir": "/home/runner/work/EasyList/EasyList/output/adult_specific_block.txt",
+    "previous_hash": "be01be52c18db7cc0b91132596543f951520f4a9c2c6149429a90018",
+    "rel_source": "adult_specific_block.txt",
+    "session_id": "61184c55349964a52d637aac",
+    "source": "/home/runner/work/EasyList/EasyList/adult_specific_block.txt",
+    "subject": "/home/runner/work/EasyList/EasyList/adult_specific_block.txt",
+    "subject_type": "domain",
+    "type": "file"
+}

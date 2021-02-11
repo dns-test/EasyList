@@ -1,0 +1,15 @@
+{
+    "abs_source": "/home/runner/work/EasyList/EasyList/easyprivacy_thirdparty.txt",
+    "checker_type": "AVAILABILITY",
+    "destination": "easyprivacy_thirdparty.txt",
+    "hash": "e324038fec726899287fd174e8980b4a930396852a583403629c0060",
+    "line_number": 2375,
+    "output_dir": "/home/runner/work/EasyList/EasyList/output/easyprivacy_thirdparty.txt",
+    "previous_hash": "e324038fec726899287fd174e8980b4a930396852a583403629c0060",
+    "rel_source": "easyprivacy_thirdparty.txt",
+    "session_id": "06327a1119ca39a336f4c2a4",
+    "source": "/home/runner/work/EasyList/EasyList/easyprivacy_thirdparty.txt",
+    "subject": "/home/runner/work/EasyList/EasyList/easyprivacy_thirdparty.txt",
+    "subject_type": "domain",
+    "type": "file"
+}

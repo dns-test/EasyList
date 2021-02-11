@@ -1,0 +1,15 @@
+{
+    "abs_source": "/home/runner/work/EasyList/EasyList/easylist_cookie_allowlist.txt",
+    "checker_type": "AVAILABILITY",
+    "destination": "easylist_cookie_allowlist.txt",
+    "hash": "238c0eaea3653caff95be6bd255c5b922da2c23bac0763d35b025644",
+    "line_number": 181,
+    "output_dir": "/home/runner/work/EasyList/EasyList/output/easylist_cookie_allowlist.txt",
+    "previous_hash": "238c0eaea3653caff95be6bd255c5b922da2c23bac0763d35b025644",
+    "rel_source": "easylist_cookie_allowlist.txt",
+    "session_id": "7ba95c3779a8b8ae28b0179c",
+    "source": "/home/runner/work/EasyList/EasyList/easylist_cookie_allowlist.txt",
+    "subject": "/home/runner/work/EasyList/EasyList/easylist_cookie_allowlist.txt",
+    "subject_type": "domain",
+    "type": "file"
+}

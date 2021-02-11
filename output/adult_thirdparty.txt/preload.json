@@ -1,0 +1,15 @@
+{
+    "abs_source": "/home/runner/work/EasyList/EasyList/adult_thirdparty.txt",
+    "checker_type": "AVAILABILITY",
+    "destination": "adult_thirdparty.txt",
+    "hash": "3791e3d8e51a158816146b2ed34b09ff7eff909072fcf778d7865430",
+    "line_number": 296,
+    "output_dir": "/home/runner/work/EasyList/EasyList/output/adult_thirdparty.txt",
+    "previous_hash": "3791e3d8e51a158816146b2ed34b09ff7eff909072fcf778d7865430",
+    "rel_source": "adult_thirdparty.txt",
+    "session_id": "311f58ecd35f0fc7a09dff50",
+    "source": "/home/runner/work/EasyList/EasyList/adult_thirdparty.txt",
+    "subject": "/home/runner/work/EasyList/EasyList/adult_thirdparty.txt",
+    "subject_type": "domain",
+    "type": "file"
+}
