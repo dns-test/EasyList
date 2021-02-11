@@ -9727,6 +9727,7 @@
 ##.simplesocialbuttons_inline
 ##.single-article__social__bottom
 ##.single-aside-social-wrap
+##.single-content-share
 ##.single-fb-share
 ##.single-item-share
 ##.single-meta-sharing
@@ -11549,6 +11550,7 @@
 ##.sticky-social-icons-lg
 ##.sticky-social-inside
 ##.sticky-wrapper--likegate
+##.stickyNav-social
 ##.sticky_footer_social_facebook
 ##.sticky_footer_social_google
 ##.sticky_sharing
@@ -11909,6 +11911,7 @@
 ##.trb_sc
 ##.trb_sharelines
 ##.trb_socialize
+##.trd-nav-social-container
 ##.trending_head_share
 ##.trigger-share-list
 ##.triggerShare
