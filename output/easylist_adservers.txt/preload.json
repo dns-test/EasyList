@@ -1,0 +1,15 @@
+{
+    "abs_source": "/home/runner/work/EasyList/EasyList/easylist_adservers.txt",
+    "checker_type": "AVAILABILITY",
+    "destination": "easylist_adservers.txt",
+    "hash": "09e0fd37dfa797797ceaa0c7c7214d00579c9e1e07037a2f661baf1f",
+    "line_number": 16540,
+    "output_dir": "/home/runner/work/EasyList/EasyList/output/easylist_adservers.txt",
+    "previous_hash": null,
+    "rel_source": "easylist_adservers.txt",
+    "session_id": "1d1f71c797b69a2aeb10e192",
+    "source": "/home/runner/work/EasyList/EasyList/easylist_adservers.txt",
+    "subject": "/home/runner/work/EasyList/EasyList/easylist_adservers.txt",
+    "subject_type": "domain",
+    "type": "file"
+}
