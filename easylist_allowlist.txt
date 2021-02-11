@@ -123,6 +123,8 @@
 @@||cloudfront.net^*/advertising.png$image,domain=worthpoint.com
 @@||commons.wikimedia.org/w/api.php?$~third-party,xmlhttprequest
 @@||comsec.com.au^*/homepage_banner_ad.gif
+@@||connatix.com/connatix.player.js$script,domain=ebaumsworld.com|washingtonexaminer.com
+@@||connatix.com^*/connatix.player.js$script,domain=ebaumsworld.com|washingtonexaminer.com
 @@||contextual.media.net/dmedianet.js$script,domain=msn.com
 @@||copesdistributing.com/images/adds/banner_$~third-party
 @@||css.wpdigital.net/wpost/css/combo?*/ads.css
@@ -138,6 +140,7 @@
 @@||dianomi.com/recirculation.epl?id=$subdocument
 @@||digiads.com.au/images/shared/misc/ad-disclaimer.gif
 @@||dilbert.com/assets/ad-dependencies-$script,~third-party
+@@||dnsleak.privateinternetaccess.com^$xmlhttprequest,domain=dnsleak.com
 @@||doubleclick.net/ddm/$image,domain=aetv.com|fyi.tv|history.com|mylifetime.com|speedtest.net
 @@||doubleclick.net/favicon.ico$image,domain=goal.com
 @@||doubleclick.net/gpt/pubads_impl_$script,xmlhttprequest,domain=accuweather.com|blastingnews.com|epaper.timesgroup.com|espn.com|etf.com|gamespot.com|nbcsports.com|webmd.com
