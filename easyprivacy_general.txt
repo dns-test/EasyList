@@ -5507,8 +5507,10 @@ _admiral.
 ! eventbrite tracking
 /search/log_requests/*
 ! Consent/GDPR tracking
+/ccpa.js
 /cmp-hello.
 /cmp/messaging.js
+/cmp2.js
 /cmp3.js
 /sourcepoint.js
 /SourcePoint_JS_Files/*
