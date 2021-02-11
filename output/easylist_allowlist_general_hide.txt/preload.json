@@ -1,0 +1,15 @@
+{
+    "abs_source": "/home/runner/work/EasyList/EasyList/easylist_allowlist_general_hide.txt",
+    "checker_type": "AVAILABILITY",
+    "destination": "easylist_allowlist_general_hide.txt",
+    "hash": "f8fc92a4705a3d3f3074d770a185130d0d4ae896117d35de6ee60383",
+    "line_number": 743,
+    "output_dir": "/home/runner/work/EasyList/EasyList/output/easylist_allowlist_general_hide.txt",
+    "previous_hash": "f8fc92a4705a3d3f3074d770a185130d0d4ae896117d35de6ee60383",
+    "rel_source": "easylist_allowlist_general_hide.txt",
+    "session_id": "93c3f0402303092ed0c5af3a",
+    "source": "/home/runner/work/EasyList/EasyList/easylist_allowlist_general_hide.txt",
+    "subject": "/home/runner/work/EasyList/EasyList/easylist_allowlist_general_hide.txt",
+    "subject_type": "domain",
+    "type": "file"
+}
