@@ -1713,6 +1713,7 @@ gamedev.net##.mb-3.align-items-center.justify-content-start
 indiatimes.com##.mb-36 > .top-trending
 themoscowtimes.com##.mb-4.py-3
 thestar.com.my##.med-rec
+gamezone.com##.med-rect-ph
 etonline.com##.med_rec
 medcitynews.com##.medcity-paid-inline
 fontstock.net##.mediaBox
@@ -1783,6 +1784,7 @@ vocm.com##.nccBigBox
 danpatrick.com##.needsclick
 depositfiles.com,dfiles.eu##.network_downloader
 play.typeracer.com##.newNorthWidget
+moddb.com##.nextmediaboxtop
 democraticunderground.com##.nhome-mediumrectangle-container
 hulkshare.com##.nhsBotBan
 fiercetelecom.com,fiercevideo.com##.node--type-embed-promo
@@ -2120,6 +2122,7 @@ ycuniverse.com##.subheader_container
 monocle.com##.super-leaderboard
 radiotoday.co.uk##.supportHideBack
 fstoppers.com##.supportImg
+moddb.com##.supporter
 thespinoff.co.nz##.supporters-block
 timesofmalta.com##.sw-Top
 emoneyspace.com##.t_a_c
@@ -2127,7 +2130,7 @@ dealsofamerica.com##.tab_ext
 thelocal.at,thelocal.ch,thelocal.de,thelocal.dk,thelocal.es,thelocal.fr,thelocal.it,thelocal.no,thelocal.se##.taboola-row
 recombu.com##.takeover-right
 routesonline.com##.takeoverBanner
-cyberparse.co.uk,gizmochina.com,greekreporter.com,musictech.net,newsnext.live,nme.com,pdevice.com##.td-a-rec
+cyberparse.co.uk,gamezone.com,gizmochina.com,greekreporter.com,musictech.net,newsnext.live,nme.com,pdevice.com##.td-a-rec
 alextimes.com##.td-a-rec-id-content_bottom
 telugubullet.com##.td-a-rec-id-custom-spot
 sonorannews.com##.td-a-rec-id-sidebar
