@@ -1244,6 +1244,7 @@ giveawayoftheday.com##.center_ab
 cargurus.com##.cg-siteHeader-leaderBoardWrap
 androidweblog.com##.cgdyh > [data-adid]
 bigfooty.com##.chaching
+lovehug.net,weloma.net##.chapter-content > center > h5
 kaotic.com##.chaturbate
 whatleaks.com##.clr > .banner2
 coinmarketcap.com##.cmc-native-ad-row
@@ -1400,6 +1401,7 @@ thestranger.com##.fish-butter
 mentalfloss.com##.fixed-footer-section
 techjunkie.com##.fixed-sidebar-fire-tv
 politico.com##.fixed-top
+2conv.com##.fixed_banner
 netdania.com##.fixed_footer_banner
 moonliteco.in##.flexAfter
 moonliteco.in##.flexBefore
