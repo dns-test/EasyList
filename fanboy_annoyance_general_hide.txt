@@ -2243,6 +2243,7 @@
 ##.plugin-newsletter__inner
 ##.pmc-newsletter
 ##.pop-subscribe
+##.popin-newsletter
 ##.popinNewsletter-content
 ##.popinNewsletter-overlay
 ##.popup-newsletter
@@ -3596,6 +3597,7 @@
 ##div[class^="backToTop_"]
 ##div[ng-click^="animateToTop"]
 ##div[onclick^="scrollToTop"]
+##div[title="Go to top"]
 ##div[title="Scroll Back to Top"]
 ##div[title="Scroll To Top"]
 ##div[title="Scroll to Top"]
