@@ -10918,6 +10918,7 @@
 ##.ad_160x600
 ##.ad_176_inner
 ##.ad_180x150
+##.ad_188_inner
 ##.ad_1day9
 ##.ad_2
 ##.ad_200
@@ -12898,6 +12899,7 @@
 ##.adtech-banner
 ##.adtech-boxad
 ##.adtech-top-ad
+##.adtech-wrapper
 ##.adtechMobile
 ##.adtech_wrapper
 ##.adtester-container
@@ -20718,6 +20720,7 @@
 ##.widget_ipm_sidebar_ad
 ##.widget_island_ad
 ##.widget_jr_125ads
+##.widget_jtsv_wp_widget_ads
 ##.widget_maxbannerads
 ##.widget_nb-ads
 ##.widget_new_sponsored_content
