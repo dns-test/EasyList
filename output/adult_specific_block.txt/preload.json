@@ -8,8 +8,8 @@
     "previous_hash": "9a693da5b41c0a269abd68ac43aacc949175a5c5ca63a9274d539831",
     "rel_source": "adult_specific_block.txt",
     "session_id": "61184c55349964a52d637aac",
-    "source": "/home/runner/work/EasyList/EasyList/adult_specific_block.txt",
-    "subject": "/home/runner/work/EasyList/EasyList/adult_specific_block.txt",
+    "source": "adult_specific_block.txt",
+    "subject": "adult_specific_block.txt",
     "subject_type": "domain",
     "type": "file"
 }

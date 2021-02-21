@@ -8,8 +8,8 @@
     "previous_hash": "ade47f693b23db2e04737b1c802b3c4672184b990896efb7381d1f53",
     "rel_source": "easyprivacy_allowlist.txt",
     "session_id": "ee8ef77e3a5787c1c7a83993",
-    "source": "/home/runner/work/EasyList/EasyList/easyprivacy_allowlist.txt",
-    "subject": "/home/runner/work/EasyList/EasyList/easyprivacy_allowlist.txt",
+    "source": "easyprivacy_allowlist.txt",
+    "subject": "easyprivacy_allowlist.txt",
     "subject_type": "domain",
     "type": "file"
 }

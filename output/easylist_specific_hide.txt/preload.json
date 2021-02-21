@@ -8,8 +8,8 @@
     "previous_hash": "3eb662faded59a888f93730e2fe22704fbfe97d9101de9084704e25a",
     "rel_source": "easylist_specific_hide.txt",
     "session_id": "c196272aa224cf120559f1f7",
-    "source": "/home/runner/work/EasyList/EasyList/easylist_specific_hide.txt",
-    "subject": "/home/runner/work/EasyList/EasyList/easylist_specific_hide.txt",
+    "source": "easylist_specific_hide.txt",
+    "subject": "easylist_specific_hide.txt",
     "subject_type": "domain",
     "type": "file"
 }

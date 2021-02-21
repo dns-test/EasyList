@@ -8,8 +8,8 @@
     "previous_hash": "1c48bcfac91642ade0ff617ac1667a8334ebc963be4eee7b5a1a0339",
     "rel_source": "adult_allowlist_popup.txt",
     "session_id": "f2a52c4b0b74ca7c6dd3d9c3",
-    "source": "/home/runner/work/EasyList/EasyList/adult_allowlist_popup.txt",
-    "subject": "/home/runner/work/EasyList/EasyList/adult_allowlist_popup.txt",
+    "source": "adult_allowlist_popup.txt",
+    "subject": "adult_allowlist_popup.txt",
     "subject_type": "domain",
     "type": "file"
 }

@@ -8,8 +8,8 @@
     "previous_hash": "b33b9b4b030759f34f808544c0e2b8f433ddc44684e22b831ec73e68",
     "rel_source": "easylist_allowlist_popup.txt",
     "session_id": "ebe7c7e4e539bde3f3a757a5",
-    "source": "/home/runner/work/EasyList/EasyList/easylist_allowlist_popup.txt",
-    "subject": "/home/runner/work/EasyList/EasyList/easylist_allowlist_popup.txt",
+    "source": "easylist_allowlist_popup.txt",
+    "subject": "easylist_allowlist_popup.txt",
     "subject_type": "domain",
     "type": "file"
 }

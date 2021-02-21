@@ -8,8 +8,8 @@
     "previous_hash": "c9abd3f4036a9450a35405ba89e62d5aae49325a768b1be00676dbc3",
     "rel_source": "adult_specific_hide.txt",
     "session_id": "cb0c9593716e3f65d765f08b",
-    "source": "/home/runner/work/EasyList/EasyList/adult_specific_hide.txt",
-    "subject": "/home/runner/work/EasyList/EasyList/adult_specific_hide.txt",
+    "source": "adult_specific_hide.txt",
+    "subject": "adult_specific_hide.txt",
     "subject_type": "domain",
     "type": "file"
 }

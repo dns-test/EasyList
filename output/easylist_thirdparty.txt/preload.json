@@ -8,8 +8,8 @@
     "previous_hash": "62f41c6d894053f432eb601b9fb7e1847fb43ccba02e31a225f19fcd",
     "rel_source": "easylist_thirdparty.txt",
     "session_id": "682da7693f2179573c079611",
-    "source": "/home/runner/work/EasyList/EasyList/easylist_thirdparty.txt",
-    "subject": "/home/runner/work/EasyList/EasyList/easylist_thirdparty.txt",
+    "source": "easylist_thirdparty.txt",
+    "subject": "easylist_thirdparty.txt",
     "subject_type": "domain",
     "type": "file"
 }

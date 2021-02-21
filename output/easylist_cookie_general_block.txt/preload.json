@@ -8,8 +8,8 @@
     "previous_hash": "0c154c5c009f7c599f2c43aaba1b31cdc6f53f7b32b27b4e51c683b2",
     "rel_source": "easylist_cookie_general_block.txt",
     "session_id": "d7ce615e09e4cce655195f99",
-    "source": "/home/runner/work/EasyList/EasyList/easylist_cookie_general_block.txt",
-    "subject": "/home/runner/work/EasyList/EasyList/easylist_cookie_general_block.txt",
+    "source": "easylist_cookie_general_block.txt",
+    "subject": "easylist_cookie_general_block.txt",
     "subject_type": "domain",
     "type": "file"
 }

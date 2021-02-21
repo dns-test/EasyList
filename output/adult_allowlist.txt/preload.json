@@ -8,8 +8,8 @@
     "previous_hash": "4abcef0a89515a20a221792965eb4c29cf17d6c7cf443a425fd2057a",
     "rel_source": "adult_allowlist.txt",
     "session_id": "6ae061b81a1aa56487704365",
-    "source": "/home/runner/work/EasyList/EasyList/adult_allowlist.txt",
-    "subject": "/home/runner/work/EasyList/EasyList/adult_allowlist.txt",
+    "source": "adult_allowlist.txt",
+    "subject": "adult_allowlist.txt",
     "subject_type": "domain",
     "type": "file"
 }
