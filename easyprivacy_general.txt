@@ -5458,13 +5458,17 @@ cgi-bin/counter
 ||meetrics.netbb-
 ! Email tracking pixels
 -track-email-open?
+.alcmpn.com/
+.app.returnpath.net/
 .bhphotovideo.com/mo/
 .bluekai.com/*?e_id_
 .cmail19.com/t/
 .cmail19.com/ti/
+.cmail20.com/t/
 .delivery-status.com/open?
 .demdex.net/event?
 .duolingo.com/open/
+.efeedbacktrk.com/$third-party
 .emltrk.com/
 .epicgames.com/O/
 .flipboard.com/usage?
@@ -5474,6 +5478,7 @@ cgi-bin/counter
 .intercom-mail.com/q/
 .kijiji.ca/r/
 .members.babbel.com/mo/
+.ne16.com/do/
 .publish0x.com/t/
 .sendcloud.net/track/
 .sendibm1.com/mk/
@@ -5483,6 +5488,9 @@ cgi-bin/counter
 .wix.com/_api/ping/
 .zalando.com/images/probe.png
 /1x1_usermatch.gif?
+/ap.lijit.com/*
+/beacon.krxd.net/*
+/click.email.
 /clicks.email.
 /cmail2.com/t/
 /email-pixel?
@@ -5490,8 +5498,12 @@ cgi-bin/counter
 /eo?_t=$image
 /exmo.email/open.html
 /link.coindesk.com/img/*
+/link.e-mail.*/mo/$image
 /lzdmailer.letter.open?
+/mail.sparksport.co.nz/forms/read/*
+/media.sailthru.com/*.gif
 /open.aspx?
+/page.bsigroup.com/*
 /pixel-prod.
 /pixel?cid=
 /sendmail.backerupdate.com/t/*
@@ -5502,6 +5514,7 @@ cgi-bin/counter
 /trcksp.
 /wf/open?upn=$image
 ://email.*/e/o/
+_ad_impression.
 ! DNS checks
 /DNSCheck.js
 /DNSChecker.js
