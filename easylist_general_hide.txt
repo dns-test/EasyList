@@ -14121,6 +14121,7 @@
 ##.banner-ad-wrapper
 ##.banner-ads
 ##.banner-ads-300x250
+##.banner-ads-right
 ##.banner-ads-sidebar
 ##.banner-adsense
 ##.banner-adv
@@ -19269,6 +19270,7 @@
 ##.single-ad-anchor
 ##.single-ad-wrap
 ##.single-ads
+##.single-ads-section
 ##.single-google-ad
 ##.single-item-page-ads
 ##.single-mpu
