@@ -3310,7 +3310,9 @@ osnews.com##table[width="285"]
 finestdaily.com##table[width="642"]
 ! Self-promo Ads
 alternet.org###kindest-container
+insidethegames.biz###top-story-alert
 theweek.com###us77-test
+independent.co.uk###vouchercodes
 out.com##.bean-house-promo
 wired.com##.cm-footer-container
 foxnews.com##.commenting-nation-promo
@@ -3439,6 +3441,7 @@ newser.com###divNewserInYourInbox
 dallasnews.com###dmnLightboxCenter
 washingtonexaminer.com###dy_Article_Newsletter_Signups
 arktimes.com###e2ma_signup_form
+insidethegames.biz###ealert-banner
 vwo.com###ebookform
 laptopmag.com,tomshardware.co.uk,tomshardware.com###ec-popup-modal
 cbc.ca###em_UpakneeSub
@@ -3472,6 +3475,7 @@ chaser.com.au###fixed_footer
 theglobeandmail.com###fixedpencil
 health-e.org.za###footer-cta
 scout.co.nz###footer-eletter
+independent.co.uk###footerPrompt
 theguardian.com###footer__email-form
 expatica.com###footer_subscribe
 engineeringnews.co.za###footerbar
@@ -3725,6 +3729,7 @@ sportspromedia.com##._floating-box
 commentarymagazine.com##._form_5
 collective-evolution.com##._form_7
 androidauthority.com##.aa-subscribe-video-button
+independent.co.uk##.above-article-prompt-donations
 the18.com##.above-email
 buzzfeed.com##.action-bar--hover-container
 alternet.org##.action_form
@@ -4383,6 +4388,7 @@ counterpunch.org##.topfixedtrailer-color
 tut.by##.toster-popup
 thenation.com##.tout
 independent.co.uk##.tp-active
+independent.co.uk##.tp-backdrop
 scotsman.com##.tp-container-inner
 tp-link.com##.tp-follow-container
 independent.co.uk##.tp-modal

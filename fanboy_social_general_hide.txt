@@ -3039,6 +3039,7 @@
 ##.Social-link
 ##.SocialAccordion
 ##.SocialArticleHeader
+##.SocialArticleIcons
 ##.SocialBar
 ##.SocialBar__component
 ##.SocialBookmark
@@ -6112,6 +6113,7 @@
 ##.header-icon-instagram
 ##.header-interna-share
 ##.header-item-social
+##.header-item__social
 ##.header-main-socs
 ##.header-menu__social
 ##.header-nav-social
@@ -9630,6 +9632,7 @@
 ##.sharingtools-anon
 ##.sharingwrap
 ##.sharkskin-footer-social
+##.sharre-container
 ##.sharrre
 ##.sharrre-container
 ##.sharrre_widget
@@ -12633,6 +12636,7 @@
 ##.wpdev-top-share
 ##.wpdev-twitter
 ##.wpex-social-share-wrap
+##.wplogout-social-wrapper
 ##.wps-seo-booster-social-buttons
 ##.wpsc-share
 ##.wpsocial-shareBox
