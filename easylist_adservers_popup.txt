@@ -389,6 +389,7 @@
 ||finance-reporting.org^$popup
 ||findbetterresults.com^$popup
 ||firescorrelationprodigy.com^$popup
+||firsstudtog.cam^$popup
 ||firstclass-download.com^$popup
 ||flixcontentshop.com^$popup
 ||flrdra.com^$popup
@@ -763,6 +764,7 @@
 ||promo-bc.com^$popup
 ||promo-market.net^$popup
 ||promotions.sportsbet.com.au^$popup
+||propbn.com^$popup
 ||propellerclick.com^$popup
 ||propellerpops.com^$popup
 ||protect-your-privacy.net^$popup
