@@ -307,6 +307,7 @@
 ||crazyad.net^$popup,third-party
 ||curmaphow.club^$popup
 ||cutw.pro^$popup,third-party
+||cyan92010.com^$popup
 ||cyberlink.pro^$popup,third-party
 ||d0p21g2fep.com^$popup
 ||dagnar.com^$popup
@@ -417,6 +418,7 @@
 ||gdmconvtrck.com^$popup
 ||geras-con.com^$popup
 ||getalinkandshare.com^$popup
+||getalltraffic.com^$popup
 ||getmyads.com^$popup,third-party
 ||gfdfhdh5t5453.com^$popup
 ||giveaways.club^$popup
