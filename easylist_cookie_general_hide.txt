@@ -5072,6 +5072,7 @@
 ###m31CookieInfo
 ###mCookies
 ###m_cookie_popup
+###m_wctrlFICookieConsent
 ###ma-cmp-container
 ###maCookieInfo
 ###mab-cookie-notice-wrap
@@ -8179,6 +8180,7 @@
 ##.cookie-permission
 ##.cookie-permission--backdrop
 ##.cookie-permission-banner
+##.cookie-permission-container
 ##.cookie-permission-container-big
 ##.cookie-permission-prompt
 ##.cookie-plugin

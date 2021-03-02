@@ -20,6 +20,7 @@ deutsche-handwerks-zeitung.de,handwerk-magazin.de,trendaward.de###cc-box
 hosteurope.de###cche
 badkissingen.de,wuerzburg.de###chint
 jmmgc.com###cnotice
+aktienportal1.de,eifelzeitung.de,ep1.de###coPolicyMain
 adventskalender-gewinnspiele.de,happy-spots.de,kirmes-in-deutschland.de,stadtfeste-in-deutschland.de,weihnachtsmaerkte-in-deutschland.de,weinfeste-in-deutschland.de###cono
 kunstnet.de,notebookinfo.de,zitatezumnachdenken.com###consent
 der-farang.com###consent_overlay
@@ -191,6 +192,7 @@ receiver.de,steckdosenleiste.org##.legalAdvice
 aktionspreis.de##.leiste_vollstaendig
 echo-online.de,giessener-anzeiger.de##.lightbox-overlay
 echo-online.de,giessener-anzeiger.de##.lightbox-skin
+lokalportal.de##.lp_snack-bar__container
 wirklichweiterkommen.de##.lsa-dialog
 jobmensa.de##.m-usermessage
 uhu.de##.message
