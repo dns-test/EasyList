@@ -7041,6 +7041,7 @@
         "net.ps"
     ],
     "pt": [
+        "nome.pt",
         "net.pt",
         "gov.pt",
         "org.pt",
@@ -7048,7 +7049,6 @@
         "int.pt",
         "publ.pt",
         "com.pt",
-        "nome.pt",
         "blogspot.pt",
         "nym.pt"
     ],
