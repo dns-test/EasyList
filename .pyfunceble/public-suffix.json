@@ -375,8 +375,8 @@
         "barsy.bg"
     ],
     "bh": [
-        "com.bh",
         "edu.bh",
+        "com.bh",
         "net.bh",
         "org.bh",
         "gov.bh"
@@ -4701,9 +4701,9 @@
         "daplie.me",
         "localhost.daplie.me",
         "edgestack.me",
-        "filegear.me",
         "couk.me",
         "ukco.me",
+        "filegear.me",
         "filegear-au.me",
         "filegear-de.me",
         "filegear-gb.me",
