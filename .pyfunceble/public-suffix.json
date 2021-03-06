@@ -375,8 +375,8 @@
         "barsy.bg"
     ],
     "bh": [
-        "edu.bh",
         "com.bh",
+        "edu.bh",
         "net.bh",
         "org.bh",
         "gov.bh"
@@ -418,11 +418,11 @@
         "org.bm"
     ],
     "bn": [
+        "org.bn",
         "com.bn",
         "edu.bn",
         "gov.bn",
         "net.bn",
-        "org.bn",
         "co.bn"
     ],
     "bo": [
