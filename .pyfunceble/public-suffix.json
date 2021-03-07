@@ -418,11 +418,11 @@
         "org.bm"
     ],
     "bn": [
-        "org.bn",
         "com.bn",
         "edu.bn",
         "gov.bn",
         "net.bn",
+        "org.bn",
         "co.bn"
     ],
     "bo": [
