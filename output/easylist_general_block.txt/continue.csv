@@ -1,5 +1,5 @@
 idna_subject,checker_type,destination,source,tested_at,session_id
-cacheserve.*,AVAILABILITY,easylist_general_block.txt,/home/runner/work/EasyList/EasyList/easylist_general_block.txt,2001-02-11 16:14:37.049583,3bf6df27a816ca62c789b702
-online.*,AVAILABILITY,easylist_general_block.txt,/home/runner/work/EasyList/EasyList/easylist_general_block.txt,2001-02-11 16:14:37.050787,3bf6df27a816ca62c789b702
-ox-d.*,AVAILABILITY,easylist_general_block.txt,/home/runner/work/EasyList/EasyList/easylist_general_block.txt,2001-02-11 16:14:37.051246,3bf6df27a816ca62c789b702
-serve.*,AVAILABILITY,easylist_general_block.txt,/home/runner/work/EasyList/EasyList/easylist_general_block.txt,2001-02-11 16:14:37.051795,3bf6df27a816ca62c789b702
+cacheserve.*,AVAILABILITY,easylist_general_block.txt,easylist_general_block.txt,2021-03-07 18:12:57.772908,3bf6df27a816ca62c789b702
+online.*,AVAILABILITY,easylist_general_block.txt,easylist_general_block.txt,2021-03-07 18:12:57.943325,3bf6df27a816ca62c789b702
+ox-d.*,AVAILABILITY,easylist_general_block.txt,easylist_general_block.txt,2021-03-07 18:12:58.172232,3bf6df27a816ca62c789b702
+serve.*,AVAILABILITY,easylist_general_block.txt,easylist_general_block.txt,2021-03-07 18:12:58.360995,3bf6df27a816ca62c789b702
