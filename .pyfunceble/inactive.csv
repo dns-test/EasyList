@@ -5369,3 +5369,11 @@ streamp1ay.*,AVAILABILITY,easylist_specific_block.txt,2021-03-09 11:15:05.162059
 streamplay.*,AVAILABILITY,easylist_specific_block.txt,2021-03-09 11:15:05.294908
 streanplay.*,AVAILABILITY,easylist_specific_block.txt,2021-03-09 11:15:05.413171
 thepiratebay.,AVAILABILITY,easylist_specific_block.txt,2021-03-09 11:18:35.302257
+http.anno.channel4.com*-,AVAILABILITY,easylist_specific_block.txt,2021-03-09 11:41:36.321830
+http.anno.channel4.com*_*_*_,AVAILABILITY,easylist_specific_block.txt,2021-03-09 11:41:36.532524
+cas.*.criteo.com,AVAILABILITY,easylist_specific_block.txt,2021-03-09 11:56:29.703473
+caw.*.criteo.com,AVAILABILITY,easylist_specific_block.txt,2021-03-09 11:58:39.918122
+images.*.criteo.net,AVAILABILITY,easylist_specific_block.txt,2021-03-09 11:59:07.449127
+rdi.*.criteo.com,AVAILABILITY,easylist_specific_block.txt,2021-03-09 12:01:49.507216
+vix.*.criteo.net,AVAILABILITY,easylist_specific_block.txt,2021-03-09 12:10:59.418007
+vinted.*,AVAILABILITY,easylist_specific_block.txt,2021-03-09 12:14:36.384037
