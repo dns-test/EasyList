@@ -5377,3 +5377,6 @@ images.*.criteo.net,AVAILABILITY,easylist_specific_block.txt,2021-03-09 11:59:07
 rdi.*.criteo.com,AVAILABILITY,easylist_specific_block.txt,2021-03-09 12:01:49.507216
 vix.*.criteo.net,AVAILABILITY,easylist_specific_block.txt,2021-03-09 12:10:59.418007
 vinted.*,AVAILABILITY,easylist_specific_block.txt,2021-03-09 12:14:36.384037
+free-filehost.net,AVAILABILITY,easylist_specific_block_popup.txt,2021-03-09 13:11:32.934206
+softexter.com,AVAILABILITY,easylist_specific_block_popup.txt,2021-03-09 13:22:53.423780
+sponsorselect.com,AVAILABILITY,easylist_specific_block_popup.txt,2021-03-09 13:26:49.404878
