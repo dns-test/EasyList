@@ -3777,6 +3777,7 @@
 ###ctn_cookies
 ###ctrlHeader_divCookieText
 ###ctrl_barra_cookies
+###ctw-implied-consent
 ###cu-cookie-alert
 ###cu-privacy-notice
 ###cuConsent
@@ -5728,7 +5729,7 @@
 ###privacy-popup
 ###privacy-popup-container
 ###privacy-shield
-###privacy-statement
+###privacy-statement:not(.checkbox)
 ###privacy-statement-wrapper
 ###privacy-toast
 ###privacy-update
@@ -5797,7 +5798,7 @@
 ###privacymanager
 ###privacymessage
 ###privacynotice
-###privacypolicy
+###privacypolicy:not(input)
 ###privacypolicycontainer
 ###privacypopup
 ###privatBanner
