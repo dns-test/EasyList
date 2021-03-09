@@ -5357,3 +5357,7 @@ trafficmedia.center,AVAILABILITY,easylist_general_hide.txt,2021-03-09 06:01:20.8
 weedzy.co.uk,AVAILABILITY,easylist_general_hide.txt,2021-03-09 06:07:22.673295
 rekoverr.com,AVAILABILITY,easylist_general_hide.txt,2021-03-09 07:51:21.468761
 cntr.lookmovie.io,AVAILABILITY,easylist_specific_block.txt,2021-03-09 09:02:35.662143
+gamecopyworld.*,AVAILABILITY,easylist_specific_block.txt,2021-03-09 09:53:41.412738
+geo*.hltv.org,AVAILABILITY,easylist_specific_block.txt,2021-03-09 09:54:55.600174
+imhentai.com,AVAILABILITY,easylist_specific_block.txt,2021-03-09 10:03:45.050722
+musictarget.com*,AVAILABILITY,easylist_specific_block.txt,2021-03-09 10:14:57.075964
