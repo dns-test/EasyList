@@ -1878,12 +1878,12 @@
         "be.gy"
     ],
     "hk": [
+        "org.hk",
         "com.hk",
         "edu.hk",
         "gov.hk",
         "idv.hk",
         "net.hk",
-        "org.hk",
         "xn--55qx5d.hk",
         "xn--wcvs22d.hk",
         "xn--lcvr32d.hk",
@@ -4588,9 +4588,9 @@
         "dweb.link"
     ],
     "lk": [
-        "net.lk",
         "gov.lk",
         "sch.lk",
+        "net.lk",
         "int.lk",
         "com.lk",
         "org.lk",
