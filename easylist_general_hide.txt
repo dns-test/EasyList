@@ -3201,6 +3201,7 @@
 ###adsider
 ###adsiframe
 ###adsimage
+###adsitem
 ###adskinleft
 ###adskinlink
 ###adskinright
@@ -3775,6 +3776,7 @@
 ###advertising_column
 ###advertising_container
 ###advertising_contentad
+###advertising_div
 ###advertising_header
 ###advertising_holder
 ###advertising_horiz_cont
@@ -16933,6 +16935,7 @@
 ##.is-sticky-ad
 ##.is24-adplace
 ##.isAd
+##.isAdPage
 ##.is_trackable_ad
 ##.isad_box
 ##.island-ad
@@ -18523,6 +18526,7 @@
 ##.quads-ad3_widget
 ##.quads-ad4
 ##.quads-ad4_widget
+##.quads-bg-ad
 ##.quads-location
 ##.question_page_ad
 ##.queue_ad
@@ -21001,6 +21005,7 @@
 ##[data-dynamic-ads]
 ##[href*=".adcampo.com/"]
 ##[href*=".afftracks.online/"]
+##[href*=".grtya.com/"]
 ##[href*=".jetx.info/"]
 ##[href*=".ltroute.com/"]
 ##[href*=".revrtb.com/"]
