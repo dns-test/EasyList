@@ -25,6 +25,7 @@
 ||g6734867390.co^
 ||g6932951725.co^
 ||g7131036060.co^
+||g7329120395.co^
 ||mors22.com^
 ||nxakpj4ac8gkd53.info^
 ||propeller-tracking.com^
@@ -1758,7 +1759,6 @@
 ||perfectaudience.com^$third-party
 ||perfiliate.com^$third-party
 ||perfops.io^$third-party
-||perfops.net^$third-party
 ||performanceanalyser.net^$third-party
 ||performancerevenues.com^$third-party
 ||performtracking.com^$third-party
@@ -1950,7 +1950,6 @@
 ||reliablecounter.com^$third-party
 ||relmaxtop.com^$third-party
 ||remailtarget.com^$third-party
-||remarketingpixel.com^$third-party
 ||remarketstats.com^$third-party
 ||remind.me^$third-party
 ||rep0pkgr.com^$third-party

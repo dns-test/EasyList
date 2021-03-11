@@ -248,7 +248,7 @@
 ||arclk.net/trax?
 ||areyouahuman.com/kitten?
 ||argos.citruserve.com^
-||ariane.abtasty.com^$third-party
+||ariane.abtasty.com^
 ||asayer.io/tracker.js
 ||aserve.directorym.com^
 ||ask.com^*/i.gif?
@@ -715,7 +715,6 @@
 ||data.studybreakmedia.com^
 ||data.woosmap.com^
 ||data2.gosquared.com^$third-party
-||datacollect*.abtasty.com^$third-party
 ||datadog-service.mvfglobal.com^
 ||daumcdn.net/tiara/
 ||daxab.com/logger/
@@ -1631,7 +1630,9 @@
 ||rum.conde.io^
 ||rum.minutemediaservices.com^
 ||rum.nccgroup-webperf.com^
+||rum.perfops.net^
 ||rum.uptime.com^$third-party
+||rum.vhwrz.net^
 ||rva.outbrain.com^
 ||s-microsoft.com/mscc/$~stylesheet
 ||s-vop.sundaysky.com^$third-party
@@ -1694,6 +1695,7 @@
 ||sitefinity.com/collect/
 ||skimresources.com/api/ref-banners.js
 ||skysa.com/tracker/
+||slgnt.us/track
 ||sli-spark.com/b.png$third-party
 ||slidedeck.com^$image,third-party
 ||smartertravel.com/ext/pixel/
@@ -2075,7 +2077,7 @@
 ||trustedform.com/trustedform.js?provide_referrer
 ||trustpilot.com/stats/
 ||trustsquare.net/trafficmonitor/
-||try.abtasty.com^$third-party
+||try.abtasty.com^
 ||ts.tradetracker.net^
 ||tsk5.com/17*?*=ex-
 ||ttdetect.staticimgfarm.com^
