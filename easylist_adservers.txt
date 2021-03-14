@@ -6604,6 +6604,7 @@
 ||qgrazpvofra.com^
 ||qhdanxdyeuzdio.com^
 ||qhkhchjqawst.com^
+||qhmrasvwzbwjpz.com^
 ||qhqofqeivtno.com^
 ||qiaepasvtp.com^
 ||qibbblerzykelr.com^
@@ -12587,6 +12588,7 @@
 ||lqw.me^$third-party
 ||ltassrv.com.s3.amazonaws.com^$third-party
 ||ltassrv.com/serve/
+||lubowitz.biz^$third-party
 ||lucidmedia.com^$third-party
 ||lucklayed.info^$third-party
 ||luckypushh.com^$third-party
