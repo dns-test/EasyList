@@ -511,6 +511,7 @@ drtuber.com##.spots
 analsexstars.com##.sppc
 teenasspussy.com##.sqs
 pornstarchive.com##.squarebanner
+lewdninja.com##.stargate
 sexyandshocking.com##.sub-holder
 peepinghunter.com,simply-hentai.com##.superbanner
 dickbig.net##.t_14
@@ -625,6 +626,7 @@ pornhub.com,pornhubthbh7ap3u.onion##a[href*="abbp"]
 taxidrivermovie.com##a[href*="mrskin.com/"]
 pornhub.com,pornhubthbh7ap3u.onion##a[href*="pleasedontslaymy"]
 adultfilmdatabase.com,animeidhentai.com,babeforums.org,bos.so,camvideos.tv,camwhores.tv,cutscenes.net,daftsex.com,devporn.net,fritchy.com,gifsauce.com,hentai2read.com,hotpornfile.org,hpjav.com,imagebam.com,imgbox.com,imgtaxi.com,motherless.com,myporn.club,pandamovies.pw,planetsuzy.org,pussyspace.com,redgifs.com,sendvid.com,sexgalaxy.net,sextvx.com,sexuria.com,thefappeningblog.com,vintage-erotica-forum.com,vipergirls.to,waxtube.com,xfantazy.com,yeapornpls.com##a[href*="theporndude.com"]
+masalaseen.net##a[href=""][target="_blank"]
 porn99.net##a[href="http://porn99.net/asian/"]
 footfetishtube.com##a[href="http://www.footfetishtube.com/advertising_banner.php"]
 stockingstv.com##a[href="http://www.stockingstv.com/banners/default.php"]
@@ -736,6 +738,7 @@ mysexgames.com##table[style*="width:854px"]
 humoron.com##table[width="527"]
 rude.com##td[height="25"]
 sharks-lagoon.fr##td[width="164"][valign="top"][bgcolor="#3366ff"][align="center"]
+foxhq.com##video
 pornhub.com,pornhubthbh7ap3u.onion##video[style*="display: block !important;"]
 pornhub.com,pornhubthbh7ap3u.onion##zzzzz
 ! CSS property filters
