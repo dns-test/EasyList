@@ -565,6 +565,7 @@ espnscrum.com###scrumRhsBgMpu
 espnscrum.com###scrumRhsBgTxtLks
 hentai2read.com###sct_banner_980_60
 yahoo.com###sda-LDRB
+yahoo.com###sda-LDRB2
 yahoo.com###sda-MAST
 91mobiles.com###se_notification
 smarterfox.com###secondary-banner
@@ -2247,6 +2248,7 @@ lasvegassun.com##.varWrapper
 tetris.com##.verticalAx
 videogameschronicle.com##.vgc-boxout
 vice.com##.vice-ad__container
+yahoo.com##.viewer-sda-container
 variety.com##.vip-banner
 op.gg##.vm-placement
 ebook-searcher.com##.w-100
@@ -2296,6 +2298,7 @@ bit-tech.net##.xtag_container
 pravda.ru##.yaRtbBlock
 imdb.com##.yesScript
 shockwave.com##.ympb_target_banner
+ign.com##.zad
 thehackernews.com##.zoho-box
 hltv.org##[class*="widget"]
 zerohedge.com##[class^="Advert_"]
