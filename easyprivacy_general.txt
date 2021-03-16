@@ -5489,9 +5489,11 @@ cgi-bin/counter
 .sendibm1.com/*.gif?
 .sendibm1.com/mk/
 .simplicitycrm.com/rd/
+.smartrmail.co/o/$image
 .sparkpostmail2.com/q/$image
 .spmailtechnolo.com/q/$image
 .starbucks.com/a/
+.substack.com/o/$image
 .titus.de/oo/$image
 .webex.com/q/
 .wix.com/_api/ping/
@@ -5508,6 +5510,7 @@ cgi-bin/counter
 /eo?_t=$image
 /exmo.email/open.html
 /gate.amnesty-international.*/open.php?
+/gp/r.html?$image
 /link.coindesk.com/img/*
 /link.e-mail.*/mo/$image
 /lzdmailer.letter.open?
