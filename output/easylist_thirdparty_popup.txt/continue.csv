@@ -1,7 +1,4 @@
 idna_subject,checker_type,destination,source,tested_at,session_id
-6angebot.ch,AVAILABILITY,easylist_thirdparty_popup.txt,/home/runner/work/EasyList/EasyList/easylist_thirdparty_popup.txt,2001-02-11 17:44:11.838968,f70fb44d42c28a21c92c5fba
-adfoc.us,AVAILABILITY,easylist_thirdparty_popup.txt,/home/runner/work/EasyList/EasyList/easylist_thirdparty_popup.txt,2001-02-11 17:44:11.839835,f70fb44d42c28a21c92c5fba
-admngronline.com,AVAILABILITY,easylist_thirdparty_popup.txt,/home/runner/work/EasyList/EasyList/easylist_thirdparty_popup.txt,2001-02-11 17:44:11.840671,f70fb44d42c28a21c92c5fba
 adpopblocker.com,AVAILABILITY,easylist_thirdparty_popup.txt,/home/runner/work/EasyList/EasyList/easylist_thirdparty_popup.txt,2001-02-11 17:44:11.841546,f70fb44d42c28a21c92c5fba
 adrotator.se,AVAILABILITY,easylist_thirdparty_popup.txt,/home/runner/work/EasyList/EasyList/easylist_thirdparty_popup.txt,2001-02-11 17:44:11.842413,f70fb44d42c28a21c92c5fba
 adserving.unibet.com,AVAILABILITY,easylist_thirdparty_popup.txt,/home/runner/work/EasyList/EasyList/easylist_thirdparty_popup.txt,2001-02-11 17:44:11.843318,f70fb44d42c28a21c92c5fba
@@ -140,3 +137,6 @@ bigprizesonline.com,AVAILABILITY,easylist_thirdparty_popup.txt,easylist_thirdpar
 saucepanstream.com,AVAILABILITY,easylist_thirdparty_popup.txt,easylist_thirdparty_popup.txt,2001-03-11 13:02:12.763204,f70fb44d42c28a21c92c5fba
 theonlygames.com,AVAILABILITY,easylist_thirdparty_popup.txt,easylist_thirdparty_popup.txt,2001-03-11 13:02:14.096649,f70fb44d42c28a21c92c5fba
 topflownews.com,AVAILABILITY,easylist_thirdparty_popup.txt,easylist_thirdparty_popup.txt,2001-03-11 13:02:14.506055,f70fb44d42c28a21c92c5fba
+6angebot.ch,AVAILABILITY,easylist_thirdparty_popup.txt,easylist_thirdparty_popup.txt,2021-03-16 00:20:53.325191,f70fb44d42c28a21c92c5fba
+adfoc.us,AVAILABILITY,easylist_thirdparty_popup.txt,easylist_thirdparty_popup.txt,2021-03-16 00:20:59.526579,f70fb44d42c28a21c92c5fba
+admngronline.com,AVAILABILITY,easylist_thirdparty_popup.txt,easylist_thirdparty_popup.txt,2021-03-16 00:22:39.790783,f70fb44d42c28a21c92c5fba
