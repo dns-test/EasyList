@@ -53,6 +53,7 @@
 @@||bluecare.express/js/tracking/$script,~third-party
 @@||bobbibrowncosmetics.com^*/analytics.min.js$~third-party
 @@||bookmate.com^*/impressions?$xmlhttprequest
+@@||cleverpush.com/channel/$script,domain=bsdex.de
 ! @@||browser.sentry-cdn.com^$domain=cardiffmedia.co.uk|connect.shore.com|crrowd.com|eco-clobber.co.uk|gina-phillips.com|gracevanberkum.com|imperial.ac.uk|loveotv.com|onginnovations.com|simonparkes.org|stockforecasttoday.com|tekku.co.za|theangryviking1776.com|thegivingblock.com|thepittsburghoratory.org|truenews4u.com|washingtonpost.com|wix.com
 @@||brsrvr.com/api/$xmlhttprequest,domain=dollargeneral.com
 @@||c.paypal.com/da/r/fb.js$script
@@ -357,6 +358,7 @@
 ! Cloudflare hcaptcha test
 @@/cdn-cgi/images/trace/captcha/js/h/transparent.gif$image,~third-party
 ! uBO-CNAME (Specific allowlists)
+@@||mycleverpush.com/iframe?$domain=bsdex.de
 @@||n8s.jp^$script,domain=nikkei.com
 @@||takeda.com.dxcloud.episerver.net^$domain=takeda.com
 ! Tegna news sites
