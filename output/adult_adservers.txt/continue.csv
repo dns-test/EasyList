@@ -1,7 +1,5 @@
 idna_subject,checker_type,destination,source,tested_at,session_id
 youtube.local,AVAILABILITY,adult_adservers.txt,/home/runner/work/EasyList/EasyList/adult_adservers.txt,2001-02-11 17:44:18.052181,0b80b2e4612602893fe9adf2
-adextrem.com,AVAILABILITY,adult_adservers.txt,adult_adservers.txt,2001-03-14 12:58:24.867523,0b80b2e4612602893fe9adf2
-awecre.com,AVAILABILITY,adult_adservers.txt,adult_adservers.txt,2001-03-14 12:58:27.126869,0b80b2e4612602893fe9adf2
 18naked.com,AVAILABILITY,adult_adservers.txt,adult_adservers.txt,2021-03-16 04:08:58.076150,0b80b2e4612602893fe9adf2
 4link.it,AVAILABILITY,adult_adservers.txt,adult_adservers.txt,2021-03-16 04:09:04.052588,0b80b2e4612602893fe9adf2
 4us.pw,AVAILABILITY,adult_adservers.txt,adult_adservers.txt,2021-03-16 04:12:59.417586,0b80b2e4612602893fe9adf2
@@ -867,3 +865,5 @@ jistvotestabl.space,AVAILABILITY,adult_adservers.txt,adult_adservers.txt,2021-03
 ssionsupre.fun,AVAILABILITY,adult_adservers.txt,adult_adservers.txt,2021-03-17 07:22:11.390670,0b80b2e4612602893fe9adf2
 incrediblevideosvst.com,AVAILABILITY,adult_adservers.txt,adult_adservers.txt,2021-03-17 07:22:16.844099,0b80b2e4612602893fe9adf2
 xvstvids.com,AVAILABILITY,adult_adservers.txt,adult_adservers.txt,2021-03-17 07:22:22.293053,0b80b2e4612602893fe9adf2
+adextrem.com,AVAILABILITY,adult_adservers.txt,adult_adservers.txt,2021-03-17 07:45:56.656665,0b80b2e4612602893fe9adf2
+awecre.com,AVAILABILITY,adult_adservers.txt,adult_adservers.txt,2021-03-17 07:46:02.448002,0b80b2e4612602893fe9adf2
