@@ -657,10 +657,9 @@
         "pi.leg.br",
         "pr.leg.br",
         "rj.leg.br",
-        "rn.leg.br",
+        "rs.leg.br",
         "ro.leg.br",
         "rr.leg.br",
-        "rs.leg.br",
         "sc.leg.br",
         "se.leg.br",
         "sp.leg.br",
@@ -6717,7 +6716,8 @@
     "page": [
         "pdns.page",
         "plesk.page",
-        "prvcy.page"
+        "prvcy.page",
+        "magnet.page"
     ],
     "party": [
         "ybo.party"
