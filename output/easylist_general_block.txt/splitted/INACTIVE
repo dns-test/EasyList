@@ -7,3 +7,7 @@ cacheserve.*                                                                    
 online.*                                                                                             INACTIVE    STDLOOKUP  Unknown           Unknown    AVAILABILITY 
 ox-d.*                                                                                               INACTIVE    STDLOOKUP  Unknown           Unknown    AVAILABILITY 
 serve.*                                                                                              INACTIVE    STDLOOKUP  Unknown           Unknown    AVAILABILITY 
+cacheserve.                                                                                          INACTIVE    STDLOOKUP  Unknown           Unknown    AVAILABILITY 
+online.                                                                                              INACTIVE    STDLOOKUP  Unknown           Unknown    AVAILABILITY 
+ox-d.                                                                                                INACTIVE    STDLOOKUP  Unknown           Unknown    AVAILABILITY 
+serve.                                                                                               INACTIVE    STDLOOKUP  Unknown           Unknown    AVAILABILITY 
