@@ -657,9 +657,10 @@
         "pi.leg.br",
         "pr.leg.br",
         "rj.leg.br",
-        "rs.leg.br",
+        "rn.leg.br",
         "ro.leg.br",
         "rr.leg.br",
+        "rs.leg.br",
         "sc.leg.br",
         "se.leg.br",
         "sp.leg.br",
@@ -7220,11 +7221,11 @@
         "for.sale"
     ],
     "sb": [
+        "org.sb",
         "com.sb",
         "edu.sb",
         "gov.sb",
-        "net.sb",
-        "org.sb"
+        "net.sb"
     ],
     "sc": [
         "com.sc",
