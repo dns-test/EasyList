@@ -24,3 +24,13 @@ images.*.criteo.net                                                             
 rdi.*.criteo.com                                                                                     INACTIVE    STDLOOKUP  Unknown           Unknown    AVAILABILITY 
 vix.*.criteo.net                                                                                     INACTIVE    STDLOOKUP  Unknown           Unknown    AVAILABILITY 
 vinted.*                                                                                             INACTIVE    STDLOOKUP  Unknown           Unknown    AVAILABILITY 
+.php                                                                                                 INACTIVE    STDLOOKUP  Unknown           Unknown    AVAILABILITY 
+akamaihd.net^                                                                                        INACTIVE    STDLOOKUP  Unknown           Unknown    AVAILABILITY 
+cloudfront.net^                                                                                      INACTIVE    STDLOOKUP  Unknown           Unknown    AVAILABILITY 
+dailymail.co.uk^                                                                                     INACTIVE    STDLOOKUP  Unknown           Unknown    AVAILABILITY 
+digitaloceanspaces.com^                                                                              INACTIVE    STDLOOKUP  Unknown           Unknown    AVAILABILITY 
+.js                                                                                                  INACTIVE    STDLOOKUP  Unknown           Unknown    AVAILABILITY 
+gamecopyworld.                                                                                       INACTIVE    STDLOOKUP  Unknown           Unknown    AVAILABILITY 
+.hltv.org                                                                                            INACTIVE    STDLOOKUP  Unknown           Unknown    AVAILABILITY 
+hotstar.com^                                                                                         INACTIVE    STDLOOKUP  Unknown           Unknown    AVAILABILITY 
+advert.                                                                                              INACTIVE    STDLOOKUP  Unknown           Unknown    AVAILABILITY 

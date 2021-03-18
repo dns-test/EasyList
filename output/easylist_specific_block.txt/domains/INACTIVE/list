@@ -22,3 +22,13 @@ images.*.criteo.net
 rdi.*.criteo.com
 vix.*.criteo.net
 vinted.*
+.php
+akamaihd.net^
+cloudfront.net^
+dailymail.co.uk^
+digitaloceanspaces.com^
+.js
+gamecopyworld.
+.hltv.org
+hotstar.com^
+advert.
