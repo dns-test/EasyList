@@ -4991,7 +4991,7 @@
         "denmark.museum",
         "depot.museum",
         "design.museum",
-        "detroit.museum",
+        "judaica.museum",
         "dinosaur.museum",
         "discovery.museum",
         "dolls.museum",
@@ -5099,7 +5099,6 @@
         "jewishart.museum",
         "jfk.museum",
         "journalism.museum",
-        "judaica.museum",
         "judygarland.museum",
         "juedisches.museum",
         "juif.museum",
@@ -7221,11 +7220,11 @@
         "for.sale"
     ],
     "sb": [
-        "org.sb",
         "com.sb",
         "edu.sb",
         "gov.sb",
-        "net.sb"
+        "net.sb",
+        "org.sb"
     ],
     "sc": [
         "com.sc",
