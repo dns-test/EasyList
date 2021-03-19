@@ -3115,6 +3115,7 @@
 ###cookies-box
 ###cookies-box-inner
 ###cookies-box-outer-layer
+###cookies-browser-ui-app
 ###cookies-button-container
 ###cookies-charter
 ###cookies-check
@@ -9088,6 +9089,7 @@
 ##.cookies-field
 ##.cookies-footer
 ##.cookies-footer-block
+##.cookies-footer-i
 ##.cookies-gdpr
 ##.cookies-gioodo-require
 ##.cookies-handshake-wrapper
