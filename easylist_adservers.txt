@@ -93,6 +93,7 @@
 ||203fb7a4cb1.com^
 ||20a840a14a0ef7d6.com^
 ||20cefb09fe910f.com^
+||20tracks.com^
 ||2137dc12f9d8.com^
 ||21a3dd8ea39c0.com^
 ||21c9a53484951.com^
@@ -3500,6 +3501,7 @@
 ||go2.global^
 ||go2affise.com^
 ||go2page.net^
+||goaciptu.net^
 ||goajuzey.com^
 ||goawayn0w.com^
 ||gobhasyum.com^
@@ -4379,6 +4381,7 @@
 ||kennetting.club^
 ||kepler-37b.com^
 ||kerumal.com^
+||kesevitamus.com^
 ||kesmdg.com^
 ||ketstheralinver.info^
 ||keyboardinvolvedspacious.com^
@@ -6398,6 +6401,7 @@
 ||ptirgaux.com^
 ||ptoafauz.net^
 ||ptoahaistais.com^
+||ptoangir.com^
 ||ptogheeb.net^
 ||ptongouh.net^
 ||ptookaih.net^
@@ -7937,6 +7941,7 @@
 ||touchbackgroundrusty.com^
 ||toughopponent.com^
 ||toukeedo.com^
+||touphipt.com^
 ||towardstic.club^
 ||toxicbraid.com^
 ||toybahyn.com^
@@ -9198,7 +9203,6 @@
 ||1yk851od.com^$third-party
 ||206ads.com^$third-party
 ||20dollars2surf.com^$third-party
-||20tracks.com^$third-party
 ||247realmedia.com^$third-party
 ||24vunvrv.com^$third-party
 ||254a.com^$third-party
