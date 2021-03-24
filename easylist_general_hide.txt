@@ -1121,6 +1121,7 @@
 ###ad-placeholder
 ###ad-placement
 ###ad-plate
+###ad-player
 ###ad-popup
 ###ad-popup1
 ###ad-position-a
@@ -2948,6 +2949,8 @@
 ###adsSectionRight
 ###adsSquare
 ###adsSuperCTN
+###adsTG
+###adsTN
 ###adsTop
 ###adsTopLeft
 ###adsZone
@@ -5995,6 +5998,8 @@
 ###home_bottom_ad
 ###home_contentad
 ###home_feature_ad
+###home_hor_bot_ads
+###home_hor_top_ads
 ###home_lower_center_right_ad
 ###home_mpu
 ###home_sec2_adverts
@@ -8408,6 +8413,7 @@
 ###video_advert_top
 ###video_cnv_ad
 ###video_embed_ads
+###video_hor_bot_ads
 ###video_hor_bottom_ads
 ###video_overlay_ad
 ###video_reklamy
@@ -8527,7 +8533,9 @@
 ###wrapAdTop
 ###wrapCommentAd
 ###wrap_ad_main
+###wrapper-AD_G
 ###wrapper-AD_PUSH
+###wrapper-AD_R
 ###wrapper-advert-slider-top
 ###wrapperAdsTopLeft
 ###wrapperAdsTopRight
@@ -9079,6 +9087,7 @@
 ##.STR_AdBlock
 ##.SecondaryAd
 ##.SecondaryAdLink
+##.Section-ad
 ##.SectionSponsor
 ##.ShootingAd
 ##.ShootingAdLeft
@@ -9557,6 +9566,7 @@
 ##.ad-boxrr-wrapper
 ##.ad-boxsticky
 ##.ad-boxtop
+##.ad-brdr-btm
 ##.ad-break
 ##.ad-breaker
 ##.ad-breakout
@@ -10287,6 +10297,7 @@
 ##.ad-wrap-transparent
 ##.ad-wrap01
 ##.ad-wrap02
+##.ad-wrap_wallpaper
 ##.ad-wrapper
 ##.ad-wrapper--articletop
 ##.ad-wrapper--flexibleportrait
@@ -11615,6 +11626,7 @@
 ##.adblock728x90
 ##.adblock_noborder
 ##.adblock_primary
+##.adblockdiv
 ##.adblocks-topright
 ##.adboard
 ##.adborder
@@ -11894,6 +11906,7 @@
 ##.adpadding
 ##.adpadtwo_div
 ##.adpane
+##.adparent
 ##.adpic
 ##.adplace
 ##.adplace_center
@@ -12214,6 +12227,7 @@
 ##.ads1000x100
 ##.ads11
 ##.ads12
+##.ads120
 ##.ads120_600
 ##.ads120_600-widget
 ##.ads120_80
@@ -12278,6 +12292,7 @@
 ##.ads720x90
 ##.ads728
 ##.ads728_90
+##.ads728b
 ##.ads728x90
 ##.ads728x90-1
 ##.ads728x90-thumb
@@ -12659,6 +12674,7 @@
 ##.adsense-header
 ##.adsense-heading
 ##.adsense-image-detail
+##.adsense-inline
 ##.adsense-left
 ##.adsense-links
 ##.adsense-links2
@@ -12800,6 +12816,7 @@
 ##.adslisting2
 ##.adslistingz
 ##.adsload
+##.adsloading
 ##.adslogan
 ##.adslot
 ##.adslot--leaderboard
@@ -12856,6 +12873,7 @@
 ##.adspace-MR
 ##.adspace-lb
 ##.adspace-leaderboard
+##.adspace-lr
 ##.adspace-mpu
 ##.adspace-widget
 ##.adspace1
@@ -13914,6 +13932,7 @@
 ##.apiAds
 ##.apiButtonAd
 ##.app-advertisements
+##.app-leaderboard-ad-container
 ##.app_ad_unit
 ##.app_advertising_skyscraper
 ##.app_nexus_banners_common
@@ -14000,6 +14019,7 @@
 ##.articleEmbeddedAdBox
 ##.articleFooterAd
 ##.articleHeadAdRow
+##.articleHeaderAd
 ##.articlePage3rdPartyContentStrip
 ##.articleTopAd
 ##.article__ad-ir
@@ -15133,6 +15153,7 @@
 ##.component__ad__ad-box
 ##.components-Ad-___Ad__ad
 ##.conTSponsored
+##.con_ads
 ##.con_widget_advertising
 ##.conductor_ad
 ##.configurableAd
@@ -15485,10 +15506,6 @@
 ##.display_adv_show
 ##.display_advrst
 ##.div-google-adx
-##.div-gpt-ad
-##.div-gpt-ad--interstitiel
-##.div-gpt-ad--top
-##.div-gpt-ad-adhesion-leaderboard-wrap
 ##.divAd
 ##.divAdright
 ##.divAdsBanner
@@ -15615,6 +15632,7 @@
 ##.editor_ad
 ##.editorial-adsense
 ##.editors-ads
+##.eg-custom-ad
 ##.eg_guides_sidebar_ad
 ##.ehs-adbridge
 ##.eight8_advertisment_box_all_posts
@@ -15951,6 +15969,7 @@
 ##.full-ad-wrapper
 ##.full-adv
 ##.full-bleed-ad
+##.full-top-ad-area
 ##.full-width-ad
 ##.full-width-ad-container
 ##.full-width-ads
@@ -16728,6 +16747,7 @@
 ##.hype_adrotate_widget
 ##.i360ad
 ##.iAdserver
+##.iRx9_wrt
 ##.i_ad
 ##.iab300x250
 ##.iab728x90
@@ -17129,6 +17149,7 @@
 ##.lastRowAd
 ##.lastads
 ##.lastpost_advert
+##.lates-adlabel
 ##.latest-ad
 ##.latest-articles-ad
 ##.latest-news__ad--desktop
@@ -17643,6 +17664,7 @@
 ##.mobile-footer__ad
 ##.mobile-instream-ad-holder-single
 ##.mobile-related-ad
+##.mobileAd
 ##.mobileAdWrap
 ##.mobileAdvertInStreamHighlightText
 ##.mobileAppAd
@@ -17795,6 +17817,10 @@
 ##.mpuholderportalpage
 ##.mr-dfp-ad
 ##.mrec-ads
+##.mrec-atf-sticky
+##.mrec-btf-cont
+##.mrec-hp-scrollable-cont
+##.mrec-scrollable-cont
 ##.mrecAds
 ##.mrec_advert
 ##.mrf-adv
@@ -18053,6 +18079,7 @@
 ##.oio-zone-position
 ##.old-advertorial-block
 ##.omnitureAdImpression
+##.on-ad
 ##.on-demand-ad
 ##.onAd
 ##.on_player_ads
@@ -19849,6 +19876,7 @@
 ##.sticky_ad_wrapper
 ##.stickyad
 ##.stickyadv
+##.stky-ad-footer
 ##.stm-ad-player
 ##.stmAdHeightWidget
 ##.stock-ticker-ad-tag
@@ -20137,6 +20165,8 @@
 ##.tmz-dart-ad
 ##.tn-ads-widget
 ##.tncls_ad
+##.tncls_ad_250
+##.tncls_ad_300
 ##.tncms-region-ads
 ##.tnt-ads
 ##.tnt-ads-container
@@ -20634,6 +20664,7 @@
 ##.wall_ad
 ##.wall_ad_hd
 ##.wallad
+##.wallpaper-ad-top
 ##.wallpaper-parade-ad-container
 ##.wantads
 ##.waterfall-ad-anchor
@@ -20997,6 +21028,7 @@
 ##.zc-grid-position-ad
 ##.zem_rp_promoted
 ##.zeti-ads
+##.zeusAdWrapper
 ##.ziffad-wrapper
 ##.zmgad-full-width
 ##.zmgad-right-rail
@@ -21012,6 +21044,7 @@
 ##FBS-AD
 ##LEADERBOARD-AD
 ##[ad-id^="googlead"]
+##[class^="div-gpt-ad"]
 ##[data-ad-module]
 ##[data-dynamic-ads]
 ##[href*=".adcampo.com/"]
@@ -21032,6 +21065,7 @@
 ##[href^="https://go.affiliatexe.com/"]
 ##[href^="https://refpahrwzjlv.top/"]
 ##[href^="https://secure.bmtmicro.com/servlets/"]
+##[href^="https://www.xvbelink.com/"]
 ##[id^="ad-wrap-"]
 ##[id^="adframe_wrap_"]
 ##[id^="bunyad_ads_"]
@@ -21717,7 +21751,6 @@
 ##div[class^="articleAdUnitMPU_"]
 ##div[class^="awpcp-random-ads"]
 ##div[class^="block-openx-"]
-##div[class^="div-gpt-ad"]
 ##div[class^="hp-ad-rect-"]
 ##div[class^="index__adWrapper"]
 ##div[class^="index_adAfterContent_"]
@@ -21805,6 +21838,12 @@
 ##.grid > .container > #aside-promotion
 ! google
 ##div#main > div.D1fz0e
+! fake buttons https://github.com/uBlockOrigin/uAssets/pull/8749
+##[href^="/admdownload.php"]
+##[href^="/ucdownload.php"]
+##[href^="/ucdownloader.php"]
+##[href^="/ucmini.php"]
+##[href^="https://bulletprofitsmartlink.com/"]
 ! revcontent
 ##.default_rc_theme
 ##.inf-onclickvideo-adbox
@@ -22019,6 +22058,7 @@
 ##.js-outbrain-container
 ##.ob-ad-carousel-layout
 ##.outbrain-ad-slot
+##.outbrain-bg
 ##.outbrain-widget
 ##.outbrain_ad_li
 ##.outbrain_dual_ad_whats_class
@@ -22092,6 +22132,7 @@
 ##.taboola_blk
 ##.taboola_block1
 ##.taboola_lhs
+##.tncls_taboola
 ##.trb_taboola
 ##.trc_rbox .syndicatedItem
 ##.trc_rbox_border_elm .syndicatedItem
