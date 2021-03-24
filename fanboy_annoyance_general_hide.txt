@@ -1392,6 +1392,7 @@
 ##.button-subscribe
 ##.buzzblock-newsletter
 ##.c-Footer__subscribe
+##.c-articleNewsletter_form
 ##.c-leaflet__content--sign-up
 ##.c-list-subscribe
 ##.c-newsletter
@@ -2476,6 +2477,7 @@
 ##.title-newsletter
 ##.titrewidgetnewsletter
 ##.tl-newsletter-widget
+##.tm-editoral-subscription
 ##.tmt-subscribe
 ##.tnp-subscription-minimal
 ##.today-newsletter-wrap
@@ -2511,6 +2513,7 @@
 ##.wcpopupmodal-open
 ##.wcpopupmodal-wrapper-open
 ##.wdg-newsletter
+##.wdt_newsLetter
 ##.widNewsletter
 ##.wide-newsletter
 ##.wideNewsletterWrap
@@ -3460,6 +3463,7 @@
 ##.td-scroll-up
 ##.tdr-backtop
 ##.ti_scroll
+##.tm-scroll-top
 ##.tm-totop-scroller
 ##.to-pagetop
 ##.to-the-top

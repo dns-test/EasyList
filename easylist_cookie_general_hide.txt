@@ -418,6 +418,7 @@
 ###Piper-Consent
 ###PlayCookieInformationRoot
 ###PnlCookie
+###PnlPrivacyAlert
 ###PolitykaPrywatnosciCookie
 ###PopUpCookie
 ###PopupCookiesContainer
@@ -5187,6 +5188,7 @@
 ###mod-privacy-policy-banner-1
 ###mod-svmb-cookie-layer-1
 ###modPrivacySettings
+###mod_gdpr_container
 ###modal-bannercookies
 ###modal-card-email-notice
 ###modal-cookie
@@ -6036,6 +6038,7 @@
 ###slashadmin_eucookielaw
 ###slc-cookie-banner
 ###slcookieconsent
+###slickModalCookie
 ###slide-in-cookie
 ###slide_header_cookies
 ###slideit-cookie

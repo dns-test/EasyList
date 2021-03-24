@@ -1427,6 +1427,7 @@
 ###post_share_buttons
 ###post_sharethis
 ###post_social
+###post_tweet
 ###postfblike
 ###postheader_share
 ###postshare
@@ -11606,6 +11607,7 @@
 ##.story-social-share
 ##.story-social-widget
 ##.story-taboola-related-module
+##.story-tool-share
 ##.story-tools-social
 ##.story-top-social
 ##.storySocial_lng
@@ -12421,6 +12423,7 @@
 ##.wds-tweet
 ##.wds-tweet-container
 ##.wds-tweet-data
+##.wdt_social_share
 ##.web_widget_socialBar
 ##.wf-social
 ##.whatsapp-barra

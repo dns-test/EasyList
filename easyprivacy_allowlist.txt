@@ -40,6 +40,7 @@
 @@||att.com/scripts/adobe/prod/$script,~third-party
 @@||att.com/scripts/adobe/virtual/detm-container-hdr.js$~third-party
 @@||att.tv^*/VisitorAPI.js$script,~third-party
+@@||autoaudience.com/tag/$script,domain=mazda.ca
 @@||azureedge.net/prod/smi/loader-config.json$domain=pressdemocrat.com
 @@||bam.nr-data.net^$script,domain=kapwing.com
 @@||banned.video/videojs-event-tracking/dist/videojs-event-tracking.js$script,domain=banned.video|infowars.com
@@ -50,7 +51,8 @@
 @@||bobbibrowncosmetics.com^*/analytics.min.js$~third-party
 @@||bookmate.com^*/impressions?$~third-party,xmlhttprequest
 @@||cleverpush.com/channel/$script,domain=bsdex.de
-! @@||browser.sentry-cdn.com^$domain=cardiffmedia.co.uk|connect.shore.com|crrowd.com|eco-clobber.co.uk|gina-phillips.com|gracevanberkum.com|imperial.ac.uk|loveotv.com|onginnovations.com|simonparkes.org|stockforecasttoday.com|tekku.co.za|theangryviking1776.com|thegivingblock.com|thepittsburghoratory.org|truenews4u.com|washingtonpost.com|wix.com
+! @@||browser.sentry-cdn.com^$domain=cardiffmedia.co.uk|connect.shore.com|crrowd.com|gina-phillips.com|gracevanberkum.com|imperial.ac.uk|loveotv.com|onginnovations.com|simonparkes.org|stockforecasttoday.com|tekku.co.za|theangryviking1776.com|thegivingblock.com|thepittsburghoratory.org|truenews4u.com|washingtonpost.com|wix.com
+@@||browser.sentry-cdn.com^$domain=eco-clobber.co.uk
 @@||brsrvr.com/api/$xmlhttprequest,domain=dollargeneral.com
 @@||c.paypal.com/da/r/fb.js$script
 @@||cbsinteractive.com^*/lib/tracking/comscore/$script
@@ -108,6 +110,7 @@
 @@||ensighten.com^*/serverComponent.php?$script
 @@||epicgames.com/id/api/analytics$~third-party,xmlhttprequest
 @@||events-collector.spot.im/api/$xmlhttprequest
+@@||evestment.com/api/analytics/$domain=evestment.com
 @@||evil-inc.com/comic/advertising-age/$~third-party,xmlhttprequest
 @@||fast.appcues.com^$script,domain=static.abcmouse.com
 @@||files.mycloud.com/js/analytics/google_analytics.js
@@ -128,11 +131,9 @@
 @@||geostag.cardinalcommerce.com/DeviceFingerprintWeb/includes/js/fingerprint2.min.js$script
 @@||ghstatic.com/images/site/zylom/scripts/google-analytics.js?$domain=zylom.com
 @@||google-analytics.com/analytics.js$domain=beinsports.com|jackbox.tv|tracking.narvar.com|westernunion.com
-@@||google-analytics.com/ga.js$domain=apps.facebook.com|everydayhealth.com
 @@||google-analytics.com/plugins/ga/inpage_linkid.js$domain=westernunion.com
-@@||google.com/js/gweb/analytics/autotrack.js$domain=gradleplease.appspot.com|www.google.com
-@@||googletagmanager.com/gtag/js$script,domain=honeystinger.com|m.putlocker.how
-@@||googletagmanager.com/gtm.js$domain=ads.spotify.com|aim.steelseries.com|atptour.com|bsa-whitelabel.com|chipotle.com|cyclingnews.com|easternbank.com|hbomax.com|medibank.com.au|newsletter.co.uk|nflgamepass.com|pioneer.eu|porsche.com|readyrefresh.com|redbull.com|royalbank.com|scotsman.com|trademe.co.nz
+@@||googletagmanager.com/gtag/js$script,domain=honeystinger.com|m.putlocker.how|schwab.com
+@@||googletagmanager.com/gtm.js$domain=atptour.com|bsa-whitelabel.com|chipotle.com|complex.com|cyclingnews.com|easternbank.com|nflgamepass.com|pioneer.eu|royalbank.com|scotsman.com|trademe.co.nz
 @@||gov.au/Scripts/ga.js$script,~third-party
 @@||guce.advertising.com/collectIdentifiers$domain=guce.advertising.com
 @@||hearstapps.com/static/comscore.$script,domain=womenshealthmag.com
@@ -325,9 +326,10 @@
 ! Opera/Safari (buggy 3rd-party implementations)
 ! https://forums.lanik.us/viewtopic.php?f=64&t=45603&p=158333
 @@||bugsnag.com^$~third-party,domain=app.bugsnag.com
-! Consent Fixes
+! Consent and video Fixes
 @@||sourcepoint.telegraph.co.uk^$~third-party,xmlhttprequest
-@@||sourcepointcmp.bloomberg.com/ccpa.js$script,domain=bloomberg.com
+@@||sourcepointcmp.bloomberg.*/ccpa.js$script,domain=bloomberg.co.jp|bloomberg.com
+@@||sourcepointcmp.bloomberg.*/mms/get_site_data$xmlhttprequest,domain=bloomberg.co.jp|bloomberg.com
 ! Downdetector Consent
 @@||googletagservices.com/tag/js/gpt.js$domain=allestoringen.be|allestoringen.nl|allestörungen.at|allestörungen.ch|allestörungen.de|downdetector.ae|downdetector.ca|downdetector.cl|downdetector.co.nz|downdetector.co.uk|downdetector.co.za|downdetector.com|downdetector.com.ar|downdetector.com.au|downdetector.com.br|downdetector.com.co|downdetector.cz|downdetector.dk|downdetector.ec|downdetector.es|downdetector.fi|downdetector.fr|downdetector.gr|downdetector.hk|downdetector.hr|downdetector.hu|downdetector.id|downdetector.ie|downdetector.in|downdetector.it|downdetector.jp|downdetector.mx|downdetector.my|downdetector.no|downdetector.pe|downdetector.ph|downdetector.pk|downdetector.pl|downdetector.pt|downdetector.ro|downdetector.ru|downdetector.se|downdetector.sg|downdetector.sk|downdetector.web.tr
 ! Cloudflare hcaptcha test

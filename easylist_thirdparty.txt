@@ -555,6 +555,7 @@
 ||dew9ckzjyt2gn.cloudfront.net^
 ||dhgate.com^$third-party,domain=sammyhub.com
 ||dhresource.com^*/banner$third-party
+||dianomi.com/click.epl
 ||digitalsatellite.tv/banners/
 ||direct.quasir.info^$third-party
 ||directnicparking.com^$third-party
@@ -900,6 +901,7 @@
 ||in.com/common/script_catch.js
 ||indeed.fr/ads/
 ||indian-forex.com^*/banners/$third-party
+||indiatimes.com//affiliate_new.cms?
 ||indieclick.3janecdn.com^
 ||indochino.com/indo-ecapture-widget/$third-party
 ||infibeam.com/affiliate/$third-party
@@ -1827,6 +1829,7 @@
 ||dl5ft52dtazxd.cloudfront.net^
 ||dlne6myudrxi1.cloudfront.net^
 ||dm7gsepi27zsx.cloudfront.net^
+||dmmzkfd82wayn.cloudfront.net^
 ||dn3uy6cx65ujf.cloudfront.net^
 ||dnhfi5nn2dt67.cloudfront.net^
 ||dpd9yiocsyy6p.cloudfront.net^
@@ -1834,6 +1837,7 @@
 ||dtv5loup63fac.cloudfront.net^
 ||du01z5hhojprz.cloudfront.net^
 ||dw9uc6c6b8nwx.cloudfront.net^
+||dwnm2295blvjq.cloudfront.net^
 ||dxkkb5tytkivf.cloudfront.net^
 ||dxz454z33ibrc.cloudfront.net^
 ! Google Hosted scripts

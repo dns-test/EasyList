@@ -26,6 +26,7 @@
 ||g6932951725.co^
 ||g7131036060.co^
 ||g7329120395.co^
+||g7527204730.co^
 ||mors22.com^
 ||nxakpj4ac8gkd53.info^
 ||propeller-tracking.com^
@@ -426,6 +427,7 @@
 ||bugsnag.com^$third-party
 ||buildkiteanalytics.com^$third-party
 ||bunchbox.co^$third-party
+||burpee.xyz^$third-party
 ||burstbeacon.com^$third-party
 ||burt.io^$third-party
 ||buzzdeck.com^$third-party
@@ -3209,6 +3211,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||bandborder.com^$third-party
 ||basketballbelieve.com^$third-party
 ||baskettexture.com^$third-party
+||bawdybalance.com^$third-party
 ||boilingbeetle.com^$third-party
 ||borderbrush.com^$third-party
 ||breakfastboat.com^$third-party

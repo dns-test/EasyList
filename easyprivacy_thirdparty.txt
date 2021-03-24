@@ -272,6 +272,7 @@
 ||audit.median.hu^
 ||autoline-top.com/counter.php?
 ||automate-prod.s3.amazonaws.com^$~script
+||avo.app^*/track
 ||awaps.yandex.net^
 ||awe.sm/conversions/
 ||aweber.com/form/displays.htm?$image
@@ -567,6 +568,7 @@
 ||counter.cam-content.com^
 ||counter.digits.com^
 ||counter.hyipexplorer.com^
+||counter.jdi5.com^
 ||counter.maases.com^
 ||counter.packa2.cz^
 ||counter.powweb.com^
