@@ -12122,6 +12122,8 @@
 ##.ads-long
 ##.ads-main
 ##.ads-margin
+##.ads-margin-top-20
+##.ads-marker
 ##.ads-medium-rect
 ##.ads-middle
 ##.ads-middle-top
@@ -12156,6 +12158,7 @@
 ##.ads-section
 ##.ads-side
 ##.ads-sidebar
+##.ads-sidebar-300-600
 ##.ads-sidebar-boxad
 ##.ads-sign
 ##.ads-single
@@ -12174,6 +12177,7 @@
 ##.ads-square
 ##.ads-squares
 ##.ads-static-video-overlay
+##.ads-sticky-300-600
 ##.ads-story
 ##.ads-story-leaderboard-atf
 ##.ads-stripe
@@ -13933,6 +13937,7 @@
 ##.apiAdMarkerAbove
 ##.apiAds
 ##.apiButtonAd
+##.app-ad
 ##.app-advertisements
 ##.app-leaderboard-ad-container
 ##.app_ad_unit
@@ -21067,6 +21072,7 @@
 ##[href^="https://go.affiliatexe.com/"]
 ##[href^="https://refpahrwzjlv.top/"]
 ##[href^="https://secure.bmtmicro.com/servlets/"]
+##[href^="https://wct.link/"]
 ##[href^="https://www.xvbelink.com/"]
 ##[id^="ad-wrap-"]
 ##[id^="adframe_wrap_"]
