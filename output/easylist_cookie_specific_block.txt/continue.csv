@@ -1,8 +1,4 @@
 idna_subject,checker_type,destination,source,tested_at,session_id
-vinted.*,AVAILABILITY,easylist_cookie_specific_block.txt,easylist_cookie_specific_block.txt,2001-03-07 10:48:40.693569,623c6a209a029b7413d68e23
-jacquelinewilson.co.uk,AVAILABILITY,easylist_cookie_specific_block.txt,easylist_cookie_specific_block.txt,2001-03-17 08:37:38.275433,623c6a209a029b7413d68e23
-kayak.,AVAILABILITY,easylist_cookie_specific_block.txt,easylist_cookie_specific_block.txt,2001-03-17 08:37:38.428900,623c6a209a029b7413d68e23
-vinted.,AVAILABILITY,easylist_cookie_specific_block.txt,easylist_cookie_specific_block.txt,2001-03-17 08:37:39.534884,623c6a209a029b7413d68e23
 agicssecurity.com,AVAILABILITY,easylist_cookie_specific_block.txt,easylist_cookie_specific_block.txt,2021-03-26 18:41:08.217898,623c6a209a029b7413d68e23
 appconsent.io,AVAILABILITY,easylist_cookie_specific_block.txt,easylist_cookie_specific_block.txt,2021-03-26 18:41:14.448349,623c6a209a029b7413d68e23
 cmp.infopro-digital.com,AVAILABILITY,easylist_cookie_specific_block.txt,easylist_cookie_specific_block.txt,2021-03-26 18:43:43.022808,623c6a209a029b7413d68e23
@@ -41,3 +37,7 @@ vandalism-sounds.com,AVAILABILITY,easylist_cookie_specific_block.txt,easylist_co
 windguru.cz,AVAILABILITY,easylist_cookie_specific_block.txt,easylist_cookie_specific_block.txt,2021-03-26 20:14:13.321849,623c6a209a029b7413d68e23
 yimg.com,AVAILABILITY,easylist_cookie_specific_block.txt,easylist_cookie_specific_block.txt,2021-03-26 20:14:18.754624,623c6a209a029b7413d68e23
 cmp.osano.com,AVAILABILITY,easylist_cookie_specific_block.txt,easylist_cookie_specific_block.txt,2021-03-26 20:16:45.461168,623c6a209a029b7413d68e23
+vinted.*,AVAILABILITY,easylist_cookie_specific_block.txt,easylist_cookie_specific_block.txt,2021-03-26 20:47:39.205802,623c6a209a029b7413d68e23
+jacquelinewilson.co.uk,AVAILABILITY,easylist_cookie_specific_block.txt,easylist_cookie_specific_block.txt,2021-03-26 20:47:44.678262,623c6a209a029b7413d68e23
+kayak.,AVAILABILITY,easylist_cookie_specific_block.txt,easylist_cookie_specific_block.txt,2021-03-26 20:47:44.777351,623c6a209a029b7413d68e23
+vinted.,AVAILABILITY,easylist_cookie_specific_block.txt,easylist_cookie_specific_block.txt,2021-03-26 20:47:44.876814,623c6a209a029b7413d68e23

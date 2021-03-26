@@ -5887,3 +5887,9 @@ videosz.com^,AVAILABILITY,adult_thirdparty_popup.txt,2021-03-26 18:40:14.187314
 cookie.oup.com,AVAILABILITY,easylist_cookie_specific_block.txt,2021-03-26 19:53:49.983192
 gdpr.prisa.com,AVAILABILITY,easylist_cookie_specific_block.txt,2021-03-26 20:04:39.123653
 kayak.*,AVAILABILITY,easylist_cookie_specific_block.txt,2021-03-26 20:05:06.529815
+vinted.*,AVAILABILITY,easylist_cookie_specific_block.txt,2021-03-26 20:47:39.205802
+kayak.,AVAILABILITY,easylist_cookie_specific_block.txt,2021-03-26 20:47:44.777351
+vinted.,AVAILABILITY,easylist_cookie_specific_block.txt,2021-03-26 20:47:44.876814
+vehicle-livery.net,AVAILABILITY,easylist_cookie_specific_hide.txt,2021-03-26 20:51:25.998991
+oilrig-photos.com,AVAILABILITY,easylist_cookie_specific_hide.txt,2021-03-26 20:56:24.016331
+construction-and-excavation.com,AVAILABILITY,easylist_cookie_specific_hide.txt,2021-03-26 21:02:24.107274
