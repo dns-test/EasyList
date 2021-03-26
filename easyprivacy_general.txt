@@ -12,6 +12,7 @@
 &ref=*&tag=
 &refer=http$script
 &refererPageDetail=
+&tag=IMPRESSION&
 &trackingserver=
 &visitor=*&referrer=
 &visitorUuid=
@@ -1953,6 +1954,7 @@
 /fpv2.js
 /freecgi/count.cgi?
 /friendbuy.min.js
+/frontend-sentry-
 /frosmo.easy.js
 /frtrack.
 /fsrscripts/*
@@ -5302,6 +5304,8 @@
 ?log=stats&
 ?log=stats-
 ?log_visibility=
+?logType=impression&
+?logType=trackEvent&
 ?mf_referrer=
 ?pageviews=$third-party
 ?pvid=*&pn=

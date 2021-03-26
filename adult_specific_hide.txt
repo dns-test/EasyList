@@ -2,6 +2,7 @@ swfchan.com###aaaa
 gaytube.com###ads
 flyingjizz.com###adv_inplayer
 milffox.com###advertising
+heavy-r.com###below_player_widgeta
 sexyandfunny.com###best-friends
 porntube.com###bottomBanner
 wankerhut.com###bottom_adv
@@ -200,7 +201,7 @@ katestube.com##.adv-aside
 txxx.com##.adv-desk-list
 freexcafe.com##.adv1
 mygirlfriendvids.net,wastedamateurs.com##.advblock
-hungangels.com,porn.hu##.advert
+hungangels.com##.advert
 flyingjizz.com,gotporn.com,japan-whores.com,perfectgirls.net,pornmd.com,porntube.com,youporngay.com##.advertisement
 pinflix.com##.advertisement-link
 alphaporno.com,bravotube.net,sleazyneasy.com##.advertising
@@ -526,8 +527,7 @@ teenasspussy.com##.sqs
 pornstarchive.com##.squarebanner
 lewdninja.com##.stargate
 sexyandshocking.com##.sub-holder
-peepinghunter.com,simply-hentai.com##.superbanner
-dickbig.net##.t_14
+simply-hentai.com##.superbanner
 4kporn.xxx,fpo.xxx,mrdeepfakes.com,rare-videos.net##.table
 intporn.com##.tagcloudlink.level4
 sxyprn.com##.tbd
@@ -701,7 +701,6 @@ gotporn.com##a[href^="https://www.gotporn.com/click.php?id="]
 imagebam.com,vipergirls.to##a[href^="https://www.mrporngeek.com/"]
 avn.com##a[href^="https://www.myfreecams.com/"][href*="&track="]
 barelist.com##a[onclick="CallServer('ad', '')"]
-xxxstreams.eu##a[style]
 pornhub.com,pornhubthbh7ap3u.onion##ads
 pornhub.com,pornhubthbh7ap3u.onion##aside > [style="display: block;"] > table
 pornhub.com,pornhubthbh7ap3u.onion##aside > span:first-child

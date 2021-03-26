@@ -1,7 +1,4 @@
 idna_subject,checker_type,destination,source,tested_at,session_id
-agicssecurity.com,AVAILABILITY,easylist_cookie_specific_block.txt,/home/runner/work/EasyList/EasyList/easylist_cookie_specific_block.txt,2001-02-11 17:45:25.243076,623c6a209a029b7413d68e23
-appconsent.io,AVAILABILITY,easylist_cookie_specific_block.txt,/home/runner/work/EasyList/EasyList/easylist_cookie_specific_block.txt,2001-02-11 17:45:25.243902,623c6a209a029b7413d68e23
-cmp.infopro-digital.com,AVAILABILITY,easylist_cookie_specific_block.txt,/home/runner/work/EasyList/EasyList/easylist_cookie_specific_block.txt,2001-02-11 17:45:25.244709,623c6a209a029b7413d68e23
 conclude.com,AVAILABILITY,easylist_cookie_specific_block.txt,/home/runner/work/EasyList/EasyList/easylist_cookie_specific_block.txt,2001-02-11 17:45:25.245654,623c6a209a029b7413d68e23
 consent.23g.io,AVAILABILITY,easylist_cookie_specific_block.txt,/home/runner/work/EasyList/EasyList/easylist_cookie_specific_block.txt,2001-02-11 17:45:25.246556,623c6a209a029b7413d68e23
 consent.cmp.oath.com,AVAILABILITY,easylist_cookie_specific_block.txt,/home/runner/work/EasyList/EasyList/easylist_cookie_specific_block.txt,2001-02-11 17:45:25.247452,623c6a209a029b7413d68e23
@@ -41,3 +38,6 @@ vinted.*,AVAILABILITY,easylist_cookie_specific_block.txt,easylist_cookie_specifi
 jacquelinewilson.co.uk,AVAILABILITY,easylist_cookie_specific_block.txt,easylist_cookie_specific_block.txt,2001-03-17 08:37:38.275433,623c6a209a029b7413d68e23
 kayak.,AVAILABILITY,easylist_cookie_specific_block.txt,easylist_cookie_specific_block.txt,2001-03-17 08:37:38.428900,623c6a209a029b7413d68e23
 vinted.,AVAILABILITY,easylist_cookie_specific_block.txt,easylist_cookie_specific_block.txt,2001-03-17 08:37:39.534884,623c6a209a029b7413d68e23
+agicssecurity.com,AVAILABILITY,easylist_cookie_specific_block.txt,easylist_cookie_specific_block.txt,2021-03-26 18:41:08.217898,623c6a209a029b7413d68e23
+appconsent.io,AVAILABILITY,easylist_cookie_specific_block.txt,easylist_cookie_specific_block.txt,2021-03-26 18:41:14.448349,623c6a209a029b7413d68e23
+cmp.infopro-digital.com,AVAILABILITY,easylist_cookie_specific_block.txt,easylist_cookie_specific_block.txt,2021-03-26 18:43:43.022808,623c6a209a029b7413d68e23

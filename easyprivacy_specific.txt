@@ -667,6 +667,7 @@
 ||events.reddit.com^
 ||events.redditmedia.com^
 ||events.turbosquid.com^
+||events.uber.com^
 ||everythinggirl.com/assets/tracker/
 ||evgnet.com/beacon/
 ||evisit.exeter.ac.uk^
@@ -1019,6 +1020,7 @@
 ||imp-media-lab.thenewslens.com^
 ||imx.comedycentral.com^
 ||indeed.com/rpc/$~xmlhttprequest
+||indeed.com/rpc/log/
 ||independentmail.com/metrics/
 ||indiatimes.com/personalisation/logdata/
 ||info.com/pingback
@@ -1054,6 +1056,7 @@
 ||iono.fm/tracking?
 ||ip-adress.com/gl?r=
 ||ip.breitbart.com^
+||ip.cliphunter.com^
 ||ip.pichunter.com^
 ||ipetitions.com/img.php?
 ||irs.gov/js/irs_reporting_cookie.js
@@ -2329,6 +2332,9 @@
 ||u46.pnc.com^
 ||u47.pnc.com^
 ||ua.indianexpress.com^
+||uber.com/_events
+||uber.com/_track
+||uber.com/careers/apply/_log
 ||ubereats.com/_events
 ||ubereats.com/_track
 ||ucoz.com/stat/

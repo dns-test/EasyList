@@ -443,6 +443,7 @@ kbs.co.kr##.chrome_pick
 stayinwales.co.uk##.ckinfo-panel
 singular.com.cy##.cm-notification-container
 cnn.com##.cnn-toast--tos
+vivo.com##.common_prompt-privacy-bg
 browardpalmbeach.com,dallasobserver.com,houstonpress.com,miaminewtimes.com,phoenixnewtimes.com,westword.com##.compliance
 riversidecompany.com##.compliance-banner
 razer.com##.component-sticky-dialog
@@ -903,6 +904,7 @@ smallseotools.com###cookie-bar
 eteknix.com###cookie-law-info-bar
 depositfiles.com,dfiles.eu,dfiles.ru###cookie_popup
 tweaktown.com###cookies_footer_sec
+tf1.fr###tc-privacy-wrapper
 shirtsofcotton.com###udtDark
 bild.de,welt.de##.as-oil
 icq.com##.ca_wrap

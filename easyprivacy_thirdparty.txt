@@ -795,6 +795,7 @@
 ||edgesuite.net^*/googleanalyt
 ||edkt.io^*/edgekit.min.js
 ||edrone.me/trace?
+||eel.transistor.fm^
 ||egmontpublishing.dk/tracking/
 ||elpais.com/t.gif
 ||els-cdn.com^*/analytics.js
@@ -955,7 +956,7 @@
 ||go.com/capmon/GetDE/?
 ||go.optifuze.com^
 ||go.pardot.com^
-||go.techtarget.com^
+||go.techtarget.com^$image,xmlhttprequest
 ||go.toutapp.com^$third-party
 ||goadv.com^*/track.js
 ||goaww.com/stats.php
@@ -1096,6 +1097,7 @@
 ||jac.yahoosandbox.com^
 ||jailbaitchan.com/tp/
 ||jangomail.com^*?UID$third-party
+||jas.indeednps.com^
 ||javascriptcounter.appspot.com^
 ||jelly.mdhv.io^
 ||jerkmate.com^*/tracking-hasoffers-
@@ -1365,6 +1367,7 @@
 ||ns.rvmkitt.com^
 ||nspmotion.com/tracking/
 ||nude.hu/html/track.js
+||nvidia.partners/telemetry/
 ||o.addthis.com^
 ||o.aolcdn.com/js/mg1.js
 ||observer.ip-label.net^
@@ -1424,6 +1427,7 @@
 ||pcrl.co/js/jstracker.min.js
 ||pdc.dmleonyc.com^
 ||pega.com/logserver
+||pegasus.unifygroup.com^
 ||pendo.io/data/ptm.gif
 ||penton.com/analytics/
 ||perf.dugout.com^
@@ -1472,6 +1476,7 @@
 ||pixel.xmladfeed.com^$third-party
 ||pixel.yabidos.com^
 ||pixel.yola.com^
+||pixels.afcdn.com^
 ||pixhosting.com/ct/jct.php?
 ||pixlee.com/assets/pixlee_events.js
 ||planet49.com/log/

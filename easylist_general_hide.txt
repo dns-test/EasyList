@@ -13715,6 +13715,8 @@
 ##.advertising_hibu_mid
 ##.advertising_hibu_rig
 ##.advertising_images
+##.advertising_square
+##.advertising_top
 ##.advertising_widget
 ##.advertisingarea
 ##.advertisingarea-homepage
@@ -13919,6 +13921,7 @@
 ##.amazonads
 ##.amp-ad
 ##.amp-ads
+##.amp-ads-container
 ##.amsSparkleAdWrapper
 ##.anc_ads_show
 ##.anchor-ad-wrapper
@@ -14171,10 +14174,13 @@
 ##.banner-ad-block
 ##.banner-ad-container
 ##.banner-ad-footer
+##.banner-ad-image
+##.banner-ad-inner
 ##.banner-ad-label
 ##.banner-ad-large
 ##.banner-ad-row
 ##.banner-ad-space
+##.banner-ad-wrap
 ##.banner-ad-wrapper
 ##.banner-ads
 ##.banner-ads-300x250
@@ -15806,6 +15812,7 @@
 ##.fixed-ad-bottom--banner
 ##.fixed-ad300-1
 ##.fixed-ads-header
+##.fixed-automatic-ad-amp
 ##.fixedAds
 ##.fixedRightAd
 ##.fixed_ad
@@ -17917,6 +17924,7 @@
 ##.nativeadasideplaceholder
 ##.nativeads-unt
 ##.nativeadserversidecontentmodule
+##.nativiadsense
 ##.nature-ad
 ##.nav-ad
 ##.nav-ad-gpt-container
@@ -18737,6 +18745,7 @@
 ##.result-ad
 ##.result-sponsored
 ##.resultAd
+##.result__advertising
 ##.result_ad
 ##.result_item_ad-adsense
 ##.resultad
@@ -20855,6 +20864,7 @@
 ##.widget_sponsored_content
 ##.widget_supernews_ad
 ##.widget_text_adsense
+##.widget_themoneytizer_widget
 ##.widget_thesun_dfp_ad_widget
 ##.widget_uds-ads
 ##.widget_vb_sidebar_ad
@@ -20908,6 +20918,7 @@
 ##.wptouch-ad
 ##.wpx-bannerize
 ##.wpx_bannerize
+##.wpx_bannerize_banner_box
 ##.wr-ad-slot
 ##.wr-home-top-adv
 ##.wrap-ad
@@ -21654,6 +21665,7 @@
 ##a[href^="https://track.totalav.com/"]
 ##a[href^="https://track.trkinator.com/"]
 ##a[href^="https://track.ultravpn.com/"]
+##a[href^="https://tracking.comfortclick.eu/"]
 ##a[href^="https://tracking.gitads.io/"]
 ##a[href^="https://tracking.truthfinder.com/?a="]
 ##a[href^="https://trackjs.com/?utm_source"]
