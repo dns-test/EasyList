@@ -476,6 +476,7 @@
 ||cloudfront.net/code/keen-2.1.0-min.js
 ||cloudfront.net/dough/*/recipe.js
 ||cloudfront.net/esf.js
+||cloudfront.net/events
 ||cloudfront.net/i?v=
 ||cloudfront.net/js/ca.js
 ||cloudfront.net/js/reach.js
@@ -1011,6 +1012,7 @@
 ||hits.informer.com^
 ||hm.baidu.com^$third-party
 ||hocalwire.com/tracking-
+||homedepot-static.com/data-collection/
 ||homestore.com/srv/
 ||hop.clickbank.net^
 ||hornymatches.com^*/visit.php?
@@ -1454,6 +1456,7 @@
 ||pipe-collect.ebu.io^
 ||pipedream.wistia.com^
 ||pix.impdesk.com^
+||pix.revjet.com^
 ||pix.speedbit.com^$third-party
 ||pixel-a.basis.net^
 ||pixel.ampry.com^
@@ -1538,6 +1541,7 @@
 ||px.marchex.io^
 ||px.owneriq.net^
 ||px.spiceworks.com^
+||pxt.daz3d.com^
 ||qcloud.com/report.go?
 ||qq.com/code.cgi?
 ||qq.com/collect?
@@ -1867,6 +1871,7 @@
 ||telemetry.reembed.com^
 ||telemetry.soundcloud.com^
 ||telemetry.tableausoftware.com^
+||thdstatic.com/analytics/$domain=homedepot.com
 ||the-group.net/aether/
 ||thefilter.com/events/view?
 ||thefilter.com^*?extanonid=$~script
@@ -2216,6 +2221,7 @@
 ||wtbevents.pricespider.com^
 ||x.disq.us^
 ||x.weather.com^
+||xt.persosa.com^
 ||yahoo.co.jp/js/s_retargeting.js
 ||yandex.*/data?referrer=
 ||yandex.ru/cycounter?
