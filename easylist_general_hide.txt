@@ -1425,6 +1425,7 @@
 ###ad97090
 ###ad970x90_exp
 ###adATF300x250
+###adATF728x90
 ###adAd
 ###adBTF300x250
 ###adBTF300x250IC
@@ -3369,6 +3370,7 @@
 ###adundergame
 ###adunderpicture
 ###adunit
+###adunit-article-bottom
 ###adunit-mpu-atf
 ###adunit-mpu-atf-feed
 ###adunit-mpu-atf-sidebar
@@ -7764,8 +7766,11 @@
 ###sponsLinks
 ###spons_links
 ###sponseredlinks
+###sponsor-box-widget
+###sponsor-flyout
 ###sponsor-flyout-wrap
 ###sponsor-links
+###sponsor-partners
 ###sponsor-sidebar-container
 ###sponsorAd
 ###sponsorAd1
@@ -7870,6 +7875,7 @@
 ###sponsors-home
 ###sponsorsBox
 ###sponsorsContainer
+###sponsorsModule_part
 ###sponsors_right_container
 ###sponsors_top_container
 ###sponsorsads1
@@ -9421,6 +9427,7 @@
 ##.ad-88-text
 ##.ad-88x31
 ##.ad-9
+##.ad-90
 ##.ad-90x600
 ##.ad-970
 ##.ad-970-90
@@ -9520,6 +9527,7 @@
 ##.ad-block-300x250
 ##.ad-block-big
 ##.ad-block-bottom
+##.ad-block-btf
 ##.ad-block-clear-back
 ##.ad-block-header
 ##.ad-block-holder
@@ -14105,6 +14113,7 @@
 ##.avantgardia-ad-widget
 ##.avert-text
 ##.avertissement-download
+##.azk-adsense
 ##.b-ad
 ##.b-ad-footerBanner
 ##.b-ad-main
@@ -15788,6 +15797,7 @@
 ##.field-59-companion-ad
 ##.field-name-shared-ad-placement-landscape
 ##.field-name-sticky-ads-div
+##.filmad
 ##.finpostsads
 ##.firefly-sidebar-ad
 ##.fireplaceadleft
@@ -15984,6 +15994,7 @@
 ##.full-ad-wrapper
 ##.full-adv
 ##.full-bleed-ad
+##.full-bleed-ad-container
 ##.full-top-ad-area
 ##.full-width-ad
 ##.full-width-ad-container
@@ -16694,6 +16705,7 @@
 ##.hori-play-page-adver
 ##.horisont_ads
 ##.horiz_adspace
+##.horizontal-ad
 ##.horizontal-ad-holder
 ##.horizontal-ad2
 ##.horizontal-ads
@@ -17990,6 +18002,7 @@
 ##.newsblock-ads
 ##.newsfeed_adunit
 ##.newsletter_ad
+##.newspack_global_ad
 ##.newsstackedAds
 ##.newstream_ad
 ##.newsviewAdBoxInNews
@@ -19091,6 +19104,7 @@
 ##.secondaryAdModule
 ##.secondary_ad
 ##.sectiads
+##.section--mpu
 ##.section-ad
 ##.section-ad-related
 ##.section-ad-wrapper
@@ -19135,6 +19149,7 @@
 ##.sexunder_ads
 ##.sfadSlot
 ##.sfsp_adadvert
+##.sg-adblock
 ##.sgAd
 ##.sh-ad-box
 ##.sh-ad-section
@@ -20763,7 +20778,6 @@
 ##.widget-pane-section-ad-content
 ##.widget-sponsor
 ##.widget-text-ad
-##.widget.ad-box
 ##.widget1-ad
 ##.widget10-ad
 ##.widget4-ad
@@ -20917,6 +20931,7 @@
 ##.wpproadgrid
 ##.wpproadszone
 ##.wptouch-ad
+##.wpvqgr-a-d-s
 ##.wpx-bannerize
 ##.wpx_bannerize
 ##.wpx_bannerize_banner_box
@@ -21141,7 +21156,6 @@
 ##a[href*="//bongacams7.com/track?"]
 ##a[href*="//ezofferz.com/"]
 ##a[href*="//promo-bc.com/track?"]
-##a[href*="//refer.ccbill.com/cgi-bin/clicks.cgi"]
 ##a[href*="//ridingintractable.com/"]
 ##a[href*="/adServe/banners?"]
 ##a[href*="/adrotate-out.php?"]
@@ -21497,7 +21511,6 @@
 ##a[href^="http://yads.zedo.com/"]
 ##a[href^="http://z1.zedo.com/"]
 ##a[href^="http://zevera.com/afi.html"]
-##a[href^="https://8a1ccf65f2b1302.com/"]
 ##a[href^="https://a.adtng.com/"]
 ##a[href^="https://a.bestcontentfood.top/"]
 ##a[href^="https://aaucwbe.com/"]
@@ -21627,7 +21640,6 @@
 ##a[href^="https://prf.hn/click/"][href*="/creativeref:"]
 ##a[href^="https://pubads.g.doubleclick.net/"]
 ##a[href^="https://reachtrgt.com/"]
-##a[href^="https://redirect.ero-advertising.com/"]
 ##a[href^="https://redsittalvetoft.pro/"]
 ##a[href^="https://refpaano.host/"]
 ##a[href^="https://refpaexhil.top/"]
@@ -22123,6 +22135,7 @@
 ###taboola-footer-ad
 ###taboola-mid-article-thumbnails
 ###taboola-placeholder
+###taboola-right-rail
 ###taboola-right-rail-stream-2nd
 ###taboola-right-rail-thumbnails-1st
 ###taboola-top-banner-abp
