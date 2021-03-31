@@ -485,6 +485,7 @@
 /AdobeAnalyticsSDK.
 /AdobeCustomVideoMeasurement.swf
 /adobeMonitor.
+/adobevideoheartbeat.
 /adonis_event/*
 /adpixel.
 /adplogger/*
@@ -3413,6 +3414,7 @@
 /pladtrack.
 /planetstat.
 /platform-analytics-
+/plausible.js
 /player_counter.ashx?
 /PlayerDashboardLoggingService.svc/json/StartSession?
 /playerlogger.

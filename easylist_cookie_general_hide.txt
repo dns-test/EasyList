@@ -2325,6 +2325,7 @@
 ###cookieNotificationDialog
 ###cookieNotificationLayer
 ###cookieNotificationMain
+###cookieNotificationScreen
 ###cookieNotifier
 ###cookieNotifierWrapper
 ###cookieNotify
@@ -6711,6 +6712,7 @@
 ##.GDPR-Msg
 ##.GDPR-WelcomeBanner
 ##.GDPR-cookies
+##.GDPR-notification
 ##.GDPR-toast
 ##.GDPR-tools-consent
 ##.GDPR.ng-star-inserted
@@ -7755,6 +7757,7 @@
 ##.cookie--wrap
 ##.cookie--wrap__on
 ##.cookie-03
+##.cookie-above
 ##.cookie-accept
 ##.cookie-accept-area
 ##.cookie-accept-banner
@@ -8036,6 +8039,7 @@
 ##.cookie-information-panel
 ##.cookie-information-text
 ##.cookie-information-wrapper
+##.cookie-informative-message
 ##.cookie-informer
 ##.cookie-infos
 ##.cookie-inner
@@ -8509,6 +8513,7 @@
 ##.cookieHeaderContainer
 ##.cookieHeaderWrapper
 ##.cookieHint
+##.cookieHintContainer
 ##.cookieHinweis
 ##.cookieHolder
 ##.cookieInfo:not(body)
@@ -10936,6 +10941,7 @@
 ##.ng-scope[ng-if*="isCookiesAccepted"]
 ##.ng-scope[ng-if="cookieWarning"]
 ##.ng-scope[ng-if="showCookieInfo"]
+##.ng-star-inserted.cookie
 ##.ngs-cookie-bar
 ##.ni-cookieConsent
 ##.nitea-cookie-info-container
@@ -11141,6 +11147,7 @@
 ##.page__cookie
 ##.page__disclaimer--cookies
 ##.page__gdpr
+##.page__survey-cookie-info
 ##.pageinfo-cookie
 ##.pane-cookie-disclaimer
 ##.panel--cookie
@@ -11178,6 +11185,7 @@
 ##.pg-cookie
 ##.ph-cookie-compliance
 ##.ph-cookie-info
+##.ph-cookies
 ##.ph-widget-target[data-widget*="cookie-popup"]
 ##.philadelphia-optin-visible
 ##.philoro_cookies--popover
@@ -11702,6 +11710,7 @@
 ##.sv-text-portlet.cookie
 ##.sw-cookie-container
 ##.sw-cookies-banner
+##.sw19b-cookie-banner
 ##.swic-cookie-permission-container
 ##.swnza_banner
 ##.sws-cookie-notification

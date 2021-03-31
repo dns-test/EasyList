@@ -3333,6 +3333,7 @@ peoplesworld.org##.donate_strip
 nzherald.co.nz##.down.premium-toaster
 dealnews.com##.engagement
 dealnews.com##.engagement-container
+aeon.co##.footer-banner
 propublica.org##.fundraising-letter-inline
 artnews.com##.get-the-magazine__outer
 npr.org##.global-modal
@@ -3794,6 +3795,7 @@ etonline.com##.block-ctd-mapp
 ibtimes.com##.block-ibtimes-newsletters
 americamagazine.org##.block-mailchimp-signup
 ncronline.org##.block-ncr-api-emailmarketing
+thehill.com##.block-thehill-signup
 asiaone.com##.block-webform
 esquire.com##.body-tip
 allevents.in##.bottom-right-subscribe
@@ -3987,6 +3989,7 @@ independent.co.uk,standard.co.uk##.gigya-signup
 usatoday.com##.gnt_m_nls
 usatoday.com##.gnt_m_th_em
 aubizbuysell.com.au,nzbizbuysell.co.nz,nzcommercial.co.nz,nzfranchises.co.nz##.green-box-fern
+freshplaza.com##.grey_background
 wonkette.com##.grwf2-wrapper
 globalvoices.org##.gv-mailchimp-form-container
 garyvaynerchuk.com##.gv-widget-mailinglist
@@ -4040,6 +4043,7 @@ digg.com##.js--promo-bottom
 theguardian.com##.js-aside-slot-container
 indiatimes.com##.js-common-hook
 linuxjournal.com##.js-form-item-email
+datacenterdynamics.com##.js-mktoFormBlock
 gamespot.com##.js-nlsub
 highya.com##.js-swimingBlock-stoper
 avclub.com,deadspin.com,gizmodo.com,jalopnik.com,kotaku.com,lifehacker.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##.js_modal_exit_intent
@@ -4111,6 +4115,7 @@ cybersecurityventures.com##.mpc-callout
 msmagazine.com##.ms-actions
 motorsport.com##.ms-footer_top
 msnbc.com##.msnbcDaily__footer
+itweb.co.za##.mt-3.itw-noprint
 ft.com##.n-sliding-popup
 nature.com##.nature-briefing
 nypost.com##.nav-header--email

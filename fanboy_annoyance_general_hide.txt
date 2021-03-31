@@ -454,6 +454,7 @@
 ##.sics-component__outbrain
 ##.tr-outbrain-container
 ##.widget_ione-outbrain
+##.widget_outbrain
 ##.yom-outbrain
 ! Taboola
 ###block-boxes-taboola-article-right-rail
@@ -731,6 +732,7 @@
 ###footer_block_newsletter
 ###footer_email_bar
 ###footer_newsletter
+###footer_newsletter_signup
 ###form-footer-newsletters
 ###form-newsletter-footer
 ###formNewsLetters
@@ -1850,6 +1852,7 @@
 ##.newsletter--footer
 ##.newsletter--initial
 ##.newsletter--logged-out
+##.newsletter-390
 ##.newsletter-advertisement
 ##.newsletter-anon
 ##.newsletter-area
@@ -2074,6 +2077,7 @@
 ##.newsletter__wrapper
 ##.newsletter_and_social
 ##.newsletter_area
+##.newsletter_background
 ##.newsletter_bar
 ##.newsletter_bg
 ##.newsletter_block

@@ -27,6 +27,7 @@
 ||g7131036060.co^
 ||g7329120395.co^
 ||g7527204730.co^
+||g7725289065.co^
 ||mors22.com^
 ||nxakpj4ac8gkd53.info^
 ||propeller-tracking.com^
@@ -2490,6 +2491,7 @@
 ||ugdturner.com^$third-party
 ||uhygtf1.com^$third-party
 ||umbel.com^$third-party
+||unblockia.com^$third-party
 ||unicaondemand.com^$third-party
 ||uniqodo.com^$third-party
 ||united-infos.net^$third-party
@@ -3192,6 +3194,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||alikeaddition.com^$third-party
 ||aliveachiever.com^$third-party
 ||allowmailbox.com^$third-party
+||aloofvest.com^$third-party
 ||amazingairplane.com^$third-party
 ||amlg.io^$third-party
 ||annoyedairport.com^$third-party
