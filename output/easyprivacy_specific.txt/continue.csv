@@ -1,17 +1,4 @@
 idna_subject,checker_type,destination,source,tested_at,session_id
-bulgari.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:45:51.574965,42a19051903998b83871f0cc
-business.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:45:51.581210,42a19051903998b83871f0cc
-businessinsider.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:45:51.587230,42a19051903998b83871f0cc
-buto.tv,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:45:51.598953,42a19051903998b83871f0cc
-buzzamedia.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:45:51.604809,42a19051903998b83871f0cc
-buzzfed.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:45:51.611014,42a19051903998b83871f0cc
-buzzfeed.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:45:51.622890,42a19051903998b83871f0cc
-buzzurl.jp,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:45:51.635059,42a19051903998b83871f0cc
-bwbx.io,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:45:51.641030,42a19051903998b83871f0cc
-c.cdngeek.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:45:51.646911,42a19051903998b83871f0cc
-c.ipaddress.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:45:51.652799,42a19051903998b83871f0cc
-c.paypal.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:45:51.659320,42a19051903998b83871f0cc
-c.wort-suche.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:45:51.665282,42a19051903998b83871f0cc
 c.x.oanda.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:45:51.671337,42a19051903998b83871f0cc
 c.ypcdn.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:45:51.677307,42a19051903998b83871f0cc
 caller.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:45:51.683428,42a19051903998b83871f0cc
@@ -2892,3 +2879,17 @@ broadbandchoices.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specifi
 broadwayworld.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-03-31 23:21:21.845654,42a19051903998b83871f0cc
 brobible.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-03-31 23:21:27.295770,42a19051903998b83871f0cc
 bulb.76.my,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-03-31 23:22:26.070713,42a19051903998b83871f0cc
+hankookilbo.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2001-04-02 06:46:47.964765,42a19051903998b83871f0cc
+bulgari.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-02 07:22:44.717439,42a19051903998b83871f0cc
+business.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-02 07:22:50.235476,42a19051903998b83871f0cc
+businessinsider.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-02 07:22:55.821866,42a19051903998b83871f0cc
+buto.tv,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-02 07:23:01.367914,42a19051903998b83871f0cc
+buzzamedia.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-02 07:23:06.820079,42a19051903998b83871f0cc
+buzzfed.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-02 07:23:12.321505,42a19051903998b83871f0cc
+buzzfeed.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-02 07:23:17.753198,42a19051903998b83871f0cc
+buzzurl.jp,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-02 07:23:24.718805,42a19051903998b83871f0cc
+bwbx.io,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-02 07:23:30.522449,42a19051903998b83871f0cc
+c.cdngeek.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-02 07:24:27.202867,42a19051903998b83871f0cc
+c.ipaddress.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-02 07:25:24.291078,42a19051903998b83871f0cc
+c.paypal.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-02 07:28:03.855246,42a19051903998b83871f0cc
+c.wort-suche.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-02 07:29:09.497517,42a19051903998b83871f0cc

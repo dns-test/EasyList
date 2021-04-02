@@ -301,7 +301,7 @@
 ||richardroeper.com/assets/banner/
 ||rpgcodex.net^*/gog_button.jpg
 ||s.radioreference.com/sm/$image
-||s3.reutersmedia.net/resources/r/?f=$image
+||s3.reutersmedia.net/resources/r/?g=$image
 ||saabsunited.com/wp-content/uploads/*banner
 ||sareunited.com/uploaded_images/banners/
 ||sat24.com/bannerdetails.aspx?
@@ -349,7 +349,7 @@
 ||taxsutra.com^*/banner/
 ||techhive.com/ads/
 ||technewsworld.com/images/sda/
-||techrepublic.com/medusa/
+||techrepublic.com/leadgen/
 ||theage.com.au/assets/europa.
 ||thecenturion.co.za^*/banners/
 ||thecharlottepost.com/cache/sql/fba/

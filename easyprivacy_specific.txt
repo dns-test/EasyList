@@ -204,6 +204,7 @@
 ||atrack.allposters.com^
 ||atrack.art.com^
 ||ats.alot.com^
+||att.com/libraries/
 ||att.com/scripts/satellite/prod/
 ||attachmate.com*/pv.aspx?
 ||audible.com^*/uedata/
@@ -528,7 +529,6 @@
 ||dd.nytimes.com^
 ||dealnews.com/lw/ul.php?
 ||debtconsolidationcare.com/affiliate/tracker/
-||debug-vp.webmd.com^
 ||deliver.oztam.com.au^
 ||deliver.ptgncdn.com^
 ||dellcdn.com/csb/scripts/csb-boomr.$domain=dell.com
@@ -551,7 +551,6 @@
 ||dilbert.com^*&tracker$script
 ||dippic.com/cgi-bin/index_dl.cgi?
 ||direct-events-collector.spot.im^
-||discord.com^*/science
 ||discordapp.com^*/track
 ||discordbots.org/api/auctions/impression
 ||discover-metrics.cloud.seek.com.au^
@@ -909,6 +908,7 @@
 ||gumtree.com.au/?pc=
 ||gurgle.pcmag.com^
 ||h.cliphunter.com^
+||hankookilbo.com/service/kt/trk.js$script,domain=koreatimes.co.kr
 ||hanksgalleries.com/stxt/counter.php?
 ||harryrosen.com/analytics/
 ||harvester.eu.square-enix.com^
@@ -2465,9 +2465,9 @@
 ||webjam.com/Actions/Hit.jam?
 ||weblog.flyasiana.com^
 ||weblog.strawberrynet.com^
-||webmd.com/dtmcms/live/webmd/PageBuilder_Assets/JS/oas35.js
+||webmd.com/api/xml/pv.xml
 ||webmd.com/pixel/
-||webmd.com^*/tools/dsppixels.js
+||webmd.com/static/v/c?
 ||webmonkey.com/js/stats/
 ||webring.com/cgi-bin/logit?
 ||webstats.thesoul-publishing.com^

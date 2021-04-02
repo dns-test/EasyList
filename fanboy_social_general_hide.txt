@@ -6273,6 +6273,7 @@
 ##.horizontal-share-buttons
 ##.horizontal-share-menu
 ##.horizontal-social-links
+##.horizontal.social
 ##.hot-on-social-wrap
 ##.hot-topics-follow-us
 ##.hover-social-media-top
@@ -9762,6 +9763,7 @@
 ##.single-sharing-btns
 ##.single-social
 ##.single-social-wrap
+##.single-socials-icons
 ##.singleMultiple-share
 ##.singlePostShare
 ##.singlePostShareButton
