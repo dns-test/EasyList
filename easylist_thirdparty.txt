@@ -37,7 +37,6 @@
 ||ad.openmultimedia.biz^
 ||ad.outsidehub.com^
 ||ad.pickple.net^
-||ad.realmcdn.net^$third-party
 ||ad.reklamport.com^
 ||ad.sensismediasmart.com.au^
 ||ad.smartmediarep.com^$third-party
@@ -80,11 +79,9 @@
 ||affiliate.heureka.cz^
 ||affiliate.juno.co.uk^$third-party
 ||affiliate.mediatemple.net^$third-party
-||affiliatehub.skybet.com^$third-party
 ||affiliateprogram.keywordspy.com^
 ||affiliates.allposters.com^
 ||affiliates.bookdepository.co.uk^$third-party
-||affiliates.bookdepository.com^$third-party
 ||affiliates.homestead.com^$third-party
 ||affiliates.lynda.com^$third-party
 ||affiliatesmedia.sbobet.com^
@@ -430,6 +427,7 @@
 ||d18g6t7whf8ejf.cloudfront.net^
 ||d18t35yyry2k49.cloudfront.net^
 ||d18xeipe1243h6.cloudfront.net^
+||d1ac2du043ydir.cloudfront.net^
 ||d1aezk8tun0dhm.cloudfront.net^
 ||d1aqvw7cn4ydzo.cloudfront.net^
 ||d1crt12zco2cvf.cloudfront.net^
@@ -1736,6 +1734,8 @@
 ||d1diqetif5itzx.cloudfront.net^
 ||d1e28xq8vu3baf.cloudfront.net^
 ||d1fs2ef81chg3.cloudfront.net^
+||d1h28ftrn3kbj4.cloudfront.net^*/sticky-promo.js
+||d1h28ftrn3kbj4.cloudfront.net^*/UnitSense.js
 ||d1ilwohzbe4ao6.cloudfront.net^
 ||d1jnvfp2m6fzvq.cloudfront.net^
 ||d1ks8roequxbwa.cloudfront.net^
@@ -1830,8 +1830,6 @@
 ||googleapis.com/yieldlab/$script
 ! Used for VPN Warning ads
 ||trust.zone^$third-party
-! Mobile
-||iadc.qwapi.com^
 ! Anti-Adblock
 ||0mme.com/static.js$script,third-party
 ||2enm.com/static.js$script,third-party

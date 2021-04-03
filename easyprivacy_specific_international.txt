@@ -79,6 +79,7 @@
 ||dasoertliche.de/wws/
 ||dastelefonbuch.de^*/wws.js
 ||dat.de/inc/count.js
+||dejure.org/cgi-bin/sitzung.fcgi?
 ||dejure.org/cgi-bin/zux2?
 ||derwesten.de/stats/
 ||derwesten.de^*/click.js
@@ -786,7 +787,6 @@
 ||bookoffonline.co.jp/files/tracking/
 ||bwbx.io^*/javelin/js/abba/abba-$script,domain=bloomberg.co.jp
 ||carview.co.jp/include_api/log/
-||cgi.tbs.co.jp^
 ||count.upc.rakuten.co.jp^
 ||dmm.com/analytics/
 ||dmm.com/imp?
@@ -794,6 +794,7 @@
 ||gizmodo.jp/api/SurveyCountCollection?
 ||goo.ne.jp^*/vltracedmd.js
 ||i2i.jp/bin/
+||j1.ax.xrea.com^
 ||jen.jiji.com^
 ||ln.ameba.jp^
 ||log.suumo.jp^

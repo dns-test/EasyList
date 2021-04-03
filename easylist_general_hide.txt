@@ -5536,6 +5536,7 @@
 ###footeradsbox
 ###footeradvert
 ###form_bottomad
+###forum-top-ad-bar
 ###forum_top_ad
 ###forumlist-ad
 ###four_ads
@@ -7830,6 +7831,7 @@
 ###sponsored1
 ###sponsoredAd
 ###sponsoredAdvertisement
+###sponsoredAnime
 ###sponsoredBottom
 ###sponsoredBox1
 ###sponsoredBox2
@@ -10181,6 +10183,7 @@
 ##.ad-sticky-container
 ##.ad-sticky-slot
 ##.ad-stickyhero
+##.ad-stickyhero--standard
 ##.ad-story-inject
 ##.ad-story-top
 ##.ad-strip
@@ -11468,6 +11471,7 @@
 ##.ad_side_rectangle_banner
 ##.ad_sidebar
 ##.ad_sidebar_bigbox
+##.ad_sidebar_inner
 ##.ad_size_160x600
 ##.ad_skin
 ##.ad_sky
@@ -11818,6 +11822,7 @@
 ##.adheader416
 ##.adherebox
 ##.adhesion-block
+##.adhesive_holder
 ##.adhi
 ##.adhide
 ##.adhint
@@ -19554,6 +19559,7 @@
 ##.spLinks
 ##.sp_ad
 ##.spaceAdds
+##.spansored-item
 ##.spc-ads-leaderboard
 ##.spc-ads-sky
 ##.specialAd175x90
