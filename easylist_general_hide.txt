@@ -2565,6 +2565,7 @@
 ###adform_leaderboard_cover
 ###adframe:not(frameset)
 ###adframetop
+###adfreeDeskSpace
 ###adfreead
 ###adhalfbanner_wrapper
 ###adhalfpage
@@ -2671,6 +2672,7 @@
 ###admulti520
 ###adnet
 ###adnews
+###adngin-top_unit_desktop-0
 ###adnorth
 ###adnote
 ###adops_cube
@@ -10335,6 +10337,7 @@
 ##.ad-zone-ajax
 ##.ad-zone-container
 ##.ad-zone-s-q-l
+##.ad.card
 ##.ad.desktop-970x250
 ##.ad.element
 ##.ad.inner
@@ -15196,6 +15199,7 @@
 ##.confirm_ad_left
 ##.confirm_ad_right
 ##.confirm_leader_ad
+##.connatix-holder
 ##.connatix-wrapper
 ##.consoleAd
 ##.cont-ad
@@ -17621,6 +17625,7 @@
 ##.mf-ad300-container
 ##.mg_box_ads
 ##.mgid-wrapper
+##.mgid_3x2
 ##.micro_ad
 ##.mid-ad-wrapper
 ##.mid-advert
@@ -19687,6 +19692,7 @@
 ##.sponsorads
 ##.sponsoradtitle
 ##.sponsored-ad
+##.sponsored-ad-container
 ##.sponsored-ad-label
 ##.sponsored-ad-ob
 ##.sponsored-add
