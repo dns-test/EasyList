@@ -809,6 +809,7 @@
 ||gak.webtoons.com^
 ||galleries.bz/track/
 ||gallup.wn.com/1x1.gif
+||gamedistribution.com/collect?
 ||gamefront.com/wp-content/plugins/tracker/
 ||gamerdeals.net/aggbug.aspx
 ||gamesgames.com/WebAnalysis/
@@ -1245,6 +1246,7 @@
 ||metrics.cbslocal.com^
 ||metrics.extremetech.com^
 ||metrics.slite.com^
+||metrics.spkt.io^
 ||metrics.ted.com^
 ||metro.co.uk/js/ga-
 ||metro.us/api/trackPage/
