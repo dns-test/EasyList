@@ -3405,6 +3405,9 @@
 ###adv-Top
 ###adv-TopLeft
 ###adv-banner
+###adv-bottom-inside-page
+###adv-bottom-page
+###adv-bottom-side
 ###adv-box
 ###adv-comments-placeholder
 ###adv-companion-iframe
@@ -3420,6 +3423,8 @@
 ###adv-left
 ###adv-masthead
 ###adv-middle
+###adv-middle-inside-page
+###adv-middle-side
 ###adv-middle1
 ###adv-midroll
 ###adv-mpux
@@ -3435,6 +3440,9 @@
 ###adv-text
 ###adv-title
 ###adv-top
+###adv-top-inside-page
+###adv-top-page
+###adv-top-side
 ###adv-x34
 ###adv-x35
 ###adv-x36
@@ -5481,6 +5489,7 @@
 ###footer-ad-large
 ###footer-ad-loader
 ###footer-ad-shadow
+###footer-ad-slot
 ###footer-ad-unit
 ###footer-ad-wrapper
 ###footer-ads
@@ -5960,6 +5969,7 @@
 ###hide_ad_section_v2
 ###hideads
 ###hideads1
+###hidemefloorad
 ###hl-ad-LDRB2-1
 ###hl-ad-MON-0
 ###hl-sponsored-links
@@ -12642,6 +12652,7 @@
 ##.adsbottombox
 ##.adsbox-square
 ##.adsbox970x90
+##.adsbox990x90
 ##.adsboxBtn
 ##.adsbox_300x250
 ##.adsboxitem
@@ -14312,6 +14323,7 @@
 ##.bannergroupadvertisement
 ##.banneritem-ads
 ##.banneritem_ad
+##.bannermpu
 ##.bannerplace728
 ##.banners_ad
 ##.banners_ad_inside
@@ -15876,6 +15888,7 @@
 ##.floating-ads
 ##.floating-advert
 ##.floatingAds
+##.floorad
 ##.flurryAdsType1
 ##.fly-ad
 ##.flyercity-ads
@@ -16791,6 +16804,7 @@
 ##.hype_adrotate_widget
 ##.i360ad
 ##.iAdserver
+##.iRx9
 ##.iRx9_wrt
 ##.i_ad
 ##.iab300x250
@@ -18415,6 +18429,7 @@
 ##.plista_widget_retrescoAd_1
 ##.plista_widget_retrescoAd_2
 ##.plugin-ad
+##.plugin-ad-container
 ##.pm-ad
 ##.pm-ad-unit
 ##.pm-ad-zone
@@ -21612,6 +21627,7 @@
 ##a[href^="https://go.hpyjmp.com/"]
 ##a[href^="https://go.hpyrdr.com/"]
 ##a[href^="https://go.julrdr.com/"]
+##a[href^="https://go.nordvpn.net/aff_c"] > img
 ##a[href^="https://go.onclasrv.com/"]
 ##a[href^="https://go.stripchat.com/"][href*="&campaignId="]
 ##a[href^="https://go.trackitalltheway.com/"]

@@ -144,6 +144,7 @@
 ||allaptair.club^$popup,third-party
 ||allashark.site^$popup
 ||allsporttv.com^$popup,third-party
+||alonghelper.com^$popup
 ||alpinedrct.com^$popup,third-party
 ||alternads.info^$popup,third-party
 ||alxsite.com^$popup
@@ -395,6 +396,7 @@
 ||firsstudtog.cam^$popup
 ||firstclass-download.com^$popup
 ||flixcontentshop.com^$popup
+||flopinclose.com^$popup
 ||flrdra.com^$popup
 ||focuusing.com^$popup
 ||folmetor.com^$popup
@@ -767,6 +769,7 @@
 ||propellerclick.com^$popup
 ||propellerpops.com^$popup
 ||protect-your-privacy.net^$popup
+||provocativeprivate.com^$popup
 ||prowlerz.com^$popup
 ||psma02.com^$popup
 ||psoomeeg.com^$popup
@@ -1038,6 +1041,7 @@
 ||vq40567.com^$popup
 ||waframedia5.com^$popup
 ||wahoha.com^$popup
+||waisheph.com^$popup
 ||wardparser.info^$popup
 ||warten-sie-mal.xyz^$popup
 ||wautoosa.net^$popup
@@ -1046,6 +1050,7 @@
 ||wcitianka.com^$popup
 ||wct.link^$popup
 ||wdeliv.net^$popup
+||weaveradrenaline.com^$popup
 ||webatam.com^$popup
 ||websearchers.net^$popup
 ||webtrackerplus.com^$popup
