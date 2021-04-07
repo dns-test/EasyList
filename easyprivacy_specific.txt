@@ -323,6 +323,7 @@
 ||broadbandchoices.co.uk/track.js
 ||broadwayworld.com/regionalbug.cfm?
 ||brobible.com/?ACT
+||builder.io/api/v1/track
 ||bulb.76.my^
 ||bulgari.com/bulgari/wireframe_script/BulgariGa.js
 ||business.com/images2/anal.gif?
@@ -482,6 +483,7 @@
 ||cr.org^*/tracking.js
 ||cracked.com/tracking/
 ||crackle.com/tracking/
+||creately.com/static/js/creately-analytics-
 ||creativecommons.org/elog/
 ||creativecommons.org^*/triples?
 ||creativefactory.zalando.
@@ -749,8 +751,6 @@
 ||flirt4free.com/pixel/
 ||flixist.com/img2.phtml
 ||flixster.com^*/pixels?
-||fls-*.amazon.*%
-||fls-*.amazon.*&
 ||flyasiana.com/wlo/
 ||flybmi.com/livetrack/
 ||flyjazz.ca/ow_ga.js
@@ -1782,6 +1782,7 @@
 ||sharecast.com/counter.php
 ||shoes.com/WebServices/ClientLogging.
 ||shopautoweek.com/js/modules/tracker.js
+||shopeemobile.com^*/tr
 ||shopify.com/track.js
 ||shoplocal.com/dot_clear.gif?
 ||shopmetric.rediff.com^

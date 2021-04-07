@@ -248,6 +248,7 @@ navysports.com,texassports.com###holder-skyscraper
 goairforcefalcons.com,gopack.com,goterriers.com,texassports.com,umassathletics.com###holder-story
 transfermarkt.com###home-rectangle-spotlight
 downloadsafer.com###homebannerbottom
+semiconductor-today.com###homeright
 nutritioninsight.com###horizontalblk
 nettiauto.com,nettikaravaani.com,nettikone.com,nettimarkkina.com,nettimokki.com,nettimoto.com,nettivene.com,nettivuokraus.com###huge_banner
 hltv.org###i3_middle
@@ -257,6 +258,7 @@ mydorpie.com###imgbcont
 luxweb.lu###imu
 designtaxi.com###in-news-link-1
 designtaxi.com###in-news-link-2
+thefastmode.com###inarticlemodule
 riverbender.com###injected-300x250
 krnb.com###inner-footer
 osbot.org###ipsLayout_footer
@@ -486,6 +488,7 @@ skyrock.com###pub_up
 thebusinessdesk.com###pushdown
 miningweekly.com###q-search-powered
 howtogermany.com###quaranvino
+thefastmode.com###quick_survey
 unfair.co###r_sidebarwidgeted
 barbavid.com###rabbax
 comicbookrealm.com,technozeast.com###rad
@@ -637,8 +640,10 @@ bizarrepedia.com###stack > .ln-thr
 saharareporters.com###stage-header
 geekwire.com###startup-resources-sidebar
 coincodex.com###sticky-footer
+mashable.com###sticky-spacer
 fool.com###sticky-wrapper
 afr.com###stickyLeaderboard
+semiconductor-today.com###storyHorAdd
 gsmarena.com###subHeader
 ebaumsworld.com###subheader_atf_wrapper
 streams.tv###sunGarden
@@ -711,6 +716,7 @@ repeatmyvids.com,w3newspapers.com###topads
 scorespro.com###topban
 absolutelyrics.com,cdrlabs.com,exiledonline.com,findtheword.info,realitywanted.com,revizoronline.com,snapfiles.com###topbanner
 armenpress.am###topbnnr
+semiconductor-today.com###topheaderimage
 worldtimebuddy.com###toprek
 macworld.com,pcworld.com,techhive.com###tso
 myabandonware.com###tum
@@ -950,6 +956,7 @@ motor1.com##.apb
 ebay.com##.app-rtm-pid-wrapper
 classicfm.com##.apple_music
 whatculture.com##.area-x__large
+arstechnica.com##.ars-component-buy-box
 myabandonware.com##.art
 outerplaces.com##.article-banner-link
 businesslive.co.za##.article-da
@@ -1160,7 +1167,6 @@ go.extra-drive.com,linkhub.icu##.button
 imac-torrents.com##.button-green
 miloyski.com##.button[target="_blank"]
 downarchive.com##.button_dl
-thedrinksbusiness.com##.buttons
 chez106.com,country1011.com,country1043.com,country600.com,foxradio.ca,gameinformer.com,kissnorthbay.com,kisssoo.com,ranker.com,thesoundla.com,tunegenie.com##.buy
 overclock.net##.buy-now
 morningstar.com##.buyout_leader_cont
@@ -1251,6 +1257,7 @@ live-tennis.eu##.copyright
 imdb.com##.cornerstone_slot
 physicsworld.com##.corporate-partners
 insider.com##.coupons-link
+wolfstream.tv##.cover2
 troypoint.com##.cp-subscriber-newsletter
 politicalwire.com##.cqheadlinebox
 cgsociety.org##.creditcardAD
@@ -1564,6 +1571,7 @@ hentai2w.com##.js-rotating
 stackoverflow.com##.js-sidebar-zone
 theguardian.com##.js-top-banner
 calorieking.com##.jss2
+thefastmode.com##.k2_channel_banner_long
 imgism.com##.kevin-lb
 mbc.net##.killerbanner
 wantedinafrica.com##.kn-widget-banner
@@ -1805,6 +1813,7 @@ fastcodesign.com##.post__relative--recommender
 thetowner.com##.powered
 theportugalnews.com##.ppp-banner
 theportugalnews.com##.ppp-inner-banner
+presearch.org##.pr-4.max-w-2xl.mb-4.mt-4.md\:mt-0.md\:mb-6.ml-4
 planetrugby.com##.pr-art-betlinks
 sassymamahk.com##.pre_header_widget
 gcnlive.com##.premSponsor
@@ -1924,6 +1933,7 @@ independent.co.uk##.sc-pscky.kBPJSk.sc-qQYBZ
 independent.co.uk##.sc-qZtCU.wIkUb.sc-qQYBZ
 newindianexpress.com##.scc
 readmng.com##.scroll_target_top
+semiconductor-today.com##.searchmidbox
 minecraftservers.org##.second-banner
 wbur.org##.section--breakout
 nzherald.co.nz##.section-iframe
@@ -2222,6 +2232,7 @@ daijiworld.com##[href="http://www.expertclasses.org/"]
 sqlfiddle.com##[href="https://entityframework-extensions.net/"]
 davidwalsh.name##[href="https://requestmetrics.com/"]
 tech-latest.com##[href="https://tech-latest.com/go/nordvpn"]
+semiconductor-today.com##[href="https://www.appliedenergysystems.com/stakes/"]
 mhktricks.org##[href="https://www.deepbrid.com/"]
 deshdoaba.com##[href="https://www.nsbinsures.com/"]
 noypigeeks.com##[href] > .litespeed-loaded
@@ -2349,6 +2360,7 @@ technical.city##div[class^="banner_"]
 keengamer.com##div[class^="gameon-mpu-"]
 pcgamer.com,techradar.com,tomsguide.com,tomshardware.com##div[class^="slot-"]
 kijiji.ca##div[class^="sponsored-"]
+coinmarketcap.com##div[class^="sponsoredMark_"]
 whatsondisneyplus.com##div[class^="whats-"]
 amazon.com##div[data-ad-id]
 motortrend.com##div[data-ad-targeting]

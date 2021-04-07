@@ -1430,6 +1430,7 @@
 ##.calls-to-action__newsletter
 ##.cambeywest-subscribe
 ##.captation-email-bottom
+##.card--newsletter
 ##.card-newsletter
 ##.card-newsletter-signup
 ##.cartoon-email
@@ -2450,6 +2451,7 @@
 ##.subscribe_to_im
 ##.subscribe_webopedia_weekly
 ##.subscribe_widget
+##.subscribe_widget_item
 ##.subscribeblock
 ##.subscribeform
 ##.subscribex
@@ -3359,6 +3361,7 @@
 ##.mod-totop
 ##.move-top
 ##.ms-scroll-to-top-button
+##.mvp-fly-top
 ##.mvp-to-top
 ##.mypresta_scrollup
 ##.nav--back-to-top

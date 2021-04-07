@@ -32,6 +32,7 @@
 ||nxakpj4ac8gkd53.info^
 ||propeller-tracking.com^
 ||sbgsodufuosmmvsdf.info^
+||truffle.bid^
 ||z0uolej1qnxzub1.info^
 ! Third-party
 ||0emm.com^$third-party
@@ -1742,6 +1743,7 @@
 ||pass-1234.com^$third-party
 ||pathful.com^$third-party
 ||pbbl.co^$third-party
+||pbgrd.com^$third-party
 ||pbstck.com^$third-party
 ||pclicks.com^$third-party
 ||pcspeedup.com^$third-party
@@ -2543,7 +2545,6 @@
 ||verticalscope.com^$third-party
 ||verticalsearchworks.com^$third-party
 ||vertster.com^$third-party
-||vi-serve.com^$third-party
 ||video.oms.eu^$third-party
 ||videoplayerhub.com^$third-party
 ||videos.oms.eu^$third-party

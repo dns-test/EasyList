@@ -3606,6 +3606,7 @@
 ###cookiesmessage
 ###cookiesmessagediv
 ###cookiesmessages
+###cookiesms
 ###cookiesmsg
 ###cookiesnotice
 ###cookiesnotify
@@ -10399,6 +10400,7 @@
 ##.js-cookie-confirmation
 ##.js-cookie-consent
 ##.js-cookie-consent-banner
+##.js-cookie-consent-bar
 ##.js-cookie-consent-block
 ##.js-cookie-consent-module
 ##.js-cookie-consent-overlay

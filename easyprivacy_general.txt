@@ -509,6 +509,7 @@
 /adtoniq-
 /adtrk/*
 /adv/tracking.
+/adv?pixel_
 /adviewtrack.
 /advstats/*
 /adwords-conversion-tracking.
@@ -975,6 +976,8 @@
 /basicMetricsTracking.
 /basilic.php
 /batch.gif?
+/batch/1/OE/*
+/batch/1/OP/*
 /baynote-$script
 /baynote.
 /baynote/*
@@ -2446,6 +2449,7 @@
 /informb_stat.
 /informerStat?
 /init_cookie.php?
+/inline-pixel.js
 /inpl.measure.
 /insales_counter.
 /insert_impressions.
@@ -4151,6 +4155,7 @@
 /statspider?
 /statspixel.
 /StatsRadioAnalyticsHub.htm
+/statsservice.recordstats?
 /statstracker.
 /statstracker/*
 /statstracker?

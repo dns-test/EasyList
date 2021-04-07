@@ -2297,6 +2297,7 @@ medium.com##.js-promoCardWrapper
 avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##.js_commerce-inset-permalink
 haaretz.com##.jumping-jack-wrapper
 itwire.com##.jwDisqusArticleCounter
+thefastmode.com##.k2_channel_banner_square
 rent-a-home.com.au,yahoo.com##.k_float
 sfgate.com##.kaango
 techrepublic.com##.keep-up
@@ -3707,6 +3708,8 @@ news-medical.net###topic-notification-signup-box
 taskandpurpose.com###tpCTAModalContainer
 blog.bettercloud.com###trends
 thewrap.com###tw-newsletter-signup
+howtogeek.com###v2campaignpopup
+howtogeek.com###v2campaignpopup_backdrop
 visi.co.za###visi-signup
 forbiddenknowledgetv.net###vlog-module-0-0
 thrillist.com###vortex-overlay
@@ -4035,6 +4038,7 @@ routesonline.com##.infoBlock
 citylab.com,theatlantic.com##.injector-promo
 sandiegouniontribune.com##.inline_embedded
 americaninno.com##.inno-newsletter--box
+howtogeek.com##.inpage-clean-style
 spglobal.com##.inset-cta
 itweb.co.za##.itw-subscribe
 thenewcivilrightsmovement.com##.join
