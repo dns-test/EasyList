@@ -320,6 +320,7 @@ ergonbike.com###tracking-modal
 stingray.com###tracking-popup
 skylinewebcams.com###trigCookie
 netflix.com###uma > div > .message
+censor.net###usage_notice
 busybeeblog.com###user_disclaimer
 iboysoft.com###user_popup
 bunkerworld.com###userprompt
@@ -531,6 +532,7 @@ f-secure.com##.fs-consent
 cgtn.com##.g-dialog
 scaleway.com##.gLLeaT
 themeflood.com##.gatewayContainer
+gallup.com##.gcb_35556
 aviationweek.com##.gdpr
 downloadcrew.com##.ginger_banner
 ingwb.com##.glass
