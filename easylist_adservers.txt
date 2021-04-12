@@ -1754,6 +1754,7 @@
 ||bruceleadx3.com^
 ||bruceleadx4.com^
 ||bruvwmrxudd.com^
+||bsdaban.com^
 ||bsfnvvxjcisif.com^
 ||bsgimhqko.com^
 ||bsjjtpkc.com^
@@ -12906,6 +12907,7 @@
 ||includemodal.com^$third-party
 ||incogpontus.club^$third-party
 ||increaserev.com^$third-party
+||indexww.com/ht^$third-party
 ||indiads.com^$third-party
 ||indianbannerexchange.com^$third-party
 ||indianlinkexchange.com^$third-party
