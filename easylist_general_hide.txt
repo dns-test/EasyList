@@ -4642,6 +4642,7 @@
 ###closeAdsDiv
 ###closeable-ad
 ###cloudAdTag
+###cls_ad
 ###cltAd
 ###cmMediaRotatorAdTLContainer
 ###cmn_ad_box
@@ -6226,6 +6227,7 @@
 ###iqadtile5
 ###iqadtile8
 ###iqadtile9
+###iqadtile99
 ###iqd_align_Ad
 ###iqd_mainAd
 ###iqd_rightAd
@@ -10346,6 +10348,7 @@
 ##.ad-x10x20x30
 ##.ad-x31-full
 ##.ad-xrcol
+##.ad-xs-title
 ##.ad-zone
 ##.ad-zone-ajax
 ##.ad-zone-container
@@ -11612,6 +11615,8 @@
 ##.ad_xrail_top
 ##.ad_zone
 ##.adace-adi-popup-wrapper
+##.adace-slot
+##.adace-slot-wrapper
 ##.adadded
 ##.adageunicorns
 ##.adalert-overlayer
@@ -15462,6 +15467,7 @@
 ##.desktop-in-content-native-ad
 ##.desktop-postcontentad-wrapper
 ##.desktop-top-ad-wrapper
+##.desktopAd
 ##.desktop_ad
 ##.desktop_only_ad
 ##.desktopads
@@ -16525,6 +16531,7 @@
 ##.header-article-ads
 ##.header-banner-ad
 ##.header-banner-ads
+##.header-banner-advertising
 ##.header-bannerad
 ##.header-google-ads
 ##.header-google-adsense970
@@ -17015,6 +17022,7 @@
 ##.ipc-advert
 ##.ipc-advert-class
 ##.ipm-sidebar-ad-middle
+##.ipprtcnt
 ##.iprom-ad
 ##.ipsAd
 ##.ipsAdvertisement
@@ -17723,6 +17731,7 @@
 ##.mobile-ad-container
 ##.mobile-ad-nav
 ##.mobile-ad-negative-space
+##.mobile-ads
 ##.mobile-footer__ad
 ##.mobile-instream-ad-holder-single
 ##.mobile-related-ad
@@ -18228,6 +18237,7 @@
 ##.page-ad-container
 ##.page-ads
 ##.page-advert
+##.page-advertisement
 ##.page-box-ad
 ##.page-content--ad-block
 ##.page-content__advert
@@ -20537,6 +20547,7 @@
 ##.type_promoads
 ##.tz_ad300_widget
 ##.tz_ad_widget
+##.u-lazy-ad-wrapper
 ##.uds-ad
 ##.uds-ads
 ##.ui-ad
@@ -20840,6 +20851,7 @@
 ##.widget_ad_layers_ad_widget
 ##.widget_ad_rotator
 ##.widget_ad_widget
+##.widget_adace_ads_widget
 ##.widget_admanagerwidget
 ##.widget_adrotate_widgets
 ##.widget_ads
@@ -21136,6 +21148,7 @@
 ##[href^="http://raboninco.com/"]
 ##[href^="https://affect3dnetwork.com/track/"]
 ##[href^="https://go.affiliatexe.com/"]
+##[href^="https://go.nordvpn.net/aff"] > img
 ##[href^="https://join3.bannedsextapes.com"]
 ##[href^="https://refpahrwzjlv.top/"]
 ##[href^="https://secure.bmtmicro.com/servlets/"]
@@ -21155,6 +21168,7 @@
 ##[onclick^="window.open('https://www.brazzersnetwork.com/landing/"]
 ##[onclick^="window.open('window.open('//delivery.trafficfabrik.com/"]
 ##[src*="//www.dianomi.com/smartads.epl"]
+##[src*="https://cdn.cloudimagesb.com/"]
 ##[src^="/Redirect.a2b?"]
 ##[src^="http://api.lanistaads.com/ServeAd?"]
 ##a[class="RBAd"]
@@ -21467,8 +21481,7 @@
 ##a[href^="http://www.amazon.co.uk/exec/obidos/external-search?"]
 ##a[href^="http://www.babylon.com/welcome/index?affID"]
 ##a[href^="http://www.badoink.com/go.php?"]
-##a[href^="http://www.bet365.com/"][href*="&affiliate="]
-##a[href^="http://www.bet365.com/"][href*="?affiliate="]
+##a[href^="http://www.bet365.com/"][href*="affiliate="]
 ##a[href^="http://www.bitlord.me/share/"]
 ##a[href^="http://www.bluehost.com/track/"] > img
 ##a[href^="http://www.cdjapan.co.jp/aff/click.cgi/"]
@@ -21630,7 +21643,6 @@
 ##a[href^="https://go.hpyjmp.com/"]
 ##a[href^="https://go.hpyrdr.com/"]
 ##a[href^="https://go.julrdr.com/"]
-##a[href^="https://go.nordvpn.net/aff_c"] > img
 ##a[href^="https://go.onclasrv.com/"]
 ##a[href^="https://go.stripchat.com/"][href*="&campaignId="]
 ##a[href^="https://go.trackitalltheway.com/"]
@@ -21748,6 +21760,7 @@
 ##a[href^="https://www.arthrozene.com/"][href*="?tid="]
 ##a[href^="https://www.awin1.com/cread.php?awinaffid="]
 ##a[href^="https://www.bebi.com"]
+##a[href^="https://www.bet365.com/"][href*="affiliate="]
 ##a[href^="https://www.brazzersnetwork.com/landing/"]
 ##a[href^="https://www.camsoda.com/enter.php?id="]
 ##a[href^="https://www.camyou.com/?cam="][href*="&track="]
@@ -21841,9 +21854,11 @@
 ##div[class^="pane-google-admanager-"]
 ##div[class^="proadszone-"]
 ##div[data-ad-underplayer]
+##div[data-adname]
 ##div[data-adservice-param-tagid="contentad"]
 ##div[data-adunit-path]
 ##div[data-adunit]
+##div[data-adzone]
 ##div[data-content="Advertisement"]
 ##div[data-id-advertdfpconf]
 ##div[data-mediatype="advertising"]
@@ -22182,6 +22197,7 @@
 ###taboola-right-rail-thumbnails-1st
 ###taboola-top-banner-abp
 ###taboola_related
+###taboola_responsive_wrapper
 ##.ad-container--taboola
 ##.box-taboola-content
 ##.dart-ad-taboola

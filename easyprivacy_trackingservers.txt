@@ -1,4 +1,5 @@
 ! Revolving trackers
+||apxl.io^
 ||g2178927685.co^
 ||g2377012020.co^
 ||g2575096355.co^
@@ -28,6 +29,7 @@
 ||g7329120395.co^
 ||g7527204730.co^
 ||g7725289065.co^
+||g7923373400.co^
 ||mors22.com^
 ||nxakpj4ac8gkd53.info^
 ||propeller-tracking.com^
@@ -287,6 +289,7 @@
 ||audienceamplify.com^$third-party
 ||audienceiq.com^$third-party
 ||audiencepixel.com^$third-party
+||audienceplay.com^$third-party
 ||audiencerate.com^$third-party
 ||audiens.com^$third-party
 ||audio.sex^$third-party
@@ -1219,6 +1222,7 @@
 ||instana.io^$third-party
 ||instant.page^$third-party
 ||instapage.com^$third-party,domain=~pagedemo.co
+||instapagemetrics.com^$third-party
 ||instore.biz^$third-party
 ||intelimet.com^$third-party
 ||intelli-direct.com^$third-party
@@ -1782,6 +1786,7 @@
 ||pinpoll.com^$third-party
 ||pipfire.com^$third-party
 ||pippio.com^$third-party
+||piratepx.com^$third-party
 ||piwik.pro^$third-party,domain=~clearcode.cc|~clearcode.pl|~piwikpro.de
 ||pixel.ad^$third-party
 ||pixel.watch^$third-party
@@ -2373,6 +2378,7 @@
 ||torbit.com^$third-party
 ||toro-tags.com^$third-party
 ||touchclarity.com^$third-party
+||tp88trk.com^$third-party
 ||tracc.it^$third-party
 ||trace-2000.com^$third-party
 ||trace.events^$third-party
@@ -2715,6 +2721,7 @@
 ||youborafds01.com^$third-party
 ||youboranqs01.com^$third-party
 ||youboranqs02.com^$third-party
+||your-analytics.org^$third-party
 ||your-counter.be^$third-party
 ||youramigo.com^$third-party
 ||youvisit.com^$third-party

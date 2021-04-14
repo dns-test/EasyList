@@ -215,6 +215,7 @@ jaguar.at,jaguar.de,landrover.at##.notificationBars
 ziffit.de##.notificationholder
 horizon.tv##.notifications-manager
 hannovermesse.de##.notifier
+gewinnspiele.de##.npco_overlay
 orf.at##.oon-ds-banner
 thueringenforst.de##.opt-out
 tt.com##.outer-wrap
@@ -881,6 +882,7 @@ prelex.it##.rstboxes
 juzaphoto.com##.s_bluebox
 ogrtorino.it##.sc-dxgOiQ
 larrysmith.it##.scroll-banner
+selectra.net##.selectra-rgpd-placeholder
 bancacrs.it,teleradiopadrepio.it##.spu-bg
 close-up.it##.stickyFooter
 bmwautoclubitalia.it##.t657__wrapper
@@ -890,6 +892,7 @@ ingdirect.it##.topalertbanner
 emma-materasso.it##.ucn-block
 cattolica.it##.vgg
 prime.widiba.it##.wd-primepublic__cookie__content
+koucla.it##.xcb
 aicanet.it,eurojackpot.it,venetobanca.it##.yui3-widget-modal
 credimi.com##div[class^="CookieBar-"]
 relaxbanking.it##div[class^="cookies-consent-banner"]
@@ -1381,7 +1384,7 @@ fikriyat.com,sabah.com.tr,turkuvazradyolar.com,yeniasir.com.tr##.veriAltBar
 fdu.org.ua###pd_popup
 i.ua##.Disclaimer
 tsn.ua##.c-notification__box
-unian.ua##.cookies
+dybok.com.ua,unian.ua##.cookies
 landrover.ua##.notificationBars
 ua-football.com##.policy-mes
 kinoafisha.ua##.privacy-modal

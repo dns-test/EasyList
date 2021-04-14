@@ -30,6 +30,7 @@
 ||push.daksham.in^$third-party
 ||push.delivery^$third-party
 ||push.esputnik.com^
+||push.knd.ro^
 ||push.rent^$third-party
 ||push.rollout.io^$third-party
 ||push.world^$third-party
@@ -57,6 +58,7 @@
 ||pushnotificationx.com^$third-party
 ||pushowl.com^$third-party
 ||pushpad.xyz^$third-party
+||pushpanda.io^$third-party
 ||pushprofit.ru^$third-party
 ||pushprospush.com^$third-party
 ||pushpushgo.com^$third-party
@@ -74,6 +76,7 @@
 ||spacepush.ru^$third-party
 ||topswp.com^$third-party
 ||ucfeed.ru^$third-party
+||viafoura.net/push_handlers.js
 ||webpush.jp^$third-party
 ||webpushr.com^$third-party
 ||webpushs.com^$third-party

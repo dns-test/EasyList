@@ -10090,6 +10090,7 @@
 ##.gdprLegalNotification
 ##.gdprManagerMessage
 ##.gdprMessage
+##.gdprNotice
 ##.gdprPopup
 ##.gdpr[data-gdpr-popup]
 ##.gdpr__A
@@ -10173,6 +10174,7 @@
 ##.gpm-cookie-accepted
 ##.gpn-gdpr-container
 ##.gr-cookie-overlay
+##.gravitoCMP-background-overlay
 ##.grdp-container
 ##.grdp-popup
 ##.great-eu-cookies
@@ -10733,6 +10735,7 @@
 ##.message--cookie
 ##.message--cookie-warning
 ##.message--cookies
+##.message-cockies
 ##.message-cookie
 ##.message-cookie-banner
 ##.message-cookies

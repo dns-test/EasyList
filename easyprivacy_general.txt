@@ -1306,6 +1306,7 @@
 /clicktracking-global.
 /clicktracking.
 /clicktracking/*
+/clickTrackingAjaxController?
 /ClickTracks_
 /ClickTracksCookies.
 /clicktrends/*
@@ -2865,6 +2866,7 @@
 /measurement/access/contents?
 /measurementBeacon.
 /media-analytics.min.
+/media-analytics/*
 /media_viewed_tracking.
 /medialaanUniversalTracker.
 /mediametrie.js
@@ -3421,6 +3423,7 @@
 /planetstat.
 /platform-analytics-
 /plausible.js
+/player/stats.php?
 /player_counter.ashx?
 /PlayerDashboardLoggingService.svc/json/StartSession?
 /playerlogger.
@@ -3911,6 +3914,7 @@
 /skype-analytics.
 /sl.gif?1=
 /slimstat/*
+/sluurpy_track.js
 /small.gif?type
 /smartpixel-1.js
 /smartpixel.$domain=~smartpixel.com|~smartpixel.tv
@@ -4389,6 +4393,7 @@
 /track/track.php?
 /track/usage.
 /track/view/*
+/track/view?
 /track/view|
 /track/visitors/?
 /track/visits/?
@@ -5531,6 +5536,7 @@ cgi-bin/counter
 /1x1_usermatch.gif?
 /ap.lijit.com/*
 /beacon.krxd.net/*
+/beaconimages.netflix.net/*$image
 /click.email.$image
 /clicks.email.$image
 /cmail2.com/t/
@@ -5551,6 +5557,7 @@ cgi-bin/counter
 /page.bsigroup.com/*
 /pixel-prod.
 /pixel?cid=
+/pqt.email/o/*$image
 /sendmail.backerupdate.com/t/*
 /sptracking.
 /ss/o/*.gif

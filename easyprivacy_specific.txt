@@ -585,7 +585,9 @@
 ||drudgereport.com/js/responsive-
 ||drugs.com/api/logger/
 ||dsm.com^*/searchenginetracking.js
+||duckduckgo.com/t.js
 ||duckduckgo.com/t/
+||duckduckgo.com/y.js
 ||dumpster.cam4.com^
 ||dvdempire.com/images/empty2.asp
 ||dvdempire.com/include/user/empty2.asp?
@@ -1301,6 +1303,7 @@
 ||modernsalon.com/includes/sc_video_tracking.js
 ||momtastic.com/libraries/pebblebed/js/pb.track.js
 ||moneysupermarket.com^*/ProphetInsert.js
+||monitor.channel4.com^
 ||monitor.ebay.com^
 ||monkeyquest.com/monkeyquest/static/js/ga.js
 ||monstercrawler.com/__kl.gif
@@ -1709,6 +1712,7 @@
 ||rt.rakuten.co.jp^$~xmlhttprequest
 ||rta.dailymail.co.uk^
 ||rta2.metro.co.uk^
+||rta2.newzit.com^
 ||rte.ie/player/playertracker.js
 ||rtn.thestar.com^
 ||rum.kobo.com^
@@ -2549,6 +2553,7 @@
 ||yahoo.com/neo/ygbeacon/
 ||yahoo.com/neo/ymstat
 ||yahoo.com/p.gif;
+||yahoo.com/p?
 ||yahoo.com/perf.gif?
 ||yahoo.com/serv?s
 ||yahoo.com/sig=$image
@@ -2690,11 +2695,13 @@
 /^https?:\/\/.*[a-f0-9]{6,}\.cdn.*\.forter\.com\//$script,third-party
 ||forter.com/events
 ||forter.com/prop.json$ping
+||forter.com/vchk2
 ! Airbnb facebook tracking
 ||airbnb.*/facebook_advanced_matchings?
 ! PerimeterX
 ||apartmenttherapy.com/jAYekY18/
 ||auctionzip.com/eKtvxkQ2/
+||bhphotovideo.com/3D8mkYG1/init.js
 ||bloomberg.com/8FCGYgk4/init.js
 ||booktopia.com.au/px_section_fetch/
 ||carbon38.com/7G7BfRT2/
@@ -2724,6 +2731,7 @@
 ||hotelscombined.com/QUkd4lO9/
 ||hotpads.com/xOR1K5b6/
 ||kerastase-usa.com/IZ/
+||kickstarter.com/Uy3R669N/init.js
 ||kiehls.com/IZ/G8ATFja1/
 ||kiva.org/r3pNVz1F/
 ||lancome-usa.com/IZ/

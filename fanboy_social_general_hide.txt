@@ -1267,6 +1267,7 @@
 ###menu-social2
 ###menu-socialnbt
 ###menu-socila-footer
+###menu-top-social
 ###menuSocial
 ###menu_servizio_social
 ###menu_social
@@ -3834,6 +3835,7 @@
 ##.block-share-large
 ##.block-share__item
 ##.block-sharebar
+##.block-sharethis
 ##.block-shariff
 ##.block-simple-share
 ##.block-social
@@ -4156,6 +4158,7 @@
 ##.c-article_service_option-btnShare
 ##.c-articlehead__detail__share
 ##.c-articlenav__socialsharing
+##.c-aside--subscribe
 ##.c-author__social-media
 ##.c-blog-social
 ##.c-bolt-share
@@ -5168,6 +5171,7 @@
 ##.fb_icn
 ##.fb_icon
 ##.fb_iframe_nourl
+##.fb_iframe_widget
 ##.fb_iframe_widget_w
 ##.fb_image
 ##.fb_lallan_area

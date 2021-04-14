@@ -282,6 +282,7 @@
 ||coinmama.com/assets/img/banners/$third-party
 ||colmwynne.com^$image,third-party
 ||colorlabsproject.com^*/banner_
+||commercial.daznservices.com^
 ||complexmedianetwork.com/js/cmnUNT.js
 ||comx-computers.co.za/banners/$third-party
 ||conduit.com//banners/$third-party
@@ -456,7 +457,7 @@
 ||dew9ckzjyt2gn.cloudfront.net^
 ||dhgate.com^$third-party,domain=sammyhub.com
 ||dhresource.com^*/banner$third-party
-||dianomi.com/click.epl
+||dianomi.com/click.epl$document
 ||digitalsatellite.tv/banners/
 ||direct.quasir.info^$third-party
 ||directnicparking.com^$third-party
@@ -701,7 +702,6 @@
 ||gopjn.com/b/$third-party
 ||gopjn.com/i/$third-party
 ||gotraffic.net^*/sponsors/
-||gpawireservices.com/input/files/*.gif$domain=archerywire.com
 ||graboid.com/affiliates/
 ||graduateinjapan.com/affiliates/
 ||grammarly.com/embedded?aff=$third-party
@@ -1293,7 +1293,6 @@
 ||sndkorea.nowcdn.co.kr^$third-party
 ||socialmonkee.com/images/$third-party
 ||softneo.com/popup.js
-||source.esportsheaven.com^$subdocument
 ||speedbit.com^*-banner1-
 ||speedppc.com^*/banners/
 ||splashpagemaker.com/images/$third-party
@@ -1357,7 +1356,6 @@
 ||tags.sprizzy.com^
 ||tags2.adshell.net^
 ||take2.co.za/misc/bannerscript.php?
-||takeover.bauermedia.co.uk^$~stylesheet
 ||talkfusion.com^*/banners/
 ||tankionline.com/tankiref.swf
 ||tap.more-results.net^
@@ -1646,6 +1644,7 @@
 ||d2kadvyeq051an.cloudfront.net^
 ||d2lp70uu6oz7vk.cloudfront.net^
 ||d2na2p72vtqyok.cloudfront.net^
+||d2ojfulajn60p5.cloudfront.net^
 ||d2q52i8yx3j68p.cloudfront.net^
 ||d2r3rw91i5z1w9.cloudfront.net^
 ||d2sbzwmcg5amr3.cloudfront.net^
@@ -1703,6 +1702,7 @@
 ||ds88pc0kw6cvc.cloudfront.net^
 ||dtv5loup63fac.cloudfront.net^
 ||du01z5hhojprz.cloudfront.net^
+||due5a6x777z0x.cloudfront.net^
 ||dw9uc6c6b8nwx.cloudfront.net^
 ||dwnm2295blvjq.cloudfront.net^
 ||dxgo95ahe73e8.cloudfront.net^

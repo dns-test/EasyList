@@ -53,6 +53,7 @@
 ||center.tv/counter/
 ||chefkoch.de/counter
 ||chefkoch.de/statistic_service/
+||chefkoch.de/tracking/
 ||chefkoch.de^*/pixel/
 ||chip.de/collect
 ||chip.de/stats?
@@ -217,6 +218,7 @@
 ||rtlradio.de/stats.php?
 ||rtlradio.lu/stats.php?
 ||s.edeka.de^
+||sats.manager-magazin.de^
 ||schnaeppchenfuchs.com/js/default-$script
 ||secreta.de/tinc?
 ||shortnews.de/iframes/view_news.cfm?
@@ -261,6 +263,7 @@
 ||tracking.krone.at^
 ||tracking.linda.de^
 ||tracking.mobile.de^
+||tracking.noen.at^
 ||tracking.oe24.at^
 ||tracking.sport1.de^
 ||tracking.statravel.de^
@@ -650,6 +653,8 @@
 ||sat.sanoma.fi^
 ||stats.fd.nl^
 ||tijd.be/fb/?
+||tweakers.net/x/scripts/min/TyYQlL.js
+||tweakers.net^*&p=$image
 ||vroom.be^*/stats.js?
 ||vroom.be^*/stats.php?
 ||webstatistieken.xs4all.nl^
