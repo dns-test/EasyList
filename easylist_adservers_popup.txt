@@ -42,6 +42,7 @@
 ||abctrack.bid^$popup
 ||ablogica.com^$popup,third-party
 ||absoluteclickscom.com^$popup,third-party
+||actio.systems^$popup
 ||actiondesk.com^$popup,third-party
 ||ad-apac.doubleclick.net^$popup,third-party
 ||ad-emea.doubleclick.net^$popup,third-party
@@ -65,6 +66,7 @@
 ||adexchangemachine.com^$popup
 ||adexchangeprediction.com^$popup,third-party
 ||adexchangetracker.com^$popup,third-party
+||adexprtz.com^$popup
 ||adfclick1.com^$popup,third-party
 ||adglare.net^$popup
 ||adhealers.com^$popup
@@ -87,7 +89,7 @@
 ||adplxmd.com^$popup,third-party
 ||adport.io^$popup
 ||adright.co^$popup
-||adrunnr.com^$popup,third-party
+||adrunnr.com^$popup
 ||ads.sexier.com^$popup,third-party
 ||adsbreak.com^$popup
 ||adscpm.net^$popup,third-party
@@ -145,19 +147,19 @@
 ||allashark.site^$popup
 ||allsporttv.com^$popup,third-party
 ||alonghelper.com^$popup
-||alpinedrct.com^$popup,third-party
-||alternads.info^$popup,third-party
+||alpinedrct.com^$popup
+||alternads.info^$popup
 ||alxsite.com^$popup
 ||am10.ru^$popup,third-party
 ||ammankeyan.com^$popup
-||angege.com^$popup,third-party
+||angege.com^$popup
 ||annualinternetsurvey.com^$popup,third-party
 ||answered-questions.com^$popup,third-party
-||aocular.com^$popup,third-party
-||apendit.com^$popup,third-party
+||aocular.com^$popup
+||apendit.com^$popup
 ||apesstration.top^$popup
 ||apiecelee.com^$popup
-||approp.pro^$popup,third-party
+||approp.pro^$popup
 ||aquete.com^$popup
 ||ar.voicefive.com^$popup,third-party
 ||arcaptart.site^$popup
@@ -167,11 +169,11 @@
 ||aslaprason.com^$popup
 ||atas.io^$popup
 ||atozdealinfo.com^$popup
-||august15download.com^$popup,third-party
+||august15download.com^$popup
 ||auiviilbp2.com^$popup
-||avajo.men^$popup,third-party
+||avajo.men^$popup
 ||awejmp.com^$popup
-||awempire.com^$popup,third-party
+||awempire.com^$popup
 ||awesomenewspush.com^$popup
 ||awptjmp.com^$popup
 ||awsclic.com^$popup,third-party
@@ -179,7 +181,7 @@
 ||azasdf.be^$popup
 ||b3z29k1uxb.com^$popup
 ||b54m4qbmt0b9.com^$popup
-||baypops.com^$popup,third-party
+||baypops.com^$popup
 ||bbaahc.com^$popup
 ||bbuni.com^$popup,third-party
 ||bcvcmedia.com^$popup,third-party
@@ -187,12 +189,12 @@
 ||becoquin.com^$popup,third-party
 ||bedorm.com^$popup,third-party
 ||befade.com^$popup,third-party
-||belwrite.com^$popup,third-party
+||belwrite.com^$popup
 ||bemobtrk.com^$popup
 ||beonixom.com^$popup
-||best-zb.com^$popup,third-party
+||best-zb.com^$popup
 ||best2017games.com^$popup
-||best2019-games-web1.com^$popup,third-party
+||best2019-games-web1.com^$popup
 ||bestforexplmdb.com^$popup
 ||bestproducttesters.com^$popup,third-party
 ||bestrevenuenetwork.com^$popup
@@ -363,6 +365,7 @@
 ||erdecisesgeorg.info^$popup
 ||errorless.xyz^$popup
 ||ethfw0370q.com^$popup
+||etoschedul.fun^$popup
 ||eveaggravationloosen.com^$popup
 ||ewebse.com^$popup,third-party
 ||exdoller.com^$popup
@@ -389,7 +392,6 @@
 ||fhserve.com^$popup
 ||fiechaev.com^$popup
 ||filestube.com^$popup,third-party
-||finance-reporting.org^$popup
 ||findbetterresults.com^$popup
 ||findlnk.com^$popup
 ||firescorrelationprodigy.com^$popup
@@ -397,6 +399,7 @@
 ||firstclass-download.com^$popup
 ||flixcontentshop.com^$popup
 ||flopinclose.com^$popup
+||flowln.com^$popup
 ||flrdra.com^$popup
 ||focuusing.com^$popup
 ||folmetor.com^$popup
@@ -492,6 +495,7 @@
 ||i4track.net^$popup
 ||i62e2b4mfy.com^$popup
 ||icedewear.site^$popup
+||ichimaip.net^$popup
 ||ifilez.org^$popup
 ||ijjiii.is^$popup
 ||il05pzhujicf.com^$popup
@@ -509,7 +513,7 @@
 ||installcdnfile.com^$popup
 ||installssmashedbab.com^$popup
 ||instant007.com^$popup
-||instantpaydaynetwork.com^$popup,third-party
+||instantpaydaynetwork.com^$popup
 ||intab.fun^$popup
 ||integral-marketing.com^$popup,third-party
 ||internewsweb.com^$popup
@@ -533,6 +537,7 @@
 ||jsmptjmp.com^$popup
 ||juiceads.net^$popup
 ||jujzh9va.com^$popup
+||jumbitr.com^$popup
 ||jump2.top^$popup
 ||junbi-tracker.com^$popup
 ||justdating.online^$popup,third-party
@@ -621,7 +626,7 @@
 ||mobipromote.com^$popup
 ||mobreach.com^$popup
 ||mobsuitem.com^$popup
-||modescrips.info^$popup,third-party
+||modescrips.info^$popup
 ||modificationdispatch.com^$popup
 ||moncoerbb.com^$popup
 ||moneytec.com^$popup,third-party
@@ -670,7 +675,7 @@
 ||nutaku.net/signup/$popup
 ||nyadra.com^$popup
 ||nymphdate.com^$popup
-||nyshoptara.pro^
+||nyshoptara.pro^$popup
 ||o333o.com^$popup
 ||oclaserver.com^$popup
 ||ofeetles.pro^$popup
@@ -710,7 +715,6 @@
 ||paripartners.ru^$popup
 ||parserwords.info^$popup
 ||passeura.com^$popup
-||patiencepls.com^$popup
 ||patiskcontentdelivery.info^$popup
 ||patsyfoxswab.com^$popup
 ||paumoogo.net^$popup
@@ -722,6 +726,7 @@
 ||perfecttoolmedia.com^$popup
 ||pexu.com^$popup
 ||pgmediaserve.com^$popup
+||phaurtuh.net^$popup
 ||phu1aefue.com^$popup
 ||pimmuter.com^$popup
 ||pipsol.net^$popup
@@ -759,7 +764,6 @@
 ||preskalyn.com^$popup
 ||prfdesk.pro^$popup
 ||privacy4browsers.com^$popup
-||private-speed-app-online.club^$popup
 ||prjcq.com^$popup
 ||prmtracking.com^$popup
 ||promo-bc.com^$popup
@@ -821,7 +825,6 @@
 ||renceriskie.fun^$popup
 ||replainy.co^$popup
 ||reroplittrewheck.pro^$popup
-||retainguaninefluorite.info^$popup
 ||reviewedreads.com^$popup
 ||revimedia.com^$popup
 ||rexujojo.pro^$popup
@@ -974,7 +977,6 @@
 ||tracking.marketing^$popup
 ||trackingsltns.click^$popup
 ||traffic-c.com^$popup
-||traffic.adexprtz.com^$popup
 ||trafficdelivery1.com^$popup
 ||trafficforce.com^$popup
 ||traffichaus.com^$popup,third-party
@@ -1042,7 +1044,6 @@
 ||waframedia5.com^$popup
 ||wahoha.com^$popup
 ||waisheph.com^$popup
-||wardparser.info^$popup
 ||warten-sie-mal.xyz^$popup
 ||wautoosa.net^$popup
 ||wbsadsdel.com^$popup
@@ -1072,7 +1073,6 @@
 ||xclicks.net^$popup
 ||xcsypkknp.com^$popup
 ||xtendmedia.com^$popup
-||xtracker.pro^$popup
 ||y1jxiqds7v.com^$popup
 ||yeastwrinklefatigue.com^$popup
 ||yeesshh.com^$popup
