@@ -647,6 +647,7 @@
 ###component-newsletter-signup-widget-breakingnews-article
 ###component-newsletter-widget-breakingnews
 ###container-subscription-newsletter
+###contenitorePopupNewsletter
 ###content-email-su
 ###contentBarNewsletter
 ###cro-common-newsletter-ecomail-entityform-edit-form
@@ -1221,6 +1222,7 @@
 ##.-newsletter-signup
 ##.ALS_IL_Holder
 ##.CTA-module_enews
+##.CampaignType--popup.exit-intent
 ##.CheatNewsletter
 ##.DFNewsletterSignup
 ##.DivNewsLetter
@@ -1946,6 +1948,7 @@
 ##.newsletter-popups
 ##.newsletter-promo
 ##.newsletter-promo-container
+##.newsletter-promotion-module
 ##.newsletter-pure
 ##.newsletter-r
 ##.newsletter-right-col
@@ -2533,6 +2536,7 @@
 ##.widget-newsletter
 ##.widget-newsletter-block
 ##.widget-newsletter-form-style
+##.widget-newsletter-fter
 ##.widget-newsletter-newsletter
 ##.widget-newsletter-sign-up
 ##.widget-newsletter-sign-up__form

@@ -281,7 +281,6 @@
 ||az693360.vo.msecnd.net^
 ||azureedge.net/javascripts/Tracking.
 ||azureedge.net/track
-||azureedge.net^*/loader-config.json
 ||azurewebsites.net/TrackView/
 ||azurewebsites.net^*/telemetry.js
 ||b-aws.aol.com^
@@ -925,6 +924,7 @@
 ||gcion.com/gcion.ashx?
 ||geckofoot.com/gfcounterimg.aspx?
 ||geckofoot.com/gfvisitormap.aspx?
+||gem.com/api/o/$image,third-party
 ||gemius.mgr.consensu.org^
 ||geni.us/snippet.js
 ||geni.us/snippet.min.js
@@ -1301,6 +1301,7 @@
 ||mmi.bemobile.ua^
 ||mochiads.com/clk/
 ||modules.ooyala.com^*/analytics-
+||monitor.azure.com^
 ||mormont.gamer-network.net^
 ||movementventures.com/_uid.gif
 ||mozilla.org/page/*/open.gif$third-party
@@ -1960,6 +1961,7 @@
 ||tracker.timesgroup.com^
 ||tracker.twenga.
 ||tracker.unbxdapi.com^
+||tracker.wigzopush.com^
 ||tracker.wpserveur.net^
 ||trackerapi.truste.com^
 ||trackicollect.ibase.fr^$third-party

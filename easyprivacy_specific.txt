@@ -587,7 +587,6 @@
 ||dsm.com^*/searchenginetracking.js
 ||duckduckgo.com/t.js
 ||duckduckgo.com/t/
-||duckduckgo.com/y.js
 ||dumpster.cam4.com^
 ||dvdempire.com/images/empty2.asp
 ||dvdempire.com/include/user/empty2.asp?
@@ -2440,7 +2439,7 @@
 ||vs4food.com/ERA/era_rl.aspx
 ||vstats.digitaltrends.com^
 ||vzaar.com/libs/stats/
-||wa.gmx.net/gmx/gmx/s?$image
+||wa.gmx.net/gmx/gmx/s?$image,ping
 ||wa.ui-portal.de^
 ||wachovia.com^*/stats.js
 ||wal.co/cdn-perf.min.js
@@ -2894,6 +2893,7 @@
 ||trustarc.mgr.consensu.org/get?
 ||ttauri.bikeperfect.com^
 ||ttauri.creativebloq.com^
+||ttauri.cyclingnews.com^
 ||ttauri.digitalcameraworld.com^
 ||ttauri.guitarworld.com^
 ||ttauri.laptopmag.com^

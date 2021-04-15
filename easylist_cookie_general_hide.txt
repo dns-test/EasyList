@@ -1411,6 +1411,7 @@
 ###contenerAlertCookie
 ###conteneurCookies
 ###contenidoavisocookies
+###contenitoreBannerCookie
 ###contenitoreCookie
 ###contenitoredisclaimer
 ###content-alert-cookie
@@ -1514,6 +1515,7 @@
 ###cookie-alerte
 ###cookie-allow
 ###cookie-announcement
+###cookie-app
 ###cookie-approval
 ###cookie-authorization
 ###cookie-b
@@ -10636,6 +10638,7 @@
 ##.lgi_privacybanner
 ##.liCookiePol
 ##.lia-cookie-banner-alert
+##.lightbox--cookie-consent
 ##.lilayout-header-cookiebar
 ##.lite-cookie-consent
 ##.lld-cookieconsentbanner
