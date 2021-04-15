@@ -1,6 +1,4 @@
 idna_subject,checker_type,destination,source,tested_at,session_id
-metrics.apartments.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:03.789674,42a19051903998b83871f0cc
-metrics.bangbros.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:03.810104,42a19051903998b83871f0cc
 metrics.cbn.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:03.830520,42a19051903998b83871f0cc
 metrics.cbslocal.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:03.853599,42a19051903998b83871f0cc
 metrics.cnn.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:03.875713,42a19051903998b83871f0cc
@@ -2906,3 +2904,5 @@ rta2.newzit.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2
 bhphotovideo.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2001-04-14 09:48:21.101108,42a19051903998b83871f0cc
 kickstarter.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2001-04-14 09:48:24.418842,42a19051903998b83871f0cc
 ttauri.cyclingnews.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2001-04-15 08:46:38.725891,42a19051903998b83871f0cc
+metrics.apartments.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-15 11:19:56.169425,42a19051903998b83871f0cc
+metrics.bangbros.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-15 11:20:47.785569,42a19051903998b83871f0cc
