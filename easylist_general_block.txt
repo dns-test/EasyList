@@ -773,8 +773,6 @@
 .ro/ads/
 .rolloverad.
 .ru/ads/
-.se/*placement=$script,subdocument,third-party
-.se/*redirect&$script,subdocument,third-party
 .se/ads/
 .sh/ads/
 .shortcuts.search.
@@ -6384,6 +6382,7 @@
 /savvyads.
 /sb-relevance.js
 /sbnr.ads?
+/sc-tagmanager/*
 /scanscout.
 /scanscoutoverlayadrenderer.
 /scanscoutplugin.
@@ -7045,7 +7044,7 @@
 /video_ad_
 /video_ads.
 /video_ads/*
-/videoad.
+/videoad.$domain=~videoad.in
 /VideoAd/*
 /videoad_new.
 /VideoAdContent?
