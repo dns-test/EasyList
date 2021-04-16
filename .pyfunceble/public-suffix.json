@@ -8107,7 +8107,6 @@
         "nom.vc"
     ],
     "ve": [
-        "org.ve",
         "arts.ve",
         "co.ve",
         "com.ve",
@@ -8120,6 +8119,7 @@
         "int.ve",
         "mil.ve",
         "net.ve",
+        "org.ve",
         "rec.ve",
         "store.ve",
         "tec.ve",
