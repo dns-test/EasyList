@@ -1503,6 +1503,7 @@
 ||bestcontentjob.top^
 ||bestcontentoperation.top^
 ||bestcontentplan.top^
+||bestcontentproject.top^
 ||bestcontentservice.top^
 ||bestcontentuse.top^
 ||bestcpmnetwork.com^
@@ -9102,6 +9103,7 @@
 ||swqlzufnbngw.com^
 ||swstkrihg.com^
 ||swwpush.com^
+||sxcwycsbhte.com^
 ||sxmgd1aqrr.com^
 ||sxwwizqaoedor.com^
 ||sxzdxiskr.com^
