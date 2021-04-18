@@ -2643,6 +2643,7 @@
 /librato-collector.
 /libs/tracker.js
 /liferay-analytics-
+/lightspeed_tracker.
 /lingabot.
 /link-tracker-
 /link_track.
@@ -2892,10 +2893,12 @@
 /metrics/init?
 /metrics/metrics$domain=~spatineo.com
 /metrics/onload
+/metrics/ping?
 /metrics/rum
 /metrics/stat.
 /metrics/statsd/*
 /metrics/survey/*
+/metrics/tpi?
 /metrics/track/*
 /metrics/v1/frontend/*
 /metrics/vanity/?
@@ -3851,7 +3854,6 @@
 /SETCOOKAFF.
 /setcooki.
 /setcookie.php?
-/setcookie?
 /setcookieADV.js
 /SetSabreAnalyticsCookie.
 /setTDUID.do?
@@ -4190,6 +4192,7 @@
 /surphace_track.
 /surveyoverlay/*
 /svc/comscore/*
+/sw/analytics.js
 /swa_t.gif?
 /swatag.js
 /swfaddress.js?tracker=

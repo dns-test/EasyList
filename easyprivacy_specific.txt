@@ -91,6 +91,7 @@
 ||amazon.com/gp/yourstore/recs/
 ||amazon.com^*/amazon-clicks/
 ||amazon.com^*/events/$domain=~aws.amazon.com
+||amazon.com^*/impress.html
 ||amazon.com^*/token/
 ||amazon.com^*/vap-metrics/
 ||amazonaws.com/beacon/vtpixpc.gif?
@@ -522,6 +523,7 @@
 ||data.ninemsn.com.au/*GetAdCalls
 ||data.webullfintech.com/event/
 ||data.younow.com^
+||datagroup-reporting.shopeemobile.com^
 ||datehookup.com/strk/dateadvertreg?
 ||daum.net^*/dwi.js
 ||db.com^*/stats.js?

@@ -1156,6 +1156,7 @@
 ###ccm-cookiesDisclosure
 ###ccm_notification
 ###cconsent
+###cconsent-bar
 ###ccookie_base_stile2
 ###ccp-bnr-ck
 ###ccp-overlay
@@ -5455,6 +5456,7 @@
 ###os_app_cookiewarn
 ###osomcookie
 ###ost-cookiewall-container
+###ot-sdk-btn
 ###otp-privacy
 ###otrcookiecompliancediv
 ###oupcookiepolicy_message
@@ -10109,6 +10111,7 @@
 ##.gdpr_cookie_bar
 ##.gdpr_cookie_bar_cont
 ##.gdpr_cookie_notice
+##.gdpr_discplaimer
 ##.gdpr_gdpr-composer-panel__toolbar
 ##.gdpr_hdr
 ##.gdpr_ip
@@ -10327,6 +10330,7 @@
 ##.is-cookie-message
 ##.is-cookies
 ##.is-visible.cookies
+##.it-eprivacy-backdrop
 ##.it_privacy_notice
 ##.itbl-c-cookies-consent
 ##.iubenda-cs-content
@@ -10638,7 +10642,6 @@
 ##.lgi_privacybanner
 ##.liCookiePol
 ##.lia-cookie-banner-alert
-##.lightbox--cookie-consent
 ##.lilayout-header-cookiebar
 ##.lite-cookie-consent
 ##.lld-cookieconsentbanner
@@ -11842,6 +11845,7 @@
 ##.tt-cookie-bar-module
 ##.tt_cookie_banner
 ##.ttconsent
+##.tutorial_banner_cookie
 ##.tv2-js-cookie-alert
 ##.tvp-cookie-overlay
 ##.tws-accept-cookies--wrapper

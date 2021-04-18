@@ -9341,6 +9341,7 @@
 ##.ad--top-label
 ##.ad--top-leaderboard
 ##.ad--top-slot
+##.ad--widget
 ##.ad--wrapper
 ##.ad-01
 ##.ad-02
@@ -13964,6 +13965,7 @@
 ##.amp-ad
 ##.amp-ads
 ##.amp-ads-container
+##.ampFlyAdd
 ##.amsSparkleAdWrapper
 ##.anc_ads_show
 ##.anchor-ad-wrapper
@@ -14377,6 +14379,7 @@
 ##.belowthread_advert_container
 ##.belt-ad
 ##.belt_ad
+##.best_project_ad
 ##.bet_AdBlock
 ##.beteasy_sbad
 ##.beteasyadtxt
@@ -15467,6 +15470,7 @@
 ##.desktop-in-content-native-ad
 ##.desktop-postcontentad-wrapper
 ##.desktop-top-ad-wrapper
+##.desktop.ad
 ##.desktopAd
 ##.desktop_ad
 ##.desktop_only_ad
@@ -17369,6 +17373,7 @@
 ##.lg-ads-311x300-up
 ##.lg-ads-311x500
 ##.lg-ads-635x100
+##.lg-ads-skin-container
 ##.lgRecAd
 ##.lg_ad
 ##.liboxads
@@ -18017,6 +18022,7 @@
 ##.nda-ad
 ##.nda-ad--leaderboard
 ##.ndmadkit
+##.neo-advert
 ##.nested-ad
 ##.netPost_ad1
 ##.netPost_ad3
@@ -18038,6 +18044,7 @@
 ##.news-ad-block-a
 ##.news-ad-square-a
 ##.news-ad-square-box
+##.news-advert__column
 ##.news-place-ad-info
 ##.newsAd
 ##.news_ad_box
@@ -21150,7 +21157,6 @@
 ##[href^="http://raboninco.com/"]
 ##[href^="https://affect3dnetwork.com/track/"]
 ##[href^="https://go.affiliatexe.com/"]
-##[href^="https://go.nordvpn.net/aff"] > img
 ##[href^="https://join3.bannedsextapes.com"]
 ##[href^="https://refpahrwzjlv.top/"]
 ##[href^="https://secure.bmtmicro.com/servlets/"]
@@ -21202,6 +21208,7 @@
 ##a[href*=".red90121.com/"]
 ##a[href*=".revimedia.com/"]
 ##a[href*=".smartadserver.com"]
+##a[href*=".surfmdia.com/"]
 ##a[href*=".tfaln.com/"]
 ##a[href*=".trck5.com/"]
 ##a[href*=".udncoeln.com/"]
@@ -21722,7 +21729,6 @@
 ##a[href^="https://t.mobtya.com/"]
 ##a[href^="https://tc.tradetracker.net/"] > img
 ##a[href^="https://topoffers.com/"][href*="/?pid="]
-##a[href^="https://torguard.net/aff.php"] > img
 ##a[href^="https://tour.mrskin.com/"]
 ##a[href^="https://track.52zxzh.com/"]
 ##a[href^="https://track.afcpatrk.com/"]
@@ -21798,6 +21804,7 @@
 ##a[href^="https://www.vewwrmp.com/"]
 ##a[href^="https://www.what-sexdating.com/"]
 ##a[href^="https://zononi.com/"]
+##a[id^="ads_banner_"]
 ##a[onclick*="//m.economictimes.com/etmack/click.htm"]
 ##a[onmousedown^="this.href='/wp-content/embed-ad-content/"]
 ##a[src^="https://www.utherverse.com/net/"]
@@ -21927,6 +21934,10 @@
 ##script[src^="http://free-shoutbox.net/app/webroot/shoutbox/sb.php?shoutbox="] + #freeshoutbox_content
 ##span[data-component-type="s-ads-metrics"]
 ##topadblock
+! VPN Affiliate Banners
+##a[href^="https://go.nordvpn.net/aff"] > img
+##a[href^="https://torguard.net/aff.php"] > img
+##a[href^="https://www.privateinternetaccess.com/"] > img
 ! areanews.com.au,armidaleexpress.com.au,avonadvocate.com.au,batemansbaypost.com.au
 ##.grid > .container > #aside-promotion
 ! google

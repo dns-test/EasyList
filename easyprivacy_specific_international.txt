@@ -109,6 +109,7 @@
 ||feed-reader.net/tracking.php
 ||fireball.de/statistikframe.asp?
 ||fr-online.de/analytics/
+||froglytics.eventfrog.ch^
 ||ftd.de^*/track.php?
 ||g.silicon.de^
 ||gala.de/js/tracking-
@@ -256,6 +257,7 @@
 ||track.derbund.ch^
 ||track.express.de^
 ||track.mopo.de^
+||track.rundschau-online.de^
 ||trackerstatistik.init-ag.de^
 ||tracking.finanzen.net^
 ||tracking.hrs.de^
@@ -491,6 +493,7 @@
 ||eclick.baidu.com^
 ||fang.com/stats/
 ||firefoxchina.cn/*/trac.js
+||forum.zuvio.com.tw/api/article/finish
 ||ftchinese.com/js/log.js
 ||funshion.com/interface/
 ||gia.jd.com^
@@ -653,6 +656,7 @@
 ||sanoma.nl/pixel/
 ||sat.sanoma.fi^
 ||stats.fd.nl^
+||temptation.ad.nl^
 ||tijd.be/fb/?
 ||tweakers.net/x/scripts/min/TyYQlL.js
 ||tweakers.net^*&p=$image
@@ -974,6 +978,7 @@
 ||rbc.ru/count/
 ||rbc.ru/redir/stat/
 ||rbc.ru/rightarror.gif
+||ria.ru/ping?
 ||rt.ru/proxy?
 ||rutube.ru/counters.html?
 ||rutube.ru/dbg/player_stat?

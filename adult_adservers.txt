@@ -214,7 +214,6 @@
 ||itsup.com^$third-party
 ||itw.me^$third-party
 ||iwanttodeliver.com^$third-party
-||iwinnersadvantage.com^$third-party
 ||iwlnzreu5vlx.com^$third-party
 ||ixspublic.com^$third-party
 ||jackao.net^$third-party
@@ -603,6 +602,7 @@
 ||vroll.net^$third-party
 ||vrstage.com^$third-party
 ||vsexshop.ru^$third-party
+||w4vecl1cks.com^$third-party
 ||wa4etw9l.top^$third-party
 ||walprater.com^$third-party
 ||wamcash.com^$third-party

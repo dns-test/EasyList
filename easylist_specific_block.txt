@@ -171,9 +171,6 @@
 ||hotstar.com^*/midroll?$~third-party
 ||hotstar.com^*/preroll?$~third-party
 ||howtogermany.com/images/bnr-
-||hulkstream.com/jvpop
-||hulkstream.com/wa.html
-||hulkstreams.com/cjs.js
 ||i-tech.com.au/media/wysiwyg/banner/
 ||ice.hockey/images/sponsoren/
 ||iceinspace.com.au/iisads/
@@ -198,7 +195,7 @@
 ||itweb.co.za^*/sponsors
 ||jackstream.com/jvpop
 ||jackstream.com/wa.html
-||jackstreams.com/cjs.js
+||jackstream.org/algclo1gex2JF2pwcd155BiQB8GJyUqLdfLHZv6A9yK.php
 ||jordantimes.com/accu/
 ||kdnuggets.com/aps/
 ||kendrickcoleman.com/images/banners/
@@ -213,7 +210,6 @@
 ||leechpremium.link/img/banner/promo.png
 ||lespagesjaunesafrique.com/bandeaux/
 ||linkedin.com/tscp-serving/
-||linkhub.icu/vendors/click.js
 ||linkhub.icu/vendors/h.js
 ||linkshare.pro/img/btc.gif
 ||linuxtracker.org/images/dw.png
@@ -337,6 +333,7 @@
 ||talkmagic.co.uk/aimages/$image
 ||tamilwire.org/images/banners3/
 ||taxsutra.com^*/banner/
+||tb.turbocap.net/a637rw3.js
 ||techhive.com/ads/
 ||technewsworld.com/images/sda/
 ||techrepublic.com/leadgen/
@@ -446,6 +443,7 @@
 ||ultimedia.com/js/common/smart.js$script,third-party
 ||vidazoo.com/basev/$script,third-party
 ||viewdeos.com^$script,third-party
+||vplayer.newseveryday.com^
 ! mimecast proxying
 ||mimecast.com^$domain=motorcycleshows.com
 ! streamplay

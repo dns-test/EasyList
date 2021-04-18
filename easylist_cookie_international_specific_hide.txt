@@ -25,7 +25,7 @@ adventskalender-gewinnspiele.de,happy-spots.de,kirmes-in-deutschland.de,stadtfes
 kunstnet.de,notebookinfo.de,zitatezumnachdenken.com###consent
 der-farang.com###consent_overlay
 renault-koenig.de###cook
-alternative-zu.de,baskets-jena.de,bauernzeitung.ch,bookingsuedtirol.com,die-glocke.de,essentraextrusion.de,filati.cc,gebag.de,lvr.de,ruhrbarone.de,shop-apotheke.com###cookie
+alternative-zu.de,baskets-jena.de,bauernzeitung.ch,bookingsuedtirol.com,die-glocke.de,essentraextrusion.de,filati.cc,gebag.de,goldankauf123.de,lvr.de,ruhrbarone.de,shop-apotheke.com###cookie
 brf.be###cookieDashboard
 bambergfacts.de###cookiebar-007
 0rechner.de###cookieconsentmodal
@@ -148,7 +148,6 @@ usz.ch##.consentManagement
 dbna.com##.consentbar
 borgware.de,buffalo.de,daparto.de,del.org,donaukurier.de,matratzen-concord.de,model-kartei.de,pyur.com,signal-iduna.de,spartanien.de,starcar.de,thegap.at,unumotors.com##.cookie
 capcom-germany.de,dtstudyclub.de,insel-sylt.de,medela.de,parfumsclub.de,reifenlehmann.de,selfhost.de,spie.de,svww.de##.cookies
-vb-oberberg.de##.darken-layer
 stadtwerke-luebz.de##.data-consent
 hilzingen.de,wurmberg.de##.datenschutz
 die-linke.de,dielinke.berlin,lexus.at,lexus.de##.disclaimer
@@ -1224,7 +1223,7 @@ podrozerowerowe.info##.appriseOverlay
 likeni.ru##.bottom-popup
 tvguru.ru##.c-modal
 hashrating.com##.cookie
-glavred.info,unian.net##.cookies
+advstreet.ru,glavred.info,unian.net##.cookies
 lisa.ru##.disclamer
 ozon.ru##.i4
 friday.ru##.information
