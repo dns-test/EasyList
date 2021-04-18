@@ -3,7 +3,7 @@
     "checker_type": "AVAILABILITY",
     "destination": "easylist_adservers.txt",
     "hash": "b849fc5411ee15d31a94ad144098fd04c341ee03f59203c49f94d051",
-    "line_number": 12326,
+    "line_number": 12299,
     "output_dir": "/home/runner/work/EasyList/EasyList/output/easylist_adservers.txt",
     "previous_hash": "d96bb6a500977f832d860e85314ab202da55350074759c613bdec3fe",
     "rel_source": "easylist_adservers.txt",
