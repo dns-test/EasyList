@@ -1632,6 +1632,7 @@
 ||s-vop.sundaysky.com^$third-party
 ||s.clickability.com^
 ||s.clickiocdn.com^
+||s.pinimg.com/ct/core.js
 ||s.sniphub.com^
 ||s.srvsynd.com^
 ||s24cloud.net/log^
@@ -2220,6 +2221,7 @@
 ||wss.maven.io^$websocket
 ||wstat.wibiya.com^
 ||wtbevents.pricespider.com^
+||www.google.*/imgevent?
 ||x.disq.us^
 ||x.weather.com^
 ||xt.persosa.com^

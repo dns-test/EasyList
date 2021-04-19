@@ -5749,6 +5749,7 @@
 ##.footsocial
 ##.footsocialize
 ##.for_sharing
+##.forbes-share-page
 ##.format-social-buttons
 ##.forum-share
 ##.fotSocial
@@ -8104,7 +8105,6 @@
 ##.picto_facebook
 ##.picto_googleplus
 ##.picto_twitter
-##.pin-button
 ##.pin-img-btn
 ##.pin-it
 ##.pin-it-btn
@@ -10497,6 +10497,7 @@
 ##.social-networks__badges
 ##.social-networks__item
 ##.social-networks__wrapper
+##.social-news-buttons
 ##.social-newsletter
 ##.social-newsletter-container
 ##.social-node

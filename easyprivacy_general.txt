@@ -5562,12 +5562,14 @@ cgi-bin/counter
 /pixel-prod.
 /pixel?cid=
 /pqt.email/o/*$image
+/rdir.inxmail.com^*/d.gif?
 /sendmail.backerupdate.com/t/*
 /sptracking.
 /ss/o/*.gif
 /track/open.php?
 /track/open?
 /tracking.fanbridge.com/*
+/tracking.srv2.de/op/*$image
 /trcksp.
 /wf/open?upn=$image
 ://email.*/e/o/
