@@ -311,6 +311,7 @@
 ||cpvadvertise.com^$popup
 ||cpxdeliv.com^$popup
 ||crazyad.net^$popup
+||crt.livejasmin.com^$popup
 ||crypto-news-world.club^$popup
 ||curmaphow.club^$popup
 ||cutw.pro^$popup
@@ -657,6 +658,7 @@
 ||mytrackf73.com^$popup
 ||myusersoffer.com^$popup
 ||mywondertrip.com^$popup
+||n19.biz^$popup
 ||naganoadigei.com^$popup
 ||namesakeoscilloscopemarquis.com^$popup
 ||nanoadexchange.com^$popup
@@ -960,6 +962,7 @@
 ||thaudray.com^$popup
 ||the-binary-trader.biz^$popup,third-party
 ||the-digital-market.net^$popup,third-party
+||thebest-casualdating1.com^$popup
 ||thebestgame2020.com^$popup
 ||thepornsurvey.com^$popup
 ||ths9j89.com^$popup

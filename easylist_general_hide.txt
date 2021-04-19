@@ -1380,6 +1380,7 @@
 ###ad336iiatf
 ###ad336x280
 ###ad368_2578
+###ad368_2700
 ###ad375x85
 ###ad3Article
 ###ad3small
@@ -9183,6 +9184,7 @@
 ##.TopLeaderboardAdPanel
 ##.TopRightRadvertisement
 ##.Top_Ad
+##.TrackedBannerPromo
 ##.TrafficAd
 ##.U210-adv-column
 ##.UFSquareAd
@@ -11088,6 +11090,7 @@
 ##.ad_CustomAd
 ##.ad_Flex
 ##.ad_Flexi_LowerRight
+##.ad_Flexi_MiddleRight
 ##.ad_Left
 ##.ad_Right
 ##.ad__caption
@@ -15978,6 +15981,7 @@
 ##.footerads
 ##.footeradspace
 ##.footertextadbox
+##.forbes-ad-container
 ##.foreign-ad01
 ##.foreign-ad02
 ##.forex_ad_links
@@ -16708,6 +16712,7 @@
 ##.home_top_right_ad_label
 ##.homead
 ##.homeadnews
+##.homeadv
 ##.homeadwrapper
 ##.homefront468Ad
 ##.homepage-300-250-ad
