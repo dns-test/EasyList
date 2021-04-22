@@ -4,7 +4,6 @@
 ||2oceansvibe.com/?custom=takeover
 ||9gag.com/embed/featured-videos.html
 ||9xbud.com/865ee0b3fba2aedbbb71.js
-||a.speedostream.com^
 ||a.w3techs.com^
 ||aboutmyarea.co.uk/images/imgstore/
 ||ad.itweb.co.za^
@@ -286,6 +285,7 @@
 ||richardroeper.com/assets/banner/
 ||rpgcodex.net^*/gog_button.jpg
 ||s.radioreference.com/sm/$image
+||s.speedostream.com^
 ||saabsunited.com/wp-content/uploads/*banner
 ||sareunited.com/uploaded_images/banners/
 ||sat24.com/bannerdetails.aspx?
@@ -357,7 +357,11 @@
 ||traditionalmusic.co.uk/images/banners/
 ||truck1.eu/_BANNERS_/
 ||trucknetuk.com^*/sponsors/
+||tubeoffline.com/hh/
+||tubeoffline.com/images/nerd.png
 ||tubeoffline.com/itbimg/
+||tubeoffline.com/js/hot.min.js
+||tubeoffline.com/vpn.php
 ||turbobit.net/fd1/js/brinpopup.js
 ||turbobit.net/pus/
 ||tympanus.net/codrops/wp-content/banners/

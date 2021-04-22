@@ -775,7 +775,7 @@ voloweb.it###popupDivC
 alceosalentino.it,chemistresearch.it,cinquantamila.it,compitoinclasse.org,metroservices.it,tastoeffeuno.it###privacy
 testisemplificati.com###privacy-modal
 jusan.it###privacy-popup
-coni.it,federnuoto.it###privacy-wrapper
+comitatoparalimpico.it,coni.it,federnuoto.it###privacy-wrapper
 pagomeno.it###privacyBanner
 cinquantamila.corriere.it,cinquantamila.it###privacy_advisor
 samaritansonlus.org###sB_injected
@@ -1381,6 +1381,7 @@ fikriyat.com,sabah.com.tr,turkuvazradyolar.com,yeniasir.com.tr##.veriAltBar
 !
 ! ---------- Ukrainian ----------
 !
+res.ua###oct-policy
 fdu.org.ua###pd_popup
 i.ua##.Disclaimer
 tsn.ua##.c-notification__box
