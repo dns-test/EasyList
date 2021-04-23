@@ -1,18 +1,4 @@
 idna_subject,checker_type,destination,source,tested_at,session_id
-sp.gosanangelo.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:19.374476,42a19051903998b83871f0cc
-sp.greatfallstribune.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:19.404508,42a19051903998b83871f0cc
-sp.greenbaypressgazette.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:19.434527,42a19051903998b83871f0cc
-sp.greenvilleonline.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:19.464475,42a19051903998b83871f0cc
-sp.guampdn.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:19.494372,42a19051903998b83871f0cc
-sp.hattiesburgamerican.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:19.524428,42a19051903998b83871f0cc
-sp.htrnews.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:19.554419,42a19051903998b83871f0cc
-sp.independentmail.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:19.584708,42a19051903998b83871f0cc
-sp.indystar.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:19.614882,42a19051903998b83871f0cc
-sp.inyork.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:19.645147,42a19051903998b83871f0cc
-sp.ithacajournal.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:19.675224,42a19051903998b83871f0cc
-sp.jacksonsun.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:19.705684,42a19051903998b83871f0cc
-sp.jconline.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:19.736062,42a19051903998b83871f0cc
-sp.jsonline.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:19.766346,42a19051903998b83871f0cc
 sp.kitsapsun.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:19.796791,42a19051903998b83871f0cc
 sp.knoxnews.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:19.828417,42a19051903998b83871f0cc
 sp.lancastereaglegazette.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:19.858871,42a19051903998b83871f0cc
@@ -2909,3 +2895,17 @@ sp.floridatoday.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.t
 sp.freep.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 09:24:54.836567,42a19051903998b83871f0cc
 sp.fsunews.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 09:27:11.526690,42a19051903998b83871f0cc
 sp.gametimepa.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 09:29:27.861202,42a19051903998b83871f0cc
+sp.gosanangelo.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 09:54:40.855103,42a19051903998b83871f0cc
+sp.greatfallstribune.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 09:57:02.496330,42a19051903998b83871f0cc
+sp.greenbaypressgazette.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 09:59:22.880095,42a19051903998b83871f0cc
+sp.greenvilleonline.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 10:01:49.748958,42a19051903998b83871f0cc
+sp.guampdn.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 10:04:07.112421,42a19051903998b83871f0cc
+sp.hattiesburgamerican.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 10:06:29.095872,42a19051903998b83871f0cc
+sp.htrnews.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 10:08:51.710271,42a19051903998b83871f0cc
+sp.independentmail.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 10:11:14.012158,42a19051903998b83871f0cc
+sp.indystar.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 10:13:39.191129,42a19051903998b83871f0cc
+sp.inyork.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 10:16:05.764558,42a19051903998b83871f0cc
+sp.ithacajournal.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 10:18:30.965155,42a19051903998b83871f0cc
+sp.jacksonsun.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 10:20:51.560762,42a19051903998b83871f0cc
+sp.jconline.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 10:23:07.019032,42a19051903998b83871f0cc
+sp.jsonline.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 10:25:27.486394,42a19051903998b83871f0cc
