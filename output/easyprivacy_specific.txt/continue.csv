@@ -1,17 +1,4 @@
 idna_subject,checker_type,destination,source,tested_at,session_id
-sp.news-press.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:20.194338,42a19051903998b83871f0cc
-sp.newsleader.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:20.225228,42a19051903998b83871f0cc
-sp.northjersey.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:20.255727,42a19051903998b83871f0cc
-sp.pal-item.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:20.286381,42a19051903998b83871f0cc
-sp.pnj.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:20.316916,42a19051903998b83871f0cc
-sp.portclintonnewsherald.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:20.347521,42a19051903998b83871f0cc
-sp.postcrescent.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:20.378245,42a19051903998b83871f0cc
-sp.poughkeepsiejournal.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:20.409090,42a19051903998b83871f0cc
-sp.press-citizen.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:20.439616,42a19051903998b83871f0cc
-sp.pressconnects.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:20.470069,42a19051903998b83871f0cc
-sp.publicopiniononline.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:20.500819,42a19051903998b83871f0cc
-sp.pushsquare.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:20.531454,42a19051903998b83871f0cc
-sp.redding.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:20.562182,42a19051903998b83871f0cc
 sp.reporternews.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:20.592639,42a19051903998b83871f0cc
 sp.rgj.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:20.623418,42a19051903998b83871f0cc
 sp.sctimes.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:20.654125,42a19051903998b83871f0cc
@@ -2909,3 +2896,16 @@ sp.montgomeryadvertiser.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_sp
 sp.mycentraljersey.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 11:18:24.526701,42a19051903998b83871f0cc
 sp.naplesnews.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 11:21:08.467366,42a19051903998b83871f0cc
 sp.newarkadvocate.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 11:23:43.673855,42a19051903998b83871f0cc
+sp.news-press.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 11:48:22.057194,42a19051903998b83871f0cc
+sp.newsleader.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 11:51:06.257454,42a19051903998b83871f0cc
+sp.northjersey.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 11:53:40.996468,42a19051903998b83871f0cc
+sp.pal-item.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 11:56:10.796831,42a19051903998b83871f0cc
+sp.pnj.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 11:58:48.861451,42a19051903998b83871f0cc
+sp.portclintonnewsherald.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 12:01:19.265332,42a19051903998b83871f0cc
+sp.postcrescent.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 12:03:54.369681,42a19051903998b83871f0cc
+sp.poughkeepsiejournal.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 12:06:24.801268,42a19051903998b83871f0cc
+sp.press-citizen.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 12:08:56.154294,42a19051903998b83871f0cc
+sp.pressconnects.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 12:11:35.672814,42a19051903998b83871f0cc
+sp.publicopiniononline.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 12:14:10.495378,42a19051903998b83871f0cc
+sp.pushsquare.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 12:16:45.382850,42a19051903998b83871f0cc
+sp.redding.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 12:19:30.407336,42a19051903998b83871f0cc
