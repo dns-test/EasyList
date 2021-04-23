@@ -1,17 +1,4 @@
 idna_subject,checker_type,destination,source,tested_at,session_id
-sp.kitsapsun.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:19.796791,42a19051903998b83871f0cc
-sp.knoxnews.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:19.828417,42a19051903998b83871f0cc
-sp.lancastereaglegazette.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:19.858871,42a19051903998b83871f0cc
-sp.lansingstatejournal.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:19.889149,42a19051903998b83871f0cc
-sp.ldnews.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:19.919893,42a19051903998b83871f0cc
-sp.lohud.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:19.950540,42a19051903998b83871f0cc
-sp.mansfieldnewsjournal.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:19.981044,42a19051903998b83871f0cc
-sp.marionstar.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:20.011337,42a19051903998b83871f0cc
-sp.marshfieldnewsherald.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:20.041814,42a19051903998b83871f0cc
-sp.montgomeryadvertiser.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:20.072266,42a19051903998b83871f0cc
-sp.mycentraljersey.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:20.102750,42a19051903998b83871f0cc
-sp.naplesnews.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:20.133216,42a19051903998b83871f0cc
-sp.newarkadvocate.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:20.163787,42a19051903998b83871f0cc
 sp.news-press.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:20.194338,42a19051903998b83871f0cc
 sp.newsleader.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:20.225228,42a19051903998b83871f0cc
 sp.northjersey.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:20.255727,42a19051903998b83871f0cc
@@ -2909,3 +2896,16 @@ sp.ithacajournal.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.
 sp.jacksonsun.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 10:20:51.560762,42a19051903998b83871f0cc
 sp.jconline.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 10:23:07.019032,42a19051903998b83871f0cc
 sp.jsonline.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 10:25:27.486394,42a19051903998b83871f0cc
+sp.kitsapsun.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 10:52:55.527618,42a19051903998b83871f0cc
+sp.knoxnews.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 10:55:29.144284,42a19051903998b83871f0cc
+sp.lancastereaglegazette.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 10:57:53.547028,42a19051903998b83871f0cc
+sp.lansingstatejournal.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 11:00:22.837924,42a19051903998b83871f0cc
+sp.ldnews.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 11:02:53.567074,42a19051903998b83871f0cc
+sp.lohud.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 11:05:26.490223,42a19051903998b83871f0cc
+sp.mansfieldnewsjournal.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 11:08:01.174725,42a19051903998b83871f0cc
+sp.marionstar.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 11:10:40.492858,42a19051903998b83871f0cc
+sp.marshfieldnewsherald.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 11:13:15.194158,42a19051903998b83871f0cc
+sp.montgomeryadvertiser.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 11:15:49.101927,42a19051903998b83871f0cc
+sp.mycentraljersey.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 11:18:24.526701,42a19051903998b83871f0cc
+sp.naplesnews.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 11:21:08.467366,42a19051903998b83871f0cc
+sp.newarkadvocate.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 11:23:43.673855,42a19051903998b83871f0cc
