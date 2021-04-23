@@ -46,6 +46,7 @@
 ||canyoublockit.com/wp-content/uploads/nzraxtwifgbg/
 ||carfinderph.com/popup/
 ||carmag.co.za/upload/dmx_banners/
+||catholicregister.org/images/banners/
 ||cd1025.com/www/assets/a/
 ||cdjapan.co.jp/aff/tmpl/big_banner_728x90i.js
 ||ceforum.co.uk/images/misc/PartnerLinks
@@ -208,6 +209,7 @@
 ||lawprofessorblogs.com/responsive-template/*advert.
 ||leechpremium.link/img/banner/promo.png
 ||lespagesjaunesafrique.com/bandeaux/
+||lifehack.org/Tm73FWA1STxF.js
 ||linkedin.com/tscp-serving/
 ||linkhub.icu/vendors/h.js
 ||linkshare.pro/img/btc.gif

@@ -8291,7 +8291,9 @@
 ###topadcontainer
 ###topaddwide
 ###topadh
+###topadleft
 ###topadone
+###topadright
 ###topads-spacer
 ###topads-wrapper
 ###topadsblock
@@ -8927,6 +8929,7 @@
 ##.ContentTextAd
 ##.DAWRadvertisement
 ##.DFP_AD_UNIT
+##.DFPad
 ##.DartAdvert
 ##.DeptAd
 ##.DetachedAd
@@ -9596,6 +9599,7 @@
 ##.ad-box-2
 ##.ad-box-300x250
 ##.ad-box-adsea
+##.ad-box-auto
 ##.ad-box-caption
 ##.ad-box-container
 ##.ad-box-title
@@ -18468,6 +18472,7 @@
 ##.player_hide_ad
 ##.player_hover_ad
 ##.player_page_ad_box
+##.playerdads
 ##.playlist-row-ad
 ##.plistaList > .itemLinkPET
 ##.plistaList > .plista_widget_underArticle_item[data-type="pet"]
@@ -21815,6 +21820,8 @@
 ##a[href^="https://www.pornhat.com/"][rel="nofollow"]
 ##a[href^="https://www.securegfm.com/"]
 ##a[href^="https://www.share-online.biz/affiliate/"]
+##a[href^="https://www.sheetmusicplus.com/"][href*="?aff_id="]
+##a[href^="https://www.sheetmusicplus.com/?aff_id="]
 ##a[href^="https://www.spyoff.com/"]
 ##a[href^="https://www.travelzoo.com/oascampaignclick/"]
 ##a[href^="https://www.vewwrmp.com/"]
