@@ -1688,7 +1688,6 @@
 ||ondu.ru^$third-party
 ||onefeed.co.uk^$third-party
 ||oneimpress.io^$third-party
-||onelink-translations.com^$third-party
 ||onelink.me^$third-party
 ||onestat.com^$third-party
 ||onetag-sys.com^$third-party
@@ -2699,7 +2698,6 @@
 ||xg4ken.com^$third-party
 ||xiti.com^$third-party
 ||xlisting.jp^$third-party
-||xref.io^$third-party
 ||xtraffstat.com^$third-party
 ||xtremline.com^$third-party
 ||xxxcounter.com^$third-party
