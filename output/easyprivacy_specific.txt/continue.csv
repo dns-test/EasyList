@@ -1,17 +1,4 @@
 idna_subject,checker_type,destination,source,tested_at,session_id
-sp.bucyrustelegraphforum.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:18.543129,42a19051903998b83871f0cc
-sp.burlingtonfreepress.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:18.572797,42a19051903998b83871f0cc
-sp.caller.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:18.602164,42a19051903998b83871f0cc
-sp.chillicothegazette.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:18.631573,42a19051903998b83871f0cc
-sp.cincinnati.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:18.661087,42a19051903998b83871f0cc
-sp.citizen-times.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:18.690537,42a19051903998b83871f0cc
-sp.clarionledger.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:18.720104,42a19051903998b83871f0cc
-sp.coloradoan.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:18.749506,42a19051903998b83871f0cc
-sp.commercialappeal.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:18.779149,42a19051903998b83871f0cc
-sp.coshoctontribune.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:18.808553,42a19051903998b83871f0cc
-sp.courier-journal.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:18.837970,42a19051903998b83871f0cc
-sp.courierpostonline.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:18.867517,42a19051903998b83871f0cc
-sp.courierpress.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:18.897204,42a19051903998b83871f0cc
 sp.dailyrecord.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:18.926549,42a19051903998b83871f0cc
 sp.dailyworld.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:18.956254,42a19051903998b83871f0cc
 sp.delawareonline.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:18.986068,42a19051903998b83871f0cc
@@ -2909,3 +2896,16 @@ sp.argusleader.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.tx
 sp.azcentral.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 07:25:55.634663,42a19051903998b83871f0cc
 sp.battlecreekenquirer.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 07:28:16.876073,42a19051903998b83871f0cc
 sp.baxterbulletin.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 07:30:40.045180,42a19051903998b83871f0cc
+sp.bucyrustelegraphforum.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 07:52:22.736188,42a19051903998b83871f0cc
+sp.burlingtonfreepress.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 07:54:58.710753,42a19051903998b83871f0cc
+sp.caller.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 07:57:28.805931,42a19051903998b83871f0cc
+sp.chillicothegazette.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 08:00:04.665653,42a19051903998b83871f0cc
+sp.cincinnati.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 08:02:45.255609,42a19051903998b83871f0cc
+sp.citizen-times.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 08:05:15.664920,42a19051903998b83871f0cc
+sp.clarionledger.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 08:07:55.070673,42a19051903998b83871f0cc
+sp.coloradoan.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 08:10:20.610399,42a19051903998b83871f0cc
+sp.commercialappeal.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 08:12:59.927016,42a19051903998b83871f0cc
+sp.coshoctontribune.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 08:15:43.930391,42a19051903998b83871f0cc
+sp.courier-journal.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 08:18:24.738086,42a19051903998b83871f0cc
+sp.courierpostonline.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 08:20:59.934455,42a19051903998b83871f0cc
+sp.courierpress.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-23 08:23:36.472991,42a19051903998b83871f0cc
