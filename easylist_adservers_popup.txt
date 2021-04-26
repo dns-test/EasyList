@@ -449,6 +449,7 @@
 ||gonextpage.ru^$popup
 ||goodbookbook.com^$popup
 ||googleads.g.doubleclick.net^$popup
+||gotohouse1.club^$popup
 ||gotoplaymillion.com^$popup
 ||grand-ads.com^$popup
 ||granevahu.pro^$popup
@@ -766,6 +767,7 @@
 ||popwin.net^$popup
 ||porlandzor.com^$popup
 ||postlnk.com^$popup
+||potawe.com^$popup
 ||potedly.co^$popup
 ||potpourrichordataoscilloscope.com^$popup
 ||pouncewhineheadquarter.com^$popup
@@ -1002,6 +1004,7 @@
 ||trafforsrv.com^$popup
 ||trafyield.com^$popup
 ||traktrafficflow.com^$popup
+||trandlife.info^$popup
 ||trcklks.com^$popup
 ||trejar.com^$popup
 ||trellian.com^$popup
@@ -1021,6 +1024,7 @@
 ||ucheephu.com^$popup
 ||udncoeln.com^$popup
 ||uel-uel-fie.com^$popup
+||ufinkln.com^$popup
 ||ufpcdn.com^$popup
 ||uhpdsplo.com^$popup
 ||uitopadxdy.com^$popup
