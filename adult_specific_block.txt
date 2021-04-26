@@ -54,6 +54,7 @@
 ||bunnylust.com/sponsors/
 ||camclips.cc/api/$image,script
 ||camclips.cc/npJDy
+||cams.imagetwist.com/in/?track=$subdocument
 ||camvideos.tv/tpd.
 ||camvideos.tv^$subdocument
 ||celebritynakeds.com/nb/$script,~third-party
@@ -70,6 +71,7 @@
 ||didilist.com/tc0fa54f5bb1.js
 ||dildo.tnaflix.com^
 ||dixyporn.com/include/
+||dragonthumbs.com/adcode.js
 ||drtuber.com/footer_
 ||dyn.empflix.com^
 ||dyn.tnaflix.com^
@@ -127,6 +129,7 @@
 ||hotpornfile.org/UIojIMf8ei.js
 ||hottubeclips.com/stxt/banners/
 ||hottystop.com/t33638ba5008.js
+||hqpornstream.com/pub/
 ||hypnohub.net/assets/hub.js
 ||idealnudes.com/tf40bbdd1767.js
 ||imagebam.com/files/tpd.png
@@ -201,6 +204,7 @@
 ||pornvideoq.com/zCpWaxDcYr.js
 ||pornxp.com/*.vtt
 ||pornxp.com/sp
+||pururin.io/assets/js/pop.js
 ||realgfporn.com/js/bbbasdffdddf.php
 ||redtube.com^$subdocument,~third-party
 ||rencontre31.fr/wp-content/themes/rencontre31/images/popupPerso/

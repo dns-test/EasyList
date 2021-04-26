@@ -72,6 +72,7 @@
 @@||static.s-sfr.fr/eTagP/$image,~third-party
 @@||static.s-sfr.fr/stats/footer.js$script,~third-party
 @@||static.s-sfr.fr/stats/header.js$script,~third-party
+@@||tag.aticdn.net/583901/at.js$script,domain=tv5monde.com
 @@||tag.aticdn.net^*/smarttag.js$domain=mon.compteczam.fr
 @@||ultimedia.com/api/widget/getwidget/$xmlhttprequest,domain=ouest-france.fr
 @@||vuplay.co.uk/stats/adobe/*/AppMeasurement.js$script,domain=radioplus.be
@@ -231,6 +232,7 @@
 @@||in.treasuredata.com/js/*api_key$script,domain=retty.me
 @@||k-img.com/javascripts/modules/rst/analytics.js?$domain=tabelog.com
 @@||k-img.com/script/analytics/s_code.js$script,domain=kakaku.com
+@@||line-scdn.net^*/torimochi.js$script,domain=demae-can.com
 @@||mediaweaver.jp^$image,domain=ismedia.jp
 @@||nakanohito.jp^*/bi.js$domain=kenko-tokina.co.jp
 @@||nihongo.alc.co.jp/theme/Japanese/img/home/nf/us.gif$image,~third-party
@@ -294,7 +296,6 @@
 @@||olx.pl^*/js/tracking/ninja.js$domain=olx.pl
 @@||pataks.pl/core,_assets$script,~third-party
 @@||polfan.pl/*/fingerprint2.min.js$script,~third-party
-@@||sgqcvfjvr.onet.pl^$script,domain=kobieta.onet.pl|newsweek.pl
 @@||stat24.com/crossdomain.xml$domain=ipla.tv
 @@||urbanowiczhaft.pl/wp-content/plugins/duracelltomi-google-tag-manager/$~third-party
 @@||wp.pl^*/dot.gif?$xmlhttprequest,domain=open.fm|wp.tv

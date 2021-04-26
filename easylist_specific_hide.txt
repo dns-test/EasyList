@@ -482,6 +482,7 @@ files.fm###right_add
 sosuanews.com###right_banner
 mediacorp.sg###right_banner_placeholder
 ffiles.com###right_col
+medicaldialogues.in###right_level_8
 notdoppler.com###right_link
 hardware.info###right_top
 urlcash.net###rightbox
@@ -682,6 +683,7 @@ nutritioninsight.com###verticlblks
 sofascore.com###video-banner-root
 mentalfloss.com###video-div-polo
 eplsite.uk###video-section
+yahoo.com###viewer-LREC2-iframe
 gumtree.com###vipBanner
 miami.com###visit
 browserleaks.com###vpn_img
@@ -792,6 +794,8 @@ rxlist.com##.Yahoo
 tumblr.com##._1aQrn
 thequint.com##._1v3nU
 coderwall.com##._300x250
+tumblr.com##._3L_Fb
+tumblr.com##._3x1ep
 thequint.com##._4xQrn
 smallseotools.com##.__hmmm__
 gadgets.ndtv.com##._ad
@@ -878,7 +882,9 @@ vidstream.io##.adv-space
 motorauthority.com##.adv-spacer
 veoh.com##.adv-title
 btn.com##.adv-widget
+worldarchitecture.org##.adv1WA1440
 futbol24.com##.adv2
+worldarchitecture.org##.adv2WA1440
 prohaircut.com##.adv3
 yesasia.com##.advHr
 thedailystar.net##.advatige
@@ -895,6 +901,7 @@ file-extensions.org##.advicon
 lifebuzz.com,toocool2betrue.com##.adwrapper
 mail.google.com##.aeF > .nH > .nH[role="main"] > .aKB
 f1i.com##.affiche
+linuxize.com##.affiliate
 surfwap.com##.ahblock2
 uploadvr.com##.ai-sticky-widget
 androidpolice.com,techporn.ph##.ai-track
@@ -1499,6 +1506,7 @@ ice.hockey##.ice_werbung
 pocket-lint.com##.im-desktop
 intomobile.com##.im_970x90
 searchenginejournal.com##.img-mmax-100
+wmtips.com##.img100
 exchangerates.org.uk##.imt4
 mail.com##.indeed
 brudirect.com##.index-banner
@@ -1680,6 +1688,7 @@ standardmedia.co.ke##.my-2
 transfermarkt.com##.nENxsZD
 google.com##.nH.MC
 mail.google.com##.nH.PS
+tumblr.com##.nKBUH > ._2vuYz
 seura.fi##.nativead:not(.list)
 thetechpoint.org##.navigation-banner
 vocm.com##.nccBigBox
@@ -2089,12 +2098,14 @@ joebucsfan.com##.tweet_div1
 karnalguide.com##.two_third > .push20
 shaaditimes.com##.txt[style="border: solid 1px #A299A6; background-color: #FDFCFC;"]
 bizjournals.com##.u-bg-sponsored
+bulbagarden.net##.ub-emb-bar-frame
 doodrive.com##.uk-margin > [href] > img
 pixhost.to##.under-image
 gpucheck.com##.unitBox
 wbur.org##.uw--rectangle
 wbur.org##.uw-label--bottom
 lasvegassun.com##.varWrapper
+tumblr.com##.vd2CF
 fox10phoenix.com##.vendor-unit
 tetris.com##.verticalAx
 videogameschronicle.com##.vgc-boxout
@@ -2192,6 +2203,7 @@ coingolive.com##[href^="https://coinext.com.br/"]
 thehackernews.com##[href^="https://go.thn.li/"]
 headfonics.com##[href^="https://headfonics.com/linkout/"]
 imagetwist.com##[href^="https://imagetwist.com/pxt/"]
+kreationnext.com##[href^="https://kreationnext.com/servers-and-hosting/"]
 noypigeeks.com##[href^="https://nypgks.com/"]
 readlightnovel.org##[href^="https://readlightnovelnew.onelink.me/"]
 darknetdaily.com##[href^="https://shop.ledger.com/"]
@@ -2203,6 +2215,7 @@ unknowncheats.me##[href^="https://www.iwantcheats.net/"]
 gamecopyworld.com,gamecopyworld.eu##[href^="https://www.kinguin.net/"]
 nwanime.tv##[href^="https://www.nutaku.net/signup/landing/"]
 ownedcore.com##[href^="https://www.ownedcore.com/forums/b.php"]
+kreationnext.com##[href^="https://www.resiproxy.net"]
 majorgeeks.com##[href^="https://www.restoro.com/"]
 bikeroar.com##[href^="https://www.roaradventures.com/"]
 upload.ee##[href^="https://www.upload.ee/click.php"]

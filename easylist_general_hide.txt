@@ -9327,6 +9327,7 @@
 ##.ad--loading
 ##.ad--marker-inner
 ##.ad--medium-rectangle
+##.ad--mid
 ##.ad--mid-content
 ##.ad--mobile
 ##.ad--mpu
@@ -10893,6 +10894,8 @@
 ##.adSide
 ##.adSide203
 ##.adSide230
+##.adSideBarMPU
+##.adSideBarMPUTop
 ##.adSidebarButtons
 ##.adSidetileplus
 ##.adSize_MedRec
@@ -11645,6 +11648,7 @@
 ##.adb-728x90
 ##.adb-bottom-outer
 ##.adb-top
+##.adbTrkWt
 ##.adback
 ##.adbadge
 ##.adban-hold-narrow
@@ -13726,6 +13730,7 @@
 ##.advertising-banner
 ##.advertising-block
 ##.advertising-box-top-teaser
+##.advertising-container-top
 ##.advertising-content
 ##.advertising-fixed
 ##.advertising-header
@@ -14243,6 +14248,7 @@
 ##.banner-ad-inner
 ##.banner-ad-label
 ##.banner-ad-large
+##.banner-ad-pos
 ##.banner-ad-row
 ##.banner-ad-space
 ##.banner-ad-wrap
@@ -14970,6 +14976,7 @@
 ##.c-news-feed-ads
 ##.c-res-ad
 ##.c-sitenav-adslot
+##.c-sitenavPlaceholder__ad
 ##.c-teaser__advertising
 ##.c300x250-advert
 ##.c3_adverts
@@ -20895,6 +20902,7 @@
 ##.widget_ad_widget
 ##.widget_adace_ads_widget
 ##.widget_admanagerwidget
+##.widget_admania_adbuilder_widgets
 ##.widget_adrotate_widgets
 ##.widget_ads
 ##.widget_ads_entries
@@ -20990,6 +20998,7 @@
 ##.with-background-ads
 ##.with-wrapper-ads
 ##.withAds
+##.withBanners__ad
 ##.with_ctecad
 ##.wixAdsdesktopBottomAd
 ##.wl-ad
@@ -20998,6 +21007,7 @@
 ##.wnIframeAd
 ##.wnMultiAd
 ##.wnad
+##.worldplus-ad
 ##.wp-block-tpd-block-tpd-ads
 ##.wp125_write_ads_widget
 ##.wp125ad

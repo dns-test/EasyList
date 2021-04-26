@@ -120,6 +120,7 @@
 ||analytics-cms.whitebeard.me^
 ||analytics-production.hapyak.com^
 ||analytics-rhwg.rhcloud.com^
+||analytics-script.ad-shield.io^
 ||analytics-scripts.cablelabs.com^
 ||analytics-sg.tiktok.com^
 ||analytics-static.ugc.bazaarvoice.com^
@@ -365,7 +366,6 @@
 ||breakingburner.com/stats.html?
 ||breakmedia.com/track.jpg?
 ||bright.bncnt.com^
-||browser.sentry-cdn.com^
 ||browserscope.org/user/beacon/
 ||bs.yandex.ru^
 ||btn.clickability.com^
@@ -554,7 +554,6 @@
 ||contents-tracking.beop.io^
 ||control.cityofcairns.com^$third-party
 ||conversions.genieventures.co.uk^
-||convertflow.co^*/events/
 ||convertflow.co^*/visitors/
 ||convertkit.com^*/visit
 ||cookies.livepartners.com^
@@ -699,7 +698,6 @@
 ||d4ax0r5detcsu.cloudfront.net^
 ||d6jkenny8w8yo.cloudfront.net^
 ||d81mfvml8p5ml.cloudfront.net^
-||d8rk54i4mohrb.cloudfront.net^
 ||dadi.technology^$third-party
 ||daq0d0aotgq0f.cloudfront.net^
 ||data.alexa.com^
@@ -955,7 +953,6 @@
 ||gleam.io/seen?
 ||gleam.io^$script,third-party
 ||go.com/capmon/GetDE/?
-||go.pardot.com^
 ||go.techtarget.com^$image,xmlhttprequest
 ||go.toutapp.com^$third-party
 ||goadv.com^*/track.js
@@ -1956,7 +1953,6 @@
 ||tracker.downdetector.com^
 ||tracker.financialcontent.com^
 ||tracker.icerocket.com^
-||tracker.iqnomy.com^
 ||tracker.keywordintent.com^
 ||tracker.marinsoftware.com^
 ||tracker.roitesting.com^
