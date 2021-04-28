@@ -18,7 +18,7 @@ cli_testing:
     complements: false
     cooldown_time: 0.0
     days_between:
-        db_clean: 180
+        db_clean: 7
         db_retest: 1
     db_type: csv
     display_mode:
