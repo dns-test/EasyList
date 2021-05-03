@@ -69,6 +69,8 @@ evaair.com,play.tv,ubs.com###cboxOverlay
 ipaddress.com###cc
 armorgames.com###cc-alert
 yellow.place###cc-bar
+waterfall-d-mannose.com###cc-cont
+charleslandaudentistry.co.uk###cc-container
 skargards.com###cc_dialog
 disclose.tv###ccc-login-signup
 rohan.co.uk###ccpop
@@ -95,12 +97,13 @@ netcraft.com###consent-form
 c21stores.com###consent-tracking
 predesto.com###consent-wrapper
 krunker.io###consentBlock
+sporx.com###consentdiv
 eurosport.com###container-notifications
 decathlon.co.uk###container-screen
 tinder.com###content > span > .App > div[class*="Start"]
 wotinfo.net###coo
 alcoholics-anonymous.org.uk,cryps.info###cook
-add0n.com,aflite.co.uk,aon.com,atom42.co.uk,bakersmall.co.uk,bbvonline.net,betradar.com,bookingsouthtyrol.com,boscolohotels.com,boxnation.com,e-doggy.com,eqavet.eu,essentraextrusion.eu,flexerasoftware.com,fremantlemedia.com,gulfstream.com,iadvize.com,keyboardco.com,kicc.org.uk,lonewolfonline.net,mouseprice.com,nspcc.org.uk,oilplusltd.com,onenessscotland.org,pentagon-group.co.uk,prestashop.com,pretix.eu,priorygroup.com,rodacciai.fr,sainsburysenergy.com,simmons-simmons.com,stiripesurse.ro,tadeevo.com,technutty.co.uk,thebmc.co.uk,toomeymotorgroup.co.uk,tutsandtips.com,tvcorner.com,unsee.cc,wheatley-group.com,zbmath.org###cookie
+add0n.com,aflite.co.uk,aon.com,atom42.co.uk,bakersmall.co.uk,bbvonline.net,betradar.com,bookingsouthtyrol.com,boscolohotels.com,boxnation.com,e-doggy.com,eqavet.eu,essentraextrusion.eu,flexerasoftware.com,fremantlemedia.com,gulfstream.com,iadvize.com,keyboardco.com,kicc.org.uk,lonewolfonline.net,mouseprice.com,nspcc.org.uk,oilplusltd.com,onenessscotland.org,pentagon-group.co.uk,phpipam.net,prestashop.com,pretix.eu,priorygroup.com,rodacciai.fr,sainsburysenergy.com,simmons-simmons.com,stiripesurse.ro,tadeevo.com,technutty.co.uk,thebmc.co.uk,toomeymotorgroup.co.uk,tutsandtips.com,tvcorner.com,unsee.cc,wheatley-group.com,zbmath.org###cookie
 mediafire.com###cookie-accept-footer
 0calc.com###cookieconsentmodal
 anpost.ie,any.run,aquariumforums.co.uk,arag.com,atleticodemadrid.com,ayraviation.com,bl.uk,canadiansolar.com,celulares.com,cifas.org.uk,coinsofhope.eu,educalingo.com,eitb.eus,emrf.eu,emunewz.net,eporner.com,feyenoord.com,film-news.co.uk,forbiddenplanet.co.uk,freemeteo.ch,freemeteo.com,fulltilt.com,globalpetrolprices.com,gpstraining.co.uk,harper-adams.ac.uk,history.bnpparibas,homecinemachoice.com,humbersideairport.com,ibeesoft.com,imperiaonline.org,inmobi.com,irishjobs.ie,iso-chemie.eu,izikart.co.uk,jomast.co.uk,lloydsbankinggroup.com,mareespeche.com,metbiocat.eu,noisli.com,panfurware.com,phonearena.com,picload.org,playclassic.games,pokernews.com,police.uk,premiumcredit.co.uk,private.com,proteum.co.uk,puromarketing.com,radiocaroline.co.uk,rdnester.eu,rotterdam.info,scl.org,studentski.net,tablademareas.com,tellows-au.com,tellows-fi.com,tellows-ng.com,tellows-tr.com,tellows.asia,tellows.at,tellows.be,tellows.co,tellows.co.nz,tellows.co.uk,tellows.co.za,tellows.com,tellows.com.br,tellows.cz,tellows.de,tellows.dk,tellows.es,tellows.fr,tellows.gr,tellows.hu,tellows.in,tellows.it,tellows.jp,tellows.mx,tellows.net,tellows.nl,tellows.org,tellows.pl,tellows.pt,tellows.ru,tellows.se,tellows.tw,the-tls.co.uk,theatre-news.com,tsb.co.uk,wsws.org,xnostars.com###cookies
@@ -222,6 +225,7 @@ pacesuite.com###notification-cont
 youtube.com###notification-footer
 cnn.com###notification-legal
 asiatatler.com###notification-msg-container
+tresorit.com###notification-wrapper
 codeplay.com###notificationPopup
 tweakers.net###notifications > .announcement
 adverts.ie,boards.ie,dailyedge.ie,did.ie,the42.ie,thejournal.ie###notify-container
@@ -238,7 +242,7 @@ tribunesandtriumphs.org###outer-consent
 nbcnews.com###overaly_dy_message
 jukegames.com,n-mobile.net###overbox3
 testmy.net###overlay
-allestoringen.be,allestoringen.nl,allestörungen.at,allestörungen.ch,allestörungen.de,aussieoutages.com,canadianoutages.com,downdetctor.cl,downdetector.ae,downdetector.ca,downdetector.co.nz,downdetector.co.uk,downdetector.co.za,downdetector.com,downdetector.com.ar,downdetector.com.br,downdetector.dk,downdetector.es,downdetector.fi,downdetector.fr,downdetector.hk,downdetector.ie,downdetector.in,downdetector.it,downdetector.jp,downdetector.mx,downdetector.no,downdetector.pl,downdetector.pt,downdetector.ru,downdetector.se,downdetector.sg,downdetector.web.tr###overlay.container
+allestoringen.be,allestoringen.nl,aussieoutages.com,canadianoutages.com,downdetctor.cl,downdetector.ae,downdetector.ca,downdetector.co.nz,downdetector.co.uk,downdetector.co.za,downdetector.com,downdetector.com.ar,downdetector.com.br,downdetector.dk,downdetector.es,downdetector.fi,downdetector.fr,downdetector.hk,downdetector.ie,downdetector.in,downdetector.it,downdetector.jp,downdetector.mx,downdetector.no,downdetector.pl,downdetector.pt,downdetector.ru,downdetector.se,downdetector.sg,downdetector.web.tr,xn--allestrungen-9ib.at,xn--allestrungen-9ib.ch,xn--allestrungen-9ib.de###overlay.container
 belkin.com###pagebanner
 pdfescape.com###pdfe_cmp
 themilitarystore.co.uk###pixelpop
@@ -277,6 +281,7 @@ honeygain.com###root > div + div + div:last-child
 cote.co.uk###root > div > .fixed
 mywot.com###root > div > div[direction="up"][style*="transform"]
 zomato.com###root > div:first-child:not(:only-child)
+glassnode.com###root > div:last-child
 honeygain.com###root > footer ~ div
 wrigleys.co.uk###rpcm
 tenuser.com###rsp
@@ -343,8 +348,11 @@ cryptokitties.co##.BottomBanner
 itsfoss.com##.CampaignType--floating
 perforce.com##.EUc
 tjc.co.uk##.GDPR
+tunnelmb.net##.MqsPw
 fwg-vg-linz.de##.Mrku11502
+jsonquerytool.com##.MuiDialog-root
 bbb.org##.MuiDrawer-root
+coingate.com##.MuiSnackbar-root
 freewebsitetemplates.com,wilderssecurity.com##.Notices
 leti.com##.NoticesBox
 freeagent.com##.Notification
@@ -393,6 +401,7 @@ codesignal.com##.analytics-banner
 wowhead.com##.announcement
 civilsociety.co.uk##.announcement-banner
 commsec.com.au,soundcloud.com##.announcements
+cryptoquant.com##.ant-row-center
 leo.org##.app-footer-content
 start.me##.app__message
 mubi.com##.appear-enter-done
@@ -444,7 +453,7 @@ gll.gg##.ccINgy
 drakecircus.com##.ccc-widget
 hannity.com##.ccpa
 orcadian.co.uk##.cd-container
-wunderground.com##.cdk-overlay-container
+shopstyle.co.uk,tacobot.tf,wunderground.com##.cdk-overlay-container
 source.chromium.org##.cdk-overlay-pane > .mat-snack-bar-container
 kbs.co.kr##.chrome_pick
 stayinwales.co.uk##.ckinfo-panel
@@ -465,13 +474,13 @@ xing.com##.consent_wrapper
 cityoflondon.gov.uk##.container-floating-notifications
 bankofengland.co.uk,cityoflondon.police.uk##.container-notifications
 antoineonline.com##.container-overlay
-18virginsex.com,altervista.org,anglianwater.co.uk,ask.fm,callcredit.co.uk,calvertjournal.com,crazydomains.co.uk,derwaldhof.com,dw.com,farecompare.com,firefox-usb.com,forever21.com,forgeworld.co.uk,gheed.com,gooddollar.org,hempel.co.uk,hempelyacht.com,here.com,hud.ac.uk,jaguarlandrover.com,leonorgreyl.com,liptonicetea.com,ludwig.guru,m64.info,mandarinoriental.com,mclaren.com,mik.eu,modecom.com,modhoster.com,moneywise.co.uk,mydraw.com,mysurveylab.com,nationalcircus.org.uk,natwest.com,npl.co.uk,octotree.io,oldgoesyoung.com,openmailbox.org,pepperl-fuchs.com,postoffice.co.uk,prodir.com,purnatur.eu,rbs.co.uk,redditinc.com,roalddahl.com,rowenta.com,samsunghealthcare.com,sense.org.uk,sheldrickwildlifetrust.org,silverlake.com,sleek-mag.com,squirt.org,statusbrew.com,syntevo.com,team-mediaportal.com,trailfinders.com,tubidy.news,twitchstrike.com,unicheck.com,virgin-atlantic.com,wannawork.com,ytddownloader.com##.cookie
+18virginsex.com,altervista.org,anglianwater.co.uk,ask.fm,callcredit.co.uk,calvertjournal.com,crazydomains.co.uk,derwaldhof.com,dw.com,farecompare.com,firefox-usb.com,forever21.com,forgeworld.co.uk,gheed.com,gooddollar.org,hempel.co.uk,hempelyacht.com,here.com,hud.ac.uk,jaguarlandrover.com,leonorgreyl.com,liptonicetea.com,ludwig.guru,m64.info,mandarinoriental.com,mclaren.com,mik.eu,modecom.com,modhoster.com,moneywise.co.uk,mydraw.com,mysurveylab.com,nationalcircus.org.uk,natwest.com,npl.co.uk,octotree.io,oldgoesyoung.com,openmailbox.org,pepperl-fuchs.com,postoffice.co.uk,prodir.com,purnatur.eu,rbs.co.uk,redditinc.com,roalddahl.com,rowenta.com,samsunghealthcare.com,sense.org.uk,sheldrickwildlifetrust.org,silverlake.com,sleek-mag.com,squirt.org,statusbrew.com,syntevo.com,team-mediaportal.com,togetherall.com,trailfinders.com,tubidy.news,twitchstrike.com,unicheck.com,virgin-atlantic.com,wannawork.com,ytddownloader.com##.cookie
 deezer.com##.cookie-banner
-geeksforgeeks.org##.cookie-consent
+forcepoint.com,geeksforgeeks.org##.cookie-consent
 7news.com.au##.cookie-consent--normal
 theatlantic.com##.cookie-disclaimer
 bitfeed.co##.cookiebanner
-21buttons.com,amnesty.org,asda.com,ashridge.org.uk,auto1.fi,auto10.com,belivehotels.com,chemistdirect.co.uk,cineworld.co.uk,coinbase.com,consumeraffairs.org.uk,crytek.com,custplace.com,dorotheum.com,dur.ac.uk,egyptair.com,eirsport.ie,enable-javascript.com,feelunique.com,forsettlement.com,gartic.io,grandvision.com,graspop.be,guggenheim-bilbao.eus,hmv.com,hotel-spider.com,hse.ru,inagrm.com,indepth.dev,luxottica.com,mabanque.bnpparibas,macpaw.com,mailjet.com,mannheimerswartling.se,medela.co.uk,media-sense.com,mindshareworld.com,mindswarms.com,nedbank.co.za,ostrog.com,perfumesclub.co.uk,perfumesclub.com,pics.io,pjon.org,playgwent.com,proton.com,radeon-pro.github.io,renaultbryanston.co.za,renaultfourways.co.za,royalparks.org.uk,scamner.com,sharafdg.com,stuttafordvanlines.co.za,tescomobile.ie,testeri.fi,thenottingham.com,threadreaderapp.com,topographic-map.com,twinings.co.uk,ukcisa.org.uk,ukmail.com,umicore.com,unian.info,unknownphone.com,uptodown.com,urtekram.com,vizologi.com,volvocars.com,warhammerchampions.com,wilko.com,wizards.com##.cookies
+21buttons.com,amnesty.org,asda.com,ashridge.org.uk,auto1.fi,auto10.com,belivehotels.com,chemistdirect.co.uk,cineworld.co.uk,coinbase.com,consumeraffairs.org.uk,crytek.com,custplace.com,dorotheum.com,dur.ac.uk,egyptair.com,eirsport.ie,enable-javascript.com,eurozine.com,feelunique.com,forsettlement.com,gartic.io,grandvision.com,graspop.be,guggenheim-bilbao.eus,hmv.com,hotel-spider.com,hse.ru,inagrm.com,indepth.dev,luxottica.com,mabanque.bnpparibas,macpaw.com,mailjet.com,mannheimerswartling.se,medela.co.uk,media-sense.com,mindshareworld.com,mindswarms.com,nedbank.co.za,ostrog.com,perfumesclub.co.uk,perfumesclub.com,pics.io,pjon.org,playgwent.com,proton.com,radeon-pro.github.io,renaultbryanston.co.za,renaultfourways.co.za,royalparks.org.uk,scamner.com,sharafdg.com,stuttafordvanlines.co.za,tescomobile.ie,testeri.fi,thenottingham.com,threadreaderapp.com,topographic-map.com,twinings.co.uk,ukcisa.org.uk,ukmail.com,umicore.com,unian.info,unknownphone.com,uptodown.com,urtekram.com,vizologi.com,volvocars.com,warhammerchampions.com,wilko.com,wizards.com##.cookies
 austrian.com,austrianairlines.ag,austriantechnik.at##.cop
 semanticscholar.org##.copyright-banner
 bandcamp.com##.corp-banners
@@ -483,6 +492,7 @@ mad-daily.com##.cp-info-bar-container
 louisvuitton.com##.cs_banner
 quixel.com##.css-wzviqn
 tannoy.com##.cv2-wrapper
+ratemyprofessors.com##.dQpRnT
 chess24.com##.dataConsentModal
 dhl.com##.dhl-cgk
 ingwb.com##.dialog
@@ -598,6 +608,7 @@ hertz247.co.uk,hertz247.com,hertzcarsales.co.uk##.lbContainer
 hertz247.co.uk,hertz247.com,hertzcarsales.co.uk##.lb_overlay
 olymp.com##.legal-banner
 yahoo.com##.legal-footer
+99airdrops.com##.legal-notice
 jw.org##.legal-notices-client--notice
 sacoorbrothers.com##.legal-warning
 office.com##.m-alert
@@ -612,7 +623,7 @@ opengapps.org##.mdl-snackbar
 adobe.com,investors.com,merixstudio.com,sapabuildingsystem.com,timesofisrael.com##.message
 heedbook.com##.message-alert
 gametwist.com##.message__container
-wandermap.net##.messages
+runmap.net,wandermap.net##.messages
 foreignaffairs.com##.messages--container--bottom
 spotify.com##.mh-message-bar
 mitele.es##.mitele-consent
@@ -643,7 +654,7 @@ netjetseurope.com##.nj-header-prompt
 nianticlabs.com,pokemongolive.com##.nl-cpb
 xing-news.com##.no-cookie
 blogfree.net##.note
-brightree.com,cgtrader.com,cortesdecima.com,dialight.com,discordapp.com,dotmailer.com,exposition-osiris.com,keenfootwear.com,medicalxpress.com,outsideonline.com,phys.org,shire.com,techxplore.com##.notice
+brightree.com,cgtrader.com,cortesdecima.com,dialight.com,discordapp.com,dotmailer.com,exposition-osiris.com,keenfootwear.com,medicalxpress.com,outsideonline.com,phys.org,shire.com,techxplore.com,ubuntu18.com##.notice
 anime2enjoy.com##.notice-board
 veritasbooksonline.com##.notice-wrap
 square-enix-games.com##.notice_Notices_29tRQ
@@ -663,6 +674,7 @@ insurancebusinessmag.com##.notification_strip
 amateur.tv##.notificationbar
 myscript.com##.notifications-outer
 livesirina.com##.notifier-wrapper
+filmstreaming-de.life##.notifier_dmca_js
 sax.co.uk##.notify
 blockspoint.com##.notizWrapper
 nowness.com##.ns-info-bar
@@ -840,6 +852,7 @@ ethereumprice.org##.zxc-msg
 theaustralian.com.au##CAAS-MESSAGE-PANEL
 santatracker.google.com##SANTA-NOTICE
 trustnet.com##USER-TYPE-POPUP
+pri.org##[class^="CtaMessage_"]
 vivid.money##[class^="cookieNotification_"]
 shutterstock.com##[data-automation="Eu_banner_container"]
 mobile.twitter.com##[data-reactroot] > [class] + [class]:last-child
@@ -859,7 +872,6 @@ tacobell.co.uk##div[am-cookie]
 revolut.com##div[class*="StyledCookiesBanner"]
 quora.com##div[class*="flex_wrapper"][class*="gray_ultralight"]
 inc.com##div[class*="privacyPolicyPopup"]
-pri.org##div[class^="CtaMessage_"]
 similarsites.com##div[class^="PrivacyNotification"]
 radio.garden##div[class^="PrivacyPolicyNotice"]
 epidemicsound.com##div[class^="___Warnings"]
@@ -903,7 +915,7 @@ opentip.kaspersky.com##section[data-t="cks-dsc"] > div > div
 truecaller.com##span > .max-w-md.shadow-lg
 web.dev##web-snackbar
 ! googlefunding consent warning
-androidpolice.com,apkmirror.com,gameblog.fr,liliputing.com,makeuseof.com,phonearena.com,quotes.net,smallseotools.com,telegram.hr,wordreference.com##div[style*="box-shadow: rgb(136, 136, 136) 0px 0px 12px; color: "]
+androidpolice.com,apkmirror.com,gameblog.fr,liliputing.com,makeuseof.com,marbaro.it,phonearena.com,quotes.net,smallseotools.com,stadtfeste-in-deutschland.de,telegram.hr,timeanddate.com,wordreference.com##div[style*="box-shadow: rgb(136, 136, 136) 0px 0px 12px; color: "]
 ! mobile.twitter.com
 mobile.twitter.com###react-root > div > div > .rn-gvpnoh
 twitter.com##.r-13qz1uu.r-tvv088.css-1dbjc4n
@@ -937,3 +949,5 @@ walmart.ca##.privacy-open > div > [class] > div[class^="css"]
 bing.com##div[data-cookie]
 ! Multi-national sites
 spot-a-shop.at,spot-a-shop.de,spot-a-shop.fi,spot-a-shop.fr,spot-a-shop.pl,spot-a-shop.se###__next > div > div > div[class^="css"]
+! Include ubO specific
+!#include easylist_cookie_specific_uBO.txt

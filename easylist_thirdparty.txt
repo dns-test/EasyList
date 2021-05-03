@@ -14,6 +14,7 @@
 ||ad.smartmediarep.com^
 ||ad.valuecalling.com^
 ||ad.wsod.com^
+||ad.xiaomi.com^
 ||adaptv.advertising.com^
 ||adf.ly^$script,third-party,domain=~j.gs|~q.gs
 ||adfoc.us^$script,third-party
@@ -56,6 +57,7 @@
 ||alluremedia.com.au^*/campaigns/
 ||alpsat.com/banner/
 ||altushost.com/docs/$third-party
+||alysson.de^$domain=radio.at|radio.de|radio.dk|radio.es|radio.fr|radio.it|radio.net|radio.pl|radio.pt|radio.se|radiome.at|radiome.de|radiome.fr
 ||amazonaws.com^$script,subdocument,xmlhttprequest,domain=ndtv.com|streamplay.to|usersfiles.com|vshare.eu|yify-movies.net
 ||amazonaws.com^$third-party,xmlhttprequest,domain=downloadpirate.com|vshare.eu
 ||an.yandex.ru^$domain=~e.mail.ru
@@ -270,7 +272,7 @@
 ||cloudfront.net/scripts/js3caf.js
 ||cloudfront.net/st.js
 ||cloudfront.net/tie.js
-||cloudfront.net^$image,script,subdocument,xmlhttprequest,domain=300mbfilms.org|4archive.org|amabitch.com|comedy.com|coroas40.com|devil-torrents.pl|embedsr.to|mixdrop.to|multiup.org|omghype.com|pirateiro.com|streamp1ay.cc|streamplay.to|thepiratebay.org|usersfiles.com|video.az|vshare.eu|xrares.com
+||cloudfront.net^$image,script,subdocument,xmlhttprequest,domain=300mbfilms.org|4archive.org|amabitch.com|comedy.com|coroas40.com|devil-torrents.pl|downloadpirate.com|embedsr.to|mixdrop.to|multiup.org|omghype.com|pirateiro.com|streamp1ay.cc|streamplay.to|thepiratebay.org|usersfiles.com|video.az|vshare.eu|xrares.com
 ||cloudiro.com^*-ads.
 ||cloudlocker.biz/img/$third-party
 ||cloudzer.net/ref/
@@ -356,6 +358,7 @@
 ||d1v99qnc7usc0g.cloudfront.net^
 ||d1wa9546y9kg0n.cloudfront.net/index.js
 ||d1wjz6mrey9f5v.cloudfront.net^
+||d1xkyo9j4r7vnn.cloudfront.net^
 ||d1zgderxoe1a.cloudfront.net^
 ||d20903hof2l33q.cloudfront.net^
 ||d21j20wsoewvjq.cloudfront.net^
@@ -364,6 +367,7 @@
 ||d25dfknw9ghxs6.cloudfront.net^
 ||d25xkbr68qqtcn.cloudfront.net^
 ||d26c6kzavi5zwd.cloudfront.net^
+||d28s7kbgrs6h2f.cloudfront.net^
 ||d29dbajta0the9.cloudfront.net^
 ||d29i6o40xcgdai.cloudfront.net^
 ||d2c4ylitp1qu24.cloudfront.net^
@@ -523,6 +527,7 @@
 ||dybxezbel1g44.cloudfront.net^
 ||dynamicserving.com^$third-party
 ||dynw.com/banner
+||dzupi9b81okew.cloudfront.net^
 ||e-tailwebstores.com/accounts/default1/banners/
 ||e-webcorp.com/images/$third-party
 ||earn-bitcoins.net/banner_
@@ -580,6 +585,7 @@
 ||fastcccam.com/images/fcbanner2.gif
 ||fatads.toldya.com^$third-party
 ||fatburningfurnace.com^*/fbf-banner-
+||fcdn.stream/asset/bann.js
 ||fcgadgets.blogspot.com^$third-party
 ||feedburner.com/~a/
 ||femalefirst.co.uk/widgets/$third-party
@@ -1586,6 +1592,11 @@
 ||ziffdavisenterprise.com/contextclicks/
 ||ziffprod.com/CSE/BestPrice?
 ||zip2save.com/widget.php?
+! https://d3ward.github.io/toolz/src/adblock.html
+||ad.intl.xiaomi.com^
+||ad.samsungadhub.com^
+||ad.xiaomi.com^
+||samsungadhub.com^$third-party
 ! Pi hole
 ||ads.yahoo.com^
 ! https://github.com/easylist/easylist/pull/6720

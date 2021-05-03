@@ -19,6 +19,7 @@ pschyrembel.de###cbAlert
 deutsche-handwerks-zeitung.de,handwerk-magazin.de,trendaward.de###cc-box
 hosteurope.de###cche
 badkissingen.de,wuerzburg.de###chint
+metradar.ch###closeonaction
 jmmgc.com###cnotice
 aktienportal1.de,eifelzeitung.de,ep1.de###coPolicyMain
 adventskalender-gewinnspiele.de,happy-spots.de,kirmes-in-deutschland.de,stadtfeste-in-deutschland.de,weihnachtsmaerkte-in-deutschland.de,weinfeste-in-deutschland.de###cono
@@ -26,7 +27,7 @@ kunstnet.de,notebookinfo.de,zitatezumnachdenken.com###consent
 strawpoll.de###consent-overlay
 der-farang.com###consent_overlay
 renault-koenig.de###cook
-alternative-zu.de,baskets-jena.de,bauernzeitung.ch,bookingsuedtirol.com,die-glocke.de,essentraextrusion.de,filati.cc,gebag.de,goldankauf123.de,lvr.de,ruhrbarone.de,shop-apotheke.com###cookie
+alternative-zu.de,baskets-jena.de,bauernzeitung.ch,bookingsuedtirol.com,burg-lindenfels.de,die-glocke.de,essentraextrusion.de,filati.cc,gebag.de,goldankauf123.de,lvr.de,ruhrbarone.de,shop-apotheke.com###cookie
 brf.be###cookieDashboard
 bambergfacts.de###cookiebar-007
 0rechner.de###cookieconsentmodal
@@ -39,10 +40,12 @@ neues-deutschland.de###data-protection
 interhyp.de###data-protection__layer
 sovd.de###datenschutzfenster
 shopwelt.de###dateschutzinfo
+paschal.de###decker
 alldent-zahnzentrum.de###dialog
 elektrotresen.de,fliesenoutlet.com,stw.berlin###disclaimer
 carl-walther.de###disclaimer-bar
 novasol.at###disclosure-container
+entschuldigung.net###divModalScreen
 fool.de###dogfish
 computerwelt.at###dr_blocking_div
 strabag-pfs.de###dsgvo
@@ -74,12 +77,12 @@ reifen-service-rostock.de###my_cw_label
 newsaktuell.de###nacc-container
 newsaktuell.de###nacc-overlay
 steffen-hanske.de###note
-poe.de,staedelschule.de###notice
+eltern-bildung.at,poe.de,staedelschule.de###notice
 der-audio-verlag.de###notification
 berentzen-gruppe.de###notifications
 manikowski.de###notify2
 fxgrow.de###openModal2
-xn--allestrungen-9ib.de###overlay
+ihk-nuernberg.de,xn--allestrungen-9ib.de###overlay
 happyweekend-club.com###page
 picdumps.com###pcdc
 uni-greifswald.de###piwik-flyin
@@ -123,6 +126,7 @@ mjamjam-petfood.de##.allover
 naturenergieplus.de##.announcement
 appdynamics.de##.announcement-bar
 playboy.de##.as-oil-content-overlay
+sanko-solar.de##.avg-bar
 urbia.de##.banner
 anibis.ch##.banner-wrapper
 bkw.ch##.bkw-snackbar
@@ -138,6 +142,7 @@ bueromarkt-ag.de##.cCText
 infiniti.at,infiniti.ch,infiniti.de##.c_128
 syfit.de##.c_cont
 juedische-allgemeine.de##.cc
+antenne.at,de.vanguard,hw-zuschuss.daimler.com,meine-bankid.de,teambank.de,townsmith.de##.cdk-overlay-container
 herrenausstatter.de##.ce-container
 aeesuisse.ch,bluesnews.de##.ce_rsce_oneo_fixed_note
 tobias-bauer.de##.ce_rsce_swissy_fixed_note
@@ -193,6 +198,7 @@ urbia.de##.layer-confirm-bottom
 hertz247.de##.lbContainer
 receiver.de,steckdosenleiste.org##.legalAdvice
 aktionspreis.de##.leiste_vollstaendig
+der-hexenkessel.de,mundschutzgermany.de##.lightbox-backdrop
 echo-online.de,giessener-anzeiger.de##.lightbox-overlay
 echo-online.de,giessener-anzeiger.de##.lightbox-skin
 lokalportal.de##.lp_snack-bar__container
@@ -205,6 +211,7 @@ csu.de##.mod-layer
 zurich.de##.mod-notification-teaser
 fc-carlzeiss-jena.de,felix1.de,mainz05.de##.modal-backdrop
 moon-power.com##.moon2-statisticsOptBox
+tecedo.at##.msg-banner
 roland-schuhe.de##.newsflash
 kvvks.de,messe-kassel.de##.note
 helios-gesundheit.de,motorvision.tv,shire.de##.notice
@@ -276,6 +283,7 @@ bergische-energie.de##div[style^="position: fixed; top: 0px;"]
 werder.de##div[style^="position: fixed; top:"]
 bergische-energie.de##div[style^="width: calc"]
 oebv.net##form > div
+wiesenhaus-koeln.de##main ~ div
 kalenderpedia.de##p
 fc-hansa.de##p[style="display: block; margin: 0px; padding: 10px 30px 10px 10px; color: rgb(255, 255, 255); font-size: 13px; line-height: 1.5;"]
 hl-live.de##table[width="1000"]
@@ -290,7 +298,7 @@ cdiscount.com###\5f evh-ric
 madeindesign.ch###_EAPM
 volvic.fr###_legal
 guideastuces.com###agreeMsg
-ecrypterlenergie.org###alert-mention
+decrypterlenergie.org,ecrypterlenergie.org###alert-mention
 zdnet.fr###catfish
 iti-maps.fr###cc_overlay
 skitour.fr###coo_aut
@@ -315,6 +323,7 @@ fromagesuisse.ch###legalnotice
 lotus-planete.com###lotus-cookies-wrap
 comptabilisation.fr###message_wrap
 maxifoot.fr###mfcok1
+giappo.com###normativa
 altaprofits.com,aujourdhui.com###notification
 infojobs.net###notification-type
 all-bikes.fr,store-opart.fr###ocw_conteneur
@@ -338,9 +347,11 @@ scooter-system.fr##.avertissement
 potagercity.fr##.banner
 utopya.fr##.banner-header
 infiniti.be,infiniti.fr,infiniti.lu##.c_128
+agirc-arrco.fr,byclickeat.fr##.cdk-overlay-container
 ddb.fr,pmu.fr##.cnil
 runinreims.com##.confidentialite
 planeteanimal.com,toutcomment.com##.consent
+crosscall.com##.consent-tracking
 lirelactu.fr##.container-0-5
 eco-systemes.fr,ffr.fr,midilibre.fr,quelpneu.com,sudouest.fr,tv7.com##.cookie
 118000.fr,adrea.fr,bpost.be,citus-kalix.fr,clique.tv,communauto.com,comparateur-energie.be,cuisineaz.com,degrouptest.com,epresse.fr,info-retraite.fr,intermarche.be,monsieur-meuble.com,o2recrute.fr,ouestjob.com,parisjob.com,perfumesclub.fr,previssima.fr,service-public.fr,stb.com.tn,wemystic.fr,xxe.fr##.cookies
@@ -349,6 +360,7 @@ tv5unis.ca##.css-wydzoi.e1v9p9hw0
 lexus.fr##.disclaimer
 doctolib.fr##.dl-drawer
 molotov.tv##.eRnhI
+radiosetv.com##.fck
 weclap.fr##.front_web_app_main_menu_front-web-app-main-menu-component_front_show_cookie_container
 woodbrass.com##.hidden-sm.hidden-md.row
 ouedkniss.com##.informations_box
@@ -383,6 +395,7 @@ businessinsider.fr,voici.fr##div[class^="sp_message_container"]
 sportetstyle.fr##div[id^="cookie"]
 tf1.fr##div[id^="msgctrw"]
 privatesportshop.fr##div[style="background: #FFFFE1; border-bottom: 1px solid #A0A0A0; padding: 10px;line-height: 1.4em; text-align: justify; font-family: sans-serif; font-size: 12px;"]
+allomarie.fr##div[style^="position:absolute;position:fixed;left:50%;bottom:0;"]
 ! Site Specific filters (used with $generichide)
 onvasortir.com###infocookies
 !
@@ -395,6 +408,7 @@ egmus.vip##.cookie
 ! ---------- Bosnian ----------
 !
 klix.ba##.consent_wrapper
+rentl.io##.sc-4oup69-1
 !
 ! ---------- Bulgarian ----------
 !
@@ -415,6 +429,7 @@ u-car.com.tw##.privacyforsite
 !
 ! ---------- Croatian ----------
 !
+rast.hr###blokDiv
 ghetaldus.hr,zkl.hr###cookies
 mojkvart.hr###dcw1
 jax.hr###notice
@@ -541,6 +556,7 @@ rotaserve.com##.avg
 twentemilieu.nl##.balloon_notification
 infiniti.nl##.c_128
 internedservices.nl##.ccdiv
+grenscorridorn69.nl##.cdk-overlay-container
 penstore.nl##.center-notice
 vergelijk.nl##.cg-82
 vergelijk.nl##.cg-97
@@ -554,6 +570,7 @@ aalst.be##.footer-notification
 stelcomfortshop.nl##.header-notice
 independer.nl##.ind-cbar
 bcb-online.nl##.jqibox
+portugeseproducten.nl##.lightbox-backdrop
 simyo.nl##.mfp-ready
 ingsprinters.nl##.modal
 daf.nl,hepatitiscgids.nl##.modal-backdrop
@@ -592,6 +609,7 @@ yhteiso.telia.fi###yhteiso-evasteet
 satakunnanautotalo.fi##.AVS-evasteseloste-container
 kulttuurivihkot.fi##.activebar-container
 americanairlines.fi##.alert
+hanavesi.fi,hanavesitesti.fi,kalkinpoisto.com,keskustaopiskelijat.fi,linseed.fi,mokkivesi.fi,nuudelit.fi,oivasivut.fi,paajala.fi,tuska.fi##.alert_banneri
 vismasign.fi##.banner
 happypancake.fi##.bar.jsx-341223085
 hs.fi##.cb-container
@@ -603,6 +621,7 @@ matkahuolto.fi##.css-jlvvqa
 ifolor.fi##.dialogBanner--align-bottom
 vr.fi##.headerContents > .infoMessages
 lidl.fi,pelit.fi,telia.fi##.notification
+helmet.fi##.notifier_warning
 suomi24.fi##.s24_cc_banner-wrapper
 terveystalo.com##.st-consent-banner
 lehtodigital.fi##[class^="__ld_cookie_"]
@@ -733,7 +752,7 @@ emanuelaursino.it###cke_plc
 eismoinfo.lt###consent
 ecodallecitta.it###contenuto_consenso
 spesasicura.com###cook
-aeo.it,bookingaltoadige.com,camionsupermarket.it,chiesi.com,citroen-club.it,confidisystema.com,enistation.com,esselunga.it,esselungajob.it,exprivia.it,extramagazine.eu,famila.it,giornaledicalabria.it,ildolomiti.it,kolping.it,messinaline.it,miabolzano.it,miamerano.it,mtonauticastore.it,mymercato.it,negozi.fastweb.it,pallacanestrovarese.it,primocanale.it,radiociao.com,rimini.com,sace.it,sanfrancescopatronoditalia.it,spesati.it,tecnocasa.it,wd40.it###cookie
+aeo.it,bookingaltoadige.com,camionsupermarket.it,cattoliciogginotizie.it,chiesi.com,citroen-club.it,confidisystema.com,enistation.com,esselunga.it,esselungajob.it,exprivia.it,extramagazine.eu,famila.it,giornaledicalabria.it,ildolomiti.it,kolping.it,messinaline.it,miabolzano.it,miamerano.it,mtonauticastore.it,mymercato.it,negozi.fastweb.it,pallacanestrovarese.it,primocanale.it,radiociao.com,rimini.com,sace.it,sanfrancescopatronoditalia.it,spesati.it,tecnocasa.it,wd40.it###cookie
 angolotesti.it,armietiro.it,automobilismo.it,automobilismodepoca.it,chateau-dax.it,ciclismo.it,cyclistmagazine.it,evomagazine.it,lupopornohd.it,menshealth.it,motociclismo.it,musictory.it,ordineavvocati.bari.it,pardini.it,runnersworld.it,tennisitaliano.it,testimania.com,thefilmclub.it,unipv.it,velaemotore.it###cookies
 telea1.it###cooky_content
 majani.it###cs-banner
@@ -837,6 +856,7 @@ jpmorganassetmanagement.it##.disclaimerPopupContainer
 primigi.it##.fancybox-overlay
 loccioni.com##.fascia
 e-weber.it##.flash-info
+lsdlibri.it##.fullscreen_box_legale
 supertv.it##.generic-text-wrap
 genny.com##.genny-footer-cookie-notification
 italradio.org##.gpdr
@@ -846,6 +866,7 @@ lavorar.it##.headerline2
 supernordicskipass.it##.infPr
 vienormali.it##.info
 altroconsumo.it##.info-banner
+lsdlibri.it##.inibisci_sfondo
 orgoglionerd.it##.irpclw
 bofrost.it##.iziModal-overlay
 estendo.it##.jconfirm
@@ -1035,6 +1056,7 @@ archiwumalle.pl,basketzone.pl,getem.pl,kosmetykizameryki.pl###polityka
 loteriainpost.pl###pop_up
 pkspolonus.pl###popek
 apdmarket.pl###popup
+poznan.pl###popup-peka
 ivet.pl###popup1
 weck.com.pl###popup2
 erhem.pl###popupContact
@@ -1147,7 +1169,6 @@ footroll.pl##div[style="position: fixed; left: 0px; bottom: 0px; right: 0px; z-i
 kolbi.pl##div[style="position: fixed; left:0; right:0; bottom:0; height:34px; background-color:#eee; border-top: 1px solid black; z-index:1000; overflow: auto"]
 czescidobmw.pl##div[style="position:fixed;left:0;top:0;width:100%;height:100%;background:#000;background:rgba(0,0,0,0.5);z-index:99999;cursor:pointer"]
 noclegi24h.pl##div[style="text-align: right; font-size: 9px; padding-right: 20px;"]
-vas.com.pl##div[style="top: 0px; left: 0px; right: 0px; width: 100%; margin: 0px auto; background-color: rgba(0, 0, 0, 0); background-position: left top; background-repeat: repeat-x; background-attachment: scroll; background-size: auto auto; background-origin: padding-box; background-clip: border-box; height: 36px; overflow: hidden; background-image: none !important;"]
 cabletech.pl##div[style="top:0;position:absolute;width:100%;background:#000;color:#f2f2f2;font-size:10px;text-align:center"]
 v10.pl##div[style="width: 100%; background-color: rgb(0, 0, 0); margin: 0px; position: fixed; bottom: 0px; left: 0px; padding: 0px; height: 15px; line-height: 15px; text-align: center; color: rgb(255, 255, 255); z-index: 1000; font-family: Arial, Helvetica, sans-serif; font-size: 10px;"]
 linuxportal.pl##div[style="width: 100%; background: rgb(44, 48, 51) none repeat scroll 0% 0%; padding: 10px 0; color: #fff; border-top: 1px solid rgb(221, 221, 221);  text-align: center; position: fixed; bottom: 0; z-index: 999999999;"]
@@ -1162,7 +1183,7 @@ sfinks.org.pl##div[style^="left: 0px; top:"]
 visionexpress.pl##div[style^="margin: 0px auto; padding:"]
 pallottinum.pl##div[style^="padding:5px 15px;padding-top:5px;"]
 trzemeszno.pl##div[style^="top:0;left:0;"]
-vas.com.pl##div[style^="top:0;left:0;right:0;"]
+poznan.pl,vas.com.pl##div[style^="top:0;left:0;right:0;"]
 zs1mm.edu.pl##frame
 wsqn.pl#?#.infotext:-abp-contains(cookie)
 !
@@ -1175,6 +1196,7 @@ gentside.com.br###cookie
 fidelidade.pt,ren.pt###cookies
 rtp.pt###rtpgeralcookiecontent
 cmjornal.pt,jornaldenegocios.pt###termos
+xalingo.com.br###wrng-agrmnt
 sapo.ao##.bsu-v2-ntfs
 vodafone.pt##.ck-nudge-slim
 sinonimos.com.br##.clm
@@ -1182,6 +1204,7 @@ macorlux.pt##.cookie
 abola.pt,assismatica.pt,conforama.pt,metalomarao.pt,perfumesclub.pt##.cookies
 tudogostoso.com.br##.disclaimer
 ericeirasurfskate.pt##.footer-fixed-bar
+infojobs.com.br##.modal-backdrop
 lidl.pt##.notification
 jaguarportugal.pt,landrover.pt##.notificationBars
 timing.pt##.policy
@@ -1239,6 +1262,7 @@ pegast.ru##.pgs-top
 66.ru##.t-i-agree
 obozrevatel.com##.t657__wrapper
 yoomoney.ru##div[class^="Gdpr__StyledGdpr-"]
+pik-broker.ru##div[class^="cookie_cookie_"]
 aliexpress.ru##div[class^="styles_wrapper_"]
 !
 ! ---------- Serbian ----------
@@ -1261,6 +1285,8 @@ lexus.sk##.disclaimer
 tpd.sk##.header__notice__content
 modrykonik.sk##.nc_a
 lidl.sk##.notification
+park-skocjanske-jame.si##div[style*="text-align:center;-webkit-box-shadow:0px -5px 14px -4px rgba"]
+amaterky.sk##div[style^="padding-top: 10px; padding-bottom: 10px;"]
 !
 ! ---------- Slovenian ----------
 !
@@ -1273,6 +1299,7 @@ lidl.si##.notification
 !
 ! ---------- Spanish ----------
 !
+almacen-informatico.com###Informacion
 pacma.es###aceptacion_politicas
 electrocosto.com###bottom
 aristeguinoticias.com###comparte
@@ -1280,6 +1307,7 @@ cifempleo.com,ferrovial.com,gaes.es,infodefensa.com,moviles.com,movistarriders.g
 ssangyong.es###eltexto
 salonocasion.com###fb-cd
 shotsdeciencia.com###guacBg8
+inelenco.com###hid
 hora.com.es###ley
 masvision.es###lycok
 paginasamarillas.es###m-notification--bottom
@@ -1294,8 +1322,8 @@ lactalisfoodservice.es##.LSSI
 lasestrellas.tv,telehit.com##.Privacy
 drweb-av.es##.SHOWIT-msg_showed
 agroterra.com,amadeus.com,damelibros.com,futbolenlatv.es,lavozdegalicia.es##.alert
+ratatype.es##.alert-bottom
 eluniverso.com##.block-eluniverso-gdpr
-blogcindario.com##.c01eb8fc
 infiniti.com.do,infiniti.com.pa,infiniti.mx,infinitimotors.cl,infinitipr.com##.c_128
 psicologia-online.com,uncomo.com##.consent
 alcampo.es,gestoriaverdugo.es##.cookie
@@ -1315,6 +1343,7 @@ arsys.es##.notifications
 chollometro.com##.softMessages-item
 contarcaracteres.com##.top-header
 in4.es##.uk-position-fixed
+blogcindario.com,mforos.com##body > div[id][class]
 recepedia.com##div[style^="position: fixed; top:"]
 !
 ! ---------- Swedish ----------
@@ -1352,8 +1381,10 @@ lidl.se,proff.se##.notification
 osterbottenstidning.fi,sydin.fi,vasabladet.fi##.online-notifications
 smhi.se##.polopolyNotification
 laga.se##.site-info-message
+lysa.se##.snackbar-wrapper
 expressen.se##.terms-dialog
 dplay.se##div[class^="notification"]
+sellpy.se##footer ~ div
 !
 ! ---------- Thai ----------
 !

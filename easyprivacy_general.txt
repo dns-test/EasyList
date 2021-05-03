@@ -1407,7 +1407,9 @@
 /common/tracker.js
 /competeTracking_test.html?
 /compile/AppMeasurement.
+/comscore-js-
 /comscore-min.js
+/comscore-pageview-
 /comscore.
 /comscore/pageview_
 /comscore/streamsense.
@@ -1582,6 +1584,7 @@
 /d_tracking.ashx?
 /dart_wrapper.html?
 /data.do?session_
+/data.mistat.
 /data/collect/*$xmlhttprequest
 /data_collect.js
 /datacapture/track
@@ -3258,7 +3261,7 @@
 /pageview?user_guid=
 /pageviews-counter-
 /pageviews.gif?
-/pageviews/*$domain=~pageviews.toolforge.org|~stats.wikimedia.org|~tools.wmflabs.org
+/pageviews/*$domain=~mediawiki.org|~pageviews.toolforge.org|~tools.wmflabs.org|~wikimedia.org|~wikipedia.org
 /pageviews?token=
 /pageviews_counter.
 /PageviewsTracker.
@@ -3427,7 +3430,7 @@
 /pladtrack.
 /planetstat.
 /platform-analytics-
-/plausible.js
+/plausible.js$domain=~plausible.io
 /player/stats.php?
 /player_counter.ashx?
 /PlayerDashboardLoggingService.svc/json/StartSession?
@@ -5248,6 +5251,7 @@
 ://b.*/click?
 ://b.*/ping?
 ://b.*/vanity/?
+://beacon.*/track
 ://c.*/c.gif?
 ://c1.*/c.gif?
 ://cmpv2.

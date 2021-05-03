@@ -293,6 +293,7 @@
 ###AdvertiseFrame
 ###Advertisement1
 ###Advertisement2
+###AdvertisementLeaderboard
 ###AdvertisementRightColumnRectangle
 ###Advertisements
 ###AdvertisingDiv_0
@@ -5228,6 +5229,13 @@
 ###div-dfp-BelowContnet
 ###div-dfp-bottom_leaderboard
 ###div-gpt-FloorAd
+###div-gpt-InArticle1
+###div-gpt-InArticle2
+###div-gpt-InArticle3
+###div-gpt-InArticle4
+###div-gpt-InArticle5
+###div-gpt-InArticle6
+###div-gpt-InArticle7
 ###div-gpt-LDB1
 ###div-gpt-MPU1
 ###div-gpt-MPU2
@@ -10575,6 +10583,8 @@
 ##.ad960
 ##.ad960x185
 ##.ad960x90
+##.ad970
+##.ad970_250
 ##.ad970x30
 ##.ad970x90
 ##.ad980
@@ -11779,6 +11789,7 @@
 ##.adcolumn_wrapper
 ##.adcomment
 ##.adcont
+##.adcontainer-Rectangle
 ##.adcontainer2
 ##.adcontainer300x250l
 ##.adcontainer300x250r
@@ -12266,6 +12277,7 @@
 ##.ads-u-1
 ##.ads-ul
 ##.ads-vertical-icons-wrap
+##.ads-verticle
 ##.ads-video-zone-container
 ##.ads-wide
 ##.ads-widget
@@ -16803,7 +16815,6 @@
 ##.house-ad
 ##.house-ad-small
 ##.house-ad-unit
-##.house-ad-wrap
 ##.house-ads
 ##.houseAd
 ##.houseAd1
@@ -16926,6 +16937,7 @@
 ##.in-page-ad
 ##.in-story-ads
 ##.in-story-text-ad
+##.in-text-ad
 ##.inArticleAdInner
 ##.inPageAd
 ##.inStoryAd-news2
@@ -17786,6 +17798,7 @@
 ##.mobile_featuredad
 ##.mobile_featuredad_article
 ##.mobile_index_ad
+##.mobile_vertisement
 ##.mobileadbig
 ##.mobileadunit
 ##.mobilesideadverts
@@ -20400,6 +20413,7 @@
 ##.topAdIn
 ##.topAdLeft
 ##.topAdRight
+##.topAdSpacer
 ##.topAdWrap
 ##.topAdWrapper
 ##.topAdd
@@ -20764,6 +20778,7 @@
 ##.vjs-ad-iframe
 ##.vjs-ad-overlay
 ##.vjs-ima3-ad-container
+##.vjs-overlay.size-300x250
 ##.vl-ad-item
 ##.vlog-ad
 ##.vmp-ad
@@ -21204,6 +21219,7 @@
 ##[href^="https://refpahrwzjlv.top/"]
 ##[href^="https://secure.bmtmicro.com/servlets/"]
 ##[href^="https://wct.link/"]
+##[href^="https://www.reimageplus.com/"]
 ##[href^="https://www.xvbelink.com/"]
 ##[id^="ad-wrap-"]
 ##[id^="adframe_wrap_"]
@@ -21376,7 +21392,6 @@
 ##a[href^="http://casino-x.com/?partner"]
 ##a[href^="http://cdn.adsrvmedia.net/"]
 ##a[href^="http://cdn.adstract.com/"]
-##a[href^="http://cdn3.adbrau.com/"]
 ##a[href^="http://cdn3.adexprts.com/"]
 ##a[href^="http://chaturbate.com/affiliates/"]
 ##a[href^="http://click.payserve.com/"]
@@ -21490,7 +21505,6 @@
 ##a[href^="http://stateresolver.link/"]
 ##a[href^="http://static.fleshlight.com/images/banners/"]
 ##a[href^="http://syndication.exoclick.com/"]
-##a[href^="http://t.mdn2015x2.com/"]
 ##a[href^="http://t.wowtrk.com/"]
 ##a[href^="http://tc.tradetracker.net/"] > img
 ##a[href^="http://tezfiles.com/pr/"]
@@ -21498,6 +21512,7 @@
 ##a[href^="http://track.trkvluum.com/"]
 ##a[href^="http://tracking.deltamediallc.com/"]
 ##a[href^="http://traffic.tc-clicks.com/"]
+##a[href^="http://trk.adtracker2.com/"]
 ##a[href^="http://trk.mdrtrck.com/"]
 ##a[href^="http://ucam.xxx/?utm_"]
 ##a[href^="http://ul.to/ref/"]
@@ -21608,6 +21623,7 @@
 ##a[href^="http://yads.zedo.com/"]
 ##a[href^="http://z1.zedo.com/"]
 ##a[href^="http://zevera.com/afi.html"]
+##a[href^="https://10dfkuvbdkfv.club/"]
 ##a[href^="https://a.adtng.com/"]
 ##a[href^="https://a.bestcontentfood.top/"]
 ##a[href^="https://aaucwbe.com/"]
@@ -21718,6 +21734,7 @@
 ##a[href^="https://m.do.co/c/"] > img
 ##a[href^="https://mcdlks.com/"]
 ##a[href^="https://medleyads.com/"]
+##a[href^="https://meet-sexhere.com/"]
 ##a[href^="https://meet-to-fuck.com/tds"]
 ##a[href^="https://members.linkifier.com/public/affiliateLanding?refCode="]
 ##a[href^="https://misspkl.com/"]
@@ -21853,6 +21870,7 @@
 ##bottomadblock
 ##div[aria-label="Ads"]
 ##div[cel_widget_id="dpx-sponsored-products-detail_csm_instrumentation_wrapper"]
+##div[class$="_b-ad-main"]
 ##div[class*="-storyBodyAd-"]
 ##div[class*="_AdInArticle_"]
 ##div[class*="_browserAdOuterContainer_"]
@@ -21974,7 +21992,9 @@
 ##a[href^="http://get.slickvpn.com/"]
 ##a[href^="http://https://www.get-express-vpn.com/offer/"]
 ##a[href^="https://affiliate.rusvpn.com/click.php?"]
+##a[href^="https://billing.purevpn.com/aff.php"] > img
 ##a[href^="https://go.nordvpn.net/aff"] > img
+##a[href^="https://go.nordvpn.net/aff"] img
 ##a[href^="https://torguard.net/aff.php"] > img
 ##a[href^="https://track.ultravpn.com/"]
 ##a[href^="https://www.get-express-vpn.com/offer/"]
