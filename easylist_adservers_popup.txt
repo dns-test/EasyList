@@ -45,6 +45,7 @@
 ||absoluteclickscom.com^$popup
 ||actio.systems^$popup
 ||actiondesk.com^$popup,third-party
+||acweb.online^$popup
 ||ad-apac.doubleclick.net^$popup
 ||ad-emea.doubleclick.net^$popup
 ||ad-maven.com^$popup,third-party
@@ -104,6 +105,7 @@
 ||adskpak.com^$popup
 ||adsmarket.com^$popup
 ||adsplex.com^$popup
+||adspredictiv.com^$popup
 ||adsrv4k.com^$popup
 ||adsupply.com^$popup,third-party
 ||adsupplyads.com^$popup,third-party
@@ -141,6 +143,7 @@
 ||ahbdsply.com^$popup
 ||ahscdn.com^$popup
 ||aidaigry.com^$popup
+||ailrouno.net^$popup
 ||aj1574.online^$popup
 ||ajkrls.com^$popup
 ||ajkzd9h.com^$popup
@@ -187,6 +190,7 @@
 ||b3z29k1uxb.com^$popup
 ||b54m4qbmt0b9.com^$popup
 ||backslider.buzz^$popup
+||baiweluy.com^$popup
 ||baypops.com^$popup
 ||bbaahc.com^$popup
 ||bbuni.com^$popup
@@ -195,6 +199,7 @@
 ||becoquin.com^$popup,third-party
 ||bedorm.com^$popup
 ||befade.com^$popup
+||beklefkiom.com^$popup
 ||belwrite.com^$popup
 ||bemobtrk.com^$popup
 ||beonixom.com^$popup
@@ -211,6 +216,7 @@
 ||bidverdrs.com^$popup
 ||bidvertiser.com^$popup,third-party
 ||bighot.ru^$popup,third-party
+||bigprizesonline.com^$popup
 ||binaryoptionsgame.com^$popup
 ||bingohall.ag^$popup
 ||bit-system.org^$popup
@@ -245,6 +251,7 @@
 ||cadsans.com^$popup
 ||cadsats.com^$popup
 ||calcch.com^$popup
+||calvali.com^$popup
 ||camscaps.net^$popup
 ||capacygre.top^$popup
 ||careerjournalonline.com^$popup
@@ -332,6 +339,7 @@
 ||deloplen.com^$popup
 ||deloton.com^$popup
 ||denza.pro^$popup
+||determine-month-upward-shoot.xyz^$popup
 ||dexpredict.com^$popup
 ||digitaldsp.com^$popup
 ||dilruwha.net^$popup
@@ -344,6 +352,7 @@
 ||dntrax.com^$popup
 ||dolohen.com^$popup
 ||dormitysature.info^$popup
+||dosliggooor.com^$popup
 ||doublepimp.com^$popup
 ||down-paradise.com^$popup
 ||down1oads.com^$popup
@@ -398,7 +407,6 @@
 ||fastdlr.com^$popup
 ||femvxitrquzretxzdq.info^$popup
 ||fhserve.com^$popup
-||fiechaev.com^$popup
 ||filestube.com^$popup,third-party
 ||findbetterresults.com^$popup
 ||findlnk.com^$popup
@@ -415,6 +423,7 @@
 ||forarchenchan.com^$popup
 ||foxcdn.club^$popup
 ||foxcdn.life^$popup
+||foxcdn.live^$popup
 ||fpctraffic3.com^$popup
 ||freeevpn.info^$popup
 ||freegiftvip.xyz^$popup
@@ -438,6 +447,7 @@
 ||getalltraffic.com^$popup
 ||getmyads.com^$popup
 ||gfdfhdh5t5453.com^$popup
+||giddinessdefensivesubject.com^$popup
 ||giveaways.club^$popup
 ||glareart.com^$popup
 ||glassmilheart.com^$popup
@@ -459,6 +469,7 @@
 ||groorgex.net^$popup
 ||grown-zero-breeze-belong.xyz^$popup
 ||grtyj.com^$popup
+||grygrothapi.pro^$popup
 ||gsniper2.com^$popup
 ||h3lw971ym6.com^$popup
 ||h8vzwpv.com^$popup
@@ -518,6 +529,7 @@
 ||indianweeklynews.com^$popup,third-party
 ||infopicked.com^$popup
 ||infra.systems^$popup
+||inigusyou.fun^$popup
 ||injuredcandy.com^$popup
 ||insigit.com^$popup
 ||insta-cash.net^$popup
@@ -528,6 +540,7 @@
 ||intab.fun^$popup
 ||integral-marketing.com^$popup
 ||internewsweb.com^$popup
+||iociley.com^$popup
 ||irtya.com^$popup
 ||irtyvhrthhya.com^$popup
 ||ismlks.com^$popup
@@ -586,6 +599,7 @@
 ||lltrsknoob.click^$popup
 ||lmn-pou-win.com^$popup
 ||lnkgt.com^$popup
+||loadsfalladz.casa^$popup
 ||lokvel.ru^$popup
 ||looksmart.com^$popup
 ||lootynews.com^$popup
@@ -653,6 +667,7 @@
 ||mxsads.com^$popup
 ||mybestdc.com^$popup
 ||mybestmv.com^$popup
+||mybetterdl.com^$popup
 ||mynetab.com^$popup
 ||mypushz.com^$popup
 ||myrdrcts.com^$popup
@@ -672,6 +687,7 @@
 ||never2date.com^$popup
 ||new-dating-5you.com^$popup
 ||new9.xyz^$popup
+||newdmn.icu^$popup
 ||newjulads.com^$popup
 ||news07.biz^$popup
 ||news19.biz^$popup
@@ -776,8 +792,10 @@
 ||predictivadvertising.com^$popup
 ||predictivdisplay.com^$popup
 ||premium-members.com^$popup
+||premium4kflix.top^$popup
 ||preskalyn.com^$popup
 ||prfdesk.pro^$popup
+||prime-vpnet.com^$popup
 ||privacy4browsers.com^$popup
 ||prjcq.com^$popup
 ||prmtracking.com^$popup
@@ -790,6 +808,7 @@
 ||protect-your-privacy.net^$popup
 ||provocativeprivate.com^$popup
 ||prowlerz.com^$popup
+||prpops.com^$popup
 ||psma02.com^$popup
 ||psoomeeg.com^$popup
 ||ptongouh.net^$popup
@@ -829,6 +848,7 @@
 ||realtime-bid.com^$popup
 ||recheriend.top^$popup
 ||red-direct-n.com^$popup
+||redeemcodes.me^$popup
 ||redirect-ads.com^$popup
 ||redirect18systemsg.com^$popup
 ||redirect2719.ws^$popup
@@ -876,6 +896,7 @@
 ||scenbe.com^$popup
 ||searchmulty.com^$popup
 ||searchsecurer.com^$popup
+||secureclickers.com^$popup
 ||securecloud-smart.com^$popup
 ||securegate9.com^$popup
 ||secureintl.com^$popup
@@ -893,6 +914,7 @@
 ||shortpixel.ai^$popup
 ||shoubsee.net^$popup
 ||showcasead.com^$popup
+||sidebyz.com^$popup
 ||sifuglie.com^$popup
 ||significantlyentering.com^$popup
 ||silstavo.com^$popup
@@ -922,6 +944,7 @@
 ||sperans-beactor.com^$popup
 ||spherediary.com^$popup
 ||sponsorselect.com^$popup
+||sports-streams-online.best^$popup
 ||spotscenered.info^$popup
 ||sq2trk2.com^$popup
 ||srv-ad.com^$popup
@@ -968,6 +991,7 @@
 ||thebest-casualdating1.com^$popup
 ||thebestgame2020.com^$popup
 ||thepornsurvey.com^$popup
+||thisisyourprize.site^$popup
 ||ths9j89.com^$popup
 ||thygrepuwo.pro^$popup
 ||tjoomo.com^$popup
@@ -980,6 +1004,7 @@
 ||tnkexchange.com^$popup
 ||tonefuse.com^$popup
 ||top-performance.best^$popup
+||top-performance.club^$popup
 ||topblockchainsolutions.nl^$popup
 ||topclickguru.com^$popup
 ||topcpmnetwork.com^$popup
@@ -1010,6 +1035,7 @@
 ||trellian.com^$popup
 ||trfsltions.info^$popup
 ||trilema.com^$popup
+||triumphantplace.com^$popup
 ||trklnks.com^$popup
 ||trw12.com^$popup
 ||tsyndicate.com^$popup
@@ -1029,6 +1055,7 @@
 ||uhpdsplo.com^$popup
 ||uitopadxdy.com^$popup
 ||ukoffzeh.com^$popup
+||unlimited-media.co^$popup
 ||unseen2020.com^$popup
 ||uptopopunder.com^$popup
 ||uselnk.com^$popup
@@ -1053,7 +1080,6 @@
 ||vinfdv6b4j.com^$popup
 ||vipcpms.com^$popup
 ||viralcpm.com^$popup
-||viriepak.com^$popup
 ||vokut.com^$popup
 ||voluumtrk.com^$popup
 ||voluumtrk3.com^$popup
@@ -1074,11 +1100,13 @@
 ||wdeliv.net^$popup
 ||weaveradrenaline.com^$popup
 ||webatam.com^$popup
+||webgains.com^$popup
 ||websearchers.net^$popup
 ||webtrackerplus.com^$popup
 ||weliketofuckstrangers.com^$popup
 ||wellhello.com^$popup,third-party
 ||wellnesszap.com^$popup
+||wg-aff.com^$popup
 ||wgpartner.com^$popup
 ||wholefreshposts.com^$popup
 ||wigetmedia.com^$popup
