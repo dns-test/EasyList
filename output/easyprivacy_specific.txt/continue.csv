@@ -1,13 +1,4 @@
 idna_subject,checker_type,destination,source,tested_at,session_id
-sp.rgj.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:20.623418,42a19051903998b83871f0cc
-sp.sctimes.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:20.654125,42a19051903998b83871f0cc
-sp.sheboyganpress.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:20.684899,42a19051903998b83871f0cc
-sp.shreveporttimes.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:20.716149,42a19051903998b83871f0cc
-sp.stargazette.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:20.747030,42a19051903998b83871f0cc
-sp.statesmanjournal.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:20.777822,42a19051903998b83871f0cc
-sp.stevenspointjournal.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:20.808903,42a19051903998b83871f0cc
-sp.tallahassee.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:20.839965,42a19051903998b83871f0cc
-sp.tcpalm.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:20.870977,42a19051903998b83871f0cc
 sp.tennessean.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:20.901877,42a19051903998b83871f0cc
 sp.theadvertiser.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:20.932886,42a19051903998b83871f0cc
 sp.thecalifornian.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:20.963749,42a19051903998b83871f0cc
@@ -2914,3 +2905,12 @@ tspmagic.tumblr.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.t
 sp.reporternews.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-04-26 12:17:49.928364,42a19051903998b83871f0cc
 cloudflare.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2001-05-03 11:39:53.921742,42a19051903998b83871f0cc
 euclid.kuula.co,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2001-05-03 11:40:22.084324,42a19051903998b83871f0cc
+sp.rgj.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-03 13:21:31.801932,42a19051903998b83871f0cc
+sp.sctimes.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-03 13:23:32.300106,42a19051903998b83871f0cc
+sp.sheboyganpress.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-03 13:25:32.558915,42a19051903998b83871f0cc
+sp.shreveporttimes.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-03 13:27:37.234967,42a19051903998b83871f0cc
+sp.stargazette.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-03 13:29:46.892106,42a19051903998b83871f0cc
+sp.statesmanjournal.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-03 13:31:47.315018,42a19051903998b83871f0cc
+sp.stevenspointjournal.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-03 13:33:42.500438,42a19051903998b83871f0cc
+sp.tallahassee.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-03 13:35:47.263556,42a19051903998b83871f0cc
+sp.tcpalm.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-03 13:37:43.307123,42a19051903998b83871f0cc
