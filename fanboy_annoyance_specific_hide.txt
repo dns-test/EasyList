@@ -1842,6 +1842,7 @@ thedailyshow.com##.cc_footy
 dutchnews.nl,revisionworld.co.uk##.ccc-widget
 msn.com##.cf[style="width:80px;"]
 mashable.com##.channel-coverage
+stuff.co.nz##.chch-push-pointer
 thedailybeast.com##.cheatSignUp
 asus.com##.check-survey-info
 thesun.co.uk##.chicklet-bottom
@@ -3989,6 +3990,7 @@ examine.com##.free_hacks
 politico.com##.friday-cover-sign-up
 adventistworld.org##.frm_form_fields
 fansided.com,lastnighton.com,netflixlife.com,winteriscoming.net##.fs-daily
+donaldjtrump.com##.ftd-footer
 fitbit.com##.ftr-mail-me
 screenbinge.com##.ftr-subscribe
 fundable.com##.fundable_newsletter_signup
@@ -4489,6 +4491,7 @@ adweek.com,avclub.com,bnnbloomberg.ca,bostonherald.com,chicoer.com,coloradodaily
 factcheck.org,therevolutionaryact.com##a[href*="/subscribe/"]
 quantamagazine.org##a[href="#newsletter"]
 mediaite.com##a[href="http://www.mediaite.com/email-newsletter/"]
+stuff.co.nz##a[href^="https://my.stuff.co.nz/register/newsletter"]
 upi.com##div > .ad_slot + div[style="position: relative;"]
 arstechnica.co.uk##div > p + blockquote
 stuff.co.nz##div[class$="-pointer"]
@@ -4601,7 +4604,7 @@ irusa.org###slide_top
 oneplus.com###sticky-tools-btn
 bbgsite.com###tipGoTop
 popmythology.com###toTop
-bd.com,howtogermany.com,livelaw.in,liveleak.com,vpnranks.com###top
+bd.com,howtogermany.com,livelaw.in,vpnranks.com###top
 staradvertiser.com###top-anchor
 angelshack.co.za,avemariaradio.net,motorscribes.com###top-link
 countdown.co.nz,crime-stoppers.org###top-link-block

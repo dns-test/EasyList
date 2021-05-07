@@ -29,14 +29,17 @@
 ||g7329120395.co^
 ||g7527204730.co^
 ||g7725289065.co^
+||g792337340.co^
 ||g7923373400.co^
 ||g8121457735.co^
 ||g8319542070.co^
+||lltrck.com^
 ||mors22.com^
 ||nxakpj4ac8gkd53.info^
 ||propeller-tracking.com^
 ||sbgsodufuosmmvsdf.info^
 ||truffle.bid^
+||wknd.ai^
 ||z0uolej1qnxzub1.info^
 ! Third-party
 ||0emm.com^$third-party
@@ -71,7 +74,6 @@
 ||3gl.net^$third-party
 ||404tracker.com^$third-party
 ||40nuggets.com^$third-party
-||44-trk-srv.com^$third-party
 ||4oney.com^$third-party
 ||55labs.com^$third-party
 ||6sc.co^$third-party
@@ -80,7 +82,6 @@
 ||7bpeople.com^$third-party
 ||7eer.net^$third-party
 ||8020solutions.net^$third-party
-||88infra-strat.com^$third-party
 ||99counters.com^$third-party
 ||99stats.com^$third-party
 ||9nl.eu^$third-party
@@ -837,7 +838,6 @@
 ||europagerank.com^$third-party
 ||europuls.eu^$third-party
 ||europuls.net^$third-party
-||eventcapture03.com^$third-party
 ||everestjs.net^$third-party
 ||everesttech.net^$third-party
 ||evergage.com^$third-party
@@ -961,6 +961,7 @@
 ||fueldeck.com^$third-party
 ||fuelx.com^$third-party
 ||fugetech.com^$third-party
+||fullcircleinsights.com^$third-party
 ||funneld.com^$third-party
 ||funstage.com^$third-party
 ||fuse-data.com^$third-party
@@ -1314,6 +1315,7 @@
 ||keywee.co^$third-party
 ||keywordmax.com^$third-party
 ||keywordstrategy.org^$third-party
+||kickfire.com^$third-party
 ||kieden.com^$third-party
 ||killerwebstats.com^$third-party
 ||kilometrix.de^$third-party
@@ -1483,6 +1485,7 @@
 ||mediaweaver.jp^$third-party
 ||mediego.com^$third-party
 ||mega-stats.com^$third-party
+||megastats.net^$third-party
 ||memecounter.com^$third-party
 ||memo.co^$third-party
 ||mercadoclics.com^$third-party
@@ -1539,6 +1542,7 @@
 ||movable-ink-6710.com^$third-party
 ||mparticle.com^$third-party
 ||mpianalytics.com^$third-party
+||mpio.io^$third-party
 ||mplxtms.com^$third-party
 ||mppapi.io^$third-party
 ||mpstat.us^$third-party
@@ -1944,7 +1948,6 @@
 ||remailtarget.com^$third-party
 ||remarketstats.com^$third-party
 ||remind.me^$third-party
-||rep0pkgr.com^$third-party
 ||repixel.co^$third-party
 ||report-uri.com^$third-party
 ||report-uri.io^$third-party
@@ -2198,7 +2201,6 @@
 ||splitbee.io^$third-party
 ||splittag.com^$third-party
 ||splyt.com^$third-party
-||spn-twr-14.com^$third-party
 ||spn.ee^$third-party
 ||sponsored.com^$third-party
 ||spotmx.com^$third-party
@@ -2463,7 +2465,6 @@
 ||tscounter.com^$third-party
 ||tsk4.com^$third-party
 ||tsk5.com^$third-party
-||tst14netreal.com^$third-party
 ||tubemogul.com^$third-party
 ||tuinfra.com^$third-party
 ||tunnl.com^$third-party
@@ -2485,7 +2486,6 @@
 ||uciservice.com^$third-party
 ||udkcrj.com^$third-party
 ||ugdturner.com^$third-party
-||uhygtf1.com^$third-party
 ||umbel.com^$third-party
 ||unblockia.com^$third-party
 ||unicaondemand.com^$third-party

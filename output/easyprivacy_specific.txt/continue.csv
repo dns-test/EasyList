@@ -1,11 +1,4 @@
 idna_subject,checker_type,destination,source,tested_at,session_id
-sp.tinymce.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:21.336276,42a19051903998b83871f0cc
-sp.usatoday.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:21.367418,42a19051903998b83871f0cc
-sp.vcstar.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:21.398683,42a19051903998b83871f0cc
-sp.visaliatimesdelta.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:21.430319,42a19051903998b83871f0cc
-sp.wausaudailyherald.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:21.461542,42a19051903998b83871f0cc
-sp.wisconsinrapidstribune.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:21.492809,42a19051903998b83871f0cc
-sp.ydr.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:21.524254,42a19051903998b83871f0cc
 sp.yorkdispatch.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:21.555534,42a19051903998b83871f0cc
 sp.zanesvilletimesrecorder.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:21.587135,42a19051903998b83871f0cc
 spanids.dictionary.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:21.618680,42a19051903998b83871f0cc
@@ -2915,3 +2908,12 @@ sp.thestarpress.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.t
 sp.thetimesherald.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-03 14:21:31.273638,42a19051903998b83871f0cc
 sp.thetowntalk.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-03 14:23:56.828423,42a19051903998b83871f0cc
 sp.timesrecordnews.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-03 14:26:26.842611,42a19051903998b83871f0cc
+analytics.synedat.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2001-05-07 01:35:38.594875,42a19051903998b83871f0cc
+eatgeek.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2001-05-07 01:40:13.356621,42a19051903998b83871f0cc
+sp.tinymce.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-07 02:04:08.339822,42a19051903998b83871f0cc
+sp.usatoday.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-07 02:06:08.472985,42a19051903998b83871f0cc
+sp.vcstar.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-07 02:08:22.719168,42a19051903998b83871f0cc
+sp.visaliatimesdelta.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-07 02:10:27.319859,42a19051903998b83871f0cc
+sp.wausaudailyherald.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-07 02:12:22.301659,42a19051903998b83871f0cc
+sp.wisconsinrapidstribune.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-07 02:14:27.349082,42a19051903998b83871f0cc
+sp.ydr.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-07 02:16:37.302894,42a19051903998b83871f0cc

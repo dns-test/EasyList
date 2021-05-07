@@ -6,6 +6,7 @@ oeffnungszeitenbuch.de###CCcont
 e-formel.de###CKC
 singles-in-stuttgart.de,wander-community.de###DC
 vdk.de###DSE
+galaxus.de###__next > div[aria-hidden]
 gira.de###ac_frame
 spielfilm.de###alert
 weltwoche.ch###alteAusgabenCovers
@@ -20,6 +21,7 @@ deutsche-handwerks-zeitung.de,handwerk-magazin.de,trendaward.de###cc-box
 hosteurope.de###cche
 badkissingen.de,wuerzburg.de###chint
 metradar.ch###closeonaction
+freiewelt.net###cmmodal
 jmmgc.com###cnotice
 aktienportal1.de,eifelzeitung.de,ep1.de###coPolicyMain
 adventskalender-gewinnspiele.de,happy-spots.de,kirmes-in-deutschland.de,stadtfeste-in-deutschland.de,weihnachtsmaerkte-in-deutschland.de,weinfeste-in-deutschland.de###cono
@@ -50,6 +52,7 @@ fool.de###dogfish
 computerwelt.at###dr_blocking_div
 strabag-pfs.de###dsgvo
 mail.de###euccBanner
+apotal.de###footer
 autokostencheck.de###footerSlideContainer
 pokewiki.de###gl-topbar-bg
 aida.de###hfas782aj
@@ -90,6 +93,7 @@ reddingo.ch###policy
 amtempo.de###popup
 ford-maiwald.de###popupDiv
 bka.de,bmjv.de,maurice-renck.de###privacy
+sex-infos.ch###privacy-dislamer
 aqua-medic.de###privacy-info
 bafög.de###privacy-note
 e-cooline.de###privacy-protection
@@ -107,6 +111,7 @@ sozialleistungen.info,tiershop.de###toast-container
 mydays.de###topbanner
 staatsbibliothek-berlin.de###tracking-info
 schauinsland-reisen.de###trackingInfo
+tuigroup.com###tui-cc
 basiszinssatz.de###wrapperdiv
 adacreisen.de##.FooterNotification
 otelo.de##.GlobalNotification
@@ -186,6 +191,7 @@ am-play.de##.important-message-outer
 musikzirkus.eu,rosacea-info.de##.infobox
 werder.de##.is-active
 auto-motor-und-sport.de##.j34
+eifel-antik.de##.jmg-googlemaps-dsgvo-notification
 krautreporter.de##.js-flash-messages-container
 piqd.de##.js-flash_message-container
 kleiderkreisel.de,mamikreisel.de##.js-notification
@@ -210,6 +216,7 @@ fc.de##.mod-alert
 csu.de##.mod-layer
 zurich.de##.mod-notification-teaser
 fc-carlzeiss-jena.de,felix1.de,mainz05.de##.modal-backdrop
+starcar.de##.modal-overlay
 moon-power.com##.moon2-statisticsOptBox
 tecedo.at##.msg-banner
 roland-schuhe.de##.newsflash
@@ -366,6 +373,7 @@ woodbrass.com##.hidden-sm.hidden-md.row
 ouedkniss.com##.informations_box
 bricomarche.com##.js-GlobalPopin
 lebrassageestunerichesse.fr##.kB1yU4Aw
+antwerpen.be##.m-overlay
 latendresseencuisine.com##.mdc-snackbar
 apec.fr##.message-informatif-bottom
 essalemelectronics.com,fiveguys.fr##.modal-backdrop
@@ -562,7 +570,8 @@ vergelijk.nl##.cg-82
 vergelijk.nl##.cg-97
 wehkamp.nl##.color-invert.font-size-small
 avans.nl,dirk.nl,dutchcarparts.nl,greve.nl,schiphol.nl,t-mobile.nl,utilities.nl##.cookie
-nederlandsebrouwers.nl,omaweetraad.nl,omdenken.nl,perfumesclub.nl,salusi.nl,universiteitleiden.nl##.cookies
+museum.nl##.cookie-overlay
+nederlandsebrouwers.nl,omaweetraad.nl,omdenken.nl,perfumesclub.nl,picnic.app,salusi.nl,universiteitleiden.nl##.cookies
 anwb.nl##.critical-dialog
 opisopvoordeelshop.nl##.cv-notifier-container-item
 thermostaat.eu##.fancybox-overlay
@@ -584,12 +593,14 @@ uitinvlaanderen.be##.noty_bar
 ing.nl,t-mobile.nl##.overlay
 geberit.nl##.page-hint-box
 koentact.nl##.popmake
+wehkamp.nl##.position-fixed
 kcprofessional.nl##.reveal-modal-bg
 visdeal.nl##.site-message-overlay
 omroepbrabant.nl##.sticky-footer
 maxict.nl##.wallpop-overlay
 aboutyou.nl##div[class^="styles__container-"]
 waarmaarraar.nl##div[style="margin: 20px; padding-left:20px; padding-right:20px;border: 1px dotted #999999"]
+kromsnavelgedrag.nl##main ~ div
 !
 ! ---------- Estonian ----------
 !
@@ -641,6 +652,7 @@ e-lenovo.gr##.fullwidth-notice
 mortoglou.gr##.header-notice
 lidl-hellas.gr,lidl.com.cy##.notification
 stokokkino.gr##.popup
+novibet.gr##.setCookies
 !
 ! ---------- Hebrew ----------
 !
@@ -725,6 +737,7 @@ jiosaavn.com##.site-message-container
 volaparkingorio.it###AeroparkVerona_cookie_advice
 oraridiapertura24.it###CCcont
 controcampus.it###Controcampus_cookie_advice
+culturagay.it###GPP
 amicidicasa.it###G_info
 vistaprint.it###MarketingText
 ludomedia.it###UIAvvisiUtente
@@ -752,7 +765,7 @@ emanuelaursino.it###cke_plc
 eismoinfo.lt###consent
 ecodallecitta.it###contenuto_consenso
 spesasicura.com###cook
-aeo.it,bookingaltoadige.com,camionsupermarket.it,cattoliciogginotizie.it,chiesi.com,citroen-club.it,confidisystema.com,enistation.com,esselunga.it,esselungajob.it,exprivia.it,extramagazine.eu,famila.it,giornaledicalabria.it,ildolomiti.it,kolping.it,messinaline.it,miabolzano.it,miamerano.it,mtonauticastore.it,mymercato.it,negozi.fastweb.it,pallacanestrovarese.it,primocanale.it,radiociao.com,rimini.com,sace.it,sanfrancescopatronoditalia.it,spesati.it,tecnocasa.it,wd40.it###cookie
+aeo.it,archimagazine.com,bookingaltoadige.com,camionsupermarket.it,cattoliciogginotizie.it,chiesi.com,citroen-club.it,confidisystema.com,enistation.com,esselunga.it,esselungajob.it,exprivia.it,extramagazine.eu,famila.it,giornaledicalabria.it,ildolomiti.it,kolping.it,messinaline.it,miabolzano.it,miamerano.it,mtonauticastore.it,mymercato.it,negozi.fastweb.it,pallacanestrovarese.it,primocanale.it,radiociao.com,rimini.com,sace.it,sanfrancescopatronoditalia.it,spesati.it,tecnocasa.it,wd40.it###cookie
 angolotesti.it,armietiro.it,automobilismo.it,automobilismodepoca.it,chateau-dax.it,ciclismo.it,cyclistmagazine.it,evomagazine.it,lupopornohd.it,menshealth.it,motociclismo.it,musictory.it,ordineavvocati.bari.it,pardini.it,runnersworld.it,tennisitaliano.it,testimania.com,thefilmclub.it,unipv.it,velaemotore.it###cookies
 telea1.it###cooky_content
 majani.it###cs-banner
@@ -1004,7 +1017,7 @@ generatorkodowkreskowych.pl###cn
 bywajtu.pl###co15ie87a
 bstorun.pl###comm_info
 przyspiesz.pl###container_vsm
-atramentowka.com,bokono.pl,domwroc24.pl,e-dewocjonalia.eu,e-doggy.pl,emiter.net.pl,gov.pl,hemp.pl,kalinowo.pl,naszezoo.pl,oil-land.pl,osnews.pl,pcforce.pl,pracuj.pl,sklep-art-meb.pl,sklep-wadima.pl,swiat-sypialni.pl,virtualeye.pl,weller.com.pl,xfutbol.pl###cookie
+atramentowka.com,bokono.pl,domwroc24.pl,e-dewocjonalia.eu,e-doggy.pl,elektro-met.pl,emiter.net.pl,gov.pl,hemp.pl,kalinowo.pl,naszezoo.pl,oil-land.pl,osnews.pl,pcforce.pl,pracuj.pl,sklep-art-meb.pl,sklep-wadima.pl,swiat-sypialni.pl,virtualeye.pl,weller.com.pl,xfutbol.pl###cookie
 adequate.pl,alltube.tv,aquila.pl,auchan.pl,bankmillennium.pl,bioliq.pl,conan-kolekcja.pl,czytio.pl,delkom.pl,dobreprogramy.pl,ekino-tv.pl,eska.tv,filmboxextra.pl,fokus.tv,generali.pl,gov.pl,hi-tec.com.pl,intercon.systems,kasystefczyka.pl,kosmiczni.pl,muzo.fm,nasze-kino.tv,newsweek.pl,nowa.tv,paczkawruchu.pl,pb.edu.pl,piaseczno.eu,pilkanozna.pl,pkpsa.pl,play.pl,polotv.pl,polsat.pl,priv.pl,profmetkol.pl,realdevelopment.pl,realmadryt.pl,tripolo.pl,tugramy.pl,tv4.pl,tv6.com.pl,voxmusic.tv,wroc.pl,wszczecinie.pl###cookies
 drony.net,gadzetomania.pl,komorkomania.pl,otabletach.pl###cop
 polskatimes.pl,strefabiznesu.pl###cross-dialog
@@ -1103,6 +1116,7 @@ scentre.pl##.consent
 poznan.pl##.content-head-information
 fitnessclubs4.pl,fum.info.pl,leroymerlin.pl,mazowieckie.com.pl,mmgastro.pl,otouczelnie.pl,polstor.pl,technetium.pl,virtualtrucker.pl,wykop.pl,zdrofit.pl##.cookie
 alergia-allegra.pl,aliorbank.pl,angora.com.pl,bezux.pl,bigstar.pl,bitbay.pl,dhosting.pl,easycomp.pl,fitpatrol.pl,fly4free.pl,meczyki.pl,naszefutrzaki.eu,niedziela.pl,pkpcargo.com,polsatsport.pl,rozklad-pkp.pl,sprawdzonyfizjoterapeuta.pl,telepolis.pl,teletorium.pl,vistula.pl##.cookies
+dominospizza.pl##.cookies-visible
 chceauto.pl##.cookue
 genetico.pl##.coologo7
 otodom.pl##.css-h7c6x6
@@ -1380,6 +1394,7 @@ hemglass.se##.message-popup
 lidl.se,proff.se##.notification
 osterbottenstidning.fi,sydin.fi,vasabladet.fi##.online-notifications
 smhi.se##.polopolyNotification
+verktygsboden.se##.sd-object-if.sd-object.NORMAL
 laga.se##.site-info-message
 lysa.se##.snackbar-wrapper
 expressen.se##.terms-dialog

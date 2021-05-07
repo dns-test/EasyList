@@ -40,6 +40,7 @@
 ||datacomm.ch^*/count.cgi?
 ||et.twyn.com^
 ||events.kaloo.ga^$third-party
+||events.onet.pl^
 ||export.newscube.de^$~subdocument
 ||fc.webmasterpro.de^$third-party
 ||filmaster.tv^*/flm.tracker.min.js
@@ -392,6 +393,7 @@
 ||wee.dk/modules/$third-party
 ||wwwportal.dk/statistik.php
 ! Dutch
+||adult-trade.nl/lo/track.php
 ||analytics.belgacom.be^
 ||bbvms.com/zone/js/zonestats.js
 ||cookies.reedbusiness.nl^

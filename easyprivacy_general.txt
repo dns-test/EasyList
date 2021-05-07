@@ -1557,6 +1557,7 @@
 /csp_204?
 /csp_log?
 /csp_report.gne?
+/cta-loaded.js
 /ctd-sourcepoint.
 /ctd-tealium.
 /ctr_tracker.
@@ -1960,6 +1961,7 @@
 /fpcookie?
 /fpcount.exe
 /fps/check.
+/fpTracker/*
 /fptrk.min.js
 /fpv2.js
 /freecgi/count.cgi?
@@ -2088,6 +2090,7 @@
 /gatrackthis.
 /gatrackwww.
 /gb-tracker-
+/gc?id=*&refurl=
 /gciAnalytics.
 /gClickTracking.
 /gcount.pl?
@@ -2688,13 +2691,14 @@
 /log.cfm?
 /log.collect.
 /log.gif?
-/log.htm?
+/log.htm?$domain=~192.168.0.1|~192.168.1.1
 /log.jphp?
 /log.jsp?
 /log.php?*http
 /log.php?id
 /log.php?owa_timestamp=
 /log/1.gif?
+/log/?pixel=
 /log/ad-
 /log/analytics
 /log/browser/event
@@ -3998,7 +4002,7 @@
 /stat.aspx?
 /stat.cgi?
 /stat.gif?
-/stat.htm?
+/stat.htm?$domain=~192.168.0.1|~192.168.1.1
 /stat.js?
 /stat.php?
 /stat.png?
@@ -4080,6 +4084,7 @@
 /stats-js.cgi?
 /stats-listener.js
 /stats-tracking.js
+/stats.*/event
 /stats.*/hits/*
 /stats.*/tracker.
 /stats.asp?id
@@ -5547,6 +5552,7 @@ cgi-bin/counter
 /ap.lijit.com/*
 /beacon.krxd.net/*
 /beaconimages.netflix.net/*$image
+/click.*/q/$image
 /click.email.$image
 /clicks.email.$image
 /cmail2.com/t/

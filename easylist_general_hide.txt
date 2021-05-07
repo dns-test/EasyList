@@ -705,6 +705,7 @@
 ###above-comments-ad
 ###above-fold-ad
 ###above-footer-ads
+###above-the-fold-ad
 ###aboveAd
 ###aboveGbAd
 ###aboveNodeAds
@@ -1075,6 +1076,7 @@
 ###ad-manager
 ###ad-manager-ad-bottom-0
 ###ad-manager-ad-top-0
+###ad-masthead
 ###ad-medium
 ###ad-medium-lower
 ###ad-medium-rectangle
@@ -3322,6 +3324,7 @@
 ###adsquare2
 ###adsright
 ###adss
+###adsside
 ###adssidebar2
 ###adssidebar3
 ###adsspace
@@ -4569,6 +4572,7 @@
 ###btnAdDP
 ###btnAds
 ###btnads
+###btopads
 ###btr_horiz_ad
 ###budget_adDiv
 ###burn_header_ad
@@ -4600,6 +4604,7 @@
 ###c_upperad_c
 ###c_wdt_ads_2
 ###caAdLarger
+###captcha-adspace
 ###carbonads-container
 ###card-ads-top
 ###catad
@@ -5134,6 +5139,7 @@
 ###dfp-ad-wallpaper-wrapper
 ###dfp-article-mpu
 ###dfp-article-related-mpu
+###dfp-billboard1
 ###dfp-global_top
 ###dfp-home_after-headline_leaderboard
 ###dfp-interstitial
@@ -12861,6 +12867,7 @@
 ##.adserverad
 ##.adserving
 ##.adset
+##.adsfloat
 ##.adsforums
 ##.adsghori
 ##.adsgrd
@@ -13045,6 +13052,7 @@
 ##.adtextleft
 ##.adtextright
 ##.adtexts
+##.adthrive
 ##.adthrive-ad
 ##.adthrive-header
 ##.adthx
@@ -13568,6 +13576,7 @@
 ##.advertise-link
 ##.advertise-link-post-bottom
 ##.advertise-list
+##.advertise-pic
 ##.advertise-small
 ##.advertise-square
 ##.advertise-top
@@ -13794,9 +13803,11 @@
 ##.advertising_hibu_lef
 ##.advertising_hibu_mid
 ##.advertising_hibu_rig
+##.advertising_horizontal_title
 ##.advertising_images
 ##.advertising_square
 ##.advertising_top
+##.advertising_vertical_title
 ##.advertising_widget
 ##.advertisingarea
 ##.advertisingarea-homepage
@@ -14001,6 +14012,7 @@
 ##.amp-ad
 ##.amp-ads
 ##.amp-ads-container
+##.amp-unresolved
 ##.ampFlyAdd
 ##.amsSparkleAdWrapper
 ##.anc_ads_show
@@ -16512,6 +16524,7 @@
 ##.halfPageAd
 ##.half_ad_box
 ##.halfpage_ad_container
+##.happy-inline-ad
 ##.has-ad
 ##.hasAD
 ##.hasads
@@ -16864,6 +16877,7 @@
 ##.hwg-row-ad
 ##.hyad
 ##.hype_adrotate_widget
+##.i-amphtml-unresolved
 ##.i360ad
 ##.iAdserver
 ##.iRx9
@@ -18041,6 +18055,7 @@
 ##.nature-ad
 ##.nav-ad
 ##.nav-ad-gpt-container
+##.nav-ad-plus-leader
 ##.nav-adWrapper
 ##.nav-keywords__item--native-ad
 ##.navAdsBanner
@@ -20316,6 +20331,7 @@
 ##.toaster-ad
 ##.today-ad-imu
 ##.today-ad-rec
+##.todayshowcasead
 ##.toggle-adinmap
 ##.tone_adspace_300x250
 ##.tone_adspace_300x600
@@ -20872,6 +20888,7 @@
 ##.widget-300x250ad
 ##.widget-ad
 ##.widget-ad-codes
+##.widget-ad-image
 ##.widget-ad-sky
 ##.widget-ad-zone
 ##.widget-ad300x250
@@ -21199,6 +21216,7 @@
 ##[class^="div-gpt-ad"]
 ##[data-ad-module]
 ##[data-dynamic-ads]
+##[data-freestar-ad]
 ##[href*=".adcampo.com/"]
 ##[href*=".afftracks.online/"]
 ##[href*=".grtya.com/"]
@@ -21401,7 +21419,6 @@
 ##a[href^="http://clickserv.sitescout.com/"]
 ##a[href^="http://clkmon.com/adServe/"]
 ##a[href^="http://codec.codecm.com/"]
-##a[href^="http://cp.cbbp1.com"]
 ##a[href^="http://cpaway.afftrack.com/"]
 ##a[href^="http://cwcams.com/landing/click/"]
 ##a[href^="http://czotra-32.com/"]
@@ -21512,7 +21529,6 @@
 ##a[href^="http://track.trkvluum.com/"]
 ##a[href^="http://tracking.deltamediallc.com/"]
 ##a[href^="http://traffic.tc-clicks.com/"]
-##a[href^="http://trk.adtracker2.com/"]
 ##a[href^="http://trk.mdrtrck.com/"]
 ##a[href^="http://ucam.xxx/?utm_"]
 ##a[href^="http://ul.to/ref/"]

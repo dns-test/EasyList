@@ -249,6 +249,7 @@ themilitarystore.co.uk###pixelpop
 amazon.com###pldn-deep-link
 scutt.eu###pojemnik
 holidayfactory.co.za###polgpr
+simsdom.com###policies
 buyamower.co.uk,reddingo.com###policy
 apkpure.com###policy-info
 nba.com###policy_wrapper
@@ -282,6 +283,7 @@ cote.co.uk###root > div > .fixed
 mywot.com###root > div > div[direction="up"][style*="transform"]
 zomato.com###root > div:first-child:not(:only-child)
 glassnode.com###root > div:last-child
+coinbase.com###root > div[class^="sc-"]:last-child
 honeygain.com###root > footer ~ div
 wrigleys.co.uk###rpcm
 tenuser.com###rsp
@@ -346,6 +348,7 @@ alpari.com,alpariforex.org##.-footer__notice
 cryptokitties.co##.Banner
 cryptokitties.co##.BottomBanner
 itsfoss.com##.CampaignType--floating
+postaffiliatepro.com##.CookieLaw
 perforce.com##.EUc
 tjc.co.uk##.GDPR
 tunnelmb.net##.MqsPw
@@ -410,6 +413,7 @@ argaam.com##.argaam-policy
 linkedin.com##.artdeco-global-alert
 leo.org##.as-oil
 businessinsider.com##.as-oil-content-overlay
+scinapse.io##.asUhxHVGRjM9QNWMLelO5
 activision.com##.atvi-privacy-policy-module
 which.co.uk##.b_g
 chess24.com##.background
@@ -426,6 +430,7 @@ bagigia.com##.bica-content
 seikowatches.com##.blk-Disclaimer
 cvent.com##.block-notifications-block
 abplive.in##.blur-bg
+educative.io##.border-primary-lightP1.border-t.flex-col.flex
 studocu.com##.bottom-bar-enter-active
 ofisitebg.com##.bottom-freezed-bar
 robertsspaceindustries.com##.bottom-notif-bar
@@ -496,6 +501,7 @@ ratemyprofessors.com##.dQpRnT
 chess24.com##.dataConsentModal
 dhl.com##.dhl-cgk
 ingwb.com##.dialog
+cover-4-less.com##.dialog-lightbox-widget-content
 blocksite.co##.dialog-widget-content
 designmodo.com##.dialogContainer
 countwordsfree.com,earthcp.com,foxsports.com.au,lexus.com.cy,lexus.ie,news.com.au##.disclaimer
@@ -635,6 +641,8 @@ myanimelist.net##.modal-container
 myanimelist.net##.modal-content
 environmental-finance.com##.modal-dialog
 oranum.com##.modal-inner
+digimobil.es##.modal-overlay
+barclays.net##.modal-pecr
 usnews.com##.modal-window
 motorsport.com##.ms-footer-messages
 motorsport.com##.ms-header-messages
@@ -872,6 +880,7 @@ tacobell.co.uk##div[am-cookie]
 revolut.com##div[class*="StyledCookiesBanner"]
 quora.com##div[class*="flex_wrapper"][class*="gray_ultralight"]
 inc.com##div[class*="privacyPolicyPopup"]
+cbtnuggets.com##div[class^="BannerContainer-sc-"]
 similarsites.com##div[class^="PrivacyNotification"]
 radio.garden##div[class^="PrivacyPolicyNotice"]
 epidemicsound.com##div[class^="___Warnings"]
@@ -915,7 +924,7 @@ opentip.kaspersky.com##section[data-t="cks-dsc"] > div > div
 truecaller.com##span > .max-w-md.shadow-lg
 web.dev##web-snackbar
 ! googlefunding consent warning
-androidpolice.com,apkmirror.com,gameblog.fr,liliputing.com,makeuseof.com,marbaro.it,phonearena.com,quotes.net,smallseotools.com,stadtfeste-in-deutschland.de,telegram.hr,timeanddate.com,wordreference.com##div[style*="box-shadow: rgb(136, 136, 136) 0px 0px 12px; color: "]
+androidpolice.com,apkmirror.com,gameblog.fr,liliputing.com,makeuseof.com,marbaro.it,phonearena.com,quotes.net,smallseotools.com,stadtfeste-in-deutschland.de,telegram.hr,timeanddate.com,wordreference.com,zerohedge.com##div[style*="box-shadow: rgb(136, 136, 136) 0px 0px 12px; color: "]
 ! mobile.twitter.com
 mobile.twitter.com###react-root > div > div > .rn-gvpnoh
 twitter.com##.r-13qz1uu.r-tvv088.css-1dbjc4n

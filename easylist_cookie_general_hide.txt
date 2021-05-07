@@ -197,6 +197,7 @@
 ###CookieReportsPanel
 ###CookieRules
 ###CookieSaveMsg
+###CookieSettingsContainer
 ###CookieT1Bar
 ###CookieT2Bar
 ###CookieTPC
@@ -240,6 +241,7 @@
 ###CookiesLaw
 ###CookiesLawMessage
 ###CookiesModal
+###CookiesNotice
 ###CookiesOverlay
 ###CookiesPolicy
 ###CookiesPopup
@@ -2245,6 +2247,7 @@
 ###cookieInformer
 ###cookieInformerBooklet
 ###cookieJSdiv
+###cookieJar
 ###cookieKontener
 ###cookieLY
 ###cookieLab
@@ -4017,6 +4020,7 @@
 ###dpcc-wrapper
 ###dr-cookie-info-box
 ###drop-cookie
+###ds_cookiebar
 ###dsgvo-bottom
 ###dsgvo-consent-layer
 ###dsgvo-container
@@ -4787,6 +4791,7 @@
 ###infocookie
 ###infocookiefr
 ###infocookies
+###infocookies2
 ###inforCookieWallPopup
 ###inforcwp
 ###inform-cookies
@@ -7672,6 +7677,7 @@
 ##.consent-cookies
 ##.consent-cookies-dialog
 ##.consent-dialog:not(body):not(html)
+##.consent-layer
 ##.consent-management-simple
 ##.consent-manager-layer
 ##.consent-message
@@ -7765,6 +7771,7 @@
 ##.cookie--bar
 ##.cookie--desktop
 ##.cookie--form
+##.cookie--layer
 ##.cookie--overlay
 ##.cookie--permission
 ##.cookie--polityka
@@ -9127,6 +9134,7 @@
 ##.cookies-header
 ##.cookies-hint
 ##.cookies-hinweis
+##.cookies-holder
 ##.cookies-inUse-alert
 ##.cookies-info-banner
 ##.cookies-info-box
@@ -9374,6 +9382,7 @@
 ##.cookies_container
 ##.cookies_content
 ##.cookies_cookie
+##.cookies_ctas
 ##.cookies_disclaimer
 ##.cookies_div
 ##.cookies_eu
@@ -9589,6 +9598,7 @@
 ##.debat-cookies
 ##.debilni-eu-susenky
 ##.defaultCookie
+##.dekra-gdpr
 ##.delta_domain_cookie
 ##.dentro-cookie
 ##.depo-cookies
@@ -11893,6 +11903,7 @@
 ##.ubg-cookies-banner
 ##.uc-cookie
 ##.uc-cookie-block
+##.uc-cookies
 ##.ucgCookieBar
 ##.ucn-block
 ##.ud-component--eu-cookie-message--app
@@ -12355,6 +12366,7 @@
 ##div[element-structure-cookiemonster]
 ##div[id*="CoockieInformation"]
 ##div[id*="cookie_info_bar"]
+##div[id*="divCookieStart"]
 ##div[id*="nx_gdpr_modal"]
 ##div[id="cm:cookieWrapper"]
 ##div[id^="CookieMessage_"]
@@ -12407,6 +12419,7 @@
 ##section[data-view="cookiePolicy"]
 ##sell-cookie-banner
 ##shb-cookie-accept
+##shb-cookie-consent
 ##suchen-cookie-privacy-toast
 ##thor-cookies
 ##thread-cookie-notice

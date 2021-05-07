@@ -184,6 +184,7 @@
 ||analytics.pointdrive.linkedin.com^
 ||analytics.prezly.com^
 ||analytics.prod.aws.ecnext.net^
+||analytics.qualityunit.com^
 ||analytics.radiatemedia.com^
 ||analytics.recruitics.com^
 ||analytics.reyrey.net^
@@ -206,6 +207,7 @@
 ||analytics.tout.com^
 ||analytics.tribeca.vidavee.com^
 ||analytics.unibuddy.co^
+||analytics.unilogcorp.com^
 ||analytics.urx.io^
 ||analytics.vanillaforums.com^
 ||analytics.vendemore.com^
@@ -214,6 +216,7 @@
 ||analytics.wildtangent.com^
 ||analytics.witglobal.net^
 ||analytics.worldtable.co^
+||analytics.yext-static.com^
 ||analytics.yola.net^
 ||analytics.yolacdn.net^
 ||analytics.ziftsolutions.com^
@@ -506,6 +509,7 @@
 ||cloudfunctions.net/commonBonnierDataLayer
 ||cloudfunctions.net/function-record-stream-metric?
 ||cloudfunctions.net/ingest?
+||cltgtstor001.blob.core.windows.net^
 ||clustrmaps.com/counter/$third-party
 ||cmail19.com/t/$image,third-party
 ||cmmeglobal.com/evt?
@@ -741,6 +745,7 @@
 ||diagnose.igstatic.com^
 ||digimedia.com/pageviews.php?
 ||digitalgov.gov/Universal-Federated-Analytics-Min.js
+||digitaloceanspaces.com/pixel/
 ||directnews.co.uk/feedtrack/
 ||dirt.dennis.co.uk^
 ||discovery.com^*/events
@@ -963,7 +968,6 @@
 ||goaww.com/stats.php
 ||godaddy.com/js/gdwebbeacon.js
 ||google.com/analytics/$third-party
-||google.com/insights/$script,third-party
 ||googleapis.com/aam.js
 ||googleapis.com/gadasource/gada.js
 ||googleapis.com/ivc.js
@@ -1092,6 +1096,7 @@
 ||ipapi.tmbi.com^
 ||ipstatp.com/growth/fe_sdk/reportsdk/$third-party
 ||ipstatp.com/static_magic/pgc/tech/collect/$third-party
+||iq.sixaxisllc.com^
 ||irqs.ioam.de^
 ||isacglobal.com/sa.js
 ||isitelab.io/ite_sitecomV1ANA.min.js
@@ -1284,7 +1289,6 @@
 ||metabroadcast.com^*/log?
 ||metaffiliation.com^*^mclic=
 ||metering.pagesuite.com^$third-party
-||metric.nwsource.com^
 ||metrics-api.librato.com^
 ||metrics.api.drift.com^
 ||metrics.brightcove.com^
@@ -1416,6 +1420,7 @@
 ||pagesocket.glam.com^
 ||pageturnpro.com/tracker.aspx?
 ||pair.com/itero/tracker_ftc/
+||pap.qualityunit.com^
 ||parsely.com/keys/$script,third-party
 ||parsely.com/plogger/
 ||partner.cynapse.com^
@@ -1864,7 +1869,6 @@
 ||tagtracking.vibescm.com^
 ||target.mixi.media^
 ||targeting.*.arcpublishing.com^
-||targeting.perso.aws.arc.pub^
 ||tcheck.outbrainimg.com^
 ||te.supportfreecontent.com^
 ||technorati.com/technoratimedia-pixel.js
@@ -1960,6 +1964,7 @@
 ||tracker.icerocket.com^
 ||tracker.keywordintent.com^
 ||tracker.marinsoftware.com^
+||tracker.mrpfd.com^
 ||tracker.roitesting.com^
 ||tracker.softcube.com^
 ||tracker.timesgroup.com^
@@ -2138,6 +2143,7 @@
 ||videopress.com/plugins/stats/
 ||viglink.com/api/ping$third-party
 ||vimeocdn.com/add/player-stats?
+||vimeocdn.com/ga/
 ||vindicosuite.com/track/
 ||vindicosuite.com/tracking/
 ||vindicosuite.com/xumo/swf/$third-party
@@ -2251,6 +2257,7 @@
 ||ziffdavisb2b.com^*/tracker.js
 ||zineone.com^*/event
 ||zmags.com/a/p/p.js
+||zoominfo.com/pixel/
 ||zoover.co.uk/tracking/
 ||zope.net^*/ghs_wa.js
 ! https://d3ward.github.io/toolz/src/adblock.html
