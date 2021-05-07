@@ -198,7 +198,6 @@
 ||becomeapartner.io^$popup
 ||becoquin.com^$popup,third-party
 ||bedorm.com^$popup
-||befade.com^$popup
 ||beklefkiom.com^$popup
 ||belwrite.com^$popup
 ||bemobtrk.com^$popup
@@ -321,6 +320,7 @@
 ||cpvadvertise.com^$popup
 ||cpxdeliv.com^$popup
 ||crazyad.net^$popup
+||cretgate.com^$popup
 ||crt.livejasmin.com^$popup
 ||crypto-news-world.club^$popup
 ||curmaphow.club^$popup
@@ -364,6 +364,7 @@
 ||dsstrk.com^$popup
 ||dynsrvwer.com^$popup
 ||dzhjmp.com^$popup
+||e1f95201b19594.site^$popup
 ||e2b9jbowv7.com^$popup
 ||e702fa7de9d35c37.com^$popup
 ||eacdn.com^$popup
@@ -396,7 +397,6 @@
 ||ezhefg9gbhgh10.com^$popup
 ||ezpuqqahvr.com^$popup
 ||f5v1x3kgv5.com^$popup
-||fabolele.com^$popup
 ||fabriefly.mobi^$popup
 ||facilitategovernor.com^$popup
 ||fairieflame.com^$popup
@@ -488,6 +488,7 @@
 ||hiena.cyou^$popup
 ||hiend.xyz^$popup
 ||higheurest.com^$popup
+||highmaidfhr.com^$popup
 ||highperformancecpmnetwork.com^$popup
 ||hikyceti.pro^$popup
 ||hilltopads.net^$popup
@@ -728,6 +729,7 @@
 ||onstunkyr.com^$popup
 ||oodsotso.com^$popup
 ||openadserving.com^$popup
+||opoxv.com^$popup
 ||opptmzpops.com^$popup
 ||opskln.com^$popup
 ||optimizesrv.com^$popup
@@ -750,6 +752,7 @@
 ||pawnorderpampas.work^$popup
 ||pctsrv.com^$popup
 ||pdfcomplete.com^$popup,third-party
+||peepholecarrying.com^$popup
 ||peezette-intial.com^$popup
 ||pegloang.com^$popup
 ||perfecttoolmedia.com^$popup
@@ -838,7 +841,6 @@
 ||quantomcoding.com^$popup
 ||quideo.men^$popup
 ||randalieren6.live^$popup
-||rapidyl.net^$popup
 ||rbxtrk.com^$popup
 ||rdsb21.club^$popup
 ||rdsrv.com^$popup
@@ -871,6 +873,7 @@
 ||riverhit.com^$popup
 ||roadmapcredulousfang.com^$popup
 ||rosafun.com^$popup
+||rothoglyro.pro^$popup
 ||rotumal.com^$popup
 ||roulettebotplus.com^$popup
 ||routgveriprt.com^$popup
@@ -1060,6 +1063,7 @@
 ||uptopopunder.com^$popup
 ||uselnk.com^$popup
 ||usenet-nl.top^$popup
+||usenetbombastic.cyou^$popup
 ||usenetnl.download^$popup
 ||utarget.ru^$popup
 ||uthorner.info^$popup
@@ -1087,6 +1091,7 @@
 ||vpnfortorrents.biz^$popup
 ||vpnfortorrents.cc^$popup
 ||vpnfortorrents.com^$popup
+||vpnlist.to^$popup
 ||vq40567.com^$popup
 ||waframedia5.com^$popup
 ||wahoha.com^$popup
@@ -1108,6 +1113,7 @@
 ||wellnesszap.com^$popup
 ||wg-aff.com^$popup
 ||wgpartner.com^$popup
+||whatisuptodaynow.com^$popup
 ||wholefreshposts.com^$popup
 ||wigetmedia.com^$popup
 ||win-alerts.pro^$popup

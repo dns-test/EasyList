@@ -294,7 +294,6 @@
 @@||dailymail.co.uk^$generichide
 @@||destinationamerica.com^$generichide
 @@||history.com^$generichide
-@@||msn.com^$generichide
 @@||reuters.com^$generichide
 @@||sciencechannel.com^$generichide
 @@||slack.com^$generichide
@@ -372,6 +371,7 @@
 @@||an.yandex.ru/system/video-ads-sdk/adsdk.js$domain=5-tv.ru|armdb.org|gisher.org|peers.tv|tele-sport.ru
 @@||anandabazar.com/js/anandabazar-bootstrap/$script
 @@||api.friends.ponta.jp/api/$~third-party
+@@||asahi.com/ads/$image,~third-party
 @@||asahicom.jp/ad/js/video/ytpfp.js$domain=asahi.com
 @@||asahicom.jp/ads/$image,script,stylesheet,domain=asahi.com
 @@||ascii.jp/img/ad/yayoi/rank_$image,~third-party
@@ -421,6 +421,7 @@
 @@||krotoszyn.pl/uploads/pub/ads_files/$image,~third-party
 @@||labymod.net/affiliate/$~third-party
 @@||mail.bg/mail/index/getads/$xmlhttprequest
+@@||massariuscdn.com/pubs/welingelichtekringen/$domain=welingelichtekringen.nl
 @@||mbank.cz/Adv/Scripts/$~third-party
 @@||mbank.sk/Adv/Scripts/$~third-party
 @@||meduza.io/static/ads/$media,~third-party
