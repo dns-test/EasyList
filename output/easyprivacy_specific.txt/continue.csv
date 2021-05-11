@@ -1,15 +1,4 @@
 idna_subject,checker_type,destination,source,tested_at,session_id
-t.wayfair.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:26.192762,42a19051903998b83871f0cc
-t.wayfair.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:26.227104,42a19051903998b83871f0cc
-t.wizaly.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:26.261096,42a19051903998b83871f0cc
-t2.hulu.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:26.294870,42a19051903998b83871f0cc
-t2.huluim.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:26.328633,42a19051903998b83871f0cc
-t3.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:26.362787,42a19051903998b83871f0cc
-tab.co.nz,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:26.396773,42a19051903998b83871f0cc
-tagcommander.laredoute.,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:26.430679,42a19051903998b83871f0cc
-tagger.ope.scmp.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:26.464752,42a19051903998b83871f0cc
-tags.aljazeera.,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:26.498561,42a19051903998b83871f0cc
-tags.msnbc.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:26.532830,42a19051903998b83871f0cc
 tags.news.com.au,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:26.566813,42a19051903998b83871f0cc
 tagx.nytimes.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:26.600780,42a19051903998b83871f0cc
 takealot.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:26.635435,42a19051903998b83871f0cc
@@ -2920,3 +2909,14 @@ t.wayfair.ca,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021
 relay.fiverr.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2001-05-11 11:38:58.303032,42a19051903998b83871f0cc
 windy.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2001-05-11 11:40:29.307469,42a19051903998b83871f0cc
 fiverr.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2001-05-11 11:40:46.409552,42a19051903998b83871f0cc
+t.wayfair.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-11 13:21:48.101479,42a19051903998b83871f0cc
+t.wayfair.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-11 13:24:46.878513,42a19051903998b83871f0cc
+t.wizaly.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-11 13:25:44.134376,42a19051903998b83871f0cc
+t2.hulu.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-11 13:28:40.395514,42a19051903998b83871f0cc
+t2.huluim.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-11 13:31:30.533162,42a19051903998b83871f0cc
+t3.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-11 13:31:36.264695,42a19051903998b83871f0cc
+tab.co.nz,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-11 13:31:42.928280,42a19051903998b83871f0cc
+tagcommander.laredoute.,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-11 13:31:43.103070,42a19051903998b83871f0cc
+tagger.ope.scmp.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-11 13:34:33.843944,42a19051903998b83871f0cc
+tags.aljazeera.,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-11 13:34:33.948222,42a19051903998b83871f0cc
+tags.msnbc.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-11 13:37:24.340450,42a19051903998b83871f0cc
