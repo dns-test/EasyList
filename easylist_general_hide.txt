@@ -7437,6 +7437,7 @@
 ###scrolladsbanners
 ###scrollingads
 ###scrollover-ad-container
+###scrollover-ad-wrap
 ###sct_side_ads
 ###sdac_bottom_ad_widget-3
 ###sdac_footer_ads_widget-3
@@ -8735,6 +8736,7 @@
 ##.Ad-Title
 ##.Ad-Wrapper-300x100
 ##.Ad-adhesive
+##.Ad-hor-height
 ##.Ad-label
 ##.Ad-leaderboard
 ##.Ad-postDFP1
@@ -9355,6 +9357,7 @@
 ##.ad--rail
 ##.ad--rectangle
 ##.ad--right
+##.ad--rightRail
 ##.ad--scroll
 ##.ad--section
 ##.ad--showmob
@@ -15938,6 +15941,7 @@
 ##.flashad
 ##.flashadd
 ##.flex-ad
+##.flex-ad-wrapper
 ##.flexAd
 ##.flexContentAd
 ##.flexad
@@ -16941,6 +16945,7 @@
 ##.imuBox
 ##.in-ad
 ##.in-article-ad
+##.in-article-ad-wrapper
 ##.in-article-adsense
 ##.in-article-adx
 ##.in-article-mpu
@@ -17198,6 +17203,7 @@
 ##.js-native-ad
 ##.js-no-sticky-ad
 ##.js-overlay_ad
+##.js-product-ad-slider
 ##.js-react-simple-ad
 ##.js-results-ads
 ##.js-right-ad-block
@@ -17533,6 +17539,11 @@
 ##.m-ad-region
 ##.m-ad-region-leaderboard
 ##.m-ad-tvguide-box
+##.m-ad__placeholder--970x250
+##.m-ad__wrapper
+##.m-ad__wrapper--300x250
+##.m-ad__wrapper--728x90
+##.m-ad__wrapper--highlight
 ##.m-advert
 ##.m-advertisement
 ##.m-advertisement--container
@@ -18007,6 +18018,8 @@
 ##.mvp_ad_widget
 ##.mvp_block_type_ad_module
 ##.mvw_onPageAd1
+##.mw-ad.row
+##.mw-right-ad-slot
 ##.mwaads
 ##.mx-box-ad
 ##.mxl_ad_inText_250
@@ -19438,6 +19451,7 @@
 ##.sidebar-content-ad
 ##.sidebar-header-ads
 ##.sidebar-paid-ad-label
+##.sidebar-product-ad
 ##.sidebar-skyscraper-ad
 ##.sidebar-sponsors
 ##.sidebar-square-ad
@@ -21215,6 +21229,7 @@
 ##LEADERBOARD-AD
 ##[ad-id^="googlead"]
 ##[class^="div-gpt-ad"]
+##[data-ad-manager-id]
 ##[data-ad-module]
 ##[data-dynamic-ads]
 ##[data-freestar-ad]
@@ -21233,6 +21248,7 @@
 ##[href^="http://advertisesimple.info/"]
 ##[href^="http://raboninco.com/"]
 ##[href^="https://affect3dnetwork.com/track/"]
+##[href^="https://detachedbates.com/"]
 ##[href^="https://go.affiliatexe.com/"]
 ##[href^="https://join3.bannedsextapes.com"]
 ##[href^="https://refpahrwzjlv.top/"]
@@ -22004,6 +22020,9 @@
 ##script[src^="http://free-shoutbox.net/app/webroot/shoutbox/sb.php?shoutbox="] + #freeshoutbox_content
 ##span[data-component-type="s-ads-metrics"]
 ##topadblock
+! ultimedia (invideo advertising)
+##.van_vid_carousel
+##.vid-present > .van_vid_carousel__padding
 ! VPN Affiliate Banners
 ##a[href*="get-express-vpn.xyz"]
 ##a[href^="http://get.slickvpn.com/"]
@@ -22238,6 +22257,9 @@
 ##.fake-container-for-outbrain-sticky
 ##.js-outbrain-container
 ##.ob-ad-carousel-layout
+##.ob-hover
+##.ob-strip-layout
+##.ob-widget > .ob-first.ob-widget-section
 ##.outbrain-ad-slot
 ##.outbrain-bg
 ##.outbrain-widget
@@ -22288,6 +22310,7 @@
 ###taboola-top-banner-abp
 ###taboola_related
 ###taboola_responsive_wrapper
+##.ab_taboola
 ##.ad-container--taboola
 ##.box-taboola-content
 ##.dart-ad-taboola

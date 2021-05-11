@@ -166,6 +166,7 @@
 ||apendit.com^$popup
 ||apesstration.top^$popup
 ||apiecelee.com^$popup
+||aporasal.net^$popup
 ||approp.pro^$popup
 ||aquete.com^$popup
 ||ar.voicefive.com^$popup,third-party
@@ -323,13 +324,13 @@
 ||cretgate.com^$popup
 ||crt.livejasmin.com^$popup
 ||crypto-news-world.club^$popup
-||curmaphow.club^$popup
 ||cutw.pro^$popup
 ||cyan92010.com^$popup
 ||cyberlink.pro^$popup
 ||d0p21g2fep.com^$popup
 ||dadsats.com^$popup
 ||dagnar.com^$popup
+||dasfelynsaterr.win^$popup
 ||datsgirl.com^$popup
 ||dblmove.com^$popup
 ||dddomainccc.com^$popup
@@ -694,7 +695,6 @@
 ||news19.biz^$popup
 ||newstarads.com^$popup
 ||newtab-media.com^$popup
-||newton1.club^$popup
 ||nextoptim.com^$popup
 ||nextyourcontent.com^$popup
 ||noblefun.net^$popup
@@ -744,7 +744,6 @@
 ||padssup.com^$popup
 ||palundrus.com^$popup
 ||paripartners.ru^$popup
-||parserwords.info^$popup
 ||passeura.com^$popup
 ||patiskcontentdelivery.info^$popup
 ||patsyfoxswab.com^$popup

@@ -160,6 +160,7 @@
 @@||lastpass.com/ads.php$subdocument,~third-party
 @@||lastpass.com/images/ads/$image,~third-party
 @@||linkbucks.com/tmpl/$image,stylesheet
+@@||live.sekindo.com^$domain=appleinsider.com
 @@||lokopromo.com^*/adsimages/$~third-party
 @@||looker.com/api/internal/$~third-party
 @@||manageengine.com/images/logo/$image,~third-party
@@ -202,6 +203,7 @@
 @@||pntrs.com/b/$image,domain=extrarebates.com
 @@||portal.autotrader.co.uk/advert/$~third-party
 @@||prebid.adnxs.com^$xmlhttprequest,domain=go.cnn.com
+@@||preromanbritain.com/maxymiser/$~third-party
 @@||productioncars.com/pics/menu/
 @@||promo.com/embed/$subdocument,third-party
 @@||promo.zendesk.com^$xmlhttprequest,domain=promo.com
@@ -272,6 +274,7 @@
 @@||wordpress.org/stats/plugin/$domain=wordpress.org
 ! uBO-CNAME (Specific allowlists)
 @@||hwcdn.net^$script,domain=mp4upload.com
+@@||www-cultofmac-com.ezoic.net^$domain=cultofmac.com
 ! ezfunnels.com (https://forums.lanik.us/viewtopic.php?f=64&t=44355)
 @@||ezsoftwarestorage.com^$image,media,domain=ezfunnels.com
 ! Memo2
@@ -315,7 +318,7 @@
 @@||duckduckgo.com/?q=$generichide
 @@||www.google.*/search?$generichide
 @@||yandex.com/search/?$generichide
-! Anti-Adblock
+! Anti-Adblock (Applicable to Adult, file hosting, streaming/torrent sites)
 @@/adBlockDetector/*$~third-party,domain=~gaytube.com|~pornhub.com|~pornhubthbh7ap3u.onion|~redtube.com|~redtube.com.br|~tube8.com|~tube8.es|~tube8.fr|~xtube.com|~youjizz.com|~youporn.com|~youporngay.com
 @@/wp-content/*/plugins/adblock.js$script,~third-party,domain=~gaytube.com|~pornhub.com|~pornhubthbh7ap3u.onion|~redtube.com|~redtube.com.br|~tube8.com|~tube8.es|~tube8.fr|~xtube.com|~youjizz.com|~youporn.com|~youporngay.com
 @@/wp-content/plugins/blockalyzer-adblock-counter/*$image,script,~third-party,domain=~gaytube.com|~pornhub.com|~pornhubthbh7ap3u.onion|~redtube.com|~redtube.com.br|~tube8.com|~tube8.es|~tube8.fr|~xtube.com|~youjizz.com|~youporn.com|~youporngay.com
@@ -347,6 +350,7 @@
 @@||tomshardware.com^$generichide
 @@||tweaktown.com^$generichide
 @@||yellowbridge.com^$generichide
+@@||yimg.com/dy/ads/native.js$script,domain=animedao.to
 ! Google "Related Searches"
 @@||www.google.com/adsense/search/ads.js$domain=1and1.com|1und1.de|gmx.ca|gmx.ch|gmx.co|gmx.es|gmx.fr|gmx.it|gmx.net|gmx.nl|gmx.se|web.de
 @@||www.google.com/adsense/search/async-ads.js$domain=webcrawler.com
@@ -354,6 +358,7 @@
 @@||www.google.com/afs/ads?*^channel=month$subdocument
 @@||www.google.com/dp/ads^$subdocument,domain=1and1.com|1und1.de|gmx.ca|gmx.ch|gmx.co|gmx.es|gmx.fr|gmx.it|gmx.net|gmx.nl|gmx.se|web.de
 ! Gladly.io New Tab extension (https://tab.gladly.io/)
+! Don't install Gladly extension if you don't like ads.
 @@||tab.gladly.io/newtab/|$document,subdocument
 ! Non-English
 @@||90-60-90.in.ua/images/moda/advt/$image,~third-party
