@@ -24,6 +24,7 @@ metradar.ch###closeonaction
 freiewelt.net###cmmodal
 jmmgc.com###cnotice
 aktienportal1.de,eifelzeitung.de,ep1.de###coPolicyMain
+direktbroker-fx.de###cologindiv
 adventskalender-gewinnspiele.de,happy-spots.de,kirmes-in-deutschland.de,stadtfeste-in-deutschland.de,weihnachtsmaerkte-in-deutschland.de,weinfeste-in-deutschland.de###cono
 kunstnet.de,notebookinfo.de,zitatezumnachdenken.com###consent
 strawpoll.de###consent-overlay
@@ -161,6 +162,7 @@ borgware.de,buffalo.de,daparto.de,del.org,donaukurier.de,matratzen-concord.de,mo
 capcom-germany.de,dtstudyclub.de,insel-sylt.de,medela.de,parfumsclub.de,reifenlehmann.de,selfhost.de,spie.de,svww.de##.cookies
 stadtwerke-luebz.de##.data-consent
 hilzingen.de,wurmberg.de##.datenschutz
+spaetzlesuche.de##.dialog-no-close
 die-linke.de,dielinke.berlin,lexus.at,lexus.de##.disclaimer
 jobscout24.ch##.disclaimer-message
 efinancialcareers.de##.dismissable-notifications
@@ -264,6 +266,7 @@ autohus.de##.u-fixed
 hypovereinsbank.de##.uccb
 emma-matratze.at,emma-matratze.de##.ucn-block
 euromaxx.nu##.ui-widget-content
+spaetzlesuche.de##.ui-widget-overlay
 anisearch.de##.urgent-msg
 cebit.de,domotex.de,hannovermesse.de,ligna.de,messe.de##.user-notes-notification
 oeaw.ac.at##.warning-popup
@@ -532,7 +535,7 @@ autotrader.nl###ATASBAR
 voetbalnederland.nl###T1
 recordplanet.nl###WGbeshrkgj
 grebbeberg.nl###acceptscp2012
-gocards.nl###cbar
+gocards.nl,radioluisteren.fm###cbar
 iens.nl###cboxOverlay
 forum.snsbank.nl###clcback
 forum.snsbank.nl###consentdiv
@@ -563,6 +566,7 @@ voetbalrotterdam.nl##.app_2k2uB
 rotaserve.com##.avg
 twentemilieu.nl##.balloon_notification
 infiniti.nl##.c_128
+marktnet.nl##.cc-window
 internedservices.nl##.ccdiv
 grenscorridorn69.nl##.cdk-overlay-container
 penstore.nl##.center-notice
@@ -644,6 +648,7 @@ linnunrata.org##div[style^="position:fixed;right:0;top:0;"]
 ! ---------- Greek ----------
 !
 heal-link.gr###alert
+global.bible###root > .eYGQDi
 hmerologio.gr###sid-container
 news247.gr##.cookie
 novasports.gr##.cookies

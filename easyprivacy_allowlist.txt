@@ -28,6 +28,7 @@
 @@||analytics.logsss.com/logsss*.min.js$script,domain=rosegal.com
 @@||analytics.twitter.com^$domain=analytics.twitter.com
 @@||ancestrycdn.com/ui-static/lib/tracking/$domain=ancestry.com
+@@||api.cxense.com/public/widget/data?$domain=marketwatch.com
 @@||api.getmakerlog.com/discussions/$~third-party,websocket,xmlhttprequest
 @@||api.ipify.org^$xmlhttprequest,domain=account.pennytel.com.au
 @@||api.ipstack.com/check$domain=blockfi.com|withpersona.com
@@ -50,6 +51,7 @@
 @@||bluecare.express/js/tracking/$script,~third-party
 @@||bobbibrowncosmetics.com^*/analytics.min.js$~third-party
 @@||bookmate.com^*/impressions?$~third-party,xmlhttprequest
+@@||cdn.cxense.com^$script,domain=marketwatch.com
 @@||cleverpush.com/channel/$script,domain=bsdex.de
 @@||community.brave.com/t/$xmlhttprequest
 @@||daan.dev/wp-content/*/caos-supports-google-analytics-$image,~third-party
@@ -64,6 +66,7 @@
 @@||static.wikia.nocookie.net^*/tracking-opt-in.min.js$script,domain=fandom.com
 @@||travel-assets.com/platform-analytics-prime/$domain=chase.com
 @@||uniqlo.com^*/trackingservice/$~third-party
+@@||wsj.net/iweb/static_html_files/cxense-candy.js$script,domain=marketwatch.com
 ! @@||browser.sentry-cdn.com^$domain=cardiffmedia.co.uk|connect.shore.com|crrowd.com|gina-phillips.com|gracevanberkum.com|imperial.ac.uk|loveotv.com|onginnovations.com|simonparkes.org|stockforecasttoday.com|tekku.co.za|theangryviking1776.com|thegivingblock.com|thepittsburghoratory.org|truenews4u.com|washingtonpost.com|wix.com
 @@||browser.sentry-cdn.com^$domain=eco-clobber.co.uk
 @@||brsrvr.com/api/$xmlhttprequest,domain=dollargeneral.com
@@ -244,7 +247,7 @@
 @@||q-examiner.online/api/Ping?
 @@||quantcast.com/wp-content/themes/quantcast/$domain=quantcast.com
 @@||quantcast.mgr.consensu.org/cmp.js$script,domain=cyclingnews.com|independent.co.uk|ladbible.com
-@@||quantcast.mgr.consensu.org^*/cmp2.js$script,domain=bikeperfect.com|cyclingnews.com|digitalcameraworld.com|einthusan.tv|f1aldia.com|gamesradar.com|guitarplayer.com|independent.co.uk|indy100.com|ladbible.com|laptopmag.com|livescience.com|livingetc.com|mirror.co.uk|musicradar.com|pcgamer.com|porconocer.com|realhomes.com|researchgate.net|space.com|t3.com|techradar.com|tomsguide.com|tomshardware.com|tumblr.com|whathifi.com|whattowatch.com
+@@||quantcast.mgr.consensu.org^*/cmp2.js$script,domain=bigodino.it|bikeperfect.com|cyclingnews.com|digitalcameraworld.com|einthusan.tv|f1aldia.com|formulapassion.it|gamesradar.com|guitarplayer.com|independent.co.uk|indy100.com|ladbible.com|laptopmag.com|livescience.com|livingetc.com|mirror.co.uk|musicradar.com|pcgamer.com|porconocer.com|realhomes.com|researchgate.net|space.com|t3.com|techradar.com|tomsguide.com|tomshardware.com|tumblr.com|whathifi.com|whattowatch.com
 @@||rasset.ie/dotie/js/tracker.js$domain=rte.ie
 @@||rba-screen.healthsafe-id.com/fp/tags.js$script,domain=myuhc.com
 @@||repairtrackingsite.nintendo.eu/Tracking/$subdocument,domain=nintendo.co.uk

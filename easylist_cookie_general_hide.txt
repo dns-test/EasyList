@@ -4498,6 +4498,7 @@
 ###gdprCookieLaw
 ###gdprCookiePolicy
 ###gdprCookieWrap
+###gdprDiv
 ###gdprHeader
 ###gdprLPDialog
 ###gdprLPDialog_modal
@@ -7282,6 +7283,7 @@
 ##.bloque-cookies
 ##.bloque_ventanaCookies
 ##.bls-cookie-policy
+##.bmcookie
 ##.bmj-cookie-noticebar-content
 ##.bmp-cookies
 ##.bms-cookie-container
@@ -8317,6 +8319,7 @@
 ##.cookie-question
 ##.cookie-region
 ##.cookie-request-ctn
+##.cookie-revoke-hidden
 ##.cookie-ribbon
 ##.cookie-ribbon-component
 ##.cookie-richtlinie
@@ -8345,6 +8348,7 @@
 ##.cookie-splash
 ##.cookie-statement
 ##.cookie-statement-popup
+##.cookie-status
 ##.cookie-sticky
 ##.cookie-sticky-holder
 ##.cookie-stikey-nav
@@ -9000,6 +9004,7 @@
 ##.cookiemessageblock
 ##.cookiemessageplaceholder
 ##.cookiemodal
+##.cookiemon
 ##.cookiemonster-container
 ##.cookiemonster:not(html):not(body)
 ##.cookiemsg
@@ -9393,6 +9398,7 @@
 ##.cookies_info
 ##.cookies_kontener
 ##.cookies_law_compliance_footer
+##.cookies_layer
 ##.cookies_management-overlay
 ##.cookies_management-topbar
 ##.cookies_message

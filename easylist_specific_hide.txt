@@ -52,6 +52,7 @@ myabandonware.com###artCLX
 myabandonware.com###artST
 riverbender.com###article-banner
 pcworld.com###articleLeaderboardWrapper
+brisbanetimes.com.au,smh.com.au,theage.com.au,watoday.com.au###articlePartnerStories
 findmysoft.com###as_336
 flyordie.com###asf
 1movies.is###askfdgyhsd_
@@ -346,6 +347,7 @@ dispatchtribunal.com,thelincolnianonline.com###mb-bar
 active.com###med_rec_bottom
 active.com###med_rec_top
 gismeteo.com###media-right
+kavogaming.com###media_image-3
 mostlyblogging.com###media_image-5
 ostatic.com###media_partner_gallery
 cgchannel.com###mediumRectangle
@@ -680,6 +682,7 @@ absolutelyrics.com,cdrlabs.com,exiledonline.com,findtheword.info,realitywanted.c
 armenpress.am###topbnnr
 semiconductor-today.com###topheaderimage
 worldtimebuddy.com###toprek
+google.com###topstuff > #wmxmsg
 macworld.com,pcworld.com,techhive.com###tso
 myabandonware.com###tum
 kuklaskorner.com###ultimate
@@ -1604,6 +1607,7 @@ vg247.com##.leaderboards
 theprospectordaily.com##.leaderboardwrap
 zdnet.com##.leadgen
 solidfiles.com##.left
+gamasexual.com##.left-column-inner
 republicbroadcasting.org##.left-sidebar-padder > #text-8
 gogetaroomie.com##.left-space
 10minutemail.net##.leftXL
@@ -2132,7 +2136,7 @@ videogameschronicle.com##.vgc-boxout
 vice.com##.vice-ad__container
 yahoo.com##.viewer-sda-container
 variety.com##.vip-banner
-op.gg##.vm-placement
+ginx.tv,op.gg##.vm-placement
 fastpic.ru##.vright
 ebook-searcher.com##.w-100
 wbal.com##.wbal-banner
@@ -2170,6 +2174,7 @@ nypost.com##.widget_text.no-mobile.box
 helpnetsecurity.com##.widgetized_wrapper
 windowsloop.com##.wl-prakatana
 hack-sat.com##.wp-image-31131
+drphil.to##.wpfp_custom_popup
 talkers.com##.wpss_slideshow
 theregister.com##.wptl
 memeburn.com,ventureburn.com##.wrapper--grey
@@ -2194,6 +2199,7 @@ washingtonpost.com##[data-sc-c="adslot"]
 gadgetsnow.com##[data-type="mtf"]
 naturalnews.com##[href*="/WBA-"]
 naturalnewsblogs.com##[href*="/WBA/"]
+complaintsingapore.com##[href*="/adv.php"]
 libtorrent.org,mailgen.biz,speedcheck.org,torrentfreak.com,tubeoffline.com##[href*="://go.nordvpn.net/"]
 gamecopyworld.com,gamecopyworld.eu##[href*="@"]
 9jaflaver.com,alaskapublic.org,allkeyshop.com,ancient-origins.net,animeidhentai.com,arabtimesonline.com,carmag.co.za,cnx-software.com,coingolive.com,digitallydownloaded.net,downturk.net,elitepvpers.com,fresherslive.com,gizmochina.com,guidedhacking.com,hackernoon.com,hlstester.com,indishare.org,linkhub.icu,mbauniverse.com,mydramalist.com,myreadingmanga.info,owaahh.com,parkablogs.com,premiumtimesng.com,resultuniraj.co.in,retail.org.nz,rtvonline.com,techspot.com,totemtattoo.com,trancentral.tv,ultshare.com,vumafm.co.za,yeyeboyz.net,yugatech.com,zmescience.com##[href*="bit.ly/"]
@@ -2207,9 +2213,11 @@ winaero##[href="/fix-windows-issues-performance/"]
 2pass.co.uk##[href="bicycle-insurance.htm"]
 toumpano.net##[href="http://roz-tilefona.xbomb.net/"]
 daijiworld.com##[href="http://www.expertclasses.org/"]
+seganerds.com##[href="https://casino.betway.com/"]
 sqlfiddle.com##[href="https://entityframework-extensions.net/"]
 davidwalsh.name##[href="https://requestmetrics.com/"]
 tech-latest.com##[href="https://tech-latest.com/go/nordvpn"]
+complaintsingapore.com##[href="https://thechillipadi.com/"]
 semiconductor-today.com##[href="https://www.appliedenergysystems.com/stakes/"]
 mhktricks.org##[href="https://www.deepbrid.com/"]
 deshdoaba.com##[href="https://www.nsbinsures.com/"]
@@ -2235,6 +2243,7 @@ analyticsindiamag.com##[href^="https://programs.upgrad.com/"]
 readlightnovel.org##[href^="https://readlightnovelnew.onelink.me/"]
 darknetdaily.com##[href^="https://shop.ledger.com/"]
 cnx-software.com##[href^="https://www.amazon.com/"]
+complaintsingapore.com##[href^="https://www.bullionstar.com/"]
 seganerds.com##[href^="https://www.canadacasino.ca/"]
 seganerds.com##[href^="https://www.casinonic.com/"]
 seganerds.com##[href^="https://www.ewinracing.com/"]
@@ -2385,6 +2394,7 @@ whatsondisneyplus.com##div[id^="extra_mpu_"]
 micast.tv##div[id^="floatLayer"]
 yahoo.com##div[id^="gemini-item-"]
 mangatigre.com##div[id^="i-d-cr-page"]
+kavogaming.com##div[id^="kavog-"]
 yopmail.com,yopmail.fr,yopmail.net##div[id^="pub"]
 howtogeek.com,sciencealert.com##div[id^="purch_"]
 riverbender.com##div[id^="ros-"]
@@ -2507,6 +2517,7 @@ opensubtitles.org##tr[style^="height:115px;text-align:center;margin:0px;padding:
 elizium.nu##ul[style="padding: 0; width: 100%; margin: 0; list-style: none;"]
 ! invideo advertising
 newseveryday.com###vplayer_large
+dexerto.com##.jwplayer
 ! Google https://forums.lanik.us/viewtopic.php?f=62&t=45153
 ##.section-subheader > .section-hotel-prices-header
 ! yahoo
@@ -2623,6 +2634,7 @@ tomshardware.com##.dfp-leaderboard-container
 duckduckgo.com##.js-results-ads
 tweaktown.com##.ob-smartfeed-wrapper
 arstechnica.com,tomshardware.com##.placeholderampad
+tomshardware.com##.van_taboola
 google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk##AMP-AD
 google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk##[data-text-ad]
 google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk##a[href^="https://www.googleadservices.com/pagead/aclk?"]

@@ -2566,6 +2566,7 @@
 /js/tracking/*
 /js/tracking_
 /js/trk_
+/js_event_tracking/*
 /js_gpt.
 /js_hotlink.php?
 /js_ibeat_ext.
@@ -3627,7 +3628,7 @@
 /referadd?
 /referal-cookie.
 /referer.gif?
-/referer_frame.
+/referer_frame.$domain=~developers.facebook.com
 /refererRecord.
 /referral_tracker.
 /referral_tracking.

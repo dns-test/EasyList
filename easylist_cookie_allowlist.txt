@@ -23,9 +23,9 @@
 @@||businessinsider.in/gdpr_js/version-12,minify-1.cms$script,~third-party
 @@||c.evidon.com/sitenotice/evidon-sitenotice-tag.js$script,domain=southpark.de|southparkstudios.nu
 @@||carport-diagnose.de/script/cookieconsent.min.js$script,~third-party
-@@||cdn.cookielaw.org^$script,stylesheet,xmlhttprequest,domain=cnn.com|crfashionbook.com|crunchyroll.com|doctoroz.com|eurogamer.net|gmx.com|gq-magazine.co.uk|mail.com|popculture.com|reuters.com|rockpapershotgun.com|rte.ie|trustpilot.com|tvn24.pl|vimeo.com|wargaming.net|worldsurfleague.com
+@@||cdn.cookielaw.org^$script,stylesheet,xmlhttprequest,domain=cnn.com|comicbook.com|crfashionbook.com|crunchyroll.com|doctoroz.com|eurogamer.net|gmx.com|gq-magazine.co.uk|mail.com|popculture.com|reuters.com|rockpapershotgun.com|rte.ie|trustpilot.com|tvn24.pl|vimeo.com|wargaming.net|worldsurfleague.com
 @@||chasecdn.com^*/cookie.js$script,domain=chase.com
-@@||civiccomputing.com^*/cookieControl-$script,domain=amplitude.com|msi.com
+@@||civiccomputing.com^*/cookieControl-$script,domain=amplitude.com|msi.com|romania-insider.com
 @@||cloudflare.com^*/cookieconsent.min.js$domain=ehftv.com|pixieset.com|sammobile.com|xnview.com
 @@||consensu.org/gdpr/$script,domain=mentalfloss.com
 @@||consent-pref.trustarc.com^$subdocument
@@ -130,6 +130,7 @@
 @@||4ka.sk/js/cookiebar.min.js
 @@||ameli.fr/sites/all/modules/custom/ameli_tarte_au_citron/js/*/tarteaucitron.$script
 @@||amigosmuseoreinasofia.org/assets/js/cookiecuttr/jquery.cookie.js
+@@||bancaaltatoscana.it/framework/js/cookies.dyn.js
 @@||bccmilano.it/framework/js/cookies.dyn.js
 @@||bccroma.it/framework/js/cookies.dyn.js
 @@||candidat.pole-emploi.fr^*/modules/jquery-eu-cookie-law-popup.js$script
@@ -170,7 +171,7 @@
 @@||privacy-mgmt.com^$domain=bold.dk
 @@||quantcast.mgr.consensu.org/GVL-v2/$domain=independent.co.uk
 @@||quantcast.mgr.consensu.org/tcfv2/$domain=ilbianconero.com|independent.co.uk|money.it
-@@||quantcast.mgr.consensu.org^*/choice.js$domain=ilbianconero.com|money.it
+@@||quantcast.mgr.consensu.org^*/choice.js$domain=formulapassion.it|ilbianconero.com|money.it
 @@||rai.it^*/cookie.pack.js$script
 @@||rainews.it/dl/components/js/cookiebanner/$script,xmlhttprequest
 @@||rainews.it^*/cookie.pack.js$script

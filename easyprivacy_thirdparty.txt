@@ -150,6 +150,7 @@
 ||analytics.dvidshub.net^
 ||analytics.edgekey.net^
 ||analytics.edgesuite.net^
+||analytics.eggoffer.com^
 ||analytics.erepublic.com^
 ||analytics.facebook.com^$third-party
 ||analytics.favcy.com^
@@ -177,6 +178,7 @@
 ||analytics.orenshmu.com^
 ||analytics.ostr.io^
 ||analytics.paddle.com^
+||analytics.pagefly.io^
 ||analytics.performable.com^
 ||analytics.photorank.me^
 ||analytics.piksel.com^
@@ -1359,7 +1361,6 @@
 ||neulion.vo.llnwd.net^*/track.js
 ||news.banggood.com/mo/$image,third-party
 ||news.co.uk^*/propensities?
-||news.google.com/swg/$third-party
 ||newsanalytics.com.au^$third-party
 ||newsletters.nationalgeographic.com^$image,third-party
 ||newton.pm/events/track_bulk
@@ -2280,12 +2281,12 @@
 ||mistat.xiaomi.com^
 ||open.oneplus.net^$third-party
 ||sa.api.intl.miui.com^
+||smetrics.samsung.com^
 ||stat.xiaomi.com^
 ||stats.redditmedia.com^
 ||supportmetrics.apple.com^
 ||tracking.miui.com^
 ||trackingshipment.apple.com^
-||widgets.pinterest.com^$domain=d3ward.github.io
 ||yandexadexchange.net^
 ! Appcues
 /^https?:\/\/fast\.appcues\.com\/[0-9]{4,6}\.js/
