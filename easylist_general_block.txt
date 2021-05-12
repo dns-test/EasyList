@@ -6613,6 +6613,7 @@
 /somaadscaleskyscraperscript.
 /some-ad.
 /someads.
+/soralink.js
 /sp/delivery/*
 /spac_adx.
 /space_ad.
@@ -7475,6 +7476,7 @@ _125ad.
 _160_ad_
 _160x550.
 _250ad.
+_300600.
 _300x250Banner_
 _468x60ad.
 _728x90ad_

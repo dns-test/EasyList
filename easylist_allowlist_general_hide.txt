@@ -95,7 +95,6 @@ gamereactor.dk,gamereactor.es,gamereactor.eu,gamereactor.se#@##ads_right
 hcplzen.cz,lamag.com#@##ads_top
 gayexpress.co.nz#@##ads_wrapper
 videozed.net#@##adsdiv
-avhf.com,carryconcealed.net,haberler.com,instiz.net,promoce.cz,ps3scenefiles.com,sondakika.com#@##adsense
 remixshare.com#@##adsense_block
 jeeppatriot.com#@##adsense_inline
 tokyo-tube.com#@##adside
@@ -387,6 +386,7 @@ bannerist.com#@#.ads-right
 apple.com#@#.ads-section
 community.pictavo.com,juicesky.com#@#.ads-title
 queer.pl#@#.ads-top
+mastersclub.jp#@#.ads.widget
 getwallpapers.com,wallpaperset.com#@#.ads1
 jw.org#@#.adsBlock
 download.cnet.com#@#.ads_catDiv

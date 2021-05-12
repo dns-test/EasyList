@@ -13321,10 +13321,15 @@
 ##.advads-5
 ##.advads-sticky
 ##.advads-widget
+##.advads_ad_widget-11
+##.advads_ad_widget-18
 ##.advads_ad_widget-2
+##.advads_ad_widget-21
 ##.advads_ad_widget-3
 ##.advads_ad_widget-4
 ##.advads_ad_widget-5
+##.advads_ad_widget-8
+##.advads_ad_widget-9
 ##.advads_widget
 ##.advallyAdhesionUnit
 ##.advart
@@ -16457,6 +16462,7 @@
 ##.gp_adbanner--bottom
 ##.gp_adbanner--top
 ##.gpadvert
+##.gpnad
 ##.gpt-ad
 ##.gpt-ads
 ##.gpt-billboard
@@ -18661,6 +18667,7 @@
 ##.profile__ad-wrapper
 ##.profile_ad_bottom
 ##.profile_ad_top
+##.proftopad
 ##.promo-ad
 ##.promo-box--ad
 ##.promo-box--leaderboard-ad
@@ -19533,6 +19540,7 @@
 ##.singleAdBox
 ##.singleAdsContainer
 ##.single_ad
+##.single_ad_300x250
 ##.single_advert
 ##.single_bottom_ad
 ##.single_fm_ad_bottom
@@ -20934,6 +20942,7 @@
 ##.widgetContentIfrWrapperAd
 ##.widgetSponsors
 ##.widgetYahooAds
+##.widget_300x250_advertisement
 ##.widget_728x90_advertisement
 ##.widget_ad
 ##.widget_ad-widget
@@ -22021,6 +22030,7 @@
 ##span[data-component-type="s-ads-metrics"]
 ##topadblock
 ! ultimedia (invideo advertising)
+##.pbs__player
 ##.van_vid_carousel
 ##.vid-present > .van_vid_carousel__padding
 ! VPN Affiliate Banners

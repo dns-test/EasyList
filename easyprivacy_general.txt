@@ -668,6 +668,7 @@
 /analytics.js/v1/*
 /analytics.js?
 /analytics.json?
+/analytics.log.
 /analytics.min.
 /analytics.php.
 /analytics.php?
@@ -735,6 +736,7 @@
 /analytics/posts
 /analytics/pv.gif?
 /analytics/report/*
+/analytics/rt?
 /analytics/script/*
 /analytics/smarttag-
 /analytics/sockjs.
