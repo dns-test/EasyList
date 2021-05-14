@@ -1118,6 +1118,7 @@ favbrowser.com,iphoneincanada.ca###related
 pcmag.com###related-container
 sfist.com###related-module
 mtv.com,nextmovie.com###related-post
+girlonthenet.com###related-posts > div
 boston.com###relatedContent
 merchantcircle.com###relatedPopupBlock
 cafemom.com###relatedStories
@@ -2297,6 +2298,7 @@ askubuntu.com,mathoverflow.net,serverfault.com,stackexchange.com,stackoverflow.c
 hotukdeals.com##.js-keyword-alerts
 wired.com##.js-prefooter-rad
 medium.com##.js-promoCardWrapper
+euronews.com##.js-swiper-button
 avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##.js_commerce-inset-permalink
 haaretz.com##.jumping-jack-wrapper
 itwire.com##.jwDisqusArticleCounter
@@ -3324,6 +3326,7 @@ insidethegames.biz###top-story-alert
 theweek.com###us77-test
 independent.co.uk###vouchercodes
 imgur.com##.EmeraldBanner
+marieclaire.com.au##.MagDriver
 worldhistory.org##.ahe-ad
 out.com##.bean-house-promo
 ny1.com##.caption-container
@@ -4694,6 +4697,7 @@ japantimes.co.jp##.pagetop-wrap
 oki.com##.pagetopInner
 simpleflying.com##.pk-icon-up
 sexuria.com##.pull-right
+muslimshop.fr##.return-top
 communist-party.org.uk##.rt-totop
 nexusmods.com##.scroll
 thehill.com##.scroll-down-to-next

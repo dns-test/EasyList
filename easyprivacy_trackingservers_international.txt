@@ -396,11 +396,13 @@
 ||cr-nielsen.com^$third-party
 ||ctags.cn^$third-party
 ||datamaster.com.cn^$third-party
+||datayi.cn^$third-party
 ||elevenmedia.cn^$third-party
 ||emarbox.com^$third-party
 ||eyeota.net^$third-party
 ||fraudmetrix.cn^$third-party
 ||ggxt.net^$third-party
+||giocdn.com^$third-party
 ||gm99.com^$third-party
 ||gostats.cn^$third-party
 ||gridsum.com^$third-party
@@ -605,7 +607,6 @@
 ||d-markets.net^$third-party
 ||d2-apps.net^$third-party
 ||deteql.net^$third-party
-||digitiminimi.com^$third-party
 ||docodoco.jp^$third-party
 ||e-click.jp^$third-party
 ||e-kaiseki.com^$third-party
@@ -651,7 +652,6 @@
 ||rentracks.jp^$third-party
 ||research-artisan.com^$third-party
 ||rtoaster.jp^$third-party
-||seesaa.jp^$third-party
 ||segs.jp^$third-party
 ||sibulla.com^$third-party
 ||smart-bdash.com^$third-party

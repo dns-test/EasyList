@@ -6104,6 +6104,7 @@
 ###hp-mpu
 ###hp-right-ad
 ###hp-store-ad
+###hpAdVideo
 ###hpSponsor
 ###hpV2_300x250Ad
 ###hpV2_googAds
@@ -7267,6 +7268,7 @@
 ###right-content-ad
 ###right-featured-ad
 ###right-mpu-1-ad-container
+###right-rail-ad-slot-content-top
 ###right-uppder-adverts
 ###right-uppder-adverts-container
 ###right1-ad
@@ -16879,6 +16881,7 @@
 ##.hss-ad-300x250_1
 ##.hss_static_ad
 ##.hst-contextualads
+##.hstpnetworkads
 ##.ht_ad_widget
 ##.html-advertisement
 ##.html-block-ads
@@ -17135,7 +17138,10 @@
 ##.itinerary-index-advertising
 ##.itw-ad
 ##.iw-leaderboard-ad
+##.iz-ad
+##.iz-ad--intext
 ##.iz-ad-fullwidth
+##.iz-ads
 ##.j-ad
 ##.j-ads-mrec
 ##.jLinkSponsored
@@ -17145,10 +17151,13 @@
 ##.jam-ad
 ##.jannah_ad
 ##.jc_ad_container
+##.jeg_ad
+##.jeg_ad_top
 ##.jg-ad-5
 ##.jg-ad-970
 ##.jimdoAdDisclaimer
 ##.jl-ads-leaderboard
+##.jnews_header_top_ads
 ##.job-ads-container
 ##.jobAds
 ##.jobkeywordads
@@ -21976,6 +21985,7 @@
 ##div[id^="ad-cid-"]
 ##div[id^="ad-div-"]
 ##div[id^="ad-gpt-"]
+##div[id^="ad-inserter-"]
 ##div[id^="ad-position-"]
 ##div[id^="ad-server-"]
 ##div[id^="ad_bigbox_"]

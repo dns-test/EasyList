@@ -1,11 +1,4 @@
 idna_subject,checker_type,destination,source,tested_at,session_id
-ted.metro.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:27.150326,42a19051903998b83871f0cc
-telegraph.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:27.184672,42a19051903998b83871f0cc
-telemetry.art19.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:27.219321,42a19051903998b83871f0cc
-telemetry.tradingview.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:27.254139,42a19051903998b83871f0cc
-telerium.net,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:27.289006,42a19051903998b83871f0cc
-tellerreport.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:27.323607,42a19051903998b83871f0cc
-tempo.inc.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:27.358085,42a19051903998b83871f0cc
 tesco.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:27.392647,42a19051903998b83871f0cc
 tfl.gov.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:27.427357,42a19051903998b83871f0cc
 tgw.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:27.496750,42a19051903998b83871f0cc
@@ -2921,3 +2914,13 @@ tdwaterhouse.ca,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2
 tdwaterhouse.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-12 15:17:35.437206,42a19051903998b83871f0cc
 techspot.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-12 15:17:41.237328,42a19051903998b83871f0cc
 ted.dailymail.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-12 15:20:45.845002,42a19051903998b83871f0cc
+analytics-proxy.springboard.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2001-05-14 15:49:15.881474,42a19051903998b83871f0cc
+analytics.faceitanalytics.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2001-05-14 15:49:16.847175,42a19051903998b83871f0cc
+stats.pstream.net,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2001-05-14 15:53:05.471504,42a19051903998b83871f0cc
+ted.metro.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-14 16:20:12.939677,42a19051903998b83871f0cc
+telegraph.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-14 16:20:19.451495,42a19051903998b83871f0cc
+telemetry.art19.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-14 16:23:14.009216,42a19051903998b83871f0cc
+telemetry.tradingview.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-14 16:26:08.506022,42a19051903998b83871f0cc
+telerium.net,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-14 16:26:14.309555,42a19051903998b83871f0cc
+tellerreport.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-14 16:26:20.040371,42a19051903998b83871f0cc
+tempo.inc.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-14 16:27:22.644570,42a19051903998b83871f0cc

@@ -102,6 +102,7 @@
 ||americanexpress.com/monitoring/
 ||amy.gs/track/
 ||analytic.imlive.com^
+||analytics-proxy.springboard.com^
 ||analytics.adfreetime.com^
 ||analytics.amplitude.com^$domain=~analytics.amplitude.com
 ||analytics.archive.org^
@@ -110,6 +111,7 @@
 ||analytics.chase.com^
 ||analytics.ecosia.org^
 ||analytics.eip.telegraph.co.uk^
+||analytics.faceitanalytics.com^
 ||analytics.footballdb.com^
 ||analytics.getshogun.com^
 ||analytics.ghostery.com^$subdocument,domain=www.ghostery.com
@@ -2033,6 +2035,7 @@
 ||stats.paste2.org^
 ||stats.piaggio.com^
 ||stats.propublica.org^
+||stats.pstream.net^
 ||stats.searchftps.net^
 ||stats.searchftps.org^
 ||stats.shoppydoo.com^
