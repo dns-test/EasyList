@@ -1797,7 +1797,6 @@
         "com.ge",
         "edu.ge",
         "gov.ge",
-        "mil.ge",
         "net.ge",
         "nom.ge",
         "org.ge",
@@ -1914,6 +1913,7 @@
         "idv.hk",
         "inc.hk",
         "ltd.hk",
+        "mil.ge",
         "net.hk",
         "nym.hk",
         "org.hk",
@@ -8359,8 +8359,7 @@
         "washtenaw.mi.us",
         "wi.us",
         "wv.us",
-        "wy.us",
-        "xn--wcvs22d.xn--j6w193g"
+        "wy.us"
     ],
     "uy": [
         "blogspot.com.uy",
