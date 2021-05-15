@@ -1,17 +1,5 @@
 idna_subject,checker_type,destination,source,tested_at,session_id
 localhost,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:47.505399,42a19051903998b83871f0cc
-a02342.harwichandmanningtreestandard.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:52.407260,42a19051903998b83871f0cc
-a02342.heraldscotland.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:52.452016,42a19051903998b83871f0cc
-a02342.heraldseries.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:52.497196,42a19051903998b83871f0cc
-a02342.herefordtimes.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:52.542387,42a19051903998b83871f0cc
-a02342.hillingdontimes.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:52.587007,42a19051903998b83871f0cc
-a02342.ilkleygazette.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:52.631733,42a19051903998b83871f0cc
-a02342.keighleynews.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:52.677212,42a19051903998b83871f0cc
-a02342.kidderminstershuttle.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:52.722657,42a19051903998b83871f0cc
-a02342.knutsfordguardian.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:52.768159,42a19051903998b83871f0cc
-a02342.lancashiretelegraph.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:52.813096,42a19051903998b83871f0cc
-a02342.ledburyreporter.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:52.858339,42a19051903998b83871f0cc
-a02342.leighjournal.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:52.903559,42a19051903998b83871f0cc
 a02342.ludlowadvertiser.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:52.948820,42a19051903998b83871f0cc
 a02342.maldonandburnhamstandard.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:52.993994,42a19051903998b83871f0cc
 a02342.malverngazette.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:53.039598,42a19051903998b83871f0cc
@@ -2924,3 +2912,15 @@ a02342.halesowennews.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_spe
 a02342.halsteadgazette.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 09:22:54.557314,42a19051903998b83871f0cc
 a02342.hampshirechronicle.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 09:25:26.831236,42a19051903998b83871f0cc
 a02342.harrowtimes.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 09:28:18.238268,42a19051903998b83871f0cc
+a02342.harwichandmanningtreestandard.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 09:50:48.863467,42a19051903998b83871f0cc
+a02342.heraldscotland.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 09:53:38.483088,42a19051903998b83871f0cc
+a02342.heraldseries.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 09:56:40.146048,42a19051903998b83871f0cc
+a02342.herefordtimes.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 09:59:44.113519,42a19051903998b83871f0cc
+a02342.hillingdontimes.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 10:02:39.831694,42a19051903998b83871f0cc
+a02342.ilkleygazette.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 10:05:26.410612,42a19051903998b83871f0cc
+a02342.keighleynews.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 10:08:21.332297,42a19051903998b83871f0cc
+a02342.kidderminstershuttle.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 10:11:21.806159,42a19051903998b83871f0cc
+a02342.knutsfordguardian.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 10:14:12.994912,42a19051903998b83871f0cc
+a02342.lancashiretelegraph.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 10:17:23.248681,42a19051903998b83871f0cc
+a02342.ledburyreporter.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 10:20:13.651100,42a19051903998b83871f0cc
+a02342.leighjournal.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 10:23:06.378815,42a19051903998b83871f0cc
