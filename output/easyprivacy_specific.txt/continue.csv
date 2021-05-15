@@ -1,16 +1,5 @@
 idna_subject,checker_type,destination,source,tested_at,session_id
 localhost,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:47.505399,42a19051903998b83871f0cc
-a02342.brentwoodlive.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:50.801087,42a19051903998b83871f0cc
-a02342.bridgwatermercury.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:50.845514,42a19051903998b83871f0cc
-a02342.bridportnews.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:50.889761,42a19051903998b83871f0cc
-a02342.bromsgroveadvertiser.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:50.934332,42a19051903998b83871f0cc
-a02342.bucksfreepress.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:50.978825,42a19051903998b83871f0cc
-a02342.burnhamandhighbridgeweeklynews.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:51.023091,42a19051903998b83871f0cc
-a02342.burytimes.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:51.067541,42a19051903998b83871f0cc
-a02342.campaignseries.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:51.111975,42a19051903998b83871f0cc
-a02342.chardandilminsternews.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:51.156186,42a19051903998b83871f0cc
-a02342.chelmsfordweeklynews.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:51.200056,42a19051903998b83871f0cc
-a02342.chorleycitizen.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:51.244377,42a19051903998b83871f0cc
 a02342.clactonandfrintongazette.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:51.288678,42a19051903998b83871f0cc
 a02342.cotswoldjournal.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:51.332974,42a19051903998b83871f0cc
 a02342.cravenherald.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:51.377354,42a19051903998b83871f0cc
@@ -2924,3 +2913,14 @@ a02342.bicesteradvertiser.net,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_
 a02342.borehamwoodtimes.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 06:20:24.765238,42a19051903998b83871f0cc
 a02342.bournemouthecho.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 06:23:22.049108,42a19051903998b83871f0cc
 a02342.braintreeandwithamtimes.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 06:26:12.405705,42a19051903998b83871f0cc
+a02342.brentwoodlive.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 07:01:57.611809,42a19051903998b83871f0cc
+a02342.bridgwatermercury.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 07:04:51.561324,42a19051903998b83871f0cc
+a02342.bridportnews.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 07:07:51.454247,42a19051903998b83871f0cc
+a02342.bromsgroveadvertiser.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 07:10:48.816124,42a19051903998b83871f0cc
+a02342.bucksfreepress.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 07:13:50.425522,42a19051903998b83871f0cc
+a02342.burnhamandhighbridgeweeklynews.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 07:16:42.317619,42a19051903998b83871f0cc
+a02342.burytimes.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 07:19:43.958798,42a19051903998b83871f0cc
+a02342.campaignseries.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 07:22:45.543250,42a19051903998b83871f0cc
+a02342.chardandilminsternews.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 07:25:46.513599,42a19051903998b83871f0cc
+a02342.chelmsfordweeklynews.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 07:28:47.990567,42a19051903998b83871f0cc
+a02342.chorleycitizen.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 07:31:47.688435,42a19051903998b83871f0cc
