@@ -1,17 +1,5 @@
 idna_subject,checker_type,destination,source,tested_at,session_id
 localhost,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:47.505399,42a19051903998b83871f0cc
-a02342.clactonandfrintongazette.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:51.288678,42a19051903998b83871f0cc
-a02342.cotswoldjournal.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:51.332974,42a19051903998b83871f0cc
-a02342.cravenherald.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:51.377354,42a19051903998b83871f0cc
-a02342.dailyecho.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:51.421735,42a19051903998b83871f0cc
-a02342.darlingtonandstocktontimes.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:51.466090,42a19051903998b83871f0cc
-a02342.dorsetecho.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:51.510385,42a19051903998b83871f0cc
-a02342.droitwichadvertiser.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:51.554506,42a19051903998b83871f0cc
-a02342.dudleynews.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:51.599381,42a19051903998b83871f0cc
-a02342.ealingtimes.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:51.643852,42a19051903998b83871f0cc
-a02342.echo-news.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:51.688644,42a19051903998b83871f0cc
-a02342.enfieldindependent.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:51.733506,42a19051903998b83871f0cc
-a02342.eppingforestguardian.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:51.778296,42a19051903998b83871f0cc
 a02342.eveshamjournal.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:51.823030,42a19051903998b83871f0cc
 a02342.falmouthpacket.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:51.867727,42a19051903998b83871f0cc
 a02342.freepressseries.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:51.913099,42a19051903998b83871f0cc
@@ -2924,3 +2912,15 @@ a02342.campaignseries.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_sp
 a02342.chardandilminsternews.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 07:25:46.513599,42a19051903998b83871f0cc
 a02342.chelmsfordweeklynews.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 07:28:47.990567,42a19051903998b83871f0cc
 a02342.chorleycitizen.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 07:31:47.688435,42a19051903998b83871f0cc
+a02342.clactonandfrintongazette.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 07:52:45.034279,42a19051903998b83871f0cc
+a02342.cotswoldjournal.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 07:55:32.424659,42a19051903998b83871f0cc
+a02342.cravenherald.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 07:58:31.478450,42a19051903998b83871f0cc
+a02342.dailyecho.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 08:01:23.705491,42a19051903998b83871f0cc
+a02342.darlingtonandstocktontimes.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 08:04:24.592529,42a19051903998b83871f0cc
+a02342.dorsetecho.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 08:07:14.544146,42a19051903998b83871f0cc
+a02342.droitwichadvertiser.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 08:10:16.480818,42a19051903998b83871f0cc
+a02342.dudleynews.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 08:13:04.036403,42a19051903998b83871f0cc
+a02342.ealingtimes.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 08:16:00.888210,42a19051903998b83871f0cc
+a02342.echo-news.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 08:18:57.437762,42a19051903998b83871f0cc
+a02342.enfieldindependent.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 08:21:51.246847,42a19051903998b83871f0cc
+a02342.eppingforestguardian.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 08:24:48.588594,42a19051903998b83871f0cc
