@@ -1,17 +1,5 @@
 idna_subject,checker_type,destination,source,tested_at,session_id
 localhost,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:47.505399,42a19051903998b83871f0cc
-a02342.ludlowadvertiser.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:52.948820,42a19051903998b83871f0cc
-a02342.maldonandburnhamstandard.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:52.993994,42a19051903998b83871f0cc
-a02342.malverngazette.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:53.039598,42a19051903998b83871f0cc
-a02342.messengernewspapers.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:53.084906,42a19051903998b83871f0cc
-a02342.milfordmercury.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:53.130326,42a19051903998b83871f0cc
-a02342.newsshopper.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:53.175231,42a19051903998b83871f0cc
-a02342.northwichguardian.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:53.220586,42a19051903998b83871f0cc
-a02342.oxfordmail.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:53.265918,42a19051903998b83871f0cc
-a02342.penarthtimes.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:53.311288,42a19051903998b83871f0cc
-a02342.prestwichandwhitefieldguide.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:53.356573,42a19051903998b83871f0cc
-a02342.redditchadvertiser.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:53.402331,42a19051903998b83871f0cc
-a02342.redhillandreigatelife.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:53.447687,42a19051903998b83871f0cc
 a02342.richmondandtwickenhamtimes.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:53.493267,42a19051903998b83871f0cc
 a02342.romseyadvertiser.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:53.538744,42a19051903998b83871f0cc
 a02342.runcornandwidnesworld.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:53.584266,42a19051903998b83871f0cc
@@ -2924,3 +2912,15 @@ a02342.knutsfordguardian.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy
 a02342.lancashiretelegraph.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 10:17:23.248681,42a19051903998b83871f0cc
 a02342.ledburyreporter.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 10:20:13.651100,42a19051903998b83871f0cc
 a02342.leighjournal.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 10:23:06.378815,42a19051903998b83871f0cc
+a02342.ludlowadvertiser.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 10:52:22.794744,42a19051903998b83871f0cc
+a02342.maldonandburnhamstandard.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 10:55:25.940911,42a19051903998b83871f0cc
+a02342.malverngazette.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 10:58:16.450420,42a19051903998b83871f0cc
+a02342.messengernewspapers.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 11:01:13.919703,42a19051903998b83871f0cc
+a02342.milfordmercury.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 11:04:11.127985,42a19051903998b83871f0cc
+a02342.newsshopper.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 11:06:58.980274,42a19051903998b83871f0cc
+a02342.northwichguardian.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 11:09:54.923111,42a19051903998b83871f0cc
+a02342.oxfordmail.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 11:12:46.482890,42a19051903998b83871f0cc
+a02342.penarthtimes.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 11:15:47.482977,42a19051903998b83871f0cc
+a02342.prestwichandwhitefieldguide.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 11:18:39.331462,42a19051903998b83871f0cc
+a02342.redditchadvertiser.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 11:21:35.793085,42a19051903998b83871f0cc
+a02342.redhillandreigatelife.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 11:24:37.110106,42a19051903998b83871f0cc
