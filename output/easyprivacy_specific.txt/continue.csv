@@ -1,17 +1,5 @@
 idna_subject,checker_type,destination,source,tested_at,session_id
 localhost,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:47.505399,42a19051903998b83871f0cc
-a02342.richmondandtwickenhamtimes.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:53.493267,42a19051903998b83871f0cc
-a02342.romseyadvertiser.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:53.538744,42a19051903998b83871f0cc
-a02342.runcornandwidnesworld.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:53.584266,42a19051903998b83871f0cc
-a02342.salisburyjournal.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:53.629977,42a19051903998b83871f0cc
-a02342.somersetcountygazette.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:53.675655,42a19051903998b83871f0cc
-a02342.southendstandard.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:53.720938,42a19051903998b83871f0cc
-a02342.southwalesargus.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:53.766815,42a19051903998b83871f0cc
-a02342.southwalesguardian.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:53.812902,42a19051903998b83871f0cc
-a02342.southwestfarmer.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:53.858501,42a19051903998b83871f0cc
-a02342.stalbansreview.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:53.904104,42a19051903998b83871f0cc
-a02342.sthelensstar.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:53.949726,42a19051903998b83871f0cc
-a02342.stourbridgenews.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:53.995289,42a19051903998b83871f0cc
 a02342.surreycomet.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:54.040830,42a19051903998b83871f0cc
 a02342.swindonadvertiser.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:54.086801,42a19051903998b83871f0cc
 a02342.theargus.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:54.132484,42a19051903998b83871f0cc
@@ -2924,3 +2912,15 @@ a02342.penarthtimes.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_spec
 a02342.prestwichandwhitefieldguide.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 11:18:39.331462,42a19051903998b83871f0cc
 a02342.redditchadvertiser.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 11:21:35.793085,42a19051903998b83871f0cc
 a02342.redhillandreigatelife.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 11:24:37.110106,42a19051903998b83871f0cc
+a02342.richmondandtwickenhamtimes.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 11:46:58.604033,42a19051903998b83871f0cc
+a02342.romseyadvertiser.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 11:49:59.298667,42a19051903998b83871f0cc
+a02342.runcornandwidnesworld.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 11:53:02.416385,42a19051903998b83871f0cc
+a02342.salisburyjournal.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 11:55:43.640782,42a19051903998b83871f0cc
+a02342.somersetcountygazette.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 11:58:40.162458,42a19051903998b83871f0cc
+a02342.southendstandard.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 12:01:36.430323,42a19051903998b83871f0cc
+a02342.southwalesargus.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 12:04:28.972297,42a19051903998b83871f0cc
+a02342.southwalesguardian.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 12:07:21.470286,42a19051903998b83871f0cc
+a02342.southwestfarmer.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 12:10:22.303337,42a19051903998b83871f0cc
+a02342.stalbansreview.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 12:13:22.982881,42a19051903998b83871f0cc
+a02342.sthelensstar.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 12:16:26.836601,42a19051903998b83871f0cc
+a02342.stourbridgenews.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-15 12:19:36.321347,42a19051903998b83871f0cc
