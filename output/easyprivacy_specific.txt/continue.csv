@@ -1,16 +1,5 @@
 idna_subject,checker_type,destination,source,tested_at,session_id
 localhost,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:47.505399,42a19051903998b83871f0cc
-a02342.thurrockgazette.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:54.544993,42a19051903998b83871f0cc
-a02342.times-series.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:54.590911,42a19051903998b83871f0cc
-a02342.wandsworthguardian.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:54.636713,42a19051903998b83871f0cc
-a02342.warringtonguardian.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:54.682725,42a19051903998b83871f0cc
-a02342.watfordobserver.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:54.729121,42a19051903998b83871f0cc
-a02342.westerntelegraph.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:54.775259,42a19051903998b83871f0cc
-a02342.wharfedaleobserver.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:54.820874,42a19051903998b83871f0cc
-a02342.wiltsglosstandard.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:54.866976,42a19051903998b83871f0cc
-a02342.wiltshiretimes.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:54.912767,42a19051903998b83871f0cc
-a02342.wimbledonguardian.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:54.958880,42a19051903998b83871f0cc
-a02342.winsfordguardian.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:55.004962,42a19051903998b83871f0cc
 a02342.wirralglobe.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:55.050971,42a19051903998b83871f0cc
 a02342.witneygazette.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:55.097051,42a19051903998b83871f0cc
 a02342.worcesternews.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:55.142983,42a19051903998b83871f0cc
@@ -2924,3 +2913,14 @@ a02342.thetelegraphandargus.co.uk,AVAILABILITY,easyprivacy_specific.txt,easypriv
 a02342.thetottenhamindependent.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-17 05:32:18.603562,42a19051903998b83871f0cc
 a02342.thewestmorlandgazette.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-17 05:35:17.705252,42a19051903998b83871f0cc
 a02342.thisisthewestcountry.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-17 05:38:51.606567,42a19051903998b83871f0cc
+a02342.thurrockgazette.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-17 05:58:39.484824,42a19051903998b83871f0cc
+a02342.times-series.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-17 06:01:39.386344,42a19051903998b83871f0cc
+a02342.wandsworthguardian.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-17 06:04:43.216892,42a19051903998b83871f0cc
+a02342.warringtonguardian.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-17 06:07:47.625854,42a19051903998b83871f0cc
+a02342.watfordobserver.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-17 06:10:52.872573,42a19051903998b83871f0cc
+a02342.westerntelegraph.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-17 06:14:01.147804,42a19051903998b83871f0cc
+a02342.wharfedaleobserver.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-17 06:17:06.816073,42a19051903998b83871f0cc
+a02342.wiltsglosstandard.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-17 06:20:11.076725,42a19051903998b83871f0cc
+a02342.wiltshiretimes.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-17 06:23:05.862492,42a19051903998b83871f0cc
+a02342.wimbledonguardian.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-17 06:26:10.102738,42a19051903998b83871f0cc
+a02342.winsfordguardian.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-17 06:29:14.206150,42a19051903998b83871f0cc
