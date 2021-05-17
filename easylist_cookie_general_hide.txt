@@ -6653,6 +6653,7 @@
 ##.CookieMonsterBox
 ##.CookieMsg
 ##.CookieNote
+##.CookieNotice
 ##.CookieNotice-Drawer
 ##.CookieNotification
 ##.CookieNotification-bar
@@ -7860,6 +7861,7 @@
 ##.cookie-banner__container
 ##.cookie-bar--active
 ##.cookie-bar--is-visible
+##.cookie-bar--type-manage
 ##.cookie-bar-alert
 ##.cookie-bar-con
 ##.cookie-bar-mask

@@ -43,6 +43,7 @@
 ||bundesliga.com/assets/partners/
 ||buscando.heavenmedia.com^
 ||c21media.net/wp-content/plugins/sam-images/
+||calcalistech.com^*/labsNew.gif
 ||calguns.net/images/ad
 ||canyoublockit.com/wp-content/uploads/nzraxtwifgbg/
 ||carfinderph.com/popup/
@@ -107,6 +108,8 @@
 ||eteknix.com/wp-content/uploads/*skin
 ||eurochannel.com/images/banners/
 ||europeonline-magazine.eu/banner/
+||eurovision.tv/dist/assets/images/esc_partner_
+||eurovision.tv^*/sponsor_
 ||exchangerates.org.uk/images/200x200_
 ||expatexchange.com/banner/
 ||f1i.com^*/hype/
@@ -144,6 +147,7 @@
 ||gounlimited.to/js/pop.js
 ||govevents.com/display-file/
 ||graphicdesignforums.co.uk/banners/
+||hamodia.co.uk/images/worldfirst-currencyconversion.jpg
 ||hawk.pcgamer.com^
 ||herzeleid.com/files/images/banners/
 ||hltv.org//images/retina2/
@@ -386,7 +390,6 @@
 ||worldstadiums.com/world_stadiums/bugarrishoes/
 ||wqah.com/images/banners/
 ||ww1.flashx.
-||www.youtube.com/watch?v=*&pp=*&pbj=1$xmlhttprequest
 ||www.youtube.com/watch?v=*&pp=*&pbj=prefetch&$xmlhttprequest
 ||x.castanet.net^
 ||xbox-hq.com/html/images/banners/

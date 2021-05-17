@@ -22,6 +22,7 @@ telegraph.co.uk###TelegraphPics
 metrotimes.com,orlandoweekly.com,riverfronttimes.com,rochestercitynewspaper.com###ToolBarHorizontal
 pcb.cc###WRchTxt8
 pcb.cc###WRchTxti
+arirang.com###aNews_sns
 raymond.cc###aa_wpfs_wrap
 stuckincustoms.com###about-trey
 theatlantic.com###action-bar
@@ -517,6 +518,7 @@ care2.com##.care2_side_float
 inquirer.net##.cct-socmed
 cambridge.org##.cdo-hdr__soc
 wsws.org##.censorship
+cgtn.com##.cg-like-wraper
 nasa.gov##.chertools_floater
 progressive.org##.chicklets
 cheezburger.com##.chz-social

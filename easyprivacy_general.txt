@@ -1777,8 +1777,6 @@
 /EndpointTracker/*
 /engine/ping?
 /ent_counter?
-/entry.count.image?
-/entry.count?
 /entry_stats?
 /envoy.sb?sbaid
 /epf_v1_95.js
@@ -5561,7 +5559,7 @@ cgi-bin/counter
 /ap.lijit.com/*
 /beacon.krxd.net/*
 /beaconimages.netflix.net/*$image
-/click.*/q/$image
+/click.*/q/*$image
 /click.email.$image
 /clicks.email.$image
 /cmail2.com/t/

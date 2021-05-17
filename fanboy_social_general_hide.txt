@@ -3607,6 +3607,7 @@
 ##.author-profile-social
 ##.author-share
 ##.author-social
+##.author-social-style2
 ##.author-socials
 ##.authorSocial
 ##.authorSocialTools
@@ -5642,6 +5643,7 @@
 ##.footer-share-bar-social
 ##.footer-share-bar-social-link
 ##.footer-share-button
+##.footer-share-buttons
 ##.footer-share-list
 ##.footer-share-section
 ##.footer-shareButton
@@ -8412,6 +8414,7 @@
 ##.rambler-share
 ##.rawhtml_twitter_widget
 ##.rc-fb-widget
+##.rc_social
 ##.rcom-social-site-footer
 ##.rcshare
 ##.rd-sidebar-social-link
@@ -10801,6 +10804,7 @@
 ##.socialCounter
 ##.socialCounterFacebook
 ##.socialDotCom-home
+##.socialEl
 ##.socialFBContainer
 ##.socialFacebook
 ##.socialFeed
@@ -13162,6 +13166,7 @@
 ##a[title^="Share a link on Google"]
 ##a[title^="Share a link on Twitter"]
 ##a[title^="Share on Google"]
+##a[title^="Share on Koo"]
 ##a[title^="Share on Pinterest"]
 ##a[title^="Share on Reddit"]
 ##a[title^="Share on Whatsapp"]

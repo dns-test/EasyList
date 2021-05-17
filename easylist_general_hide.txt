@@ -6158,6 +6158,7 @@
 ###imgad1
 ###imu_ad_module
 ###in-article-ad
+###in-article-mpu
 ###in-content-ad
 ###in-story-ad-wrapper
 ###in-video-ad-center-main
@@ -7273,6 +7274,7 @@
 ###right-uppder-adverts-container
 ###right1-ad
 ###right160x600ads_part
+###right1ad
 ###right2Ad_Iframe
 ###rightAD
 ###rightAd
@@ -10242,6 +10244,7 @@
 ##.ad-stickyhero--standard
 ##.ad-story-inject
 ##.ad-story-top
+##.ad-strategic
 ##.ad-strip
 ##.ad-style2
 ##.ad-subnav-container
@@ -12157,6 +12160,7 @@
 ##.ads-content
 ##.ads-core-placer
 ##.ads-custom
+##.ads-decorator
 ##.ads-div
 ##.ads-divider
 ##.ads-express
@@ -16210,6 +16214,7 @@
 ##.gallery_post--interstitial_ad
 ##.galleryads
 ##.gam-300x250-default-ad-container
+##.gam-ad
 ##.gam_ad_slot
 ##.game-ads
 ##.game-category-ads
@@ -19123,6 +19128,7 @@
 ##.rr-300x600-ad
 ##.rr_ads
 ##.rr_skyad
+##.rs-ad
 ##.rs_ad_block
 ##.rs_ad_bot
 ##.rs_ad_top
