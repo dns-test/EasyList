@@ -1,18 +1,5 @@
 idna_subject,checker_type,destination,source,tested_at,session_id
 localhost,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:47.505399,42a19051903998b83871f0cc
-cmp.pcworld.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:56.114479,42a19051903998b83871f0cc
-cmp.pcworld.idg.com.au,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:56.161473,42a19051903998b83871f0cc
-cmp.tech426.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:56.207921,42a19051903998b83871f0cc
-cmp.techadvisor.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:56.254170,42a19051903998b83871f0cc
-cmp.techconnect.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:56.300859,42a19051903998b83871f0cc
-cmp.techhive.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:56.347514,42a19051903998b83871f0cc
-commsvc.stern.de,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:56.394058,42a19051903998b83871f0cc
-consent.api.osano.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:56.441038,42a19051903998b83871f0cc
-consent.inm.ie,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:56.487548,42a19051903998b83871f0cc
-d.sourcepoint.capitalfm.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:56.534081,42a19051903998b83871f0cc
-ep00.epimg.net,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:56.580621,42a19051903998b83871f0cc
-fuse.forbes.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:56.627324,42a19051903998b83871f0cc
-gamesradar-gb.gamesradar.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:56.673651,42a19051903998b83871f0cc
 h-bid.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:56.720190,42a19051903998b83871f0cc
 isgprivacy.cbsi.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:56.767227,42a19051903998b83871f0cc
 mmm.carbuyer.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:56.814210,42a19051903998b83871f0cc
@@ -2925,3 +2912,16 @@ cmp.macworld.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.tx
 cmp.macworld.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-17 08:20:28.573556,42a19051903998b83871f0cc
 cmp.osano.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-17 08:23:36.438379,42a19051903998b83871f0cc
 cmp.pcworld.co.nz,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-17 08:26:34.084651,42a19051903998b83871f0cc
+cmp.pcworld.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-17 08:58:14.931857,42a19051903998b83871f0cc
+cmp.pcworld.idg.com.au,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-17 09:01:04.815822,42a19051903998b83871f0cc
+cmp.tech426.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-17 09:02:01.636201,42a19051903998b83871f0cc
+cmp.techadvisor.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-17 09:04:42.711929,42a19051903998b83871f0cc
+cmp.techconnect.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-17 09:07:27.069271,42a19051903998b83871f0cc
+cmp.techhive.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-17 09:10:06.596637,42a19051903998b83871f0cc
+commsvc.stern.de,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-17 09:12:51.288978,42a19051903998b83871f0cc
+consent.api.osano.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-17 09:13:52.987306,42a19051903998b83871f0cc
+consent.inm.ie,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-17 09:14:55.544490,42a19051903998b83871f0cc
+d.sourcepoint.capitalfm.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-17 09:17:40.339279,42a19051903998b83871f0cc
+ep00.epimg.net,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-17 09:20:19.270599,42a19051903998b83871f0cc
+fuse.forbes.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-17 09:23:08.130227,42a19051903998b83871f0cc
+gamesradar-gb.gamesradar.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-17 09:27:38.191804,42a19051903998b83871f0cc
