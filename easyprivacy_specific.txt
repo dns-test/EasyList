@@ -478,6 +478,7 @@
 ||count.prx.org^
 ||count.rin.ru^
 ||counter.entertainmentwise.com^
+||counter.plos.org^
 ||counter.sina.com.cn^
 ||counter.theconversation.edu.au^
 ||counter.zerohedge.com^
@@ -704,6 +705,7 @@
 ||ez.no/statjs/
 ||ezinearticles.com/blank/
 ||f-secure.com^*/wtsdc.js
+||f.schemeflood.com^
 ||f.staticlp.com^
 ||facebook.com/a/bz?
 ||facebook.com/ajax/*/log.php
@@ -2036,6 +2038,7 @@
 ||stats.pandora.com^
 ||stats.paste2.org^
 ||stats.piaggio.com^
+||stats.podcastwebsites.com^
 ||stats.propublica.org^
 ||stats.pstream.net^
 ||stats.searchftps.net^

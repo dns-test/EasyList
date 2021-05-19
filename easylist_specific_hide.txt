@@ -62,7 +62,7 @@ convertinmp4.com###b728l
 gayvegas.com###background
 wallpapersmania.com###backgroundPopup
 soccerbase.com###ball_splash_holder
-allmyfaves.com,allthetests.com,dailynews.lk,dealsonwheels.co.nz,dosgamesarchive.com,farmtrader.co.nz,moviesfoundonline.com,openstreetmap.org###banner
+allmyfaves.com,allthetests.com,dailynews.lk,dealsonwheels.co.nz,dosgamesarchive.com,farmtrader.co.nz,greatbritishchefs.com,moviesfoundonline.com,openstreetmap.org###banner
 thecarconnection.com###banner-container
 ncaa.com###banner-purse
 gocdkeys.com###banner-sidebar
@@ -1225,6 +1225,7 @@ adfoc.us##.content > iframe
 techrepublic.com,zdnet.com##.content-MPU-bottom
 techrepublic.com,zdnet.com##.content-MPU-middle
 techrepublic.com,zdnet.com##.content-MPU-top
+floridasportsman.com##.content-banner-section
 crmbuyer.com,ectnews.com,macnewsworld.com,technewsworld.com##.content-block-slinks
 computerweekly.com##.content-continues
 techrepublic.com,zdnet.com##.content-leader-bottom
@@ -1654,6 +1655,7 @@ tradetrucks.com.au##.middle-banner-list
 ibtimes.co.uk##.middle-leaderboard
 investopedia.com##.mntl-leaderboard-spacer
 islamicfinder.org##.mobile-cards
+thedailybeast.com##.mobiledoc-sizer
 livelaw.in##.modal_wrapper_frame
 webmd.com##.module-f-hs
 pcworld.idg.com.au##.module-rhs-brandpost
@@ -1676,6 +1678,7 @@ motorsport.com##.ms-apb-dmpu
 autosport.com##.ms-side-items--with-banner
 zerolives.com##.munder-fn5udnsn
 standardmedia.co.ke##.my-2
+news18.com##.n18thder
 transfermarkt.com##.nENxsZD
 google.com##.nH.MC
 mail.google.com##.nH.PS
@@ -1950,7 +1953,7 @@ traditionalmusic.co.uk##.skys-right
 bighospitality.co.uk,bigtennetwork.com,californiareport.org,cheese.com,coastandcountrynews.co.nz,datpiff.com,egyptindependent.com,guanabee.com,infosecurity-magazine.com,iwatchstuff.com,keyetv.com,l4dmaps.com,moneyweek.com,morningadvertiser.co.uk,pulse.co.uk,sportsvibe.co.uk,theresurgent.com,waterline.co.nz,weartv.com##.skyscraper
 dailynewsegypt.com##.skyscraper-banner
 infosecurity-magazine.com##.skyscraper-button
-democraticunderground.com##.skyscraper-container
+democraticunderground.com,plos.org##.skyscraper-container
 democraticunderground.com##.skyscraper-placeholder
 gmx.com##.skyscraperClass
 dosgamesarchive.com##.skyscraper_big
@@ -2294,6 +2297,7 @@ python-graph-gallery.com##div > [href^="https://www.datacamp.com"]
 python-graph-gallery.com##div > [href^="https://www.dataquest.io/course/"]
 healthline.com##div.css-0 > div[class]:not([id])
 guru99.com##div.custom > .hidden-phone
+cdromance.com##div.game-container[style="grid-column: span 2;"]
 designtaxi.com##div.masonry-brick.nt
 website.informer.com##div[align="center"]
 nexusradio.com##div[align=center]
@@ -2362,6 +2366,9 @@ riverbender.com##div[id^="ros-"]
 sltrib.com##div[id^="sltrib-promo-"]
 amazon.ca,amazon.co.uk,amazon.com,amazon.com.au,amazon.fr##div[id^="sp_detail"]
 opensubtitles.org##div[itemscope=""][itemtype="http://schema.org/Movie"] > fieldset
+news18.com##div[style*="min-height: 250px"]
+news18.com##div[style*="min-height: 527px"]
+news18.com##div[style*="min-height:250px"]
 9gag.com##div[style*="width: 500px; height: 281px;"]
 datacenterdynamics.com,fansshare.com,hairboutique.com,iconarchive.com,imagetwist.com,memecenter.com,paultan.org,unexplained-mysteries.com,windsorite.ca,xtra.com.my##div[style*="width:300px"]
 rlslog.net##div[style*="z-index:"]:first-child
@@ -2537,8 +2544,10 @@ youtube.com##.ytd-search-pyv-renderer
 youtube.com##.ytd-video-masthead-ad-v3-renderer
 youtube.com##.ytp-ad-action-interstitial-background-container
 youtube.com##.ytp-ad-action-interstitial-slot
+youtube.com##.ytp-ad-button
 youtube.com##.ytp-ad-image-overlay
 youtube.com##.ytp-ad-overlay-container
+youtube.com##.ytp-ad-player-overlay-flyout-cta
 youtube.com##.ytp-ad-progress
 youtube.com##.ytp-ad-progress-list
 youtube.com##YTM-PROMOTED-VIDEO-RENDERER

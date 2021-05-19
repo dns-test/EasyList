@@ -1,14 +1,5 @@
 idna_subject,checker_type,destination,source,tested_at,session_id
 localhost,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:47.505399,42a19051903998b83871f0cc
-dvo.assurandme.fr,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:59.721313,42a19051903998b83871f0cc
-dxe2.heip.fr,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:59.768834,42a19051903998b83871f0cc
-ea.auchantelecom.fr,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:59.816676,42a19051903998b83871f0cc
-ea.aujourdhui.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:59.864640,42a19051903998b83871f0cc
-ea.bouquetnantais.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:59.912429,42a19051903998b83871f0cc
-ea.celio.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:59.960433,42a19051903998b83871f0cc
-ea.ciblo.net,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:47:00.008295,42a19051903998b83871f0cc
-ea.deguisetoi.fr,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:47:00.056252,42a19051903998b83871f0cc
-ea.diamant-unique.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:47:00.104680,42a19051903998b83871f0cc
 ea.fleurancenature.fr,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:47:00.152934,42a19051903998b83871f0cc
 ea.greenweez.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:47:00.200866,42a19051903998b83871f0cc
 ea.habitat.de,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:47:00.249330,42a19051903998b83871f0cc
@@ -2925,3 +2916,15 @@ dko.vente-unique.nl,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.t
 doa1.immobilier-neuf.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-17 14:23:08.585676,42a19051903998b83871f0cc
 dt.nrjmobile.fr,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-17 14:26:12.384803,42a19051903998b83871f0cc
 dv59b.montecarlomeeting.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-17 14:29:15.790964,42a19051903998b83871f0cc
+counter.plos.org,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2001-05-19 17:16:05.410701,42a19051903998b83871f0cc
+f.schemeflood.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2001-05-19 17:16:22.970293,42a19051903998b83871f0cc
+stats.podcastwebsites.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2001-05-19 17:18:17.329088,42a19051903998b83871f0cc
+dvo.assurandme.fr,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-19 17:32:57.740856,42a19051903998b83871f0cc
+dxe2.heip.fr,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-19 17:35:49.150854,42a19051903998b83871f0cc
+ea.auchantelecom.fr,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-19 17:38:40.280307,42a19051903998b83871f0cc
+ea.aujourdhui.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-19 17:41:44.995741,42a19051903998b83871f0cc
+ea.bouquetnantais.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-19 17:44:39.770093,42a19051903998b83871f0cc
+ea.celio.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-19 17:47:25.363826,42a19051903998b83871f0cc
+ea.ciblo.net,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-19 17:50:19.859009,42a19051903998b83871f0cc
+ea.deguisetoi.fr,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-19 17:53:05.563398,42a19051903998b83871f0cc
+ea.diamant-unique.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-19 17:56:00.936385,42a19051903998b83871f0cc

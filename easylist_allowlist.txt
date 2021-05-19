@@ -53,7 +53,8 @@
 @@||avclub.com^*/adManager.$script,~third-party
 @@||bankofamerica.com^*?adx=$~third-party,xmlhttprequest
 @@||banmancounselling.com/wp-content/themes/banman/
-@@||bannersnack.com/banners/$document,subdocument,domain=adventcards.co.uk|charitychristmascards.org|christmascardpacks.co.uk|kingsmead.com|nativitycards.co.uk|printedchristmascards.co.uk
+@@||banner.yt^$image,domain=socialblade.com
+@@||bannersnack.com/banners/$document,subdocument,domain=adventcards.co.uk|charitychristmascards.org|christmascardpacks.co.uk|kingsmead.com|kingsmeadcards.co.uk|nativitycards.co.uk|printedchristmascards.co.uk
 @@||basinnow.com^*/advertise-$image,domain=basinnow.com
 @@||bbc.co.uk^*/adverts.js
 @@||bbc.gscontxt.net^$script,domain=bbc.com
@@ -63,7 +64,6 @@
 @@||boats.com/ad/$~third-party,xmlhttprequest
 @@||boatwizard.com/ads_prebid.min.js$script,domain=boats.com
 @@||borneobulletin.com.bn/wp-content/banners/bblogo.jpg
-@@||britannica.com/resources/js/libs/prebid*.js$script,~third-party
 @@||btcmanager.com/wp-content/uploads/wp-banners/banner_cf0c55bbe3e654b2e631fd0552e0322b.png
 @@||canadianlisted.com/css/*/ad/index.css
 @@||candystand.com/assets/images/ads/$image
@@ -274,6 +274,9 @@
 @@||s.w.org/wp-content/$stylesheet,domain=wordpress.org
 @@||wordpress.org/plugins/$domain=wordpress.org
 @@||wordpress.org/stats/plugin/$domain=wordpress.org
+! Fingerprint checks
+@@||fingerprintjs.com^$generichide
+@@||schemeflood.com^$generichide
 ! uBO-CNAME (Specific allowlists)
 @@||hwcdn.net^$script,domain=mp4upload.com
 @@||www-cultofmac-com.ezoic.net^$domain=cultofmac.com

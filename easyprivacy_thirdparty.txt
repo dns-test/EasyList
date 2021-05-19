@@ -114,6 +114,7 @@
 ||amplifypixel.outbrain.com^
 ||an.yandex.ru^
 ||analyse.bcovery.com^
+||analytic.rollout.io^
 ||analytic.xingcloud.com^$third-party
 ||analyticcdn.globalmailer.com^
 ||analytics-beacon-*.amazonaws.com^
@@ -874,6 +875,7 @@
 ||facebook.com/method/links.getstats?
 ||facebook.com/tr$third-party
 ||fairfax.com.au/js/track/
+||faphouse.com/api/collector/
 ||fastcdn.co/js/sptw.js
 ||fcmatch.google.com^
 ||fcmatch.youtube.com^
@@ -1218,6 +1220,7 @@
 ||logs-api.shoprunner.com^
 ||logs.datadoghq.com^$domain=~app.datadoghq.com
 ||logs.datadoghq.eu^$domain=~app.datadoghq.eu
+||logs.psm.wmcdp.io^
 ||logs.spilgames.com^
 ||logs.thebloggernetwork.com^
 ||logs.vmixcore.com^
@@ -1523,6 +1526,7 @@
 ||prism.app-us1.com^$script,third-party
 ||prismaconnect.fr/prd/ping
 ||privacy-center.org^*/events
+||privacy.outdoorsg.com^
 ||privacytool.org/AnonymityChecker/js/fontdetect.js$third-party
 ||processor.asccommunications.com^
 ||production-mcs.lvp.llnw.net^
@@ -1549,6 +1553,7 @@
 ||pv.pjtsu.com^
 ||px-cdn.net/*main.min.js
 ||px-cdn.net/b/s
+||px-cdn.net^*/collector
 ||px.excitedigitalmedia.com^
 ||px.marchex.io^
 ||px.owneriq.net^

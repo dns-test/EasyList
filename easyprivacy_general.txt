@@ -1532,6 +1532,7 @@
 /countstat.php?
 /countubn.
 /countus.php
+/CoveoForSitecore.
 /cpeEvent.
 /cpeEventTracking.
 /cqcounter.
@@ -4302,6 +4303,7 @@
 /thirdPartyTags.js
 /thirdPartyTagscachebuster.js
 /ThirdPartyTracking.
+/thixel.js
 /thuzianayltics.
 /ti.gif?slotid=
 /tiara/tracker/*
@@ -4995,7 +4997,6 @@
 /vmtracking.
 /vpstats.
 /vptrack_
-/vrbo-analytics.
 /vs-track.js
 /vs.gif?
 /vs/track.
