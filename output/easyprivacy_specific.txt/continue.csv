@@ -1,18 +1,5 @@
 idna_subject,checker_type,destination,source,tested_at,session_id
 localhost,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:47.505399,42a19051903998b83871f0cc
-gdm1.toner.fr,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:47:03.026462,42a19051903998b83871f0cc
-gjr5.yoigo.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:47:03.075556,42a19051903998b83871f0cc
-guq9.vente-unique.it,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:47:03.124834,42a19051903998b83871f0cc
-mj23.eulerian.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:47:03.173841,42a19051903998b83871f0cc
-mo.moonpig.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:47:03.223392,42a19051903998b83871f0cc
-mva1.maeva.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:47:03.272662,42a19051903998b83871f0cc
-ncx2.voyage-prive.it,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:47:03.321995,42a19051903998b83871f0cc
-netc.sfr.fr,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:47:03.371265,42a19051903998b83871f0cc
-noa0.compteczam.fr,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:47:03.420745,42a19051903998b83871f0cc
-nrg.red-by-sfr.fr,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:47:03.469943,42a19051903998b83871f0cc
-oal2.destinia.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:47:03.519960,42a19051903998b83871f0cc
-ocm8.masmovil.es,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:47:03.569389,42a19051903998b83871f0cc
-ojm4.palladiumhotelgroup.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:47:03.618414,42a19051903998b83871f0cc
 pbox.photobox.de,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:47:03.667899,42a19051903998b83871f0cc
 pgt1.voyage-prive.es,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:47:03.717177,42a19051903998b83871f0cc
 po.ponant.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:47:03.766407,42a19051903998b83871f0cc
@@ -2928,3 +2915,16 @@ exd4.destinia.com.au,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.
 f7ds.liberation.fr,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-21 06:25:39.938867,42a19051903998b83871f0cc
 fs.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-21 06:25:45.674577,42a19051903998b83871f0cc
 fsz1.francoisesaget.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-21 06:28:39.564253,42a19051903998b83871f0cc
+gdm1.toner.fr,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-21 06:58:55.323864,42a19051903998b83871f0cc
+gjr5.yoigo.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-21 07:01:33.273186,42a19051903998b83871f0cc
+guq9.vente-unique.it,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-21 07:04:17.942846,42a19051903998b83871f0cc
+mj23.eulerian.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-21 07:06:57.184307,42a19051903998b83871f0cc
+mo.moonpig.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-21 07:11:12.446589,42a19051903998b83871f0cc
+mva1.maeva.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-21 07:13:46.430008,42a19051903998b83871f0cc
+ncx2.voyage-prive.it,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-21 07:16:17.691504,42a19051903998b83871f0cc
+netc.sfr.fr,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-21 07:18:44.910870,42a19051903998b83871f0cc
+noa0.compteczam.fr,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-21 07:21:31.033398,42a19051903998b83871f0cc
+nrg.red-by-sfr.fr,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-21 07:23:58.336956,42a19051903998b83871f0cc
+oal2.destinia.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-21 07:26:33.449932,42a19051903998b83871f0cc
+ocm8.masmovil.es,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-21 07:29:20.615184,42a19051903998b83871f0cc
+ojm4.palladiumhotelgroup.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-21 07:32:02.652289,42a19051903998b83871f0cc
