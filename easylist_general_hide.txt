@@ -10047,6 +10047,8 @@
 ##.ad-placement-left
 ##.ad-placement-right
 ##.ad-plea
+##.ad-poc
+##.ad-poc-admin
 ##.ad-point
 ##.ad-popup
 ##.ad-popup-content
@@ -11764,6 +11766,7 @@
 ##.adboxbg
 ##.adboxbot
 ##.adboxclass
+##.adboxcm
 ##.adboxcontent
 ##.adboxcontentsum
 ##.adboxes
@@ -11840,6 +11843,7 @@
 ##.addisclaimer
 ##.addiv
 ##.addivwhite
+##.adds-wrapper
 ##.adds2
 ##.adds300x250
 ##.adds620x90
@@ -12728,6 +12732,7 @@
 ##.adsbygoogle-responsive-fix
 ##.adsbygoogle2
 ##.adsbymahimeta
+##.adsbypublift
 ##.adsbysinodia
 ##.adsbyvli
 ##.adsbyyahoo
@@ -19314,6 +19319,7 @@
 ##.serp-adv__head
 ##.serp_sponsored
 ##.servedAdlabel
+##.serversidenativead
 ##.serviceAd
 ##.servsponserLinks
 ##.set_ad
@@ -20601,6 +20607,7 @@
 ##.towerAdLeft
 ##.towerAds
 ##.tower_ad
+##.tower_ad_desktop
 ##.tower_ad_disclaimer
 ##.towerad
 ##.tp-ad-label

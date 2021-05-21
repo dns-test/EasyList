@@ -194,7 +194,10 @@ la-croix.com##.autopromo__news-block
 carrelages4000.fr##.ays-front-message
 orange.be##.b2c-global-footer-container
 automobile-magazine.fr##.bloc-nl
+lemondeinformatique.fr##.bloc-promo-nl
+lemondeinformatique.fr##.bloc.advice
 e-sante.fr##.box-one-click
+lemondeinformatique.fr##.box-question
 ouest-france.fr##.btn-scroll
 france.tv##.c-app-banner
 liberation.fr##.campagne-opt-in

@@ -4901,6 +4901,7 @@
 ###js-cookie-notes
 ###js-cookie-notice
 ###js-cookie-policy-default
+###js-cookie-popup
 ###js-cookie-section
 ###js-cookie-text
 ###js-cookie-trigger
@@ -12128,6 +12129,7 @@
 ##.wsa-cookielaw
 ##.wsc-cookies-bar
 ##.wsite-cookie-opt-out--wrapper
+##.wt-cli-cookie-bar-container
 ##.wt-confirm-layer
 ##.wta-cookies-policy
 ##.wx-cookie-ppp

@@ -868,6 +868,7 @@ vivid.money##[class^="cookieNotification_"]
 shutterstock.com##[data-automation="Eu_banner_container"]
 mobile.twitter.com##[data-reactroot] > [class] + [class]:last-child
 jooble.org##[data-test-name="_termsOfServices"]
+backmarket.com##[data-test="banner"]
 iubenda.com##a[style="padding-top: 10px; display: block;"]
 shab.ch##agb-bar
 orcid.org##app-banners
@@ -942,6 +943,7 @@ msi.com###ccc
 smallseotools.com###cookie-bar
 eteknix.com###cookie-law-info-bar
 depositfiles.com,dfiles.eu,dfiles.ru###cookie_popup
+adblockplus.org###cookiebar
 tweaktown.com###cookies_footer_sec
 tf1.fr###tc-privacy-wrapper
 shirtsofcotton.com###udtDark

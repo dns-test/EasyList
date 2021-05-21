@@ -62,6 +62,7 @@
 ||click.livedoor.com^
 ||cloudfront.net/transcode/storyTeller/$media,domain=amazon.ae|amazon.ca|amazon.cn|amazon.co.jp|amazon.co.uk|amazon.com|amazon.com.au|amazon.com.mx|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.sa
 ||cnn.com/ad/
+||codelist.cc/bluehostbanner.jpg
 ||coincheck.com/images/affiliates/
 ||coincodex.com^$subdocument,~third-party
 ||coingolive.com/assets/img/partners/
@@ -214,6 +215,7 @@
 ||marineterms.com/images/banners/
 ||mas.martech.yahoo.com^$domain=mail.yahoo.com
 ||masternodes.online/baseimages/
+||mavplay.xyz/asset/bann.js
 ||maxgames.com/img/sponsor_
 ||mbauniverse.com/sites/default/files/shree.png
 ||mbl.is/augl/
@@ -245,6 +247,7 @@
 ||norwaypost.no/images/banners/
 ||notdoppler.com^*-promo-
 ||nu2.nu/gfx/sponsor/
+||nulled-scripts.cc/wp-content/uploads/2019/09/bluehost.jpg
 ||ohmygore.com/ef_pub
 ||oncyprus.com/media/ems/banners/
 ||onlineshopping.co.za/expop/
@@ -265,7 +268,6 @@
 ||publicdomaintorrents.info/srsbanner.gif
 ||pulsenews.co.kr/js/ad.js
 ||rabble.ca/sites/default/files/styles/partners_
-||radio1584.co.za/images/banners/
 ||radiocity.in^*.php$subdocument
 ||radioreference.com/i/p4/tp/smPortalBanner.gif
 ||radiotoday.co.uk/*.gif$image
@@ -316,6 +318,7 @@
 ||staticflickr.com/ap/build/javascripts/prbd-$script,domain=flickr.com
 ||steamanalyst.com/www
 ||stockhouse.com^*-300x75.gif
+||strcloud.club/mainstream
 ||streamabc.xyz/asset/bann.js
 ||streams.tv/js/slidingbanner.js
 ||streamtape.com/adult
