@@ -154,6 +154,7 @@
 ||allashark.site^$popup
 ||allow-to-continue.com^$popup
 ||allsporttv.com^$popup
+||aloha-news.net^$popup
 ||alonghelper.com^$popup
 ||alpinedrct.com^$popup
 ||alternads.info^$popup
@@ -181,7 +182,6 @@
 ||atozdealinfo.com^$popup
 ||august15download.com^$popup
 ||auiviilbp2.com^$popup
-||avajo.men^$popup
 ||awejmp.com^$popup
 ||awempire.com^$popup
 ||awesomenewspush.com^$popup
@@ -191,7 +191,6 @@
 ||azasdf.be^$popup
 ||b3z29k1uxb.com^$popup
 ||b54m4qbmt0b9.com^$popup
-||backslider.buzz^$popup
 ||baiweluy.com^$popup
 ||baypops.com^$popup
 ||bbaahc.com^$popup
@@ -207,6 +206,7 @@
 ||best-zb.com^$popup
 ||best2017games.com^$popup
 ||best2019-games-web1.com^$popup
+||bestcontentaccess.top^$popup
 ||bestforexplmdb.com^$popup
 ||bestproducttesters.com^$popup
 ||bestrevenuenetwork.com^$popup
@@ -444,12 +444,14 @@
 ||gamesrotator.com^$popup
 ||ganja.com^$popup,third-party
 ||gdmconvtrck.com^$popup
+||gemfaxaha.com^$popup
 ||geras-con.com^$popup
 ||getalinkandshare.com^$popup
 ||getalltraffic.com^$popup
 ||getmyads.com^$popup
 ||gfdfhdh5t5453.com^$popup
 ||giddinessdefensivesubject.com^$popup
+||gitechiphy.pro^$popup
 ||giveaways.club^$popup
 ||glareart.com^$popup
 ||glassmilheart.com^$popup
@@ -543,6 +545,7 @@
 ||instantpaydaynetwork.com^$popup
 ||intab.fun^$popup
 ||integral-marketing.com^$popup
+||interclics.com^$popup
 ||internewsweb.com^$popup
 ||iociley.com^$popup
 ||irtya.com^$popup
@@ -736,6 +739,7 @@
 ||opptmzpops.com^$popup
 ||opskln.com^$popup
 ||optimizesrv.com^$popup
+||oranegfodnd.com^$popup
 ||oratosaeron.com^$popup
 ||origer.info^$popup
 ||otnolabttmup.com^$popup
@@ -745,6 +749,7 @@
 ||ozora.work^$popup
 ||padsdel.com^$popup
 ||padssup.com^$popup
+||pagne4cham4hrobl.com^$popup
 ||palundrus.com^$popup
 ||paripartners.ru^$popup
 ||passeura.com^$popup
@@ -952,6 +957,7 @@
 ||spherediary.com^$popup
 ||sponsorselect.com^$popup
 ||sports-streams-online.best^$popup
+||spotofspawn.com^$popup
 ||spotscenered.info^$popup
 ||sproutstarbarnacle.com^$popup
 ||sq2trk2.com^$popup
