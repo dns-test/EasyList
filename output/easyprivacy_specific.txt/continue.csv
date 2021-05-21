@@ -1,17 +1,5 @@
 idna_subject,checker_type,destination,source,tested_at,session_id
 localhost,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:47.505399,42a19051903998b83871f0cc
-eulerian.brandalley.fr,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:47:02.437946,42a19051903998b83871f0cc
-eulerian.madeindesign.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:47:02.486728,42a19051903998b83871f0cc
-eulerian.mathon.fr,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:47:02.535525,42a19051903998b83871f0cc
-eulerian.officiel-des-vacances.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:47:02.584385,42a19051903998b83871f0cc
-eulerian.sarenza.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:47:02.633477,42a19051903998b83871f0cc
-eulerian.splendia.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:47:02.682527,42a19051903998b83871f0cc
-eultech.fnac.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:47:02.731542,42a19051903998b83871f0cc
-eur3.mvjcdn.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:47:02.780735,42a19051903998b83871f0cc
-exd4.destinia.com.au,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:47:02.829846,42a19051903998b83871f0cc
-f7ds.liberation.fr,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:47:02.878772,42a19051903998b83871f0cc
-fs.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:47:02.927838,42a19051903998b83871f0cc
-fsz1.francoisesaget.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:47:02.976776,42a19051903998b83871f0cc
 gdm1.toner.fr,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:47:03.026462,42a19051903998b83871f0cc
 gjr5.yoigo.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:47:03.075556,42a19051903998b83871f0cc
 guq9.vente-unique.it,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:47:03.124834,42a19051903998b83871f0cc
@@ -2928,3 +2916,15 @@ ek8.voyage-prive.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.
 et.unclejeans.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-21 05:33:15.776492,42a19051903998b83871f0cc
 eulerian.belambra.be,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-21 05:36:10.380255,42a19051903998b83871f0cc
 eulerian.belambra.fr,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-21 05:39:00.409415,42a19051903998b83871f0cc
+eulerian.brandalley.fr,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-21 06:00:08.030819,42a19051903998b83871f0cc
+eulerian.madeindesign.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-21 06:03:04.789816,42a19051903998b83871f0cc
+eulerian.mathon.fr,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-21 06:05:49.867164,42a19051903998b83871f0cc
+eulerian.officiel-des-vacances.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-21 06:08:35.033933,42a19051903998b83871f0cc
+eulerian.sarenza.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-21 06:11:34.848777,42a19051903998b83871f0cc
+eulerian.splendia.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-21 06:12:32.478141,42a19051903998b83871f0cc
+eultech.fnac.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-21 06:15:32.899977,42a19051903998b83871f0cc
+eur3.mvjcdn.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-21 06:20:03.358177,42a19051903998b83871f0cc
+exd4.destinia.com.au,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-21 06:22:54.557093,42a19051903998b83871f0cc
+f7ds.liberation.fr,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-21 06:25:39.938867,42a19051903998b83871f0cc
+fs.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-21 06:25:45.674577,42a19051903998b83871f0cc
+fsz1.francoisesaget.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-21 06:28:39.564253,42a19051903998b83871f0cc
