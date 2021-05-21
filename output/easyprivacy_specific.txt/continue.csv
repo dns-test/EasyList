@@ -1,19 +1,5 @@
 idna_subject,checker_type,destination,source,tested_at,session_id
 localhost,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:46:47.505399,42a19051903998b83871f0cc
-t.locasun.it,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:47:04.213686,42a19051903998b83871f0cc
-t.locasun.nl,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:47:04.263123,42a19051903998b83871f0cc
-tdf1.admyjob.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:47:04.313052,42a19051903998b83871f0cc
-tdf1.easyviaggio.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:47:04.362912,42a19051903998b83871f0cc
-tdf1.easyviajar.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:47:04.412840,42a19051903998b83871f0cc
-tdf1.easyvols.fr,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:47:04.462674,42a19051903998b83871f0cc
-tdf1.easyvoyage.co.uk,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:47:04.512501,42a19051903998b83871f0cc
-tdf1.easyvoyage.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:47:04.562365,42a19051903998b83871f0cc
-tdf1.easyvoyage.de,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:47:04.612195,42a19051903998b83871f0cc
-tdf1.laredoute.fr,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:47:04.661742,42a19051903998b83871f0cc
-tdf1.vente-unique.pt,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:47:04.711271,42a19051903998b83871f0cc
-tlp5.mimale.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:47:04.761170,42a19051903998b83871f0cc
-tpa7.iahorro.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:47:04.811374,42a19051903998b83871f0cc
-tracking.3ds.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:47:04.861323,42a19051903998b83871f0cc
 tsj0.madeindesign.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:47:04.911564,42a19051903998b83871f0cc
 tvl8.supdecreation.com,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:47:04.961303,42a19051903998b83871f0cc
 upz1.destinia.lt,AVAILABILITY,easyprivacy_specific.txt,/home/runner/work/EasyList/EasyList/easyprivacy_specific.txt,2001-02-11 17:47:05.011372,42a19051903998b83871f0cc
@@ -2928,3 +2914,17 @@ sykc.madeindesign.ch,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.
 t.locasun.de,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-21 08:20:21.752626,42a19051903998b83871f0cc
 t.locasun.es,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-21 08:23:07.812193,42a19051903998b83871f0cc
 t.locasun.fr,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-21 08:26:09.165300,42a19051903998b83871f0cc
+t.locasun.it,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-21 08:55:54.523600,42a19051903998b83871f0cc
+t.locasun.nl,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-21 08:58:48.492944,42a19051903998b83871f0cc
+tdf1.admyjob.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-21 09:01:43.185406,42a19051903998b83871f0cc
+tdf1.easyviaggio.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-21 09:04:33.504837,42a19051903998b83871f0cc
+tdf1.easyviajar.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-21 09:07:23.666805,42a19051903998b83871f0cc
+tdf1.easyvols.fr,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-21 09:10:18.022640,42a19051903998b83871f0cc
+tdf1.easyvoyage.co.uk,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-21 09:13:10.148086,42a19051903998b83871f0cc
+tdf1.easyvoyage.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-21 09:16:04.565741,42a19051903998b83871f0cc
+tdf1.easyvoyage.de,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-21 09:18:49.439525,42a19051903998b83871f0cc
+tdf1.laredoute.fr,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-21 09:21:43.848100,42a19051903998b83871f0cc
+tdf1.vente-unique.pt,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-21 09:24:35.034265,42a19051903998b83871f0cc
+tlp5.mimale.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-21 09:25:32.240553,42a19051903998b83871f0cc
+tpa7.iahorro.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-21 09:26:34.467385,42a19051903998b83871f0cc
+tracking.3ds.com,AVAILABILITY,easyprivacy_specific.txt,easyprivacy_specific.txt,2021-05-21 09:29:33.769714,42a19051903998b83871f0cc
