@@ -1865,7 +1865,8 @@
         "edu.gr",
         "gov.gr",
         "net.gr",
-        "nym.gr"
+        "nym.gr",
+        "org.gr"
     ],
     "group": [
         "discourse.group"
@@ -1916,7 +1917,6 @@
         "ltd.hk",
         "net.hk",
         "nym.hk",
-        "org.gr",
         "org.hk",
         "secaas.hk",
         "xn--55qx5d.hk",
