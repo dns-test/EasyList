@@ -11864,7 +11864,6 @@
 ||clicksor.com^$third-party
 ||clicktripz.com^$third-party
 ||clixco.in^$third-party
-||clixgalore.com^$third-party
 ||clixtrac.com^$third-party
 ||cogocast.net^$third-party
 ||coguan.com^$third-party
@@ -13995,7 +13994,6 @@
 ||voodoo.com^$third-party
 ||vungle.com^$third-party
 ||vupulse.com^$third-party
-||vuukle.com^$third-party
 ||w00tmedia.net^$third-party
 ||waytogrow.eu^$third-party
 ||webads.co.nz^$third-party
