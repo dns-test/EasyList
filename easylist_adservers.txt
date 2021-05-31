@@ -726,6 +726,7 @@
 ||adsbr.info^
 ||adscarrot.com^
 ||adsco.re^
+||adscok.com^
 ||adserved.net^
 ||adservi.com^
 ||adskape.ru^
@@ -1006,6 +1007,7 @@
 ||announcils.club^
 ||announcilsd.info^
 ||anomaloustradingmerciful.com^
+||anonolpucka.com^
 ||anotherconsult.com^
 ||anothingahy.club^
 ||anothingerg.club^
@@ -5038,6 +5040,7 @@
 ||infrashift.com^
 ||ingoinghitchstick.com^
 ||ingratitudedaintyblockade.com^
+||inheritedgeneralrailroad.com^
 ||inheritwalter.com^
 ||inigusyou.fun^
 ||ininmacerad.pro^
@@ -6855,6 +6858,7 @@
 ||obahet.com^
 ||obaukads.com^
 ||obertsiamw.fun^
+||obeysatman.com^
 ||obliteratebedblue.com^
 ||oblivionwatcherrebellious.com^
 ||obnyujeibv.com^
@@ -7733,6 +7737,7 @@
 ||pusharest.com^
 ||pushebrod.com^
 ||pushego.com^
+||pushfan.com^
 ||pushfullimitsdrunken.com^
 ||pushinpage.com^
 ||pushisbest.com^
@@ -8064,6 +8069,7 @@
 ||remiumert.club^
 ||remoteeloise.com^
 ||remultiesbee.fun^
+||remusclerait.xyz^
 ||renaissanceregretfulpupil.com^
 ||renaissanto.com^
 ||renceriskie.fun^
@@ -9827,6 +9833,7 @@
 ||vcfnspbgztl.com^
 ||vcmrlwcafliaa.com^
 ||vcommission.com^
+||vcpcvmfnocsfay.com^
 ||vcwrigdrnh.com^
 ||vebadu.com^
 ||vedcouragin.info^
@@ -11967,6 +11974,7 @@
 ||crispads.com^$third-party
 ||croea.com^$third-party
 ||cryptoads.space^$third-party
+||cryptotraffic.xyz^$third-party
 ||ctenetwork.com^$third-party
 ||ctrhub.com^$third-party
 ||ctrmanager.com^$third-party
