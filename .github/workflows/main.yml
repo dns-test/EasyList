@@ -121,4 +121,6 @@ jobs:
           https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_specific_block.txt \
           https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_specific_hide.txt \
           https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_thirdparty.txt \
-          --preload
+          --preload --ci-commit-message "My Privacy DNS - AutoSave" \
+          --ci-end-commit-message "My Privacy DNS - Results" \
+          --ci -ex --ci-max-minutes 45 --adblock --cidr
