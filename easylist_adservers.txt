@@ -885,6 +885,7 @@
 ||airpush.com^
 ||aissoksu.net^
 ||aiwhamti.com^
+||aixcdn.com^
 ||aj1052.online^
 ||aj1090.online^
 ||aj1432.online^
@@ -7614,6 +7615,7 @@
 ||presentlyarch.com^
 ||presentsh.club^
 ||pressingfastenedphantom.com^
+||pressingmiscellaneoustry.com^
 ||pressshredpreach.com^
 ||presticikju.club^
 ||presumablyclaimedlatest.com^
