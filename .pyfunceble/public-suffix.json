@@ -312,7 +312,6 @@
         "nz.basketball"
     ],
     "bb": [
-        "2.bg",
         "biz.bb",
         "co.bb",
         "com.bb",
@@ -700,6 +699,7 @@
         "blogspot.com.by",
         "com.by",
         "gov.by",
+        "mediatech.by",
         "mil.by",
         "mycloud.by",
         "nym.by",
@@ -1554,8 +1554,7 @@
         "xn--gnstigliefern-wob.de"
     ],
     "design": [
-        "bss.design",
-        "dsmynas.net"
+        "bss.design"
     ],
     "dev": [
         "curv.dev",
@@ -1568,6 +1567,7 @@
         "lcl.dev",
         "lclstage.dev",
         "loginline.dev",
+        "mediatech.dev",
         "pages.dev",
         "platter-app.dev",
         "shiftcrypto.dev",
@@ -5638,6 +5638,7 @@
         "dnsup.net",
         "does-it.net",
         "dontexist.net",
+        "dsmynas.net",
         "dynalias.net",
         "dynathome.net",
         "dynu.net",
@@ -6774,6 +6775,7 @@
         "org.nr"
     ],
     "nu": [
+        "blogspot.com.uy",
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
@@ -7444,6 +7446,7 @@
         "nom.rs",
         "org.rs",
         "ox.rs",
+        "shop.brendly.rs",
         "ua.rs"
     ],
     "ru": [
@@ -8370,7 +8373,6 @@
         "wy.us"
     ],
     "uy": [
-        "blogspot.com.uy",
         "com.uy",
         "edu.uy",
         "gub.uy",
