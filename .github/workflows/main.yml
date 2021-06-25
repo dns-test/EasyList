@@ -1,4 +1,4 @@
-name: PyFunceble CI tests of EasyList
+name: PyFunceble CI: EasyList
 on:
   schedule:
     - cron: '15 * * * *'
