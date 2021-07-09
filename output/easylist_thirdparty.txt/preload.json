@@ -1,15 +1,30 @@
-{
-    "abs_source": "/home/runner/work/EasyList/EasyList/easylist_thirdparty.txt",
-    "checker_type": "AVAILABILITY",
-    "destination": "easylist_thirdparty.txt",
-    "hash": "d156b366f417f4498bfd037a7588c79ba532cd1cb3d90e7d8f317479",
-    "line_number": 1742,
-    "output_dir": "/home/runner/work/EasyList/EasyList/output/easylist_thirdparty.txt",
-    "previous_hash": "d156b366f417f4498bfd037a7588c79ba532cd1cb3d90e7d8f317479",
-    "rel_source": "easylist_thirdparty.txt",
-    "session_id": "682da7693f2179573c079611",
-    "source": "easylist_thirdparty.txt",
-    "subject": "easylist_thirdparty.txt",
-    "subject_type": "domain",
-    "type": "file"
-}
+[
+    {
+        "abs_source": "/home/runner/work/EasyList/EasyList/easylist_thirdparty.txt",
+        "checker_type": "AVAILABILITY",
+        "destination": "easylist_thirdparty.txt",
+        "hash": "d156b366f417f4498bfd037a7588c79ba532cd1cb3d90e7d8f317479",
+        "line_number": 1742,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/easylist_thirdparty.txt",
+        "previous_hash": "d156b366f417f4498bfd037a7588c79ba532cd1cb3d90e7d8f317479",
+        "rel_source": "easylist_thirdparty.txt",
+        "session_id": "682da7693f2179573c079611",
+        "source": "easylist_thirdparty.txt",
+        "subject": "easylist_thirdparty.txt",
+        "subject_type": "domain",
+        "type": "file"
+    },
+    {
+        "checker_type": "AVAILABILITY",
+        "destination": "easylist_thirdparty.txt",
+        "hash": "3012e8ec6a2c865f2fbdcfea8692395c2a73efb563377f145d957967",
+        "line_number": 1747,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/easylist_thirdparty.txt",
+        "previous_hash": "3012e8ec6a2c865f2fbdcfea8692395c2a73efb563377f145d957967",
+        "session_id": "682da7693f2179573c079611",
+        "source": "https:/raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty.txt",
+        "subject": "easylist_thirdparty.txt",
+        "subject_type": "domain",
+        "type": "file"
+    }
+]

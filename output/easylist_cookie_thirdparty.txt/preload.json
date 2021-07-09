@@ -1,15 +1,30 @@
-{
-    "abs_source": "/home/runner/work/EasyList/EasyList/easylist_cookie_thirdparty.txt",
-    "checker_type": "AVAILABILITY",
-    "destination": "easylist_cookie_thirdparty.txt",
-    "hash": "a177429b3349cf230903a57a38718da237d9a385ceec616a88783f61",
-    "line_number": 92,
-    "output_dir": "/home/runner/work/EasyList/EasyList/output/easylist_cookie_thirdparty.txt",
-    "previous_hash": "a177429b3349cf230903a57a38718da237d9a385ceec616a88783f61",
-    "rel_source": "easylist_cookie_thirdparty.txt",
-    "session_id": "795327e2bfaed30483c0b9cf",
-    "source": "easylist_cookie_thirdparty.txt",
-    "subject": "easylist_cookie_thirdparty.txt",
-    "subject_type": "domain",
-    "type": "file"
-}
+[
+    {
+        "abs_source": "/home/runner/work/EasyList/EasyList/easylist_cookie_thirdparty.txt",
+        "checker_type": "AVAILABILITY",
+        "destination": "easylist_cookie_thirdparty.txt",
+        "hash": "a177429b3349cf230903a57a38718da237d9a385ceec616a88783f61",
+        "line_number": 92,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/easylist_cookie_thirdparty.txt",
+        "previous_hash": "a177429b3349cf230903a57a38718da237d9a385ceec616a88783f61",
+        "rel_source": "easylist_cookie_thirdparty.txt",
+        "session_id": "795327e2bfaed30483c0b9cf",
+        "source": "easylist_cookie_thirdparty.txt",
+        "subject": "easylist_cookie_thirdparty.txt",
+        "subject_type": "domain",
+        "type": "file"
+    },
+    {
+        "checker_type": "AVAILABILITY",
+        "destination": "easylist_cookie_thirdparty.txt",
+        "hash": "91c47993c2689f1b4c0ada941d2256808d22a370d8342b1494d43958",
+        "line_number": 95,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/easylist_cookie_thirdparty.txt",
+        "previous_hash": "91c47993c2689f1b4c0ada941d2256808d22a370d8342b1494d43958",
+        "session_id": "795327e2bfaed30483c0b9cf",
+        "source": "https:/raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_thirdparty.txt",
+        "subject": "easylist_cookie_thirdparty.txt",
+        "subject_type": "domain",
+        "type": "file"
+    }
+]

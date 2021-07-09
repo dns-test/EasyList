@@ -155,3 +155,6 @@ wp.com^,AVAILABILITY,fanboy_annoyance_specific_block.txt,fanboy_annoyance_specif
 cloudfront.net^,AVAILABILITY,fanboy_annoyance_specific_block.txt,fanboy_annoyance_specific_block.txt,2001-04-03 22:56:20.099776,289f538639483ee12baf3747
 api.qwant.com,AVAILABILITY,fanboy_annoyance_specific_block.txt,fanboy_annoyance_specific_block.txt,2001-05-07 01:54:18.096770,289f538639483ee12baf3747
 designtaxi.com,AVAILABILITY,fanboy_annoyance_specific_block.txt,fanboy_annoyance_specific_block.txt,2001-05-15 03:47:37.830761,289f538639483ee12baf3747
+google.,AVAILABILITY,fanboy_annoyance_specific_block.txt,https:/raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_annoyance_specific_block.txt,2001-07-09 19:23:17.324664,289f538639483ee12baf3747
+artdaily.cc,AVAILABILITY,fanboy_annoyance_specific_block.txt,https:/raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_annoyance_specific_block.txt,2001-07-09 19:23:20.892297,289f538639483ee12baf3747
+researchnews.cc,AVAILABILITY,fanboy_annoyance_specific_block.txt,https:/raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_annoyance_specific_block.txt,2001-07-09 19:23:24.092888,289f538639483ee12baf3747

@@ -1,15 +1,30 @@
-{
-    "abs_source": "/home/runner/work/EasyList/EasyList/easylist_cookie_international_specific_block.txt",
-    "checker_type": "AVAILABILITY",
-    "destination": "easylist_cookie_international_specific_block.txt",
-    "hash": "ca03c809a5540ea080dcedb0aeb5855f98437ac45d1efcba0c386cc4",
-    "line_number": 174,
-    "output_dir": "/home/runner/work/EasyList/EasyList/output/easylist_cookie_international_specific_block.txt",
-    "previous_hash": "ca03c809a5540ea080dcedb0aeb5855f98437ac45d1efcba0c386cc4",
-    "rel_source": "easylist_cookie_international_specific_block.txt",
-    "session_id": "fa3e9f78a23c177ca73042b3",
-    "source": "easylist_cookie_international_specific_block.txt",
-    "subject": "easylist_cookie_international_specific_block.txt",
-    "subject_type": "domain",
-    "type": "file"
-}
+[
+    {
+        "abs_source": "/home/runner/work/EasyList/EasyList/easylist_cookie_international_specific_block.txt",
+        "checker_type": "AVAILABILITY",
+        "destination": "easylist_cookie_international_specific_block.txt",
+        "hash": "ca03c809a5540ea080dcedb0aeb5855f98437ac45d1efcba0c386cc4",
+        "line_number": 174,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/easylist_cookie_international_specific_block.txt",
+        "previous_hash": "ca03c809a5540ea080dcedb0aeb5855f98437ac45d1efcba0c386cc4",
+        "rel_source": "easylist_cookie_international_specific_block.txt",
+        "session_id": "fa3e9f78a23c177ca73042b3",
+        "source": "easylist_cookie_international_specific_block.txt",
+        "subject": "easylist_cookie_international_specific_block.txt",
+        "subject_type": "domain",
+        "type": "file"
+    },
+    {
+        "checker_type": "AVAILABILITY",
+        "destination": "easylist_cookie_international_specific_block.txt",
+        "hash": "9b311ed46b1391e7f5abc4a37a36fd063e29a666572819aa3abbd42e",
+        "line_number": 178,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/easylist_cookie_international_specific_block.txt",
+        "previous_hash": "9b311ed46b1391e7f5abc4a37a36fd063e29a666572819aa3abbd42e",
+        "session_id": "fa3e9f78a23c177ca73042b3",
+        "source": "https:/raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_international_specific_block.txt",
+        "subject": "easylist_cookie_international_specific_block.txt",
+        "subject_type": "domain",
+        "type": "file"
+    }
+]

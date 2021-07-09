@@ -26,6 +26,7 @@
 ||as.base.de^
 ||as.mirapodo.de^
 ||as.mytoys.de^
+||as.saechsische.de^
 ||as.yomonda.de^
 ||banner.t-online.de^$image
 ||baur.de/servlet/LandmarkServlet?
@@ -51,6 +52,8 @@
 ||cc.zeit.de^
 ||cct2.o2online.de^
 ||center.tv/counter/
+||chartsurfer.de/js/mtm.js
+||chartsurfer.de/uscoll.php?
 ||chefkoch.de/counter
 ||chefkoch.de/statistic_service/
 ||chefkoch.de/tracking/
@@ -174,6 +177,7 @@
 ||mydirtyhobby.de/tracker
 ||mytoys.de/acv/
 ||n24.de^*/tracking.js
+||netzwelt.de/log?p=
 ||news.ch/newslogbug.asp?
 ||newsdeutschland.com/RPC
 ||nickles.de/ivw/
@@ -214,6 +218,7 @@
 ||responder.wt.heise.de^
 ||rhein-zeitung.de^*/picksel/
 ||rl.heise.de^
+||rt.bunte.de^
 ||rtl.de/count/ut/x.gif?
 ||rtl.de/tools/count/
 ||rtlradio.de/stats.php?
@@ -381,6 +386,7 @@
 ||stat.ouedkniss.com^
 ||stat.webevolutis.com^
 ||static.actu.fr/assets/js/smarttag5182.js
+||stats.biblionumericus.fr^
 ||stats.grafikart.fr^
 ||stats.sexemodel.com^
 ||stats1x1.kapaza.be^
@@ -638,6 +644,7 @@
 ||zhihu-web-analytics.zhihu.com^
 ||zz.bdstatic.com^
 ! Croatian
+||avaz.ba/update/hits/
 ||jutarnji.hr/template/js/eph_analytics.js
 ! Czech
 ||o2.cz^*-ga_o2cz_bundle.js?
@@ -652,6 +659,7 @@
 ||marktplaats.nl/metrics/
 ||marktplaats.nl/px/
 ||npo-data.nl/tag/v3/npotag.js
+||pcmweb.nl/track/
 ||rtl.nl/system/track/
 ||sanoma.nl/pixel/
 ||sat.sanoma.fi^
@@ -849,7 +857,6 @@
 ||chosun.com/hitlog/
 ||count.munhwa.com^
 ||daumcdn.net^*/awsa.js
-||daumcdn.net^*/ba.min.js
 ||gmarket.co.kr/js/common/uuid.js
 ||hits.zdnet.co.kr^
 ||kyson.kakao.com^
@@ -862,7 +869,9 @@
 ||prism.pandora.tv^
 ||seoul.co.kr/weblog/
 ||sp.naver.com^
+||stat.tiara.daum.net^
 ||stat.tiara.kakao.com^
+||toros.daum.net/toros/imp
 ||track.tiara.daum.net^
 ||track.tiara.kakao.com^
 ||tracker.cauly.co.kr^

@@ -1,15 +1,30 @@
-{
-    "abs_source": "/home/runner/work/EasyList/EasyList/easylist_cookie_specific_block.txt",
-    "checker_type": "AVAILABILITY",
-    "destination": "easylist_cookie_specific_block.txt",
-    "hash": "40fe0313cf2f4a301d0b345eb67294c16e492d0cff2ad49e2e2b0022",
-    "line_number": 44,
-    "output_dir": "/home/runner/work/EasyList/EasyList/output/easylist_cookie_specific_block.txt",
-    "previous_hash": "40fe0313cf2f4a301d0b345eb67294c16e492d0cff2ad49e2e2b0022",
-    "rel_source": "easylist_cookie_specific_block.txt",
-    "session_id": "623c6a209a029b7413d68e23",
-    "source": "easylist_cookie_specific_block.txt",
-    "subject": "easylist_cookie_specific_block.txt",
-    "subject_type": "domain",
-    "type": "file"
-}
+[
+    {
+        "abs_source": "/home/runner/work/EasyList/EasyList/easylist_cookie_specific_block.txt",
+        "checker_type": "AVAILABILITY",
+        "destination": "easylist_cookie_specific_block.txt",
+        "hash": "40fe0313cf2f4a301d0b345eb67294c16e492d0cff2ad49e2e2b0022",
+        "line_number": 44,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/easylist_cookie_specific_block.txt",
+        "previous_hash": "40fe0313cf2f4a301d0b345eb67294c16e492d0cff2ad49e2e2b0022",
+        "rel_source": "easylist_cookie_specific_block.txt",
+        "session_id": "623c6a209a029b7413d68e23",
+        "source": "easylist_cookie_specific_block.txt",
+        "subject": "easylist_cookie_specific_block.txt",
+        "subject_type": "domain",
+        "type": "file"
+    },
+    {
+        "checker_type": "AVAILABILITY",
+        "destination": "easylist_cookie_specific_block.txt",
+        "hash": "b7470b7131f0d82b505fdc35bd7ad51718533f8b1ff989bc69602a94",
+        "line_number": 44,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/easylist_cookie_specific_block.txt",
+        "previous_hash": "b7470b7131f0d82b505fdc35bd7ad51718533f8b1ff989bc69602a94",
+        "session_id": "623c6a209a029b7413d68e23",
+        "source": "https:/raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_specific_block.txt",
+        "subject": "easylist_cookie_specific_block.txt",
+        "subject_type": "domain",
+        "type": "file"
+    }
+]

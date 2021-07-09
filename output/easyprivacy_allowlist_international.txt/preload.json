@@ -1,15 +1,30 @@
-{
-    "abs_source": "/home/runner/work/EasyList/EasyList/easyprivacy_allowlist_international.txt",
-    "checker_type": "AVAILABILITY",
-    "destination": "easyprivacy_allowlist_international.txt",
-    "hash": "78a193fb35d687445cf27867e992a9d78c0ff9b1a0dd9b12e30f814e",
-    "line_number": 462,
-    "output_dir": "/home/runner/work/EasyList/EasyList/output/easyprivacy_allowlist_international.txt",
-    "previous_hash": "78a193fb35d687445cf27867e992a9d78c0ff9b1a0dd9b12e30f814e",
-    "rel_source": "easyprivacy_allowlist_international.txt",
-    "session_id": "c0de6551de980d98323cc07c",
-    "source": "easyprivacy_allowlist_international.txt",
-    "subject": "easyprivacy_allowlist_international.txt",
-    "subject_type": "domain",
-    "type": "file"
-}
+[
+    {
+        "abs_source": "/home/runner/work/EasyList/EasyList/easyprivacy_allowlist_international.txt",
+        "checker_type": "AVAILABILITY",
+        "destination": "easyprivacy_allowlist_international.txt",
+        "hash": "78a193fb35d687445cf27867e992a9d78c0ff9b1a0dd9b12e30f814e",
+        "line_number": 462,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/easyprivacy_allowlist_international.txt",
+        "previous_hash": "78a193fb35d687445cf27867e992a9d78c0ff9b1a0dd9b12e30f814e",
+        "rel_source": "easyprivacy_allowlist_international.txt",
+        "session_id": "c0de6551de980d98323cc07c",
+        "source": "easyprivacy_allowlist_international.txt",
+        "subject": "easyprivacy_allowlist_international.txt",
+        "subject_type": "domain",
+        "type": "file"
+    },
+    {
+        "checker_type": "AVAILABILITY",
+        "destination": "easyprivacy_allowlist_international.txt",
+        "hash": "e0863a54059dab87d19afaf2eabf7119c784ae54b6cc325c5f778fb2",
+        "line_number": 470,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/easyprivacy_allowlist_international.txt",
+        "previous_hash": "e0863a54059dab87d19afaf2eabf7119c784ae54b6cc325c5f778fb2",
+        "session_id": "c0de6551de980d98323cc07c",
+        "source": "https:/raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_allowlist_international.txt",
+        "subject": "easyprivacy_allowlist_international.txt",
+        "subject_type": "domain",
+        "type": "file"
+    }
+]

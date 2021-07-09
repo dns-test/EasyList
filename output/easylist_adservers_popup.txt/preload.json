@@ -1,15 +1,30 @@
-{
-    "abs_source": "/home/runner/work/EasyList/EasyList/easylist_adservers_popup.txt",
-    "checker_type": "AVAILABILITY",
-    "destination": "easylist_adservers_popup.txt",
-    "hash": "9935268c79c88f02af1a2595f03a11e7277c1e7455daaada062d7368",
-    "line_number": 1175,
-    "output_dir": "/home/runner/work/EasyList/EasyList/output/easylist_adservers_popup.txt",
-    "previous_hash": "9935268c79c88f02af1a2595f03a11e7277c1e7455daaada062d7368",
-    "rel_source": "easylist_adservers_popup.txt",
-    "session_id": "ab302e8c54c16d0ea64ce049",
-    "source": "easylist_adservers_popup.txt",
-    "subject": "easylist_adservers_popup.txt",
-    "subject_type": "domain",
-    "type": "file"
-}
+[
+    {
+        "abs_source": "/home/runner/work/EasyList/EasyList/easylist_adservers_popup.txt",
+        "checker_type": "AVAILABILITY",
+        "destination": "easylist_adservers_popup.txt",
+        "hash": "9935268c79c88f02af1a2595f03a11e7277c1e7455daaada062d7368",
+        "line_number": 1175,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/easylist_adservers_popup.txt",
+        "previous_hash": "9935268c79c88f02af1a2595f03a11e7277c1e7455daaada062d7368",
+        "rel_source": "easylist_adservers_popup.txt",
+        "session_id": "ab302e8c54c16d0ea64ce049",
+        "source": "easylist_adservers_popup.txt",
+        "subject": "easylist_adservers_popup.txt",
+        "subject_type": "domain",
+        "type": "file"
+    },
+    {
+        "checker_type": "AVAILABILITY",
+        "destination": "easylist_adservers_popup.txt",
+        "hash": "2c88a6fbdcf2d7edeb8ad6586f3d4de6582cded1ca2d5b4d8f11f7ce",
+        "line_number": 1226,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/easylist_adservers_popup.txt",
+        "previous_hash": "2c88a6fbdcf2d7edeb8ad6586f3d4de6582cded1ca2d5b4d8f11f7ce",
+        "session_id": "ab302e8c54c16d0ea64ce049",
+        "source": "https:/raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers_popup.txt",
+        "subject": "easylist_adservers_popup.txt",
+        "subject_type": "domain",
+        "type": "file"
+    }
+]

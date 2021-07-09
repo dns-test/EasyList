@@ -1,15 +1,30 @@
-{
-    "abs_source": "/home/runner/work/EasyList/EasyList/adult_allowlist.txt",
-    "checker_type": "AVAILABILITY",
-    "destination": "adult_allowlist.txt",
-    "hash": "b1078f974b7aa10a7193b4deff3871719287ca4386484c2f70f4545a",
-    "line_number": 483,
-    "output_dir": "/home/runner/work/EasyList/EasyList/output/adult_allowlist.txt",
-    "previous_hash": "b1078f974b7aa10a7193b4deff3871719287ca4386484c2f70f4545a",
-    "rel_source": "adult_allowlist.txt",
-    "session_id": "6ae061b81a1aa56487704365",
-    "source": "adult_allowlist.txt",
-    "subject": "adult_allowlist.txt",
-    "subject_type": "domain",
-    "type": "file"
-}
+[
+    {
+        "abs_source": "/home/runner/work/EasyList/EasyList/adult_allowlist.txt",
+        "checker_type": "AVAILABILITY",
+        "destination": "adult_allowlist.txt",
+        "hash": "b1078f974b7aa10a7193b4deff3871719287ca4386484c2f70f4545a",
+        "line_number": 483,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/adult_allowlist.txt",
+        "previous_hash": "b1078f974b7aa10a7193b4deff3871719287ca4386484c2f70f4545a",
+        "rel_source": "adult_allowlist.txt",
+        "session_id": "6ae061b81a1aa56487704365",
+        "source": "adult_allowlist.txt",
+        "subject": "adult_allowlist.txt",
+        "subject_type": "domain",
+        "type": "file"
+    },
+    {
+        "checker_type": "AVAILABILITY",
+        "destination": "adult_allowlist.txt",
+        "hash": "57a69d5800c822159d27474ca7f6c9422348ececd487c2a10ef7b766",
+        "line_number": 466,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/adult_allowlist.txt",
+        "previous_hash": "57a69d5800c822159d27474ca7f6c9422348ececd487c2a10ef7b766",
+        "session_id": "6ae061b81a1aa56487704365",
+        "source": "https:/raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_allowlist.txt",
+        "subject": "adult_allowlist.txt",
+        "subject_type": "domain",
+        "type": "file"
+    }
+]

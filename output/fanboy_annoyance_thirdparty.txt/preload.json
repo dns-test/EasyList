@@ -1,15 +1,30 @@
-{
-    "abs_source": "/home/runner/work/EasyList/EasyList/fanboy_annoyance_thirdparty.txt",
-    "checker_type": "AVAILABILITY",
-    "destination": "fanboy_annoyance_thirdparty.txt",
-    "hash": "250dfd92d8c2c83a37b0eec3425a023d088bd8ae58e03743d7f00989",
-    "line_number": 422,
-    "output_dir": "/home/runner/work/EasyList/EasyList/output/fanboy_annoyance_thirdparty.txt",
-    "previous_hash": "250dfd92d8c2c83a37b0eec3425a023d088bd8ae58e03743d7f00989",
-    "rel_source": "fanboy_annoyance_thirdparty.txt",
-    "session_id": "5593b894da6f238b5dfd549c",
-    "source": "fanboy_annoyance_thirdparty.txt",
-    "subject": "fanboy_annoyance_thirdparty.txt",
-    "subject_type": "domain",
-    "type": "file"
-}
+[
+    {
+        "abs_source": "/home/runner/work/EasyList/EasyList/fanboy_annoyance_thirdparty.txt",
+        "checker_type": "AVAILABILITY",
+        "destination": "fanboy_annoyance_thirdparty.txt",
+        "hash": "250dfd92d8c2c83a37b0eec3425a023d088bd8ae58e03743d7f00989",
+        "line_number": 422,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/fanboy_annoyance_thirdparty.txt",
+        "previous_hash": "250dfd92d8c2c83a37b0eec3425a023d088bd8ae58e03743d7f00989",
+        "rel_source": "fanboy_annoyance_thirdparty.txt",
+        "session_id": "5593b894da6f238b5dfd549c",
+        "source": "fanboy_annoyance_thirdparty.txt",
+        "subject": "fanboy_annoyance_thirdparty.txt",
+        "subject_type": "domain",
+        "type": "file"
+    },
+    {
+        "checker_type": "AVAILABILITY",
+        "destination": "fanboy_annoyance_thirdparty.txt",
+        "hash": "4afe31b22e69850677ac6d04200a33778ccbd25558539c0440aaf9b3",
+        "line_number": 373,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/fanboy_annoyance_thirdparty.txt",
+        "previous_hash": null,
+        "session_id": "5593b894da6f238b5dfd549c",
+        "source": "https:/raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_annoyance_thirdparty.txt",
+        "subject": "fanboy_annoyance_thirdparty.txt",
+        "subject_type": "domain",
+        "type": "file"
+    }
+]

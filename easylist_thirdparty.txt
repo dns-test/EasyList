@@ -1,5 +1,6 @@
 ||000webhost.com/images/banners/
 ||1080872514.rsc.cdn77.org^
+||1675450967.rsc.cdn77.org^
 ||1stag.com/main/img/banners/
 ||a.livesportmedia.eu^
 ||a.ucoz.net^
@@ -15,7 +16,6 @@
 ||ad.smartmediarep.com^
 ||ad.valuecalling.com^
 ||ad.wsod.com^
-||ad.xiaomi.com^
 ||adaptv.advertising.com^
 ||adf.ly^$script,third-party,domain=~j.gs|~q.gs
 ||adfoc.us^$script,third-party
@@ -25,6 +25,7 @@
 ||adlandpro.com^$third-party
 ||adn.ebay.com^
 ||ads-sg.tiktok.com^
+||ads.audio.thisisdax.com^
 ||ads.linkedin.com^$third-party
 ||ads.servebom.com^
 ||ads.sportradar.com^
@@ -55,7 +56,6 @@
 ||alicdn.com^$domain=prostylex.org
 ||allposters.com^*/banners/
 ||allsend.com/public/assets/images/
-||alluremedia.com.au^*/campaigns/
 ||alpsat.com/banner/
 ||altushost.com/docs/$third-party
 ||alysson.de^$domain=radio.at|radio.de|radio.dk|radio.es|radio.fr|radio.it|radio.net|radio.pl|radio.pt|radio.se|radiome.at|radiome.de|radiome.fr
@@ -202,6 +202,7 @@
 ||buzznet.com^*/showpping-banner-$third-party
 ||byzoo.org/script/tu*.js
 ||bza.co^$subdocument,third-party
+||c.bannerflow.net^
 ||c.netu.tv^
 ||cache.sellwild.com^$third-party
 ||cachefly.net/cricad.html
@@ -241,6 +242,7 @@
 ||cdnpark.com/scripts/js3.js
 ||cdnprk.com/scripts/js3.js
 ||cdnprk.com/scripts/js3caf.js
+||cdnpub.info^$subdocument,third-party,domain=~iqbroker.co|~iqbroker.com|~iqoption.co.th|~iqoption.com|~tr-iqoption.com
 ||cdnservices.net/megatag.js
 ||centauro.net^*/banners/$third-party
 ||centralmediaserver.com^*_side_bars.jpg
@@ -310,6 +312,7 @@
 ||cpmstar.com/cached/
 ||cpmstar.com/view.aspx
 ||cq.com/pub/
+||creative.bshrdr.com^
 ||creatives.inmotionhosting.com^
 ||credible.com^$domain=foxbusiness.com
 ||criteo.com/delivery/$third-party
@@ -365,7 +368,6 @@
 ||d1xkyo9j4r7vnn.cloudfront.net^
 ||d1zgderxoe1a.cloudfront.net^
 ||d20903hof2l33q.cloudfront.net^
-||d21j20wsoewvjq.cloudfront.net^
 ||d22lo5bcpq2fif.cloudfront.net^
 ||d23guct4biwna6.cloudfront.net^
 ||d25dfknw9ghxs6.cloudfront.net^
@@ -378,6 +380,7 @@
 ||d2cgumzzqhgmdu.cloudfront.net^
 ||d2d8qsxiai9qwj.cloudfront.net^
 ||d2edfzx4ay42og.cloudfront.net^
+||d2fbvay81k4ji3.cloudfront.net^
 ||d2focgxak1cn74.cloudfront.net^
 ||d2g9nmtuil60cb.cloudfront.net^
 ||d2ghscazvn398x.cloudfront.net^
@@ -482,6 +485,7 @@
 ||dm0acvguygm9h.cloudfront.net^
 ||dmkdtkad2jyb9.cloudfront.net^
 ||dmx.districtm.io^$third-party
+||do69ll745l27z.cloudfront.net^
 ||dojx47ab4dyxi.cloudfront.net^
 ||domain.com.au/widget/$subdocument,third-party
 ||domainapps.com/assets/img/domain-apps.gif$third-party
@@ -518,6 +522,7 @@
 ||dtrk.slimcdn.com^
 ||dttek.com/sponsors/
 ||dtto8zfzskfoa.cloudfront.net^
+||dtyry4ejybx0.cloudfront.net^
 ||du2uh7rq0r0d3.cloudfront.net^
 ||duckduckgo.com/public/$third-party
 ||dunhilltraveldeals.com^$subdocument,third-party
@@ -533,7 +538,6 @@
 ||dynw.com/banner
 ||dzupi9b81okew.cloudfront.net^
 ||e-tailwebstores.com/accounts/default1/banners/
-||e-webcorp.com/images/$third-party
 ||earn-bitcoins.net/banner_
 ||easyretiredmillionaire.com/img/aff-img/
 ||ebaycommercenetwork.com/publisher/$third-party
@@ -560,6 +564,7 @@
 ||epimg.net/js/pbs/
 ||epnt.ebay.com^$third-party
 ||escape.insites.eu^$third-party
+||espncdn.shop/nwm-dbh.min3.js
 ||esport-betting.com^*/betbanner/
 ||essayerudite.com/images/banner/
 ||etimg.com/js_etsub/
@@ -593,14 +598,12 @@
 ||fcgadgets.blogspot.com^$third-party
 ||feedburner.com/~a/
 ||femalefirst.co.uk/widgets/$third-party
-||fenixm.com/actions/*Skin*.$image
 ||ff.doubleclick.net^
 ||ffconf.org/embed/$subdocument,third-party
 ||filedownloader.net/design/$third-party
 ||filedroid.net/af_ta/$third-party
 ||filefactory.com^*/refer.php?hash=
 ||filejungle.com/images/banner/
-||fileloadr.com^$third-party
 ||fileparadox.com/images/banner/
 ||filepost.com/static/images/bn/
 ||fileserve.com/images/banner_$third-party
@@ -669,7 +672,6 @@
 ||gethatch.com/iceleads_rest/
 ||gethopper.com/tp/$third-party
 ||getnzb.com/img/partner/banners/$third-party
-||getpaidforyourtime.org/basic-rotating-banner/
 ||getsurl.com/images/banners/
 ||gfxa.sheetmusicplus.com^$third-party
 ||gg.caixin.com^
@@ -765,7 +767,6 @@
 ||hwcdn.net^$domain=i24news.tv|newindianexpress.com
 ||hyperfbtraffic.com/images/graphicsbanners/
 ||hyperscale.com/images/adh_button.jpg
-||i.imgyukle.com/2019/10/04/ERPmcQ.gif
 ||i.lsimg.net^*/sides_clickable.
 ||i.lsimg.net^*/takeover/
 ||iad-*.blaze.com^
@@ -830,6 +831,7 @@
 ||jivox.com/jivox/serverapis/getcampaignbyid.php?$object
 ||joblet.jp/javascripts/$third-party
 ||jobs-affiliates.ws/images/$third-party
+||jobtarget.com/distrib_pages/
 ||jocly.com^*.html?click=$subdocument,third-party
 ||jrcdev.net/promos/
 ||jsc.mgid.com^$third-party,domain=~marketgid.com|~marketgid.com.ua
@@ -837,7 +839,6 @@
 ||jubimax.com/banner_images/
 ||jugglu.com/content/widgets/$third-party
 ||junction.co.za/widget/$third-party
-||justclicktowatch.to/jstp.js
 ||jvzoo.com/assets/widget/$third-party
 ||jwpcdn.com/player/*/bidding.js
 ||jwpcdn.com/player/plugins/bidding/$script
@@ -998,6 +999,7 @@
 ||namecheap.com/graphics/linkus/$third-party
 ||nanobrokers.com/img/banner_
 ||nativly.com/tds/widget?wid=$third-party
+||natureticks.com/images/banners/$third-party
 ||neighbourly.co.nz^$subdocument,domain=stuff.co.nz
 ||neogames-tech.com/resources/genericbanners/
 ||nesgamezone.com/syndicate?
@@ -1007,10 +1009,10 @@
 ||netdna-cdn.com^*-Background-1280x10241.$domain=7daysindubai.com
 ||netdna-ssl.com/images/banner-$domain=colorlib.com
 ||nettvplus.com/images/banner_
-||network.aufeminin.com^
 ||networkice.com^$subdocument,third-party
 ||news.fark.com^$third-party
 ||news.smi2.ru^$third-party
+||newsiqra.com^$subdocument,third-party
 ||newware.net/home/banner$third-party
 ||newware.net/home/newware-sm.png$third-party
 ||nextpathnet.com/pub.js
@@ -1068,6 +1070,7 @@
 ||partners.autotrader.co.uk^$third-party
 ||partners.betus.com^$third-party
 ||partners.dogtime.com/network/
+||partners.hostgator.com^
 ||partners.rochen.com^
 ||partners.wrike.com^$third-party
 ||partners.xpertmarket.com^
@@ -1194,6 +1197,7 @@
 ||remax-malta.com/widget/$third-party
 ||rentalcars.com/affxml/$domain=news-headlines.co.za|nuus.info|sa-news.com|sa-radio.com|saffa.com|saukradio.com
 ||rentalcars.com/ELBanner.do?$third-party
+||rentalcars.com/partners/$third-party
 ||res3.feedsportal.com^
 ||resimag.com/p1/6ef4933807d.gif
 ||resimag.com/p1/bb61dc4ce45.gif
@@ -1207,8 +1211,6 @@
 ||roshantv.com/adad.
 ||rotabanner.kulichki.net^
 ||rotator.tradetracker.net^
-||rsafind.co.za^$subdocument,third-party
-||rsasearch.co.za^$subdocument,third-party
 ||rtax.criteo.com^$third-party
 ||runerich.com/images/sty_img/runerich.gif
 ||ruralpressevents.com/agquip/logos/$domain=farmonline.com.au
@@ -1226,7 +1228,6 @@
 ||sascdn.com/config.js
 ||sascdn.com/diff/$image,script
 ||sascdn.com/tag/
-||sat-shop.co.uk/images/$third-party
 ||satshop.tv/images/banner/$third-party
 ||sbhc.portalhc.com^$third-party
 ||schenkelklopfer.org/4fsidebar.php
@@ -1281,6 +1282,8 @@
 ||sisters-magazine.com/iframebanners/$third-party
 ||sitegiant.my/affiliate/$third-party
 ||sitegrip.com^*/swagbucks-
+||siteground.com/img/affiliate/$third-party
+||siteground.com/img/banners/$third-party
 ||sitescout-video-cdn.edgesuite.net^
 ||skydsl.eu/banner/$third-party
 ||slickdeals.meritline.com^$third-party
@@ -1359,7 +1362,7 @@
 ||taboola.com^$domain=independent.co.uk|scoopwhoop.com|technobuffalo.com
 ||tag.regieci.com^$third-party
 ||tags.sprizzy.com^
-||tags2.adshell.net^
+||tags2.adshell.net^$subdocument
 ||take2.co.za/misc/bannerscript.php?
 ||talkfusion.com^*/banners/
 ||tankionline.com/tankiref.swf
@@ -1402,6 +1405,7 @@
 ||topservers200.com/img/banners/
 ||topspin.net/secure/media/$image,domain=youtube.com
 ||torguard.net/images/aff/
+||torrindex.net/images/epv/
 ||townnews.com^*/dealwidget.css?
 ||townnews.com^*/upickem-deals.js?
 ||townsquareblogs.com^*=sponsor&
@@ -1423,7 +1427,6 @@
 ||tribktla.files.wordpress.com/*-639x125-sponsorship.jpg?
 ||tribwgnam.files.wordpress.com^*reskin2.
 ||tripadvisor.com/WidgetEmbed-*&partnerId=$domain=rbth.co.uk|rbth.com
-||triumphantplace.com/landing/$third-party
 ||trivago.co.uk/uk/srv/$third-party
 ||trvl-px.com/trvl-px/$third-party
 ||tshirthell.com/img/affiliate_section/$third-party
@@ -1492,7 +1495,8 @@
 ||vpntunnel.se/aff/$third-party
 ||vpnxs.nl/images/vpnxs_banner
 ||vrvm.com/t?
-||vultr.com/media/banner_
+||vultr.com/media/banner
+||vuukle.com/ads/
 ||vuukle.com/affinity.
 ||vxite.com/banner/
 ||wagital.com/Wagital-Ads.html
@@ -1507,7 +1511,6 @@
 ||web.adblade.com^$third-party
 ||web2feel.com/images/$third-party
 ||webdev.co.zw/images/banners/$third-party
-||webgains.com/link.html$third-party
 ||webmasterrock.com/cpxt_pab
 ||website.ws^*/banners/
 ||weby.aaas.org^$third-party
@@ -1533,7 +1536,6 @@
 ||widgets.mobilelocalnews.com^$third-party
 ||widgets.mozo.com.au^$third-party
 ||widgets.outbrain.com/nativeVideoPlayer/NVPInjector.min.js$third-party
-||widgets.privateproperty.com.ng^$third-party
 ||widgets.progrids.com^$third-party
 ||widgets.skyscanner.net^$domain=euronews.com
 ||widgets.solaramerica.org^$third-party
@@ -1621,6 +1623,7 @@
 ||d15jg7068qz6nm.cloudfront.net^
 ||d188elxamt3utn.cloudfront.net^
 ||d18mealirgdbbz.cloudfront.net^
+||d1a3jb5hjny5s4.cloudfront.net^
 ||d1b240xv9h0q8y.cloudfront.net^
 ||d1bi6hxlc51jjw.cloudfront.net^
 ||d1bxkgbbc428vi.cloudfront.net^
@@ -1695,9 +1698,11 @@
 ||d3mshiiq22wqhz.cloudfront.net^
 ||d3n3a4vl82t80h.cloudfront.net^
 ||d3nel6rcmq5lzw.cloudfront.net^
+||d3pvcolmug0tz6.cloudfront.net^
 ||d3qu0b872n4q3x.cloudfront.net^
 ||d3rxqouo2bn71j.cloudfront.net^
 ||d3t3lxfqz2g5hs.cloudfront.net^
+||d3v3bqdndm4erx.cloudfront.net^
 ||d3vnm1492fpnm2.cloudfront.net^
 ||d7dza8s7j2am6.cloudfront.net^
 ||dc5k8fg5ioc8s.cloudfront.net^

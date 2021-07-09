@@ -1,15 +1,30 @@
-{
-    "abs_source": "/home/runner/work/EasyList/EasyList/easylist_allowlist_popup.txt",
-    "checker_type": "AVAILABILITY",
-    "destination": "easylist_allowlist_popup.txt",
-    "hash": "0664311d0c30a92b7fee3f6efb05bcc35f1c26404346dfaca2b0ce87",
-    "line_number": 110,
-    "output_dir": "/home/runner/work/EasyList/EasyList/output/easylist_allowlist_popup.txt",
-    "previous_hash": "0664311d0c30a92b7fee3f6efb05bcc35f1c26404346dfaca2b0ce87",
-    "rel_source": "easylist_allowlist_popup.txt",
-    "session_id": "ebe7c7e4e539bde3f3a757a5",
-    "source": "easylist_allowlist_popup.txt",
-    "subject": "easylist_allowlist_popup.txt",
-    "subject_type": "domain",
-    "type": "file"
-}
+[
+    {
+        "abs_source": "/home/runner/work/EasyList/EasyList/easylist_allowlist_popup.txt",
+        "checker_type": "AVAILABILITY",
+        "destination": "easylist_allowlist_popup.txt",
+        "hash": "0664311d0c30a92b7fee3f6efb05bcc35f1c26404346dfaca2b0ce87",
+        "line_number": 110,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/easylist_allowlist_popup.txt",
+        "previous_hash": "0664311d0c30a92b7fee3f6efb05bcc35f1c26404346dfaca2b0ce87",
+        "rel_source": "easylist_allowlist_popup.txt",
+        "session_id": "ebe7c7e4e539bde3f3a757a5",
+        "source": "easylist_allowlist_popup.txt",
+        "subject": "easylist_allowlist_popup.txt",
+        "subject_type": "domain",
+        "type": "file"
+    },
+    {
+        "checker_type": "AVAILABILITY",
+        "destination": "easylist_allowlist_popup.txt",
+        "hash": "75cc8f1411000b5e52b5105a4681add53b73d246665ef0d71cca52b5",
+        "line_number": 47,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/easylist_allowlist_popup.txt",
+        "previous_hash": "75cc8f1411000b5e52b5105a4681add53b73d246665ef0d71cca52b5",
+        "session_id": "ebe7c7e4e539bde3f3a757a5",
+        "source": "https:/raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_allowlist_popup.txt",
+        "subject": "easylist_allowlist_popup.txt",
+        "subject_type": "domain",
+        "type": "file"
+    }
+]

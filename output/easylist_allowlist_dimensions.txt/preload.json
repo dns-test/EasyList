@@ -1,15 +1,30 @@
-{
-    "abs_source": "/home/runner/work/EasyList/EasyList/easylist_allowlist_dimensions.txt",
-    "checker_type": "AVAILABILITY",
-    "destination": "easylist_allowlist_dimensions.txt",
-    "hash": "1a4ba35f32a7b0fa4748809f21992a19ece1dfb2f313ae553bf3e1b9",
-    "line_number": 121,
-    "output_dir": "/home/runner/work/EasyList/EasyList/output/easylist_allowlist_dimensions.txt",
-    "previous_hash": "1a4ba35f32a7b0fa4748809f21992a19ece1dfb2f313ae553bf3e1b9",
-    "rel_source": "easylist_allowlist_dimensions.txt",
-    "session_id": "cea3f3e63c2647dee53923a2",
-    "source": "easylist_allowlist_dimensions.txt",
-    "subject": "easylist_allowlist_dimensions.txt",
-    "subject_type": "domain",
-    "type": "file"
-}
+[
+    {
+        "abs_source": "/home/runner/work/EasyList/EasyList/easylist_allowlist_dimensions.txt",
+        "checker_type": "AVAILABILITY",
+        "destination": "easylist_allowlist_dimensions.txt",
+        "hash": "1a4ba35f32a7b0fa4748809f21992a19ece1dfb2f313ae553bf3e1b9",
+        "line_number": 121,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/easylist_allowlist_dimensions.txt",
+        "previous_hash": "1a4ba35f32a7b0fa4748809f21992a19ece1dfb2f313ae553bf3e1b9",
+        "rel_source": "easylist_allowlist_dimensions.txt",
+        "session_id": "cea3f3e63c2647dee53923a2",
+        "source": "easylist_allowlist_dimensions.txt",
+        "subject": "easylist_allowlist_dimensions.txt",
+        "subject_type": "domain",
+        "type": "file"
+    },
+    {
+        "checker_type": "AVAILABILITY",
+        "destination": "easylist_allowlist_dimensions.txt",
+        "hash": "08d07ad173042f0b95e7cdcb503bab99020af2f2e83ad7b7ddaf2008",
+        "line_number": 16,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/easylist_allowlist_dimensions.txt",
+        "previous_hash": "08d07ad173042f0b95e7cdcb503bab99020af2f2e83ad7b7ddaf2008",
+        "session_id": "cea3f3e63c2647dee53923a2",
+        "source": "https:/raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_allowlist_dimensions.txt",
+        "subject": "easylist_allowlist_dimensions.txt",
+        "subject_type": "domain",
+        "type": "file"
+    }
+]

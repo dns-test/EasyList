@@ -1,15 +1,30 @@
-{
-    "abs_source": "/home/runner/work/EasyList/EasyList/easylist_specific_block_popup.txt",
-    "checker_type": "AVAILABILITY",
-    "destination": "easylist_specific_block_popup.txt",
-    "hash": "fe611dd6a4ddae067c3a8dae0a986b3da87e0c9fa1d285fa3c0f1c78",
-    "line_number": 50,
-    "output_dir": "/home/runner/work/EasyList/EasyList/output/easylist_specific_block_popup.txt",
-    "previous_hash": "fe611dd6a4ddae067c3a8dae0a986b3da87e0c9fa1d285fa3c0f1c78",
-    "rel_source": "easylist_specific_block_popup.txt",
-    "session_id": "1fc3b8e011ae9bde4e32a4ed",
-    "source": "easylist_specific_block_popup.txt",
-    "subject": "easylist_specific_block_popup.txt",
-    "subject_type": "domain",
-    "type": "file"
-}
+[
+    {
+        "abs_source": "/home/runner/work/EasyList/EasyList/easylist_specific_block_popup.txt",
+        "checker_type": "AVAILABILITY",
+        "destination": "easylist_specific_block_popup.txt",
+        "hash": "fe611dd6a4ddae067c3a8dae0a986b3da87e0c9fa1d285fa3c0f1c78",
+        "line_number": 50,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/easylist_specific_block_popup.txt",
+        "previous_hash": "fe611dd6a4ddae067c3a8dae0a986b3da87e0c9fa1d285fa3c0f1c78",
+        "rel_source": "easylist_specific_block_popup.txt",
+        "session_id": "1fc3b8e011ae9bde4e32a4ed",
+        "source": "easylist_specific_block_popup.txt",
+        "subject": "easylist_specific_block_popup.txt",
+        "subject_type": "domain",
+        "type": "file"
+    },
+    {
+        "checker_type": "AVAILABILITY",
+        "destination": "easylist_specific_block_popup.txt",
+        "hash": "52f2fc99ffa1be2eb8497f015b39a4c03adbef6392739c8ff8e8abb5",
+        "line_number": 29,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/easylist_specific_block_popup.txt",
+        "previous_hash": "52f2fc99ffa1be2eb8497f015b39a4c03adbef6392739c8ff8e8abb5",
+        "session_id": "1fc3b8e011ae9bde4e32a4ed",
+        "source": "https:/raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_specific_block_popup.txt",
+        "subject": "easylist_specific_block_popup.txt",
+        "subject_type": "domain",
+        "type": "file"
+    }
+]

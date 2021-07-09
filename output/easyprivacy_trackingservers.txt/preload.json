@@ -1,15 +1,30 @@
-{
-    "abs_source": "/home/runner/work/EasyList/EasyList/easyprivacy_trackingservers.txt",
-    "checker_type": "AVAILABILITY",
-    "destination": "easyprivacy_trackingservers.txt",
-    "hash": "db99c0736c6e2053947c716319108a2dedb4bfbe9c7c15140c885ea9",
-    "line_number": 3472,
-    "output_dir": "/home/runner/work/EasyList/EasyList/output/easyprivacy_trackingservers.txt",
-    "previous_hash": "db99c0736c6e2053947c716319108a2dedb4bfbe9c7c15140c885ea9",
-    "rel_source": "easyprivacy_trackingservers.txt",
-    "session_id": "7d32fa911222149facae6d13",
-    "source": "easyprivacy_trackingservers.txt",
-    "subject": "easyprivacy_trackingservers.txt",
-    "subject_type": "domain",
-    "type": "file"
-}
+[
+    {
+        "abs_source": "/home/runner/work/EasyList/EasyList/easyprivacy_trackingservers.txt",
+        "checker_type": "AVAILABILITY",
+        "destination": "easyprivacy_trackingservers.txt",
+        "hash": "db99c0736c6e2053947c716319108a2dedb4bfbe9c7c15140c885ea9",
+        "line_number": 3472,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/easyprivacy_trackingservers.txt",
+        "previous_hash": "db99c0736c6e2053947c716319108a2dedb4bfbe9c7c15140c885ea9",
+        "rel_source": "easyprivacy_trackingservers.txt",
+        "session_id": "7d32fa911222149facae6d13",
+        "source": "easyprivacy_trackingservers.txt",
+        "subject": "easyprivacy_trackingservers.txt",
+        "subject_type": "domain",
+        "type": "file"
+    },
+    {
+        "checker_type": "AVAILABILITY",
+        "destination": "easyprivacy_trackingservers.txt",
+        "hash": "48c29b7acda7705b82896b7d12e2e00cf623b3dfa40fc160e168e694",
+        "line_number": 3480,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/easyprivacy_trackingservers.txt",
+        "previous_hash": "48c29b7acda7705b82896b7d12e2e00cf623b3dfa40fc160e168e694",
+        "session_id": "7d32fa911222149facae6d13",
+        "source": "https:/raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers.txt",
+        "subject": "easyprivacy_trackingservers.txt",
+        "subject_type": "domain",
+        "type": "file"
+    }
+]

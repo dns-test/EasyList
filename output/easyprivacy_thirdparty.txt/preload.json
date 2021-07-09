@@ -1,15 +1,30 @@
-{
-    "abs_source": "/home/runner/work/EasyList/EasyList/easyprivacy_thirdparty.txt",
-    "checker_type": "AVAILABILITY",
-    "destination": "easyprivacy_thirdparty.txt",
-    "hash": "3458d4fe8bad6c6e4163e5884a7bf1973b714526f53705fb5ef1ec1e",
-    "line_number": 2408,
-    "output_dir": "/home/runner/work/EasyList/EasyList/output/easyprivacy_thirdparty.txt",
-    "previous_hash": "3458d4fe8bad6c6e4163e5884a7bf1973b714526f53705fb5ef1ec1e",
-    "rel_source": "easyprivacy_thirdparty.txt",
-    "session_id": "06327a1119ca39a336f4c2a4",
-    "source": "easyprivacy_thirdparty.txt",
-    "subject": "easyprivacy_thirdparty.txt",
-    "subject_type": "domain",
-    "type": "file"
-}
+[
+    {
+        "abs_source": "/home/runner/work/EasyList/EasyList/easyprivacy_thirdparty.txt",
+        "checker_type": "AVAILABILITY",
+        "destination": "easyprivacy_thirdparty.txt",
+        "hash": "3458d4fe8bad6c6e4163e5884a7bf1973b714526f53705fb5ef1ec1e",
+        "line_number": 2408,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/easyprivacy_thirdparty.txt",
+        "previous_hash": "3458d4fe8bad6c6e4163e5884a7bf1973b714526f53705fb5ef1ec1e",
+        "rel_source": "easyprivacy_thirdparty.txt",
+        "session_id": "06327a1119ca39a336f4c2a4",
+        "source": "easyprivacy_thirdparty.txt",
+        "subject": "easyprivacy_thirdparty.txt",
+        "subject_type": "domain",
+        "type": "file"
+    },
+    {
+        "checker_type": "AVAILABILITY",
+        "destination": "easyprivacy_thirdparty.txt",
+        "hash": "885c42096d14cfd9b6ed68cd5d1b438f8127044f8f91d3499cb53445",
+        "line_number": 2440,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/easyprivacy_thirdparty.txt",
+        "previous_hash": "885c42096d14cfd9b6ed68cd5d1b438f8127044f8f91d3499cb53445",
+        "session_id": "06327a1119ca39a336f4c2a4",
+        "source": "https:/raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt",
+        "subject": "easyprivacy_thirdparty.txt",
+        "subject_type": "domain",
+        "type": "file"
+    }
+]

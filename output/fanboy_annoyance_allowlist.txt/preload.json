@@ -1,15 +1,30 @@
-{
-    "abs_source": "/home/runner/work/EasyList/EasyList/fanboy_annoyance_allowlist.txt",
-    "checker_type": "AVAILABILITY",
-    "destination": "fanboy_annoyance_allowlist.txt",
-    "hash": "ac1adfcebfea881172b9548b054ffbef188eb45c74d4d71702dc521e",
-    "line_number": 96,
-    "output_dir": "/home/runner/work/EasyList/EasyList/output/fanboy_annoyance_allowlist.txt",
-    "previous_hash": "ac1adfcebfea881172b9548b054ffbef188eb45c74d4d71702dc521e",
-    "rel_source": "fanboy_annoyance_allowlist.txt",
-    "session_id": "ec7df8596e2973028537c88c",
-    "source": "fanboy_annoyance_allowlist.txt",
-    "subject": "fanboy_annoyance_allowlist.txt",
-    "subject_type": "domain",
-    "type": "file"
-}
+[
+    {
+        "abs_source": "/home/runner/work/EasyList/EasyList/fanboy_annoyance_allowlist.txt",
+        "checker_type": "AVAILABILITY",
+        "destination": "fanboy_annoyance_allowlist.txt",
+        "hash": "ac1adfcebfea881172b9548b054ffbef188eb45c74d4d71702dc521e",
+        "line_number": 96,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/fanboy_annoyance_allowlist.txt",
+        "previous_hash": "ac1adfcebfea881172b9548b054ffbef188eb45c74d4d71702dc521e",
+        "rel_source": "fanboy_annoyance_allowlist.txt",
+        "session_id": "ec7df8596e2973028537c88c",
+        "source": "fanboy_annoyance_allowlist.txt",
+        "subject": "fanboy_annoyance_allowlist.txt",
+        "subject_type": "domain",
+        "type": "file"
+    },
+    {
+        "checker_type": "AVAILABILITY",
+        "destination": "fanboy_annoyance_allowlist.txt",
+        "hash": "28dabd04f1b67bcdba01a89d08baf37f6c7825038129700e9cac6132",
+        "line_number": 94,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/fanboy_annoyance_allowlist.txt",
+        "previous_hash": "28dabd04f1b67bcdba01a89d08baf37f6c7825038129700e9cac6132",
+        "session_id": "ec7df8596e2973028537c88c",
+        "source": "https:/raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_annoyance_allowlist.txt",
+        "subject": "fanboy_annoyance_allowlist.txt",
+        "subject_type": "domain",
+        "type": "file"
+    }
+]

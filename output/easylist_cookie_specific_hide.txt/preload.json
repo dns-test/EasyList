@@ -1,15 +1,30 @@
-{
-    "abs_source": "/home/runner/work/EasyList/EasyList/easylist_cookie_specific_hide.txt",
-    "checker_type": "AVAILABILITY",
-    "destination": "easylist_cookie_specific_hide.txt",
-    "hash": "ba0db1d3a3ead21b2f6844c8e73d013cd708535d57cd0f0534e8ac46",
-    "line_number": 969,
-    "output_dir": "/home/runner/work/EasyList/EasyList/output/easylist_cookie_specific_hide.txt",
-    "previous_hash": "ba0db1d3a3ead21b2f6844c8e73d013cd708535d57cd0f0534e8ac46",
-    "rel_source": "easylist_cookie_specific_hide.txt",
-    "session_id": "2c43c0f3c2d571cb524b5cf1",
-    "source": "easylist_cookie_specific_hide.txt",
-    "subject": "easylist_cookie_specific_hide.txt",
-    "subject_type": "domain",
-    "type": "file"
-}
+[
+    {
+        "abs_source": "/home/runner/work/EasyList/EasyList/easylist_cookie_specific_hide.txt",
+        "checker_type": "AVAILABILITY",
+        "destination": "easylist_cookie_specific_hide.txt",
+        "hash": "ba0db1d3a3ead21b2f6844c8e73d013cd708535d57cd0f0534e8ac46",
+        "line_number": 969,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/easylist_cookie_specific_hide.txt",
+        "previous_hash": "ba0db1d3a3ead21b2f6844c8e73d013cd708535d57cd0f0534e8ac46",
+        "rel_source": "easylist_cookie_specific_hide.txt",
+        "session_id": "2c43c0f3c2d571cb524b5cf1",
+        "source": "easylist_cookie_specific_hide.txt",
+        "subject": "easylist_cookie_specific_hide.txt",
+        "subject_type": "domain",
+        "type": "file"
+    },
+    {
+        "checker_type": "AVAILABILITY",
+        "destination": "easylist_cookie_specific_hide.txt",
+        "hash": "3fcae25f9a2686ac9179031a91163889d2915bc466b49b7c3145c2d3",
+        "line_number": 990,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/easylist_cookie_specific_hide.txt",
+        "previous_hash": "3fcae25f9a2686ac9179031a91163889d2915bc466b49b7c3145c2d3",
+        "session_id": "2c43c0f3c2d571cb524b5cf1",
+        "source": "https:/raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_specific_hide.txt",
+        "subject": "easylist_cookie_specific_hide.txt",
+        "subject_type": "domain",
+        "type": "file"
+    }
+]

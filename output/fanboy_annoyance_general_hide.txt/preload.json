@@ -1,15 +1,30 @@
-{
-    "abs_source": "/home/runner/work/EasyList/EasyList/fanboy_annoyance_general_hide.txt",
-    "checker_type": "AVAILABILITY",
-    "destination": "fanboy_annoyance_general_hide.txt",
-    "hash": "f97bc45185a06daaec7f4a656b16ab3fc65b45bbadf7eedabf8dedca",
-    "line_number": 3643,
-    "output_dir": "/home/runner/work/EasyList/EasyList/output/fanboy_annoyance_general_hide.txt",
-    "previous_hash": "f97bc45185a06daaec7f4a656b16ab3fc65b45bbadf7eedabf8dedca",
-    "rel_source": "fanboy_annoyance_general_hide.txt",
-    "session_id": "58dea1040175ebbbf326b631",
-    "source": "fanboy_annoyance_general_hide.txt",
-    "subject": "fanboy_annoyance_general_hide.txt",
-    "subject_type": "domain",
-    "type": "file"
-}
+[
+    {
+        "abs_source": "/home/runner/work/EasyList/EasyList/fanboy_annoyance_general_hide.txt",
+        "checker_type": "AVAILABILITY",
+        "destination": "fanboy_annoyance_general_hide.txt",
+        "hash": "f97bc45185a06daaec7f4a656b16ab3fc65b45bbadf7eedabf8dedca",
+        "line_number": 3643,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/fanboy_annoyance_general_hide.txt",
+        "previous_hash": "f97bc45185a06daaec7f4a656b16ab3fc65b45bbadf7eedabf8dedca",
+        "rel_source": "fanboy_annoyance_general_hide.txt",
+        "session_id": "58dea1040175ebbbf326b631",
+        "source": "fanboy_annoyance_general_hide.txt",
+        "subject": "fanboy_annoyance_general_hide.txt",
+        "subject_type": "domain",
+        "type": "file"
+    },
+    {
+        "checker_type": "AVAILABILITY",
+        "destination": "fanboy_annoyance_general_hide.txt",
+        "hash": "0abad6cf8b1e15359cb553efa87cffae8fab8a3c60bcbd252aef99a6",
+        "line_number": 3680,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/fanboy_annoyance_general_hide.txt",
+        "previous_hash": "0abad6cf8b1e15359cb553efa87cffae8fab8a3c60bcbd252aef99a6",
+        "session_id": "58dea1040175ebbbf326b631",
+        "source": "https:/raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_annoyance_general_hide.txt",
+        "subject": "fanboy_annoyance_general_hide.txt",
+        "subject_type": "domain",
+        "type": "file"
+    }
+]

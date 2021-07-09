@@ -1,15 +1,30 @@
-{
-    "abs_source": "/home/runner/work/EasyList/EasyList/adult_specific_block_popup.txt",
-    "checker_type": "AVAILABILITY",
-    "destination": "adult_specific_block_popup.txt",
-    "hash": "d6f3ec4306986ab4370a6fbbd8775b720cd01135f98445c181be6336",
-    "line_number": 46,
-    "output_dir": "/home/runner/work/EasyList/EasyList/output/adult_specific_block_popup.txt",
-    "previous_hash": "d6f3ec4306986ab4370a6fbbd8775b720cd01135f98445c181be6336",
-    "rel_source": "adult_specific_block_popup.txt",
-    "session_id": "920db5ea076f5ccb2b1d7691",
-    "source": "adult_specific_block_popup.txt",
-    "subject": "adult_specific_block_popup.txt",
-    "subject_type": "domain",
-    "type": "file"
-}
+[
+    {
+        "abs_source": "/home/runner/work/EasyList/EasyList/adult_specific_block_popup.txt",
+        "checker_type": "AVAILABILITY",
+        "destination": "adult_specific_block_popup.txt",
+        "hash": "d6f3ec4306986ab4370a6fbbd8775b720cd01135f98445c181be6336",
+        "line_number": 46,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/adult_specific_block_popup.txt",
+        "previous_hash": "d6f3ec4306986ab4370a6fbbd8775b720cd01135f98445c181be6336",
+        "rel_source": "adult_specific_block_popup.txt",
+        "session_id": "920db5ea076f5ccb2b1d7691",
+        "source": "adult_specific_block_popup.txt",
+        "subject": "adult_specific_block_popup.txt",
+        "subject_type": "domain",
+        "type": "file"
+    },
+    {
+        "checker_type": "AVAILABILITY",
+        "destination": "adult_specific_block_popup.txt",
+        "hash": "04f168cf0b586848627f9f0395b0d8db0a4a9b5130ae9c19c7a87b17",
+        "line_number": 20,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/adult_specific_block_popup.txt",
+        "previous_hash": "04f168cf0b586848627f9f0395b0d8db0a4a9b5130ae9c19c7a87b17",
+        "session_id": "920db5ea076f5ccb2b1d7691",
+        "source": "https:/raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_specific_block_popup.txt",
+        "subject": "adult_specific_block_popup.txt",
+        "subject_type": "domain",
+        "type": "file"
+    }
+]

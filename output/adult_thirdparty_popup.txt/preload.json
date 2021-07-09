@@ -1,15 +1,30 @@
-{
-    "abs_source": "/home/runner/work/EasyList/EasyList/adult_thirdparty_popup.txt",
-    "checker_type": "AVAILABILITY",
-    "destination": "adult_thirdparty_popup.txt",
-    "hash": "8450324f3529a7115548f7d330ba22aa58a49680ed624783541258dd",
-    "line_number": 92,
-    "output_dir": "/home/runner/work/EasyList/EasyList/output/adult_thirdparty_popup.txt",
-    "previous_hash": "8450324f3529a7115548f7d330ba22aa58a49680ed624783541258dd",
-    "rel_source": "adult_thirdparty_popup.txt",
-    "session_id": "4311d2d8a742a7989dc7670c",
-    "source": "adult_thirdparty_popup.txt",
-    "subject": "adult_thirdparty_popup.txt",
-    "subject_type": "domain",
-    "type": "file"
-}
+[
+    {
+        "abs_source": "/home/runner/work/EasyList/EasyList/adult_thirdparty_popup.txt",
+        "checker_type": "AVAILABILITY",
+        "destination": "adult_thirdparty_popup.txt",
+        "hash": "8450324f3529a7115548f7d330ba22aa58a49680ed624783541258dd",
+        "line_number": 92,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/adult_thirdparty_popup.txt",
+        "previous_hash": "8450324f3529a7115548f7d330ba22aa58a49680ed624783541258dd",
+        "rel_source": "adult_thirdparty_popup.txt",
+        "session_id": "4311d2d8a742a7989dc7670c",
+        "source": "adult_thirdparty_popup.txt",
+        "subject": "adult_thirdparty_popup.txt",
+        "subject_type": "domain",
+        "type": "file"
+    },
+    {
+        "checker_type": "AVAILABILITY",
+        "destination": "adult_thirdparty_popup.txt",
+        "hash": "777a83673332693373e29f7f4ffa6a244dfe4c8563ca6299608ef3a8",
+        "line_number": 25,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/adult_thirdparty_popup.txt",
+        "previous_hash": "777a83673332693373e29f7f4ffa6a244dfe4c8563ca6299608ef3a8",
+        "session_id": "4311d2d8a742a7989dc7670c",
+        "source": "https:/raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_thirdparty_popup.txt",
+        "subject": "adult_thirdparty_popup.txt",
+        "subject_type": "domain",
+        "type": "file"
+    }
+]

@@ -1,15 +1,30 @@
-{
-    "abs_source": "/home/runner/work/EasyList/EasyList/adult_adservers.txt",
-    "checker_type": "AVAILABILITY",
-    "destination": "adult_adservers.txt",
-    "hash": "912f0f5b3cc0da930b68f388c5a29eb8b725fb91c199dd16785d9161",
-    "line_number": 717,
-    "output_dir": "/home/runner/work/EasyList/EasyList/output/adult_adservers.txt",
-    "previous_hash": "912f0f5b3cc0da930b68f388c5a29eb8b725fb91c199dd16785d9161",
-    "rel_source": "adult_adservers.txt",
-    "session_id": "0b80b2e4612602893fe9adf2",
-    "source": "adult_adservers.txt",
-    "subject": "adult_adservers.txt",
-    "subject_type": "domain",
-    "type": "file"
-}
+[
+    {
+        "abs_source": "/home/runner/work/EasyList/EasyList/adult_adservers.txt",
+        "checker_type": "AVAILABILITY",
+        "destination": "adult_adservers.txt",
+        "hash": "912f0f5b3cc0da930b68f388c5a29eb8b725fb91c199dd16785d9161",
+        "line_number": 717,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/adult_adservers.txt",
+        "previous_hash": "912f0f5b3cc0da930b68f388c5a29eb8b725fb91c199dd16785d9161",
+        "rel_source": "adult_adservers.txt",
+        "session_id": "0b80b2e4612602893fe9adf2",
+        "source": "adult_adservers.txt",
+        "subject": "adult_adservers.txt",
+        "subject_type": "domain",
+        "type": "file"
+    },
+    {
+        "checker_type": "AVAILABILITY",
+        "destination": "adult_adservers.txt",
+        "hash": "91b5af3ea9593c6dcae6ef2dfe1e786eaa8d7140b3b4641d57df84a8",
+        "line_number": 710,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/adult_adservers.txt",
+        "previous_hash": "91b5af3ea9593c6dcae6ef2dfe1e786eaa8d7140b3b4641d57df84a8",
+        "session_id": "0b80b2e4612602893fe9adf2",
+        "source": "https:/raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_adservers.txt",
+        "subject": "adult_adservers.txt",
+        "subject_type": "domain",
+        "type": "file"
+    }
+]

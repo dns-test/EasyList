@@ -1,15 +1,30 @@
-{
-    "abs_source": "/home/runner/work/EasyList/EasyList/fanboy_annoyance_specific_block.txt",
-    "checker_type": "AVAILABILITY",
-    "destination": "fanboy_annoyance_specific_block.txt",
-    "hash": "29fa86ca163bf67f45a726acdedc8d0b829a14d1131d8c1d449cd230",
-    "line_number": 164,
-    "output_dir": "/home/runner/work/EasyList/EasyList/output/fanboy_annoyance_specific_block.txt",
-    "previous_hash": "29fa86ca163bf67f45a726acdedc8d0b829a14d1131d8c1d449cd230",
-    "rel_source": "fanboy_annoyance_specific_block.txt",
-    "session_id": "289f538639483ee12baf3747",
-    "source": "fanboy_annoyance_specific_block.txt",
-    "subject": "fanboy_annoyance_specific_block.txt",
-    "subject_type": "domain",
-    "type": "file"
-}
+[
+    {
+        "abs_source": "/home/runner/work/EasyList/EasyList/fanboy_annoyance_specific_block.txt",
+        "checker_type": "AVAILABILITY",
+        "destination": "fanboy_annoyance_specific_block.txt",
+        "hash": "29fa86ca163bf67f45a726acdedc8d0b829a14d1131d8c1d449cd230",
+        "line_number": 164,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/fanboy_annoyance_specific_block.txt",
+        "previous_hash": "29fa86ca163bf67f45a726acdedc8d0b829a14d1131d8c1d449cd230",
+        "rel_source": "fanboy_annoyance_specific_block.txt",
+        "session_id": "289f538639483ee12baf3747",
+        "source": "fanboy_annoyance_specific_block.txt",
+        "subject": "fanboy_annoyance_specific_block.txt",
+        "subject_type": "domain",
+        "type": "file"
+    },
+    {
+        "checker_type": "AVAILABILITY",
+        "destination": "fanboy_annoyance_specific_block.txt",
+        "hash": "9566733916dda79fdaf80a7fa993e17a20030044f29137475a1b4e38",
+        "line_number": 167,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/fanboy_annoyance_specific_block.txt",
+        "previous_hash": "9566733916dda79fdaf80a7fa993e17a20030044f29137475a1b4e38",
+        "session_id": "289f538639483ee12baf3747",
+        "source": "https:/raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_annoyance_specific_block.txt",
+        "subject": "fanboy_annoyance_specific_block.txt",
+        "subject_type": "domain",
+        "type": "file"
+    }
+]

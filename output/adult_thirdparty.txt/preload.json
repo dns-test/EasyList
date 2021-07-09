@@ -1,15 +1,30 @@
-{
-    "abs_source": "/home/runner/work/EasyList/EasyList/adult_thirdparty.txt",
-    "checker_type": "AVAILABILITY",
-    "destination": "adult_thirdparty.txt",
-    "hash": "d245e6bcdcc230b4477ca33ccfc6d8f35c0001ea7d87861a416ee6d6",
-    "line_number": 252,
-    "output_dir": "/home/runner/work/EasyList/EasyList/output/adult_thirdparty.txt",
-    "previous_hash": "d245e6bcdcc230b4477ca33ccfc6d8f35c0001ea7d87861a416ee6d6",
-    "rel_source": "adult_thirdparty.txt",
-    "session_id": "311f58ecd35f0fc7a09dff50",
-    "source": "adult_thirdparty.txt",
-    "subject": "adult_thirdparty.txt",
-    "subject_type": "domain",
-    "type": "file"
-}
+[
+    {
+        "abs_source": "/home/runner/work/EasyList/EasyList/adult_thirdparty.txt",
+        "checker_type": "AVAILABILITY",
+        "destination": "adult_thirdparty.txt",
+        "hash": "d245e6bcdcc230b4477ca33ccfc6d8f35c0001ea7d87861a416ee6d6",
+        "line_number": 252,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/adult_thirdparty.txt",
+        "previous_hash": "d245e6bcdcc230b4477ca33ccfc6d8f35c0001ea7d87861a416ee6d6",
+        "rel_source": "adult_thirdparty.txt",
+        "session_id": "311f58ecd35f0fc7a09dff50",
+        "source": "adult_thirdparty.txt",
+        "subject": "adult_thirdparty.txt",
+        "subject_type": "domain",
+        "type": "file"
+    },
+    {
+        "checker_type": "AVAILABILITY",
+        "destination": "adult_thirdparty.txt",
+        "hash": "fb9f8dc57b3f3aa2377d4121fae4824cd847f57ccf6bff21502a1ca4",
+        "line_number": 256,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/adult_thirdparty.txt",
+        "previous_hash": "fb9f8dc57b3f3aa2377d4121fae4824cd847f57ccf6bff21502a1ca4",
+        "session_id": "311f58ecd35f0fc7a09dff50",
+        "source": "https:/raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_thirdparty.txt",
+        "subject": "adult_thirdparty.txt",
+        "subject_type": "domain",
+        "type": "file"
+    }
+]

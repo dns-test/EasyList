@@ -1,15 +1,30 @@
-{
-    "abs_source": "/home/runner/work/EasyList/EasyList/easyprivacy_general.txt",
-    "checker_type": "AVAILABILITY",
-    "destination": "easyprivacy_general.txt",
-    "hash": "75fb9e568ad03bc362d508ce48ea56f0d495dbdcb6818b78d5b8bf4d",
-    "line_number": 5841,
-    "output_dir": "/home/runner/work/EasyList/EasyList/output/easyprivacy_general.txt",
-    "previous_hash": "75fb9e568ad03bc362d508ce48ea56f0d495dbdcb6818b78d5b8bf4d",
-    "rel_source": "easyprivacy_general.txt",
-    "session_id": "79a1bf2181c0b9d636195690",
-    "source": "easyprivacy_general.txt",
-    "subject": "easyprivacy_general.txt",
-    "subject_type": "domain",
-    "type": "file"
-}
+[
+    {
+        "abs_source": "/home/runner/work/EasyList/EasyList/easyprivacy_general.txt",
+        "checker_type": "AVAILABILITY",
+        "destination": "easyprivacy_general.txt",
+        "hash": "75fb9e568ad03bc362d508ce48ea56f0d495dbdcb6818b78d5b8bf4d",
+        "line_number": 5841,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/easyprivacy_general.txt",
+        "previous_hash": "75fb9e568ad03bc362d508ce48ea56f0d495dbdcb6818b78d5b8bf4d",
+        "rel_source": "easyprivacy_general.txt",
+        "session_id": "79a1bf2181c0b9d636195690",
+        "source": "easyprivacy_general.txt",
+        "subject": "easyprivacy_general.txt",
+        "subject_type": "domain",
+        "type": "file"
+    },
+    {
+        "checker_type": "AVAILABILITY",
+        "destination": "easyprivacy_general.txt",
+        "hash": "eaea975f6da40e291a58207e0ec4f61d8d2fc387fe3a1a6ad90a7a23",
+        "line_number": 5884,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/easyprivacy_general.txt",
+        "previous_hash": "eaea975f6da40e291a58207e0ec4f61d8d2fc387fe3a1a6ad90a7a23",
+        "session_id": "79a1bf2181c0b9d636195690",
+        "source": "https:/raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_general.txt",
+        "subject": "easyprivacy_general.txt",
+        "subject_type": "domain",
+        "type": "file"
+    }
+]

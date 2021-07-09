@@ -1,15 +1,30 @@
-{
-    "abs_source": "/home/runner/work/EasyList/EasyList/easyprivacy_thirdparty_international.txt",
-    "checker_type": "AVAILABILITY",
-    "destination": "easyprivacy_thirdparty_international.txt",
-    "hash": "90c91a01b29f7c2586c59a5e838ad2c19961cbe703d57a8ddc306fe2",
-    "line_number": 819,
-    "output_dir": "/home/runner/work/EasyList/EasyList/output/easyprivacy_thirdparty_international.txt",
-    "previous_hash": "90c91a01b29f7c2586c59a5e838ad2c19961cbe703d57a8ddc306fe2",
-    "rel_source": "easyprivacy_thirdparty_international.txt",
-    "session_id": "fd98b6cd0a532c26ba70bd0e",
-    "source": "easyprivacy_thirdparty_international.txt",
-    "subject": "easyprivacy_thirdparty_international.txt",
-    "subject_type": "domain",
-    "type": "file"
-}
+[
+    {
+        "abs_source": "/home/runner/work/EasyList/EasyList/easyprivacy_thirdparty_international.txt",
+        "checker_type": "AVAILABILITY",
+        "destination": "easyprivacy_thirdparty_international.txt",
+        "hash": "90c91a01b29f7c2586c59a5e838ad2c19961cbe703d57a8ddc306fe2",
+        "line_number": 819,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/easyprivacy_thirdparty_international.txt",
+        "previous_hash": "90c91a01b29f7c2586c59a5e838ad2c19961cbe703d57a8ddc306fe2",
+        "rel_source": "easyprivacy_thirdparty_international.txt",
+        "session_id": "fd98b6cd0a532c26ba70bd0e",
+        "source": "easyprivacy_thirdparty_international.txt",
+        "subject": "easyprivacy_thirdparty_international.txt",
+        "subject_type": "domain",
+        "type": "file"
+    },
+    {
+        "checker_type": "AVAILABILITY",
+        "destination": "easyprivacy_thirdparty_international.txt",
+        "hash": "bb053a38f38dd39a1c033720843772e8ff01fbba8e86a632f0b00803",
+        "line_number": 825,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/easyprivacy_thirdparty_international.txt",
+        "previous_hash": "bb053a38f38dd39a1c033720843772e8ff01fbba8e86a632f0b00803",
+        "session_id": "fd98b6cd0a532c26ba70bd0e",
+        "source": "https:/raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty_international.txt",
+        "subject": "easyprivacy_thirdparty_international.txt",
+        "subject_type": "domain",
+        "type": "file"
+    }
+]

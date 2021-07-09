@@ -1,15 +1,30 @@
-{
-    "abs_source": "/home/runner/work/EasyList/EasyList/adult_allowlist_popup.txt",
-    "checker_type": "AVAILABILITY",
-    "destination": "adult_allowlist_popup.txt",
-    "hash": "89c50a18d1203715e9c2fa2427ba48a099dc45697cd2e20ec91454f4",
-    "line_number": 22,
-    "output_dir": "/home/runner/work/EasyList/EasyList/output/adult_allowlist_popup.txt",
-    "previous_hash": "89c50a18d1203715e9c2fa2427ba48a099dc45697cd2e20ec91454f4",
-    "rel_source": "adult_allowlist_popup.txt",
-    "session_id": "f2a52c4b0b74ca7c6dd3d9c3",
-    "source": "adult_allowlist_popup.txt",
-    "subject": "adult_allowlist_popup.txt",
-    "subject_type": "domain",
-    "type": "file"
-}
+[
+    {
+        "abs_source": "/home/runner/work/EasyList/EasyList/adult_allowlist_popup.txt",
+        "checker_type": "AVAILABILITY",
+        "destination": "adult_allowlist_popup.txt",
+        "hash": "89c50a18d1203715e9c2fa2427ba48a099dc45697cd2e20ec91454f4",
+        "line_number": 22,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/adult_allowlist_popup.txt",
+        "previous_hash": "89c50a18d1203715e9c2fa2427ba48a099dc45697cd2e20ec91454f4",
+        "rel_source": "adult_allowlist_popup.txt",
+        "session_id": "f2a52c4b0b74ca7c6dd3d9c3",
+        "source": "adult_allowlist_popup.txt",
+        "subject": "adult_allowlist_popup.txt",
+        "subject_type": "domain",
+        "type": "file"
+    },
+    {
+        "checker_type": "AVAILABILITY",
+        "destination": "adult_allowlist_popup.txt",
+        "hash": "c7966368444833b8b2918fe5a4cff7486fa710f67e5106d8045b77c9",
+        "line_number": 10,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/adult_allowlist_popup.txt",
+        "previous_hash": "c7966368444833b8b2918fe5a4cff7486fa710f67e5106d8045b77c9",
+        "session_id": "f2a52c4b0b74ca7c6dd3d9c3",
+        "source": "https:/raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_allowlist_popup.txt",
+        "subject": "adult_allowlist_popup.txt",
+        "subject_type": "domain",
+        "type": "file"
+    }
+]

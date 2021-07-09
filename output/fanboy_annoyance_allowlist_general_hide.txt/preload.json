@@ -1,15 +1,30 @@
-{
-    "abs_source": "/home/runner/work/EasyList/EasyList/fanboy_annoyance_allowlist_general_hide.txt",
-    "checker_type": "AVAILABILITY",
-    "destination": "fanboy_annoyance_allowlist_general_hide.txt",
-    "hash": "7b306a0934046a0d68981971e23d193dcc1ab62beb2ca4fe7ae716fb",
-    "line_number": 101,
-    "output_dir": "/home/runner/work/EasyList/EasyList/output/fanboy_annoyance_allowlist_general_hide.txt",
-    "previous_hash": "7b306a0934046a0d68981971e23d193dcc1ab62beb2ca4fe7ae716fb",
-    "rel_source": "fanboy_annoyance_allowlist_general_hide.txt",
-    "session_id": "c866af89d133109168fad664",
-    "source": "fanboy_annoyance_allowlist_general_hide.txt",
-    "subject": "fanboy_annoyance_allowlist_general_hide.txt",
-    "subject_type": "domain",
-    "type": "file"
-}
+[
+    {
+        "abs_source": "/home/runner/work/EasyList/EasyList/fanboy_annoyance_allowlist_general_hide.txt",
+        "checker_type": "AVAILABILITY",
+        "destination": "fanboy_annoyance_allowlist_general_hide.txt",
+        "hash": "7b306a0934046a0d68981971e23d193dcc1ab62beb2ca4fe7ae716fb",
+        "line_number": 101,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/fanboy_annoyance_allowlist_general_hide.txt",
+        "previous_hash": "7b306a0934046a0d68981971e23d193dcc1ab62beb2ca4fe7ae716fb",
+        "rel_source": "fanboy_annoyance_allowlist_general_hide.txt",
+        "session_id": "c866af89d133109168fad664",
+        "source": "fanboy_annoyance_allowlist_general_hide.txt",
+        "subject": "fanboy_annoyance_allowlist_general_hide.txt",
+        "subject_type": "domain",
+        "type": "file"
+    },
+    {
+        "checker_type": "AVAILABILITY",
+        "destination": "fanboy_annoyance_allowlist_general_hide.txt",
+        "hash": "d3815550b726a8aa788fe0a72cf653daafec124eef4a70c1836febb4",
+        "line_number": 102,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/fanboy_annoyance_allowlist_general_hide.txt",
+        "previous_hash": "d3815550b726a8aa788fe0a72cf653daafec124eef4a70c1836febb4",
+        "session_id": "c866af89d133109168fad664",
+        "source": "https:/raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_annoyance_allowlist_general_hide.txt",
+        "subject": "fanboy_annoyance_allowlist_general_hide.txt",
+        "subject_type": "domain",
+        "type": "file"
+    }
+]

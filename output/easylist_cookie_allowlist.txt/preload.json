@@ -1,15 +1,30 @@
-{
-    "abs_source": "/home/runner/work/EasyList/EasyList/easylist_cookie_allowlist.txt",
-    "checker_type": "AVAILABILITY",
-    "destination": "easylist_cookie_allowlist.txt",
-    "hash": "14dce9c48d3ce352905c316945f9500cc9d45256c165532be0407f4c",
-    "line_number": 205,
-    "output_dir": "/home/runner/work/EasyList/EasyList/output/easylist_cookie_allowlist.txt",
-    "previous_hash": "14dce9c48d3ce352905c316945f9500cc9d45256c165532be0407f4c",
-    "rel_source": "easylist_cookie_allowlist.txt",
-    "session_id": "7ba95c3779a8b8ae28b0179c",
-    "source": "easylist_cookie_allowlist.txt",
-    "subject": "easylist_cookie_allowlist.txt",
-    "subject_type": "domain",
-    "type": "file"
-}
+[
+    {
+        "abs_source": "/home/runner/work/EasyList/EasyList/easylist_cookie_allowlist.txt",
+        "checker_type": "AVAILABILITY",
+        "destination": "easylist_cookie_allowlist.txt",
+        "hash": "14dce9c48d3ce352905c316945f9500cc9d45256c165532be0407f4c",
+        "line_number": 205,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/easylist_cookie_allowlist.txt",
+        "previous_hash": "14dce9c48d3ce352905c316945f9500cc9d45256c165532be0407f4c",
+        "rel_source": "easylist_cookie_allowlist.txt",
+        "session_id": "7ba95c3779a8b8ae28b0179c",
+        "source": "easylist_cookie_allowlist.txt",
+        "subject": "easylist_cookie_allowlist.txt",
+        "subject_type": "domain",
+        "type": "file"
+    },
+    {
+        "checker_type": "AVAILABILITY",
+        "destination": "easylist_cookie_allowlist.txt",
+        "hash": "51fe24d1bb3346ba897f2aa5158661c1aa5e0ffaa3dab1fdf145ae40",
+        "line_number": 212,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/easylist_cookie_allowlist.txt",
+        "previous_hash": "51fe24d1bb3346ba897f2aa5158661c1aa5e0ffaa3dab1fdf145ae40",
+        "session_id": "7ba95c3779a8b8ae28b0179c",
+        "source": "https:/raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_allowlist.txt",
+        "subject": "easylist_cookie_allowlist.txt",
+        "subject_type": "domain",
+        "type": "file"
+    }
+]

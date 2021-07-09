@@ -200,6 +200,7 @@
 ||easydmp.net/etag.
 ||easydmp.net/get_delivery_data.
 ||email-reflex.com^$third-party
+||events.newsroom.bi^
 ||events.sk.ht^
 ||free.fr/services/compteur_page.php?
 ||i-services.net^*/compteur.php?
@@ -224,7 +225,6 @@
 ||static-od.com/setup/$third-party
 ||stats-dc1.frz.io^
 ||stats-factory.digitregroup.io^
-||stats.buzzea.com^
 ||stats.ipmgroup.be^
 ||stats.tipser.com^
 ||t.ofsys.com^
@@ -236,7 +236,6 @@
 ||track.byzon.swelen.net^$third-party
 ||track.kyoads.com^
 ||track.laredoute.fr^$image
-||trackcustomer.laredoute.com^$image
 ||tracking.ecookie.fr^
 ||tracking.kdata.fr^
 ||tracking.netvigie.com^
@@ -395,6 +394,7 @@
 ! Dutch
 ||adult-trade.nl/lo/track.php
 ||analytics.belgacom.be^
+||apm.tnet.nl^
 ||bbvms.com/zone/js/zonestats.js
 ||cookies.reedbusiness.nl^
 ||hottraffic.nl^$third-party
@@ -422,7 +422,6 @@
 ||videostat.index.hu^
 ! Icelandic
 ! Indian
-||analytics.bhaskar.com^
 ||indiatimes.com/pixel?
 ! Indonesian
 ||mediaquark.com/tracker.js
@@ -431,6 +430,7 @@
 ||analytics.competitoor.com^
 ||analytics00.meride.tv^
 ||aruba.it/servlet/counterserver?
+||audit.shaa.it^
 ||click.kataweb.it^
 ||counter.ksm.it^
 ||counter2.condenast.it^
@@ -453,6 +453,7 @@
 ||iol.it^*/clickserver.js
 ||italiaonline.it/script/ga.
 ||italiaonline.it/script/iol-body.js
+||limone.iltrovatore.it^
 ||livestats.matrix.it^
 ||log.superweb.ws^
 ||logger.kataweb.it^
@@ -582,11 +583,14 @@
 ! Korean
 ||cafe24.com/cfa.js
 ||cafe24.com/weblog.js
+||cm-exchange.toast.com^
 ||log.cizion.com^
 ||log.targetpush.co.kr^
 ||mtag.mman.kr^
+||ngc1.nsm-corp.com^
 ||performanceplay.co.kr^
 ||recobell.io/rest/logs?
+||sas.nsm-corp.com^
 ||teralog.techhub.co.kr^
 ||tracking.adweb.co.kr^$third-party
 ! Latvian
@@ -679,6 +683,7 @@
 ||counter.tovarro.com^
 ||counter.wapstart.ru^
 ||crm-analytics.imweb.ru^
+||d.wi-fi.ru^
 ||dbex-tracker-v2.driveback.ru^
 ||dp.ru/counter.gif?
 ||emoment.net/cnt/
@@ -740,6 +745,7 @@
 ||stats.embedcdn.cc^
 ||stats.seedr.com^
 ||stats.tazeros.com^
+||stats2.videonow.ru^
 ||subscribe.ru/1.gif/$image
 ||target.mirtesen.ru^
 ||target.smi2.net^
@@ -747,6 +753,7 @@
 ||tbe.tom.ru^
 ||telemetry.jivosite.com^
 ||tms-st.cdn.ngenix.net^
+||tms.dmp.wi-fi.ru^
 ||top.elec.ru^
 ||track.recreativ.ru^
 ||track.spacepush.ru^
@@ -784,7 +791,6 @@
 ||pixel.zumby.io^
 ||reachandrich.antevenio.com^
 ||s3wfg.com/js/vortexloader.js
-||stats.bitban.com^
 ||stats.miarroba.info^
 ||stats.qdq.com^
 ||stats.sec.telefonica.com^

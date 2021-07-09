@@ -1,15 +1,30 @@
-{
-    "abs_source": "/home/runner/work/EasyList/EasyList/easylist_thirdparty_popup.txt",
-    "checker_type": "AVAILABILITY",
-    "destination": "easylist_thirdparty_popup.txt",
-    "hash": "0cae41e575558163da47ea8bbf0a6b9b8bd28c4179c42eef959c01fd",
-    "line_number": 145,
-    "output_dir": "/home/runner/work/EasyList/EasyList/output/easylist_thirdparty_popup.txt",
-    "previous_hash": "0cae41e575558163da47ea8bbf0a6b9b8bd28c4179c42eef959c01fd",
-    "rel_source": "easylist_thirdparty_popup.txt",
-    "session_id": "f70fb44d42c28a21c92c5fba",
-    "source": "easylist_thirdparty_popup.txt",
-    "subject": "easylist_thirdparty_popup.txt",
-    "subject_type": "domain",
-    "type": "file"
-}
+[
+    {
+        "abs_source": "/home/runner/work/EasyList/EasyList/easylist_thirdparty_popup.txt",
+        "checker_type": "AVAILABILITY",
+        "destination": "easylist_thirdparty_popup.txt",
+        "hash": "0cae41e575558163da47ea8bbf0a6b9b8bd28c4179c42eef959c01fd",
+        "line_number": 145,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/easylist_thirdparty_popup.txt",
+        "previous_hash": "0cae41e575558163da47ea8bbf0a6b9b8bd28c4179c42eef959c01fd",
+        "rel_source": "easylist_thirdparty_popup.txt",
+        "session_id": "f70fb44d42c28a21c92c5fba",
+        "source": "easylist_thirdparty_popup.txt",
+        "subject": "easylist_thirdparty_popup.txt",
+        "subject_type": "domain",
+        "type": "file"
+    },
+    {
+        "checker_type": "AVAILABILITY",
+        "destination": "easylist_thirdparty_popup.txt",
+        "hash": "c2e190dcc1ee4072e1462d7f33d107a1f0638cc0107406154eed0411",
+        "line_number": 52,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/easylist_thirdparty_popup.txt",
+        "previous_hash": "c2e190dcc1ee4072e1462d7f33d107a1f0638cc0107406154eed0411",
+        "session_id": "f70fb44d42c28a21c92c5fba",
+        "source": "https:/raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty_popup.txt",
+        "subject": "easylist_thirdparty_popup.txt",
+        "subject_type": "domain",
+        "type": "file"
+    }
+]
