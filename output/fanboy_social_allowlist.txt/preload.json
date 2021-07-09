@@ -1,15 +1,30 @@
-{
-    "abs_source": "/home/runner/work/EasyList/EasyList/fanboy_social_allowlist.txt",
-    "checker_type": "AVAILABILITY",
-    "destination": "fanboy_social_allowlist.txt",
-    "hash": "eb84543707b2e943ace18c26cbe8072703d717df02f8b86477b06f79",
-    "line_number": 733,
-    "output_dir": "/home/runner/work/EasyList/EasyList/output/fanboy_social_allowlist.txt",
-    "previous_hash": "eb84543707b2e943ace18c26cbe8072703d717df02f8b86477b06f79",
-    "rel_source": "fanboy_social_allowlist.txt",
-    "session_id": "2933121ac17d329f633ed671",
-    "source": "fanboy_social_allowlist.txt",
-    "subject": "fanboy_social_allowlist.txt",
-    "subject_type": "domain",
-    "type": "file"
-}
+[
+    {
+        "abs_source": "/home/runner/work/EasyList/EasyList/fanboy_social_allowlist.txt",
+        "checker_type": "AVAILABILITY",
+        "destination": "fanboy_social_allowlist.txt",
+        "hash": "eb84543707b2e943ace18c26cbe8072703d717df02f8b86477b06f79",
+        "line_number": 733,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/fanboy_social_allowlist.txt",
+        "previous_hash": "eb84543707b2e943ace18c26cbe8072703d717df02f8b86477b06f79",
+        "rel_source": "fanboy_social_allowlist.txt",
+        "session_id": "2933121ac17d329f633ed671",
+        "source": "fanboy_social_allowlist.txt",
+        "subject": "fanboy_social_allowlist.txt",
+        "subject_type": "domain",
+        "type": "file"
+    },
+    {
+        "checker_type": "AVAILABILITY",
+        "destination": "fanboy_social_allowlist.txt",
+        "hash": "652190783a80bb5d5a0143e1285b219bea3b8b626d9a91c6b567c545",
+        "line_number": 736,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/fanboy_social_allowlist.txt",
+        "previous_hash": "652190783a80bb5d5a0143e1285b219bea3b8b626d9a91c6b567c545",
+        "session_id": "2933121ac17d329f633ed671",
+        "source": "https:/raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_allowlist.txt",
+        "subject": "fanboy_social_allowlist.txt",
+        "subject_type": "domain",
+        "type": "file"
+    }
+]

@@ -1,15 +1,30 @@
-{
-    "abs_source": "/home/runner/work/EasyList/EasyList/fanboy_social_international.txt",
-    "checker_type": "AVAILABILITY",
-    "destination": "fanboy_social_international.txt",
-    "hash": "6d09c13de2c1db49b654d578250b0f340a58d993491b7c999551aef4",
-    "line_number": 920,
-    "output_dir": "/home/runner/work/EasyList/EasyList/output/fanboy_social_international.txt",
-    "previous_hash": "6d09c13de2c1db49b654d578250b0f340a58d993491b7c999551aef4",
-    "rel_source": "fanboy_social_international.txt",
-    "session_id": "d7d5a3266ebc05b666c2d570",
-    "source": "fanboy_social_international.txt",
-    "subject": "fanboy_social_international.txt",
-    "subject_type": "domain",
-    "type": "file"
-}
+[
+    {
+        "abs_source": "/home/runner/work/EasyList/EasyList/fanboy_social_international.txt",
+        "checker_type": "AVAILABILITY",
+        "destination": "fanboy_social_international.txt",
+        "hash": "6d09c13de2c1db49b654d578250b0f340a58d993491b7c999551aef4",
+        "line_number": 920,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/fanboy_social_international.txt",
+        "previous_hash": "6d09c13de2c1db49b654d578250b0f340a58d993491b7c999551aef4",
+        "rel_source": "fanboy_social_international.txt",
+        "session_id": "d7d5a3266ebc05b666c2d570",
+        "source": "fanboy_social_international.txt",
+        "subject": "fanboy_social_international.txt",
+        "subject_type": "domain",
+        "type": "file"
+    },
+    {
+        "checker_type": "AVAILABILITY",
+        "destination": "fanboy_social_international.txt",
+        "hash": "25f6a760de884125f4ecec4391207963ec03a90eea580abb5f3fc774",
+        "line_number": 931,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/fanboy_social_international.txt",
+        "previous_hash": "25f6a760de884125f4ecec4391207963ec03a90eea580abb5f3fc774",
+        "session_id": "d7d5a3266ebc05b666c2d570",
+        "source": "https:/raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_international.txt",
+        "subject": "fanboy_social_international.txt",
+        "subject_type": "domain",
+        "type": "file"
+    }
+]

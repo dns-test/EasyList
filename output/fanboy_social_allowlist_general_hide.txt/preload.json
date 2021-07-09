@@ -1,15 +1,30 @@
-{
-    "abs_source": "/home/runner/work/EasyList/EasyList/fanboy_social_allowlist_general_hide.txt",
-    "checker_type": "AVAILABILITY",
-    "destination": "fanboy_social_allowlist_general_hide.txt",
-    "hash": "5a8acc104228c645930fe200947cf5cce9648acaaff111f2bd39b84a",
-    "line_number": 547,
-    "output_dir": "/home/runner/work/EasyList/EasyList/output/fanboy_social_allowlist_general_hide.txt",
-    "previous_hash": "5a8acc104228c645930fe200947cf5cce9648acaaff111f2bd39b84a",
-    "rel_source": "fanboy_social_allowlist_general_hide.txt",
-    "session_id": "aa30372da83830eb7d64e9f4",
-    "source": "fanboy_social_allowlist_general_hide.txt",
-    "subject": "fanboy_social_allowlist_general_hide.txt",
-    "subject_type": "domain",
-    "type": "file"
-}
+[
+    {
+        "abs_source": "/home/runner/work/EasyList/EasyList/fanboy_social_allowlist_general_hide.txt",
+        "checker_type": "AVAILABILITY",
+        "destination": "fanboy_social_allowlist_general_hide.txt",
+        "hash": "5a8acc104228c645930fe200947cf5cce9648acaaff111f2bd39b84a",
+        "line_number": 547,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/fanboy_social_allowlist_general_hide.txt",
+        "previous_hash": "5a8acc104228c645930fe200947cf5cce9648acaaff111f2bd39b84a",
+        "rel_source": "fanboy_social_allowlist_general_hide.txt",
+        "session_id": "aa30372da83830eb7d64e9f4",
+        "source": "fanboy_social_allowlist_general_hide.txt",
+        "subject": "fanboy_social_allowlist_general_hide.txt",
+        "subject_type": "domain",
+        "type": "file"
+    },
+    {
+        "checker_type": "AVAILABILITY",
+        "destination": "fanboy_social_allowlist_general_hide.txt",
+        "hash": "8717e74a03a294d46a73e879d31f58f87928df7a4045ed7391a5845c",
+        "line_number": 547,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/fanboy_social_allowlist_general_hide.txt",
+        "previous_hash": "8717e74a03a294d46a73e879d31f58f87928df7a4045ed7391a5845c",
+        "session_id": "aa30372da83830eb7d64e9f4",
+        "source": "https:/raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_allowlist_general_hide.txt",
+        "subject": "fanboy_social_allowlist_general_hide.txt",
+        "subject_type": "domain",
+        "type": "file"
+    }
+]

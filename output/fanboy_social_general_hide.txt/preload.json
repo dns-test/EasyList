@@ -1,15 +1,30 @@
-{
-    "abs_source": "/home/runner/work/EasyList/EasyList/fanboy_social_general_hide.txt",
-    "checker_type": "AVAILABILITY",
-    "destination": "fanboy_social_general_hide.txt",
-    "hash": "bdc22339afdcc6488b0f5fecf3d962821ea15869327428ed4bcac3fa",
-    "line_number": 13410,
-    "output_dir": "/home/runner/work/EasyList/EasyList/output/fanboy_social_general_hide.txt",
-    "previous_hash": "bdc22339afdcc6488b0f5fecf3d962821ea15869327428ed4bcac3fa",
-    "rel_source": "fanboy_social_general_hide.txt",
-    "session_id": "8fd6a5fb31d9bb7a8e5c70fd",
-    "source": "fanboy_social_general_hide.txt",
-    "subject": "fanboy_social_general_hide.txt",
-    "subject_type": "domain",
-    "type": "file"
-}
+[
+    {
+        "abs_source": "/home/runner/work/EasyList/EasyList/fanboy_social_general_hide.txt",
+        "checker_type": "AVAILABILITY",
+        "destination": "fanboy_social_general_hide.txt",
+        "hash": "bdc22339afdcc6488b0f5fecf3d962821ea15869327428ed4bcac3fa",
+        "line_number": 13410,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/fanboy_social_general_hide.txt",
+        "previous_hash": "bdc22339afdcc6488b0f5fecf3d962821ea15869327428ed4bcac3fa",
+        "rel_source": "fanboy_social_general_hide.txt",
+        "session_id": "8fd6a5fb31d9bb7a8e5c70fd",
+        "source": "fanboy_social_general_hide.txt",
+        "subject": "fanboy_social_general_hide.txt",
+        "subject_type": "domain",
+        "type": "file"
+    },
+    {
+        "checker_type": "AVAILABILITY",
+        "destination": "fanboy_social_general_hide.txt",
+        "hash": "94afb0eb8d5576580c88a576f1af00d83fd9811eaf65e4a9ba482916",
+        "line_number": 13438,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/fanboy_social_general_hide.txt",
+        "previous_hash": "94afb0eb8d5576580c88a576f1af00d83fd9811eaf65e4a9ba482916",
+        "session_id": "8fd6a5fb31d9bb7a8e5c70fd",
+        "source": "https:/raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_general_hide.txt",
+        "subject": "fanboy_social_general_hide.txt",
+        "subject_type": "domain",
+        "type": "file"
+    }
+]

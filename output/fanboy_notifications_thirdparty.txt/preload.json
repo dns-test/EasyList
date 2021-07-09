@@ -1,15 +1,30 @@
-{
-    "abs_source": "/home/runner/work/EasyList/EasyList/fanboy_notifications_thirdparty.txt",
-    "checker_type": "AVAILABILITY",
-    "destination": "fanboy_notifications_thirdparty.txt",
-    "hash": "3820d805c806fee1695b22ebbdd90ad3f47be339c4c2ce600a57cc7f",
-    "line_number": 166,
-    "output_dir": "/home/runner/work/EasyList/EasyList/output/fanboy_notifications_thirdparty.txt",
-    "previous_hash": "3820d805c806fee1695b22ebbdd90ad3f47be339c4c2ce600a57cc7f",
-    "rel_source": "fanboy_notifications_thirdparty.txt",
-    "session_id": "8562f55d9a538581af7f797e",
-    "source": "fanboy_notifications_thirdparty.txt",
-    "subject": "fanboy_notifications_thirdparty.txt",
-    "subject_type": "domain",
-    "type": "file"
-}
+[
+    {
+        "abs_source": "/home/runner/work/EasyList/EasyList/fanboy_notifications_thirdparty.txt",
+        "checker_type": "AVAILABILITY",
+        "destination": "fanboy_notifications_thirdparty.txt",
+        "hash": "3820d805c806fee1695b22ebbdd90ad3f47be339c4c2ce600a57cc7f",
+        "line_number": 166,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/fanboy_notifications_thirdparty.txt",
+        "previous_hash": "3820d805c806fee1695b22ebbdd90ad3f47be339c4c2ce600a57cc7f",
+        "rel_source": "fanboy_notifications_thirdparty.txt",
+        "session_id": "8562f55d9a538581af7f797e",
+        "source": "fanboy_notifications_thirdparty.txt",
+        "subject": "fanboy_notifications_thirdparty.txt",
+        "subject_type": "domain",
+        "type": "file"
+    },
+    {
+        "checker_type": "AVAILABILITY",
+        "destination": "fanboy_notifications_thirdparty.txt",
+        "hash": "c954a8c9b8d645c7b131cbd683cc4802b58cb1a2954c596cc415aaa7",
+        "line_number": 166,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/fanboy_notifications_thirdparty.txt",
+        "previous_hash": "c954a8c9b8d645c7b131cbd683cc4802b58cb1a2954c596cc415aaa7",
+        "session_id": "8562f55d9a538581af7f797e",
+        "source": "https:/raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_notifications_thirdparty.txt",
+        "subject": "fanboy_notifications_thirdparty.txt",
+        "subject_type": "domain",
+        "type": "file"
+    }
+]

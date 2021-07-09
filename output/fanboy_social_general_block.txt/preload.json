@@ -1,15 +1,30 @@
-{
-    "abs_source": "/home/runner/work/EasyList/EasyList/fanboy_social_general_block.txt",
-    "checker_type": "AVAILABILITY",
-    "destination": "fanboy_social_general_block.txt",
-    "hash": "d61c95c7beb0adc9ba3a86e46a348a8303a44389bfb887323653397c",
-    "line_number": 2864,
-    "output_dir": "/home/runner/work/EasyList/EasyList/output/fanboy_social_general_block.txt",
-    "previous_hash": "d61c95c7beb0adc9ba3a86e46a348a8303a44389bfb887323653397c",
-    "rel_source": "fanboy_social_general_block.txt",
-    "session_id": "896b3bd0e5c33c2456f748a5",
-    "source": "fanboy_social_general_block.txt",
-    "subject": "fanboy_social_general_block.txt",
-    "subject_type": "domain",
-    "type": "file"
-}
+[
+    {
+        "abs_source": "/home/runner/work/EasyList/EasyList/fanboy_social_general_block.txt",
+        "checker_type": "AVAILABILITY",
+        "destination": "fanboy_social_general_block.txt",
+        "hash": "d61c95c7beb0adc9ba3a86e46a348a8303a44389bfb887323653397c",
+        "line_number": 2864,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/fanboy_social_general_block.txt",
+        "previous_hash": "d61c95c7beb0adc9ba3a86e46a348a8303a44389bfb887323653397c",
+        "rel_source": "fanboy_social_general_block.txt",
+        "session_id": "896b3bd0e5c33c2456f748a5",
+        "source": "fanboy_social_general_block.txt",
+        "subject": "fanboy_social_general_block.txt",
+        "subject_type": "domain",
+        "type": "file"
+    },
+    {
+        "checker_type": "AVAILABILITY",
+        "destination": "fanboy_social_general_block.txt",
+        "hash": "61f8c702f4bf736646fea8ddba637a5e3496407afc971bb2d01b1afc",
+        "line_number": 2865,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/fanboy_social_general_block.txt",
+        "previous_hash": "61f8c702f4bf736646fea8ddba637a5e3496407afc971bb2d01b1afc",
+        "session_id": "896b3bd0e5c33c2456f748a5",
+        "source": "https:/raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_general_block.txt",
+        "subject": "fanboy_social_general_block.txt",
+        "subject_type": "domain",
+        "type": "file"
+    }
+]

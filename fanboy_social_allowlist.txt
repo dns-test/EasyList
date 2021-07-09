@@ -67,7 +67,7 @@
 @@||androidpolice.com/wp-content/themes/ap2/ap_resize/ap_resize.php?*_Twitter-$image
 @@||angvremya.ru/engine/classes/min/index.php?*/js/social-$stylesheet
 @@||animeworld.tv/dist/frontend/vendor/jssocials/jssocials.min.js
-@@||apis.google.com/js/platform.js$domain=9gag.com|animeworld.tv|arbolabc.com|artstation.com|corrupt-a-file.net|coursehero.com|crello.com|discogs.com|dubox.com|duolingo.com|etoro.com|expensify.com|febbit.com|gazeta.uz|id.logi.com|jakdojade.pl|kroger.com|moshi.com|oasgames.com|olx.pl|olx.ro|passeidireto.com|porticoindia.com|prntscr.com|sato.fi|typewriter.at
+@@||apis.google.com/js/platform.js$domain=9gag.com|animeworld.tv|arbolabc.com|artstation.com|corrupt-a-file.net|coursehero.com|crello.com|discogs.com|dubox.com|duolingo.com|etoro.com|expensify.com|febbit.com|gazeta.uz|id.logi.com|jakdojade.pl|kroger.com|moshi.com|noez.de|oasgames.com|olx.pl|olx.ro|passeidireto.com|porticoindia.com|prntscr.com|sato.fi|typewriter.at
 @@||app.degoo.com/assets/icons/$~third-party
 @@||app.hrlab.de/assets/icons/$image,domain=app.hrlab.de
 @@||apple.com/kb/resources/images/i_facebook.png
@@ -387,6 +387,7 @@
 @@||meetmecdna.com/images/Connect/btn_facebook_custom_text.png$domain=meetme.com
 @@||megapolisonline.ru/wp-content/plugins/easy-vkontakte-connect/js/social-likes.min.js
 @@||megaup.net^$generichide
+@@||meltyblood.typelumina.com/resources/img/common/$image,~third-party
 @@||mera.eu/wp-content/themes/mera/app/common/lib/$xmlhttprequest
 @@||metservice.com/_/files/social/content-stream.html
 @@||mhfreq.org/wp-content/uploads/*/tweet.png?
@@ -470,6 +471,7 @@
 @@||playsaurus.com^*/ui/icons/$image,~third-party
 @@||plus.im/static/img/facebook.png
 @@||plus.im/static/img/facebook_over.png
+@@||pocketnet.app/components/share/$~third-party,xmlhttprequest
 @@||podaj.to/images/$image,~third-party
 @@||podaj.to/thumbs/$image,~third-party
 @@||podcasts.joerogan.net^*/sharetools.js
@@ -524,6 +526,7 @@
 @@||s7.addthis.com^*/addthis_widget.js*async=$domain=koeln.de|moneytalksnews.com
 @@||shopify.com^*/instafeed.min.js$script,domain=waisttrainer.co.nz
 @@||staticwars.com/combo/_/wp-content/themes/$script
+@@||storage.onlainporno1.online^*/images/share/$image,~third-party
 @@||tldrify.com/static/*/sharebox.$script,stylesheet,~third-party
 @@||tldrify.com^$generichide
 @@||yap.ru/html/static/share/$image,~third-party

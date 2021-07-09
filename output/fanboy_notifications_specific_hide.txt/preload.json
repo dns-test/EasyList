@@ -1,15 +1,30 @@
-{
-    "abs_source": "/home/runner/work/EasyList/EasyList/fanboy_notifications_specific_hide.txt",
-    "checker_type": "AVAILABILITY",
-    "destination": "fanboy_notifications_specific_hide.txt",
-    "hash": "4602cd49bd3d3ab0a25293111f269848aafaddbb2d76dac0861e4944",
-    "line_number": 56,
-    "output_dir": "/home/runner/work/EasyList/EasyList/output/fanboy_notifications_specific_hide.txt",
-    "previous_hash": "4602cd49bd3d3ab0a25293111f269848aafaddbb2d76dac0861e4944",
-    "rel_source": "fanboy_notifications_specific_hide.txt",
-    "session_id": "44cee7253ba5ba2d4ae6998a",
-    "source": "fanboy_notifications_specific_hide.txt",
-    "subject": "fanboy_notifications_specific_hide.txt",
-    "subject_type": "domain",
-    "type": "file"
-}
+[
+    {
+        "abs_source": "/home/runner/work/EasyList/EasyList/fanboy_notifications_specific_hide.txt",
+        "checker_type": "AVAILABILITY",
+        "destination": "fanboy_notifications_specific_hide.txt",
+        "hash": "4602cd49bd3d3ab0a25293111f269848aafaddbb2d76dac0861e4944",
+        "line_number": 56,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/fanboy_notifications_specific_hide.txt",
+        "previous_hash": "4602cd49bd3d3ab0a25293111f269848aafaddbb2d76dac0861e4944",
+        "rel_source": "fanboy_notifications_specific_hide.txt",
+        "session_id": "44cee7253ba5ba2d4ae6998a",
+        "source": "fanboy_notifications_specific_hide.txt",
+        "subject": "fanboy_notifications_specific_hide.txt",
+        "subject_type": "domain",
+        "type": "file"
+    },
+    {
+        "checker_type": "AVAILABILITY",
+        "destination": "fanboy_notifications_specific_hide.txt",
+        "hash": "1b9f5945749d5971367cfa9ec1b0eb9f748e9f26e70182a0d01d94de",
+        "line_number": 60,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/fanboy_notifications_specific_hide.txt",
+        "previous_hash": "1b9f5945749d5971367cfa9ec1b0eb9f748e9f26e70182a0d01d94de",
+        "session_id": "44cee7253ba5ba2d4ae6998a",
+        "source": "https:/raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_notifications_specific_hide.txt",
+        "subject": "fanboy_notifications_specific_hide.txt",
+        "subject_type": "domain",
+        "type": "file"
+    }
+]

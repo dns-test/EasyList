@@ -70,6 +70,7 @@
 ##.PushNotification-popover-dialog
 ##.b-notification-push
 ##.bk-wonderpush
+##.branded-app-shortcode-inarticle
 ##.bs-push-noti
 ##.bubble-push
 ##.c-push-notification
@@ -100,6 +101,7 @@
 ##.notBar
 ##.notf-overlay
 ##.notify-optin-wrap
+##.ns-notification-popup
 ##.ntfc_overlay
 ##.ntfc_popup
 ##.oi-notify
@@ -153,6 +155,8 @@
 ##.smartbanner-android
 ##.smartbanner-container
 ##.smartbanner-desktop
+##.smartbnr-android
+##.smartbnr-ios
 ##.z-bit-smartbanner
 ##a[href^="http://www.mobi24.net/"]
 ##a[href^="https://www.mobi24.net/"]

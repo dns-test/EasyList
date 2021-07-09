@@ -1,15 +1,30 @@
-{
-    "abs_source": "/home/runner/work/EasyList/EasyList/fanboy_notifications_allowlist.txt",
-    "checker_type": "AVAILABILITY",
-    "destination": "fanboy_notifications_allowlist.txt",
-    "hash": "f645aec1b4190f93678ac6cc9fa1bdb54e1075b6de0638e06ef7e2c4",
-    "line_number": 4,
-    "output_dir": "/home/runner/work/EasyList/EasyList/output/fanboy_notifications_allowlist.txt",
-    "previous_hash": "f645aec1b4190f93678ac6cc9fa1bdb54e1075b6de0638e06ef7e2c4",
-    "rel_source": "fanboy_notifications_allowlist.txt",
-    "session_id": "a3519af5665acca943f0e687",
-    "source": "fanboy_notifications_allowlist.txt",
-    "subject": "fanboy_notifications_allowlist.txt",
-    "subject_type": "domain",
-    "type": "file"
-}
+[
+    {
+        "abs_source": "/home/runner/work/EasyList/EasyList/fanboy_notifications_allowlist.txt",
+        "checker_type": "AVAILABILITY",
+        "destination": "fanboy_notifications_allowlist.txt",
+        "hash": "f645aec1b4190f93678ac6cc9fa1bdb54e1075b6de0638e06ef7e2c4",
+        "line_number": 4,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/fanboy_notifications_allowlist.txt",
+        "previous_hash": "f645aec1b4190f93678ac6cc9fa1bdb54e1075b6de0638e06ef7e2c4",
+        "rel_source": "fanboy_notifications_allowlist.txt",
+        "session_id": "a3519af5665acca943f0e687",
+        "source": "fanboy_notifications_allowlist.txt",
+        "subject": "fanboy_notifications_allowlist.txt",
+        "subject_type": "domain",
+        "type": "file"
+    },
+    {
+        "checker_type": "AVAILABILITY",
+        "destination": "fanboy_notifications_allowlist.txt",
+        "hash": "b76afb59be5a987749be7576c9be9e3029d17843717a551f4bc1791e",
+        "line_number": 5,
+        "output_dir": "/home/runner/work/EasyList/EasyList/output/fanboy_notifications_allowlist.txt",
+        "previous_hash": "b76afb59be5a987749be7576c9be9e3029d17843717a551f4bc1791e",
+        "session_id": "a3519af5665acca943f0e687",
+        "source": "https:/raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_notifications_allowlist.txt",
+        "subject": "fanboy_notifications_allowlist.txt",
+        "subject_type": "domain",
+        "type": "file"
+    }
+]
