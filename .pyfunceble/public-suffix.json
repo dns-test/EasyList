@@ -7103,7 +7103,6 @@
         "edu.pl",
         "elblag.pl",
         "elk.pl",
-        "forumz.info",
         "gda.pl",
         "gdansk.pl",
         "gdynia.pl",
@@ -7319,6 +7318,7 @@
         "ac.pr",
         "biz.pr",
         "com.pr",
+        "edu.pr",
         "est.pr",
         "gov.pr",
         "info.pr",
@@ -7781,7 +7781,6 @@
     ],
     "sv": [
         "com.sv",
-        "edu.pr",
         "edu.sv",
         "gob.sv",
         "org.sv",
